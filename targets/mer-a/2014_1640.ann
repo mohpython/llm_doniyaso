@@ -1,0 +1,59 @@
+T1	Element 2067 2073	Copper
+T2	Property 2504 2508	rock
+T3	Property 2547 2551	dust
+T4	Property 2553 2557	soil
+T5	Property 2592 2597	rinds
+T6	Property 2601 2605	rock
+T7	Property 2736 2743	angular
+T8	Property 2744 2750	clasts
+T9	Property 2993 2997	dark
+T10	Property 2999 3006	angular
+T11	Property 3022 3028	clasts
+T12	Property 3058 3064	Clasts
+T13	Property 3438 3445	angular
+T14	Property 3567 3572	mafic
+T15	Property 3576 3587	composition
+T16	Property 3639 3647	basaltic
+T17	Target-MERB 3702 3713	Bounce Rock
+T18	Property 4054 4059	mafic
+T19	Property 4084 4091	igneous
+T20	Element 4165 4167	Cl
+T21	Element 4359 4363	iron
+T22	Property 4403 4410	igneous
+T23	Element 4493 4495	Fe
+T24	Element 4501 4503	Mn
+T25	Element 4541 4543	Mn
+T26	Element 4586 4588	Mn
+T27	Property 4658 4662	Dark
+T28	Element 4733 4735	Mn
+T29	Element 4787 4789	Fe
+T30	Element 4790 4792	Mn
+T31	Mineral 5394 5401	olivine
+T32	Property 5405 5410	mafic
+T33	Property 5507 5512	mafic
+T34	Element 5865 5871	Copper
+T35	Element 5959 5961	Zn
+T36	Element 6150 6152	Al
+T37	Element 6157 6159	Si
+T38	Target 3718 3726	Backstay
+T39	Target 3945 3955	Adirondack
+T40	Target 4958 4968	Adirondack
+T41	Target 5094 5104	Adirondack
+T42	Target 5528 5538	Adirondack
+T43	Target 6903 6913	Adirondack
+T44	Property 3686 3693	igneous
+R1	HasProperty Arg1:T38 Arg2:T44	
+T45	Property 3962 3969	basalts
+R3	HasProperty Arg1:T39 Arg2:T45	
+T46	Property 4975 4982	basalts
+R4	HasProperty Arg1:T40 Arg2:T46	
+T47	Mineral 4918 4926	diopside
+R5	Contains Arg1:T40 Arg2:T47	
+T48	Property 4939 4946	abraded
+R6	HasProperty Arg1:T40 Arg2:T48	
+T49	Mineral 5077 5085	diopside
+R7	Contains Arg1:T41 Arg2:T49	
+T50	Property 5111 5118	basalts
+R8	HasProperty Arg1:T41 Arg2:T50	
+T51	Property 5545 5552	basalts
+R2	HasProperty Arg1:T42 Arg2:T51	

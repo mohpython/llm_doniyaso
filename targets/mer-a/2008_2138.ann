@@ -1,0 +1,118 @@
+T1	Property 722 733	composition
+T2	Property 756 760	soil
+T3	Property 1122 1126	soil
+T4	Property 1443 1450	spectra
+T5	Property 1530 1536	bright
+T6	Property 1774 1778	soil
+T7	Property 1853 1857	soil
+T8	Property 1901 1908	spectra
+T9	Property 1924 1928	soil
+T10	Property 2237 2241	flat
+T11	Property 2443 2447	soil
+T12	Property 2763 2767	soil
+T13	Property 2837 2841	dust
+T14	Property 3473 3480	spectra
+T15	Property 3495 3499	flat
+T16	Property 3713 3719	bright
+T17	Property 3720 3724	soil
+T18	Property 3876 3880	sand
+T19	Property 4103 4109	knobby
+T20	Property 4229 4233	Dark
+T21	Property 4297 4302	bluer
+T22	Property 4404 4408	rock
+T23	Element 5061 5063	Si
+T24	Property 5117 5124	spectra
+T25	Element 5438 5440	Ti
+T26	Property 5708 5712	soil
+T27	Property 5724 5731	spectra
+T28	Mineral 5844 5851	sulfate
+T29	Property 5937 5944	spectra
+T30	Mineral 6173 6183	carnallite
+T31	Mineral 6199 6207	sulfates
+T32	Mineral 6213 6221	epsomite
+T33	Mineral 6237 6244	alunite
+T34	Mineral 6265 6273	zeolites
+T35	Mineral 6279 6288	scolecite
+T36	Property 6339 6346	spectra
+T37	Property 6473 6477	soil
+T38	Property 6508 6512	dust
+T39	Property 6537 6541	soil
+T40	Property 6619 6626	spectra
+T41	Property 6695 6698	ice
+T42	Property 6978 6985	spectra
+T43	Property 7227 7230	ice
+T44	Property 7341 7345	dust
+T45	Mineral 7505 7513	epsomite
+T46	Element 7578 7580	Mg
+T47	Element 7585 7586	S
+T48	Property 7603 7607	fine
+T49	Property 7607 7608	-
+T50	Property 7608 7615	grained
+T51	Property 7616 7621	water
+T52	Property 7622 7627	frost
+T53	Property 7735 7738	ice
+T54	Property 7739 7746	spectra
+T55	Target 770 784	Gertrude Weise
+T56	Target 1025 1040	Elizabeth Mahon
+T57	Target 1546 1560	Gertrude Weise
+T58	Target 1793 1799	Tyrone
+T59	Target 2008 2014	Tyrone
+T60	Target 2153 2159	Tyrone
+T61	Target 2405 2419	Gertrude Weise
+T62	Target 3377 3391	Gertrude Weise
+T63	Target 4645 4651	Tyrone
+T64	Target 6397 6411	Gertrude Weise
+T65	Target 6437 6443	Tyrone
+T66	Target 6458 6464	Tyrone
+T67	Target 6521 6527	Tyrone
+T68	Target 8376 8387	Paso Robles
+T69	Target 8389 8393	Arad
+T70	Target 8399 8405	Tyrone
+R0	HasProperty Arg1:T55 Arg2:T1
+R1	HasProperty Arg1:T55 Arg2:T2
+R3	HasProperty Arg1:T57 Arg2:T5
+R4	HasProperty Arg1:T58 Arg2:T6
+R5	HasProperty Arg1:T58 Arg2:T7
+R9	HasProperty Arg1:T64 Arg2:T36
+R17	HasProperty Arg1:T66 Arg2:T36
+R18	HasProperty Arg1:T66 Arg2:T37
+R21	HasProperty Arg1:T67 Arg2:T36
+R24	HasProperty Arg1:T67 Arg2:T39
+T71	Target 456 467	Inner Basin
+T72	Mineral 579 585	silica
+R25	Contains Arg1:T71 Arg2:T72	
+T73	Target 645 658	Silica Valley
+T74	Mineral 742 748	silica
+R26	Contains Arg1:T73 Arg2:T74	
+R27	Contains Arg1:T55 Arg2:T74	
+T75	Mineral 1014 1020	silica
+R28	Contains Arg1:T56 Arg2:T75	
+T76	Property 952 960	outcrops
+R2	HasProperty Arg1:T56 Arg2:T76	
+T77	Property 1537 1542	soils
+R29	HasProperty Arg1:T57 Arg2:T77	
+T78	Target 1594 1607	Silica Valley
+T79	Property 1577 1584	nodules
+R30	HasProperty Arg1:T78 Arg2:T79	
+T80	Element 1786 1787	S
+R31	Contains Arg1:T58 Arg2:T80	
+T81	Property 1800 1807	deposit
+R32	HasProperty Arg1:T58 Arg2:T81	
+T82	Element 2188 2190	Si
+R6	Contains Arg1:T60 Arg2:T82	
+T83	Target 4006 4020	Tyrone-nodules
+T84	Property 3991 3998	outcrop
+R7	HasProperty Arg1:T83 Arg2:T84	
+T85	Element 4061 4063	Si
+R8	Contains Arg1:T83 Arg2:T85	
+T86	Target 4432 4445	Hank's Hollow
+T87	Property 4495 4513	aqueous alteration
+R33	HasProperty Arg1:T86 Arg2:T87	
+T88	Property 8359 8364	soils
+R10	HasProperty Arg1:T68 Arg2:T88	
+R11	HasProperty Arg1:T69 Arg2:T88	
+R12	HasProperty Arg1:T70 Arg2:T88	
+T89	Property 8347 8358	high-albedo
+R13	HasProperty Arg1:T68 Arg2:T89	
+R14	HasProperty Arg1:T69 Arg2:T89	
+R15	HasProperty Arg1:T70 Arg2:T89	

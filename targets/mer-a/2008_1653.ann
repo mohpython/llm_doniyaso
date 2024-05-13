@@ -1,0 +1,238 @@
+T1	Property 10 21	COMPOSITION
+T2	Property 705 716	sedimentary
+T3	Property 780 784	Rock
+T4	Element 918 919	S
+T5	Property 996 1005	sediments
+T6	Element 1047 1048	S
+T7	Property 1180 1191	sedimentary
+T8	Element 1217 1219	Si
+T9	Element 1227 1228	S
+T10	Property 1246 1250	soil
+T11	Property 1267 1271	rock
+T12	Property 1336 1347	sedimentary
+T13	Element 1374 1375	S
+T14	Property 1396 1407	sedimentary
+T15	Property 1408 1412	rock
+T16	Element 1430 1431	S
+T17	Element 1524 1525	S
+T18	Property 1641 1652	sedimentary
+T19	Element 1767 1769	Si
+T20	Element 1774 1776	S.
+T21	Element 1789 1790	S
+T22	Element 1817 1819	Si
+T23	Property 1946 1955	sediments
+T24	Mineral 2054 2062	sulfates
+T25	Element 2170 2171	S
+T26	Element 2307 2308	S
+T27	Element 2325 2327	Na
+T28	Element 2329 2331	Al
+T29	Element 2333 2335	Si
+T30	Element 2337 2338	K
+T31	Element 2344 2346	Ti
+T32	Mineral 2408 2416	sulfates
+T33	Element 2461 2463	Al
+T34	Element 2468 2469	K
+T35	Element 2477 2478	S
+T36	Property 2531 2535	dust
+T37	Property 2572 2576	dust
+T38	Property 2687 2691	soil
+T39	Element 2717 2718	S
+T40	Property 2839 2843	rock
+T41	Property 2919 2923	soil
+T42	Element 3018 3027	Potassium
+T43	Element 3049 3051	Si
+T44	Property 3113 3124	composition
+T45	Property 3143 3147	soil
+T46	Element 3184 3185	S
+T47	Element 3199 3200	P
+T48	Element 3202 3204	Cr
+T49	Element 3210 3212	Fe
+T50	Element 3225 3235	Phosphorus
+T51	Property 3299 3303	soil
+T52	Element 3314 3316	Ca
+T53	Element 3343 3344	S
+T54	Element 3375 3376	P
+T55	Mineral 3398 3405	apatite
+T56	Element 3469 3470	S
+T57	Element 3492 3494	Fe
+T58	Element 3556 3557	S
+T59	Element 3609 3611	Fe
+T60	Element 3648 3650	Fe
+T61	Element 3686 3687	S
+T62	Mineral 3701 3709	sulfates
+T63	Mineral 3711 3719	Jarosite
+T64	Element 3872 3873	S
+T65	Element 3991 3992	K
+T66	Element 4001 4002	S
+T67	Property 4010 4014	Soil
+T68	Property 4023 4027	Soil
+T69	Property 4037 4041	Rock
+T70	Property 4050 4054	Rock
+T71	Property 4061 4065	Rock
+T72	Element 4131 4133	Al
+T73	Element 4145 4146	K
+T74	Element 4162 4163	S
+T75	Mineral 4331 4339	sulfates
+T76	Element 4386 4388	Si
+T77	Element 4396 4397	S
+T78	Property 4457 4468	sedimentary
+T79	Property 4469 4473	rock
+T80	Property 4671 4675	rock
+T81	Property 4722 4725	red
+T82	Element 4796 4798	Si
+T83	Element 4799 4801	Si
+T84	Element 4802 4804	Si
+T85	Element 4805 4807	Si
+T86	Element 4808 4810	Si
+T87	Element 4811 4813	Si
+T88	Element 4843 4845	Si
+T89	Element 4854 4855	S
+T90	Property 4863 4867	Soil
+T91	Property 4876 4880	Soil
+T92	Property 4890 4894	Rock
+T93	Property 4903 4907	Rock
+T94	Property 4914 4918	Rock
+T95	Element 4991 4992	S
+T96	Element 5029 5031	Mg
+T97	Element 5036 5038	Ca
+T98	Mineral 5113 5121	sulfates
+T99	Element 5269 5271	Mg
+T100	Element 5276 5277	S
+T101	Element 5411 5413	Mg
+T102	Element 5418 5420	Ca
+T103	Mineral 5421 5429	sulfates
+T104	Element 5510 5512	Mg
+T105	Element 5517 5519	Ca
+T106	Element 5528 5537	Manganese
+T107	Element 5545 5546	S
+T108	Property 5563 5567	flat
+T109	Element 5609 5611	Cl
+T110	Element 5613 5615	Ni
+T111	Element 5617 5619	Zn
+T112	Element 5625 5627	Br
+T113	Element 5635 5636	S
+T114	Element 5686 5688	Cl
+T115	Element 5693 5694	S
+T116	Element 5884 5885	S
+T117	Property 5930 5941	composition
+T118	Element 6047 6048	S
+T119	Element 6114 6115	S
+T120	Element 6203 6205	Cl
+T121	Property 6334 6338	rock
+T122	Property 6465 6476	composition
+T123	Element 6558 6564	Sulfur
+T124	Element 6569 6571	Cl
+T125	Element 6964 6966	Na
+T126	Element 6997 6999	Mg
+T127	Element 7030 7032	Al
+T128	Element 7063 7065	Si
+T129	Element 7096 7097	P
+T130	Element 7128 7129	S
+T131	Element 7159 7161	Cl
+T132	Element 7191 7192	K
+T133	Element 7223 7225	Ca
+T134	Element 7256 7258	Ti
+T135	Element 7289 7291	Cr
+T136	Element 7322 7324	Mn
+T137	Element 7355 7357	Fe
+T138	Property 7418 7429	composition
+T139	Element 7508 7509	S
+T140	Element 7514 7516	Cl
+T141	Property 7751 7760	sediments
+T142	Mineral 7839 7847	sulfates
+T143	Property 7925 7934	sediments
+T144	Property 8005 8013	basaltic
+T145	Mineral 8083 8091	sulfates
+T146	Element 8136 8138	Mg
+T147	Element 8143 8145	Ca
+T148	Property 8255 8266	composition
+T149	Property 8696 8705	sediments
+T150	Element 9195 9196	P
+T151	Element 9205 9206	S
+T152	Element 9289 9291	Fe
+T153	Element 9292 9294	Fe
+T154	Element 9295 9297	Fe
+T155	Element 9298 9300	Fe
+T156	Element 9301 9303	Fe
+T157	Element 9304 9306	Fe
+T158	Element 9332 9334	Fe
+T159	Element 9343 9344	S
+T160	Property 9352 9356	Soil
+T161	Property 9365 9369	Soil
+T162	Property 9379 9383	Rock
+T163	Property 9392 9396	Rock
+T164	Property 9403 9407	Rock
+T165	Element 9473 9474	P
+T166	Element 9486 9488	Fe
+T167	Element 9504 9505	S
+T168	Element 9688 9689	S
+T169	Element 9766 9768	Ca
+T170	Element 9769 9771	Ca
+T171	Element 9772 9774	Ca
+T172	Element 9775 9777	Ca
+T173	Element 9778 9780	Ca
+T174	Element 9781 9783	Ca
+T175	Element 9823 9824	S
+T176	Property 9832 9836	Soil
+T177	Property 9845 9849	Soil
+T178	Property 9859 9863	Rock
+T179	Property 9872 9876	Rock
+T180	Property 9883 9887	Rock
+T181	Element 9953 9955	Mg
+T182	Element 9967 9969	Ca
+T183	Element 9985 9986	S
+T184	Mineral 10132 10140	sulfates
+T185	Element 13342 13343	K
+T186	Mineral 23969 23978	koristite
+T187	Target 6700 6709	Riquelme3
+T188	Target 6722 6738	Madeline English
+T189	Target 6751 6761	Superpesis
+T190	Target 6858 6868	Home Plate
+T191	Target 6894 6903	Esperanza
+T192	Target 6904 6909	Palma
+T194	Target 6943 6955	Halley Brunt
+T197	Target 8020 8030	Adirondack
+T198	Target 8203 8213	Home Plate
+R13	Contains Arg1:T194 Arg2:T126
+R14	Contains Arg1:T194 Arg2:T127
+R15	Contains Arg1:T194 Arg2:T128
+R16	Contains Arg1:T194 Arg2:T129
+R17	Contains Arg1:T194 Arg2:T130
+R18	Contains Arg1:T194 Arg2:T131
+R19	Contains Arg1:T194 Arg2:T132
+R20	Contains Arg1:T194 Arg2:T133
+R21	Contains Arg1:T194 Arg2:T134
+R22	Contains Arg1:T194 Arg2:T135
+R23	Contains Arg1:T194 Arg2:T136
+R24	Contains Arg1:T194 Arg2:T137
+R25	Contains Arg1:T194 Arg2:T125
+R26	Contains Arg1:T193 Arg2:T126
+R27	Contains Arg1:T193 Arg2:T127
+R28	Contains Arg1:T193 Arg2:T128
+R29	Contains Arg1:T193 Arg2:T129
+R30	Contains Arg1:T193 Arg2:T130
+R31	Contains Arg1:T193 Arg2:T131
+R32	Contains Arg1:T193 Arg2:T132
+R33	Contains Arg1:T193 Arg2:T133
+R34	Contains Arg1:T193 Arg2:T134
+R35	Contains Arg1:T193 Arg2:T135
+R36	Contains Arg1:T193 Arg2:T136
+R37	Contains Arg1:T193 Arg2:T137
+R38	Contains Arg1:T193 Arg2:T125
+R39	Contains Arg1:T191 Arg2:T126
+R40	Contains Arg1:T191 Arg2:T127
+R41	Contains Arg1:T191 Arg2:T128
+R42	Contains Arg1:T191 Arg2:T129
+R43	Contains Arg1:T191 Arg2:T130
+R44	Contains Arg1:T191 Arg2:T131
+R45	Contains Arg1:T191 Arg2:T132
+R46	Contains Arg1:T191 Arg2:T133
+R47	Contains Arg1:T191 Arg2:T134
+R48	Contains Arg1:T191 Arg2:T135
+R49	Contains Arg1:T191 Arg2:T136
+R50	Contains Arg1:T191 Arg2:T137
+R51	Contains Arg1:T191 Arg2:T125
+T199	Target 6773 6787	Elizabeth Emer
+T200	Property 6841 6848	basalts
+R54	HasProperty Arg1:T190 Arg2:T200	
+T193	Target 6923 6929	Masada

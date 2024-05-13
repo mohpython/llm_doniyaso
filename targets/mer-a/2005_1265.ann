@@ -1,0 +1,33 @@
+T1	Property 924 931	spectra
+T2	Property 1538 1544	eolian
+T3	Property 2395 2402	spectra
+T4	Property 2576 2580	dust
+T5	Property 2641 2645	dust
+T6	Property 3948 3954	eolian
+T7	Property 4008 4016	cohesive
+T8	Property 4439 4443	soil
+T9	Property 4934 4938	silt
+T10	Property 4957 4961	sand
+T11	Property 5022 5031	duneforms
+T12	Property 5266 5270	fine
+T13	Property 5271 5275	sand
+T14	Property 5303 5307	sand
+T15	Property 5343 5352	duneforms
+T16	Property 5687 5691	dune
+T17	Property 5700 5704	sand
+T18	Property 5829 5835	impact
+T19	Property 5836 5842	crater
+T20	Property 6264 6268	dust
+T21	Property 6492 6496	sand
+T22	Property 6773 6777	sand
+T23	Property 6932 6941	duneforms
+T24	Property 7126 7130	fine
+T25	Property 7131 7135	sand
+T26	Property 7181 7189	sediment
+T27	Property 7199 7208	duneforms
+T28	Property 7561 7567	eolian
+T29	Property 7681 7685	soil
+T30	Property 7978 7982	dust
+T31	Property 8414 8418	dust
+T33	Target 4286 4303	Bonneville Crater
+T34	Target 7622 7639	Bonneville Crater

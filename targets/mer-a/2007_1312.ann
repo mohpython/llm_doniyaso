@@ -1,0 +1,132 @@
+T1	Element 46 47	P
+T2	Element 101 102	K
+T3	Property 562 569	igneous
+T4	Mineral 808 815	olivine
+T5	Mineral 816 825	tholeiite
+T6	Property 857 862	crust
+T7	Property 1161 1172	composition
+T8	Property 1195 1199	Rock
+T9	Property 1300 1311	composition
+T10	Property 1511 1522	composition
+T11	Property 1954 1958	rock
+T12	Mineral 2003 2011	graphite
+T13	Element 2078 2084	oxygen
+T14	Mineral 2141 2149	graphite
+T15	Property 2451 2462	composition
+T16	Mineral 2506 2513	olivine
+T17	Mineral 2515 2524	pigeonite
+T18	Mineral 2526 2537	plagioclase
+T19	Mineral 2600 2609	pigeonite
+T20	Property 2765 2776	composition
+T21	Mineral 3056 3065	Pigeonite
+T22	Mineral 3075 3086	Plagioclase
+T23	Property 3197 3208	composition
+T24	Property 3255 3258	Red
+T25	Element 3329 3331	Fe
+T26	Element 3360 3362	Ti
+T27	Element 3367 3368	P
+T28	Property 3420 3431	composition
+T29	Mineral 3510 3517	olivine
+T30	Mineral 3560 3567	Olivine
+T31	Mineral 3593 3602	Pigeonite
+T32	Mineral 3630 3637	Olivine
+T33	Mineral 3663 3672	Pigeonite
+T34	Mineral 3687 3698	Plagioclase
+T35	Mineral 3740 3747	Olivine
+T36	Mineral 3755 3761	Spinel
+T37	Mineral 3762 3771	Pigeonite
+T38	Mineral 3786 3797	Plagioclase
+T39	Element 4010 4012	Fe
+T40	Mineral 4161 4168	apatite
+T41	Mineral 4173 4181	ilmenite
+T42	Mineral 4436 4443	olivine
+T43	Mineral 4444 4453	tholeiite
+T44	Property 4585 4589	rock
+T45	Property 4693 4704	composition
+T46	Element 4988 4990	Pt
+T47	Mineral 5081 5089	graphite
+T48	Property 5510 5521	composition
+T49	Mineral 5609 5616	olivine
+T50	Mineral 5681 5688	olivine
+T51	Mineral 5748 5759	titanaugite
+T52	Property 6043 6051	hawaiite
+T53	Property 6140 6143	red
+T54	Mineral 6244 6251	olivine
+T55	Mineral 6252 6261	tholeiite
+T56	Element 6404 6406	Fe
+T57	Element 6425 6426	K
+T58	Element 6492 6494	Ti
+T59	Property 6829 6840	composition
+T60	Mineral 6850 6857	olivine
+T61	Property 6980 6991	composition
+T62	Mineral 7025 7032	olivine
+T63	Mineral 7051 7062	titanaugite
+T64	Mineral 7080 7088	chromite
+T65	Target 706 714	Humphrey
+T66	Target 719 728	Wishstone
+T67	Target 1200 1209	Wishstone
+T68	Target 1291 1299	Humphrey
+T69	Target 1458 1466	Humphrey
+T70	Target 1501 1510	Wishstone
+T71	Target 1606 1615	Wishstone
+T72	Target 1715 1723	Humphrey
+T73	Target 2442 2450	Humphrey
+T74	Target 2755 2764	Wishstone
+T75	Target 2928 2936	Humphrey
+T76	Target 3188 3196	Humphrey
+T77	Target 3226 3235	Wishstone
+T78	Target 3303 3311	Humphrey
+T79	Target 3314 3323	Wishstone
+T80	Target 3380 3388	Humphrey
+T81	Target 3405 3414	Wishstone
+T82	Target 3465 3473	Humphrey
+T83	Target 4130 4139	Wishstone
+T84	Target 4330 4338	Humphrey
+T85	Target 4355 4364	Wishstone
+T86	Target 4394 4402	Humphrey
+T87	Target 4407 4415	Backstay
+T88	Target 4590 4598	Backstay
+T89	Target 4684 4692	Humphrey
+T90	Target 4718 4726	Backstay
+T91	Target 5177 5185	Backstay
+T92	Target 5480 5488	Backstay
+T93	Target 5530 5538	Backstay
+T94	Target 5803 5811	Backstay
+T95	Target 6127 6135	Backstay
+T96	Target 6583 6591	Humphrey
+T97	Target 6593 6601	Backstay
+T98	Target 6647 6655	Backstay
+T99	Target 6774 6782	Humphrey
+T100	Target 6820 6828	Backstay
+T101	Target 6966 6974	Humphrey
+T102	Target 7098 7106	Backstay
+R4	Contains Arg1:T73 Arg2:T16
+R5	Contains Arg1:T73 Arg2:T17
+R6	Contains Arg1:T73 Arg2:T18
+R7	Contains Arg1:T73 Arg2:T19
+R9	Contains Arg1:T79 Arg2:T26
+R10	Contains Arg1:T79 Arg2:T27
+R11	Contains Arg1:T80 Arg2:T25
+R15	Contains Arg1:T81 Arg2:T26
+R16	Contains Arg1:T81 Arg2:T27
+R55	Contains Arg1:T99 Arg2:T60
+R57	Contains Arg1:T101 Arg2:T62
+R58	Contains Arg1:T101 Arg2:T63
+R59	Contains Arg1:T101 Arg2:T64
+R67	HasProperty Arg1:T67 Arg2:T7
+R68	HasProperty Arg1:T67 Arg2:T8
+R72	HasProperty Arg1:T73 Arg2:T15
+R74	HasProperty Arg1:T76 Arg2:T23
+R77	HasProperty Arg1:T80 Arg2:T28
+R78	HasProperty Arg1:T81 Arg2:T28
+R79	HasProperty Arg1:T88 Arg2:T44
+R82	HasProperty Arg1:T92 Arg2:T48
+R89	HasProperty Arg1:T101 Arg2:T61
+T103	Mineral 2543 2549	spinel
+R1	Contains Arg1:T73 Arg2:T103	
+T104	Property 5497 5506	hawaiitic
+R2	HasProperty Arg1:T92 Arg2:T104	
+T105	Mineral 6859 6865	spinel
+T106	Mineral 6870 6881	titanaugite
+R3	Contains Arg1:T99 Arg2:T105	
+R8	Contains Arg1:T99 Arg2:T106	

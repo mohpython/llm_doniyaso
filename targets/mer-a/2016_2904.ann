@@ -1,0 +1,29 @@
+T1	Property 1571 1579	basaltic
+T2	Property 1601 1607	ridged
+T3	Property 1931 1942	sedimentary
+T4	Property 3388 3392	dune
+T5	Property 3629 3635	impact
+T6	Property 3636 3642	crater
+T7	Property 5025 5028	ice
+T8	Target 3378 3387	El Dorado
+T9	Target 3847 3857	Home Plate
+T10	Target 4105 4115	Home Plate
+T11	Target 4882 4892	Home Plate
+T12	Target 5128 5138	East Basin
+T13	Target 5214 5224	Home Plate
+T14	Target 5313 5323	Home Plate
+T15	Target 6984 6994	Home Plate
+R0	HasProperty Arg1:T8 Arg2:T4
+T16	Target 3109 3121	Husband Hill
+T17	Property 3061 3070	Landslide
+R2	HasProperty Arg1:T16 Arg2:T17	
+T18	Property 3788 3797	Landslide
+T19	Property 4898 4905	deposit
+T20	Property 4920 4933	hydrovolcanic
+R3	HasProperty Arg1:T11 Arg2:T19	
+R4	HasProperty Arg1:T11 Arg2:T20	
+T21	Target 5094 5105	Inner Basin
+T22	Target 6952 6964	Husband Hill
+T23	Property 6965 6974	landslide
+R1	HasProperty Arg1:T22 Arg2:T23	
+T24	Target 6999 7014	von Braun butte

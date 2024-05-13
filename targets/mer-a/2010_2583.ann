@@ -1,0 +1,26 @@
+T1	Property 1778 1781	ice
+T2	Property 2800 2805	crack
+T3	Property 2928 2933	crack
+T4	Property 3775 3778	Ice
+T5	Property 3797 3800	ice
+T6	Property 3912 3915	ice
+T7	Property 4213 4216	ice
+T8	Property 4254 4257	Ice
+T9	Property 4507 4510	ice
+T10	Element 4643 4644	F
+T11	Property 5006 5009	ice
+T12	Property 5302 5305	ice
+T13	Property 5517 5521	rock
+T14	Property 5559 5563	rock
+T15	Property 5862 5865	ice
+T16	Element 6067 6068	K
+T17	Property 6144 6147	ice
+T18	Property 6214 6217	ice
+T19	Property 6675 6678	ice
+T20	Property 6908 6913	crust
+T21	Property 7222 7225	ice
+T22	Target 703 713	Home Plate
+T23	Property 583 609	hydrothermal salt deposits
+T24	Property 614 630	mineral hydrates
+R1	HasProperty Arg1:T22 Arg2:T23	
+R2	HasProperty Arg1:T22 Arg2:T24	

@@ -1,0 +1,61 @@
+T1	Property 625 636	sedimentary
+T2	Property 1061 1067	eolian
+T3	Property 1540 1544	Rock
+T4	Property 1993 1997	dark
+T5	Property 1999 2003	fine
+T6	Property 2017 2023	pitted
+T7	Property 2060 2066	flutes
+T8	Property 2071 2078	grooves
+T9	Property 2099 2103	sand
+T10	Property 2152 2156	dust
+T11	Property 2202 2207	rinds
+T12	Property 2337 2341	pits
+T13	Property 2345 2353	vesicles
+T14	Mineral 2384 2391	olivine
+T15	Property 2412 2416	soil
+T16	Property 2436 2440	soil
+T17	Property 2548 2554	smooth
+T18	Property 2555 2559	soil
+T19	Property 2708 2714	eolian
+T20	Property 2842 2848	eolian
+T21	Property 3000 3006	eolian
+T22	Property 3055 3060	fines
+T23	Property 3156 3161	fines
+T24	Property 3308 3316	basaltic
+T25	Property 3317 3322	fines
+T26	Property 3385 3389	dust
+T27	Property 3415 3423	sediment
+T28	Property 3739 3743	rock
+T29	Property 3799 3803	rock
+T30	Property 3952 3957	sharp
+T31	Property 4099 4105	eolian
+T32	Property 4176 4184	boulders
+T33	Property 4416 4422	Eolian
+T34	Property 4474 4479	fines
+T35	Property 4484 4488	sand
+T36	Property 4501 4505	fine
+T37	Property 4542 4548	eolian
+T38	Property 4705 4711	poorly
+T39	Property 4712 4718	sorted
+T40	Property 4782 4786	fine
+T41	Property 4787 4791	sand
+T42	Property 4831 4835	sand
+T43	Property 4911 4918	rounded
+T44	Property 4958 4962	sand
+T45	Property 5047 5051	dust
+T46	Property 5093 5097	sand
+T47	Property 5179 5183	soil
+T48	Property 5225 5228	lag
+T49	Property 5485 5489	soil
+T50	Property 5529 5533	rock
+T51	Property 5642 5646	soil
+T52	Property 5861 5865	Rock
+T53	Property 6297 6302	fines
+T54	Property 6691 6696	fines
+T55	Property 7594 7599	sharp
+T56	Element 8202 8203	H
+T57	Target 3563 3580	Bonneville Crater
+T58	Property 3662 3671	thin fill
+R1	HasProperty Arg1:T57 Arg2:T58	
+T59	Property 3708 3721	blocky debris
+R2	HasProperty Arg1:T57 Arg2:T59	

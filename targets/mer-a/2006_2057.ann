@@ -1,0 +1,68 @@
+T1	Property 572 577	bands
+T2	Property 649 653	rock
+T3	Property 741 748	spectra
+T4	Property 840 844	rock
+T5	Property 870 877	spectra
+T6	Property 1029 1033	rock
+T7	Property 1300 1304	rock
+T8	Property 3044 3049	bound
+T9	Property 3050 3055	water
+T10	Property 4075 4079	dust
+T11	Mineral 4332 4339	olivine
+T12	Property 5084 5091	spectra
+T13	Property 5183 5190	spectra
+T14	Target 1184 1193	Wishstone
+T15	Target 2614 2624	Watchtower
+T16	Target 2752 2758	Clovis
+T17	Target 2931 2940	Assemblee
+T18	Target 3008 3013	Peace
+T19	Target 3152 3158	Clovis
+T20	Target 3160 3164	Tetl
+T21	Target 3166 3172	Uchben
+T22	Target 3184 3190	Clovis
+T23	Target 3191 3196	Peace
+T24	Target 3198 3207	Alligator
+T25	Target 3238 3243	Peace
+T26	Target 3244 3254	Methuselah
+T27	Target 3283 3299	Cumberland Ridge
+T28	Target 3300 3310	Watchtower
+T29	Target 3311 3323	Independence
+T30	Target 3326 3335	Assemblee
+T31	Target 3336 3352	Cumberland Ridge
+T32	Target 3353 3362	Assemblee
+T33	Target 3363 3370	Hillary
+T34	Target 3394 3401	Hillary
+T35	Target 3402 3408	Kansas
+T36	Target 3424 3430	Kansas
+T37	Target 3475 3484	Algonquin
+T38	Target 3522 3531	Algonquin
+T39	Target 3532 3540	Comanche
+T40	Target 3562 3570	Comanche
+T41	Target 3579 3589	Watchtower
+T42	Target 3607 3617	Methuselah
+T43	Target 3794 3808	Jibsheet ridge
+T44	Target 3981 3991	Methuselah
+T45	Target 4180 4190	Watchtower
+T46	Target 5046 5056	Watchtower
+T47	Target 5172 5182	Methuselah
+R1	HasProperty Arg1:T18 Arg2:T9
+R2	HasProperty Arg1:T47 Arg2:T13
+T48	Target 3486 3491	Miami
+T49	Target 3492 3500	Seminole
+T50	Target 3256 3265	Jibbsheet
+T51	Target 1504 1516	Husband Hill
+T52	Target 2741 2750	West Spur
+T53	Target 2799 2811	Husband Hill
+T54	Target 3174 3183	West Spur
+T55	Target 3225 3237	Husband Hill
+T56	Target 3267 3282	Larry's Lookout
+T57	Target 3409 3423	Haskin's Ridge
+T58	Target 3431 3444	Larry's Bench
+T59	Target 3619 3628	Jibbsheet
+T60	Target 3634 3649	Larry's Lookout
+T61	Target 3774 3789	Larry's Lookout
+T62	Target 4292 4306	Haskin's ridge
+R3	Contains Arg1:T62 Arg2:T11	
+T63	Target 5238 5253	Larry's Lookout
+T64	Property 5313 5323	alteration
+R4	HasProperty Arg1:T63 Arg2:T64	

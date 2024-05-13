@@ -1,0 +1,130 @@
+T1	Property 572 576	soil
+T2	Element 585 591	sulfur
+T3	Property 673 677	soil
+T4	Element 739 741	Ca
+T6	Mineral 742 750	sulfates
+T7	Mineral 766 774	hematite
+T8	Mineral 776 782	halite
+T9	Mineral 784 793	allophane
+T10	Element 809 811	Si
+T11	Mineral 861 868	sulfate
+T12	Mineral 1123 1131	sulfates
+T13	Mineral 1246 1253	sulfate
+T14	Mineral 1280 1288	sulfates
+T15	Mineral 1591 1598	sulfate
+T16	Property 1631 1638	spectra
+T17	Property 1702 1708	bright
+T18	Property 1721 1725	soil
+T19	Property 1804 1811	Spectra
+T20	Property 1818 1822	soil
+T21	Property 1862 1866	dark
+T22	Property 1876 1882	bright
+T23	Property 1883 1887	soil
+T24	Mineral 1922 1929	sulfate
+T25	Property 2023 2030	spectra
+T26	Property 2044 2048	soil
+T27	Property 2101 2107	bright
+T28	Property 2108 2112	soil
+T29	Mineral 2196 2203	sulfate
+T30	Property 2204 2211	spectra
+T31	Mineral 2221 2228	sulfate
+T32	Property 2314 2321	spectra
+T33	Property 2553 2559	bright
+T34	Property 2560 2564	soil
+T35	Mineral 2600 2608	sulfates
+T36	Property 2703 2709	bright
+T37	Property 2710 2714	soil
+T38	Property 2752 2759	spectra
+T39	Property 2763 2769	bright
+T40	Property 2784 2788	soil
+T41	Property 2822 2826	dark
+T42	Property 2827 2831	soil
+T43	Property 2860 2867	spectra
+T44	Mineral 2887 2895	sulfates
+T45	Property 2902 2909	Spectra
+T46	Mineral 2985 2994	kieserite
+T47	Mineral 2996 3002	gypsum
+T48	Mineral 3022 3030	sulfates
+T49	Mineral 3148 3156	sulfates
+T50	Mineral 3194 3202	sulfates
+T51	Element 3279 3281	Fe
+T52	Property 3282 3287	bands
+T53	Element 3304 3307	Fe3
+T54	Mineral 3309 3316	sulfate
+T55	Property 3317 3324	spectra
+T56	Mineral 3377 3385	jarosite
+T57	Mineral 3399 3409	Amarantite
+T58	Mineral 3411 3420	copiapite
+T59	Mineral 3422 3436	ferricopiapite
+T60	Mineral 3442 3454	fibroferrite
+T61	Property 3476 3481	bands
+T62	Mineral 3513 3521	jarosite
+T63	Mineral 3526 3540	schwertmannite
+T64	Property 3546 3551	bands
+T65	Property 3592 3597	bands
+T66	Mineral 3646 3654	sulfates
+T67	Property 3749 3756	spectra
+T68	Property 3830 3837	spectra
+T69	Mineral 3846 3854	sulfates
+T70	Property 3861 3868	spectra
+T71	Element 3904 3907	Fe3
+T72	Property 3932 3939	Spectra
+T73	Property 3957 3964	spectra
+T74	Element 4214 4216	Fe
+T75	Property 4321 4328	Spectra
+T76	Mineral 4861 4870	magnetite
+T77	Mineral 5081 5089	bilinite
+T78	Mineral 5165 5173	sulfates
+T79	Mineral 5229 5237	pyroxene
+T80	Element 5322 5325	Fe3
+T81	Mineral 5327 5335	sulfates
+T82	Mineral 5359 5368	copiapite
+T83	Mineral 5370 5384	schwertmannite
+T84	Mineral 5429 5437	jarosite
+T85	Property 5463 5470	spectra
+T86	Property 5660 5671	composition
+T87	Mineral 5786 5794	sulfates
+T88	Target 639 650	Paso Robles
+T89	Target 1350 1361	Paso Robles
+T90	Target 1709 1720	Paso Robles
+T91	Target 1891 1902	Paso Robles
+T92	Target 2691 2702	Paso Robles
+T93	Target 3942 3953	Paso Robles
+T94	Target 4309 4320	Paso Robles
+R0	Contains Arg1:T88 Arg2:T2
+R2	Contains Arg1:T89 Arg2:T14
+R3	Contains Arg1:T91 Arg2:T24
+R6	HasProperty Arg1:T88 Arg2:T1
+R7	HasProperty Arg1:T90 Arg2:T17
+R8	HasProperty Arg1:T90 Arg2:T18
+R9	HasProperty Arg1:T91 Arg2:T19
+R12	HasProperty Arg1:T91 Arg2:T22
+R13	HasProperty Arg1:T91 Arg2:T23
+R14	HasProperty Arg1:T92 Arg2:T36
+R15	HasProperty Arg1:T92 Arg2:T37
+R16	HasProperty Arg1:T93 Arg2:T72
+R17	HasProperty Arg1:T93 Arg2:T73
+R18	HasProperty Arg1:T94 Arg2:T75
+T95	Element 604 614	phosphorus
+R19	Contains Arg1:T88 Arg2:T95	
+T96	Element 723 725	Fe
+T97	Element 730 732	Mg
+T5	Element 752 754	Ca
+T98	Mineral 755 764	phosphate
+R20	Contains Arg1:T88 Arg2:T96	
+R21	Contains Arg1:T88 Arg2:T97	
+R22	Contains Arg1:T88 Arg2:T4	
+R23	Contains Arg1:T88 Arg2:T6	
+R24	Contains Arg1:T88 Arg2:T5	
+R25	Contains Arg1:T88 Arg2:T98	
+R26	Contains Arg1:T88 Arg2:T7	
+R27	Contains Arg1:T88 Arg2:T8	
+R28	Contains Arg1:T88 Arg2:T9	
+R29	Contains Arg1:T88 Arg2:T10	
+R1	Contains Arg1:T93 Arg2:T74	
+R4	Contains Arg1:T94 Arg2:T76	
+T99	Target 117 128	PASO ROBLES
+T100	Property 129 134	SOILS
+R5	HasProperty Arg1:T99 Arg2:T100	
+T101	Property 110 116	BRIGHT
+R10	HasProperty Arg1:T99 Arg2:T101	

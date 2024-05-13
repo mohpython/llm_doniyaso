@@ -1,0 +1,67 @@
+T1	Element 395 403	hydrogen
+T2	Element 883 891	hydrogen
+T3	Element 1136 1138	Cl
+T4	Element 1328 1330	Cl
+T5	Element 1502 1504	Cl
+T6	Element 1703 1711	hydrogen
+T7	Element 2088 2096	hydrogen
+T8	Property 2768 2772	soil
+T9	Element 3552 3554	Cl
+T10	Element 3742 3744	Cl
+T11	Element 3908 3910	Cl
+T12	Element 3992 3994	Cl
+T13	Property 4017 4021	soil
+T14	Property 4477 4481	soil
+T15	Property 4596 4600	soil
+T16	Property 4721 4725	soil
+T17	Property 4792 4796	soil
+T18	Property 5005 5009	soil
+T19	Property 5139 5143	soil
+T20	Element 5468 5470	Cl
+T21	Element 5640 5642	Cl
+T22	Property 5676 5680	soil
+T23	Element 5727 5729	Cl
+T24	Element 5781 5782	H
+T25	Element 5794 5796	Cl
+T26	Element 5940 5942	Cl
+T27	Element 6021 6023	Cl
+T28	Property 6032 6043	composition
+T29	Property 6051 6055	soil
+T30	Element 6188 6190	Cl
+T31	Element 6340 6342	Cl
+T32	Element 6393 6394	H
+T33	Property 6643 6649	layers
+T34	Property 6755 6759	soil
+T35	Property 6760 6771	composition
+T36	Property 6790 6794	soil
+T37	Property 6795 6806	composition
+T38	Property 6960 6964	soil
+T39	Property 6965 6976	composition
+T40	Property 7045 7056	composition
+T41	Property 7162 7173	composition
+T42	Property 7267 7273	layers
+T43	Property 7438 7444	layers
+T44	Element 8215 8216	H
+T45	Target 4454 4465	Eileen Dean
+T46	Target 4584 4595	Eileen Dean
+T47	Target 4696 4710	Kenosha Comets
+T48	Target 4772 4786	Kenosha Comets
+T49	Target 5037 5048	Eileen Dean
+T50	Target 5252 5263	Eileen Dean
+T51	Target 5268 5282	Kenosha Comets
+T52	Target 6461 6472	Eileen Dean
+T53	Target 6482 6496	Kenosha Comets
+T54	Target 6653 6664	Eileen Dean
+T55	Target 6853 6864	Eileen Dean
+T56	Target 7030 7044	Kenosha Comets
+T57	Target 7347 7361	Kenosha Comets
+R0	HasProperty Arg1:T45 Arg2:T14
+R1	HasProperty Arg1:T46 Arg2:T15
+R4	HasProperty Arg1:T47 Arg2:T16
+R5	HasProperty Arg1:T48 Arg2:T17
+R21	HasProperty Arg1:T56 Arg2:T40
+T58	Element 4469 4471	Cl
+R23	Contains Arg1:T45 Arg2:T58	
+T59	Element 4714 4716	Si
+R2	Contains Arg1:T47 Arg2:T59	
+T60	Target 7180 7191	Elieen Dean

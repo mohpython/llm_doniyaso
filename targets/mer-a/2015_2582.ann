@@ -1,0 +1,128 @@
+T1	Mineral 600 615	phyllosilicates
+T2	Mineral 673 681	sulfates
+T3	Mineral 786 801	phyllosilicates
+T4	Mineral 806 814	sulfates
+T5	Property 2063 2071	basaltic
+T6	Property 2111 2119	basaltic
+T7	Element 2608 2610	Al
+T8	Element 2671 2673	Si
+T9	Element 2757 2759	Al
+T10	Mineral 3079 3087	goethite
+T11	Mineral 3089 3097	hematite
+T12	Element 3151 3153	Ca
+T14	Mineral 3154 3162	sulfates
+T15	Mineral 3175 3183	hematite
+T16	Element 3185 3187	Ca
+T18	Mineral 3188 3198	phosphates
+T19	Mineral 3233 3248	phyllosilicates
+T20	Mineral 3302 3310	hematite
+T21	Element 3419 3420	H
+T22	Element 3435 3436	H
+T23	Mineral 3469 3477	jarosite
+T24	Mineral 3479 3487	hematite
+T25	Mineral 3497 3499	Mg
+T26	Mineral 3499 3500	-
+T27	Mineral 3500 3508	sulfates
+T28	Mineral 3551 3566	phyllosilicates
+T29	Element 3641 3642	H
+T30	Element 3647 3648	H
+T31	Property 3665 3669	Soil
+T32	Property 3701 3712	perchlorate
+T33	Mineral 3814 3823	anhydrite
+T34	Mineral 3825 3833	hematite
+T35	Mineral 3858 3860	Fe
+T36	Mineral 3860 3861	-
+T37	Mineral 3861 3869	saponite
+T38	Mineral 3898 3907	magnetite
+T39	Mineral 3909 3918	anhydrite
+T40	Mineral 3920 3929	bassanite
+T41	Mineral 3931 3941	akaganeite
+T42	Mineral 3943 3951	hematite
+T43	Mineral 3953 3963	akaganeite
+T44	Mineral 3965 3975	pyrrhotite
+T45	Element 4061 4062	H
+T46	Element 4236 4237	H
+T47	Element 4367 4369	Si
+T48	Element 4375 4377	Ca
+T49	Element 4380 4382	Mg
+T50	Element 4435 4437	Al
+T51	Element 4625 4627	Si
+T52	Element 4771 4772	S
+T53	Mineral 4975 4983	jarosite
+T54	Property 5204 5208	soil
+T55	Property 5374 5382	basaltic
+T56	Property 5456 5464	basaltic
+T57	Property 5759 5766	igneous
+T58	Mineral 5784 5792	sulfides
+T59	Property 5826 5834	basaltic
+T60	Property 5873 5881	basaltic
+T61	Element 6020 6024	iron
+T62	Mineral 6178 6193	Phyllosilicates
+T63	Mineral 6313 6321	Smectite
+T64	Element 6419 6421	Si
+T65	Element 6426 6428	Mg
+T66	Mineral 6491 6499	smectite
+T67	Mineral 6533 6541	smectite
+T68	Mineral 6655 6663	smectite
+T69	Property 6747 6755	basaltic
+T70	Property 6994 7005	sedimentary
+T71	Mineral 7104 7112	smectite
+T72	Mineral 7716 7726	carbonates
+T73	Property 7784 7787	ice
+T74	Property 7811 7814	ice
+T75	Property 7864 7873	sediments
+T76	Property 7890 7893	ice
+T77	Property 7894 7900	layers
+T78	Mineral 8221 8236	phyllosilicates
+T79	Mineral 8345 8353	sulfates
+T80	Mineral 8462 8477	phyllosilicates
+T81	Mineral 8487 8495	sulfates
+T82	Mineral 8644 8659	phyllosilicates
+T83	Target 2614 2626	Independence
+T84	Target 2677 2688	Fuzzy Smith
+T85	Target 2693 2707	Gertrude Weise
+T86	Target 2735 2745	Home Plate
+T87	Target 3106 3117	Paso Robles
+T88	Target 3210 3222	Independence
+T89	Target 3259 3267	Comanche
+T90	Target 3311 3325	Gertrude Weise
+T91	Target 5216 5227	Paso Robles
+R0	Contains Arg1:T83 Arg2:T7
+R4	Contains Arg1:T84 Arg2:T8
+R7	Contains Arg1:T85 Arg2:T8
+R14	Contains Arg1:T87 Arg2:T12
+R16	Contains Arg1:T87 Arg2:T14
+R17	Contains Arg1:T87 Arg2:T15
+R18	Contains Arg1:T87 Arg2:T16
+R20	Contains Arg1:T87 Arg2:T18
+R32	Contains Arg1:T88 Arg2:T19
+R44	Contains Arg1:T89 Arg2:T20
+R56	HasProperty Arg1:T91 Arg2:T54
+T92	Target 3061 3070	West Spur
+T93	Mineral 3099 3104	np-Ox
+R1	Contains Arg1:T92 Arg2:T10	
+R2	Contains Arg1:T92 Arg2:T11	
+R3	Contains Arg1:T92 Arg2:T93	
+T13	Mineral 3126 3141	ferric-sulfates
+T17	Element 3143 3145	Mg
+R5	Contains Arg1:T87 Arg2:T13	
+R6	Contains Arg1:T87 Arg2:T17	
+T94	Mineral 3278 3293	Fe/Mgcarbonates
+R8	Contains Arg1:T89 Arg2:T94	
+T95	Property 3268 3275	outcrop
+R9	HasProperty Arg1:T89 Arg2:T95	
+T96	Property 3223 3230	outcrop
+R10	HasProperty Arg1:T88 Arg2:T96	
+T97	Property 3118 3123	soils
+R11	HasProperty Arg1:T87 Arg2:T97	
+T98	Property 3071 3076	rocks
+R12	HasProperty Arg1:T92 Arg2:T98	
+T99	Mineral 3295 3300	np-Ox
+R13	Contains Arg1:T89 Arg2:T99	
+T100	Property 3326 3331	soils
+T101	Mineral 3334 3348	opaline silica
+R15	HasProperty Arg1:T90 Arg2:T100	
+R19	Contains Arg1:T90 Arg2:T101	
+T102	Mineral 5253 5256	SO3
+R21	Contains Arg1:T91 Arg2:T102	
+R22	HasProperty Arg1:T91 Arg2:T55	

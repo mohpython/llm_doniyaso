@@ -1,0 +1,123 @@
+T1	Property 697 701	rock
+T2	Property 841 848	rounded
+T3	Property 1158 1174	eolian reworking
+T4	Property 1310 1326	eolian reworking
+T5	Property 1682 1693	composition
+T6	Property 2315 2323	basaltic
+T7	Property 2324 2335	composition
+T8	Element 2355 2357	Cl
+T9	Element 2359 2361	Br
+T10	Element 2363 2365	Ge
+T11	Element 2371 2373	Zn
+T12	Property 2532 2539	massive
+T13	Property 2618 2627	vesicular
+T14	Property 2631 2638	massive
+T15	Property 2950 2956	Clasts
+T16	Property 3699 3707	cohesive
+T17	Property 3757 3763	layers
+T18	Property 3777 3785	vesicles
+T19	Property 3900 3909	Vesicular
+T20	Property 3913 3920	massive
+T21	Property 3989 3995	layers
+T22	Property 4010 4014	fine
+T23	Property 4015 4021	clasts
+T24	Property 4251 4257	clasts
+T25	Mineral 4703 4713	Palagonite
+T26	Property 5275 5281	eolian
+T27	Target 624 634	Home Plate
+T28	Target 804 814	Home Plate
+T29	Target 1081 1091	Home Plate
+T30	Target 1211 1221	Home Plate
+T31	Target 1340 1350	Home Plate
+T32	Target 1476 1484	Barnhill
+T33	Target 1496 1506	Home Plate
+T34	Target 1813 1821	Barnhill
+T35	Target 1833 1843	Home Plate
+T36	Target 1929 1937	Barnhill
+T37	Target 2236 2244	Barnhill
+T38	Target 2256 2266	Home Plate
+T39	Target 2428 2436	Barnhill
+T40	Target 2580 2590	Home Plate
+T41	Target 3357 3367	Home Plate
+T42	Target 3789 3797	Barnhill
+T43	Target 3944 3954	Home Plate
+T44	Target 4130 4140	Home Plate
+T45	Target 4338 4348	Home Plate
+T46	Target 4376 4386	Home Plate
+T47	Target 4592 4602	Home Plate
+T48	Target 4689 4699	Home Plate
+T49	Target 4775 4785	Home Plate
+T50	Target 4907 4917	Home Plate
+T51	Target 4960 4970	Home Plate
+T52	Target 5000 5010	Home Plate
+T53	Target 5099 5109	Home Plate
+T54	Target 5420 5428	Barnhill
+T55	Target 5440 5450	Home Plate
+R0	Contains Arg1:T37 Arg2:T8
+R1	Contains Arg1:T37 Arg2:T9
+R2	Contains Arg1:T37 Arg2:T10
+R3	Contains Arg1:T37 Arg2:T11
+R4	Contains Arg1:T38 Arg2:T8
+R5	Contains Arg1:T38 Arg2:T9
+R6	Contains Arg1:T38 Arg2:T10
+R7	Contains Arg1:T38 Arg2:T11
+R9	HasProperty Arg1:T27 Arg2:T1
+R10	HasProperty Arg1:T28 Arg2:T2
+R11	HasProperty Arg1:T29 Arg2:T3
+R12	HasProperty Arg1:T30 Arg2:T4
+R13	HasProperty Arg1:T31 Arg2:T4
+R14	HasProperty Arg1:T37 Arg2:T6
+R15	HasProperty Arg1:T37 Arg2:T7
+R16	HasProperty Arg1:T38 Arg2:T6
+R17	HasProperty Arg1:T38 Arg2:T7
+R18	HasProperty Arg1:T39 Arg2:T12
+R19	HasProperty Arg1:T40 Arg2:T13
+R20	HasProperty Arg1:T40 Arg2:T14
+R21	HasProperty Arg1:T42 Arg2:T18
+R22	HasProperty Arg1:T43 Arg2:T19
+R23	HasProperty Arg1:T43 Arg2:T20
+T56	Property 689 696	layered
+R26	HasProperty Arg1:T27 Arg2:T56	
+T57	Property 828 836	bomb sag
+R27	HasProperty Arg1:T28 Arg2:T57	
+T58	Property 859 879	accretionary lapilli
+R28	HasProperty Arg1:T28 Arg2:T58	
+T59	Property 1113 1125	cross-bedded
+R29	HasProperty Arg1:T29 Arg2:T59	
+T60	Property 920 933	hydrovolcanic
+R30	HasProperty Arg1:T28 Arg2:T60	
+T61	Property 1238 1251	hydrovolcanic
+R31	HasProperty Arg1:T30 Arg2:T61	
+R32	HasProperty Arg1:T31 Arg2:T61	
+T62	Property 2471 2483	cross-bedded
+R33	HasProperty Arg1:T39 Arg2:T62	
+T63	Property 2519 2528	laminated
+R34	HasProperty Arg1:T39 Arg2:T63	
+T64	Property 2639 2645	basalt
+R35	HasProperty Arg1:T40 Arg2:T64	
+T65	Property 2691 2698	layered
+R36	HasProperty Arg1:T40 Arg2:T65	
+T66	Property 3424 3437	cross bedding
+R37	HasProperty Arg1:T41 Arg2:T66	
+T67	Property 3921 3927	basalt
+R38	HasProperty Arg1:T43 Arg2:T67	
+T68	Property 4076 4080	Beds
+R39	HasProperty Arg1:T44 Arg2:T68	
+T69	Property 4392 4396	tuff
+R24	HasProperty Arg1:T46 Arg2:T69	
+T70	Property 5132 5145	hydrovolcanic
+T71	Property 5158 5162	tuff
+R8	HasProperty Arg1:T53 Arg2:T70	
+R25	HasProperty Arg1:T53 Arg2:T71	
+T72	Target 39 49	HOME PLATE
+T73	Property 638 649	light-toned
+R40	HasProperty Arg1:T27 Arg2:T73	
+T74	Property 2382 2402	microscopic textures
+R41	HasProperty Arg1:T37 Arg2:T74	
+R42	HasProperty Arg1:T38 Arg2:T74	
+T75	Property 3393 3401	volcanic
+R43	HasProperty Arg1:T41 Arg2:T75	
+T76	Property 3535 3555	Accretionary lapilli
+R44	HasProperty Arg1:T41 Arg2:T76	
+T77	Property 3647 3656	Bomb sags
+R45	HasProperty Arg1:T41 Arg2:T77	

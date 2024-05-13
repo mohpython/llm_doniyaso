@@ -1,0 +1,84 @@
+T1	Element 678 680	Fe
+T2	Element 691 693	Al
+T3	Element 1010 1012	Ni
+T4	Element 1014 1016	Zn
+T5	Element 1022 1024	Cr
+T6	Property 1083 1087	rock
+T7	Property 1092 1096	soil
+T8	Element 1565 1567	Ni
+T9	Element 1569 1571	Zn
+T10	Element 1577 1579	Cr
+T11	Property 1771 1775	soil
+T12	Element 1800 1802	Ni
+T13	Element 1804 1806	Zn
+T14	Element 1812 1814	Cr
+T15	Element 2010 2014	gold
+T16	Element 2014 2015	-
+T17	Element 2015 2024	palladium
+T18	Property 2236 2244	basaltic
+T19	Property 2245 2256	composition
+T20	Property 2325 2336	composition
+T21	Element 2592 2594	Ni
+T22	Element 2599 2601	Zn
+T23	Element 3170 3172	Ni
+T24	Element 3202 3204	Zn
+T25	Property 3258 3269	composition
+T26	Property 3329 3340	composition
+T27	Mineral 3471 3479	chromite
+T28	Element 3602 3610	chromium
+T29	Element 3646 3654	chromium
+T30	Property 3727 3735	basaltic
+T31	Element 3747 3755	chromium
+T32	Element 3800 3806	oxygen
+T33	Element 3867 3875	chromium
+T34	Element 3949 3955	oxygen
+T35	Mineral 4135 4143	chromite
+T36	Element 4256 4262	oxygen
+T37	Element 4337 4343	oxygen
+T38	Element 4590 4598	sulfuric
+T39	Element 4774 4775	S
+T40	Element 4776 4778	Cl
+T41	Mineral 5685 5691	Gypsum
+T42	Mineral 5850 5861	melanterite
+T43	Element 5899 5900	C
+T44	Mineral 5902 5911	anhydrite
+T45	Mineral 5924 5934	tamarugite
+T46	Mineral 5981 5992	hexahydrite
+T47	Element 6113 6114	C
+T48	Element 6399 6401	Cr
+T49	Element 6406 6408	Al
+T50	Element 6952 6958	oxygen
+T51	Element 7044 7046	Ni
+T52	Element 7051 7053	Zn
+T53	Element 7167 7169	Ni
+T54	Element 7174 7176	Zn
+T55	Property 7257 7268	composition
+T56	Property 8032 8040	basaltic
+T57	Mineral 8079 8085	gypsum
+T58	Target 2932 2942	Adirondack
+T59	Target 3350 3360	Adirondack
+R0	Contains Arg1:T58 Arg2:T23
+R1	Contains Arg1:T58 Arg2:T24
+R7	HasProperty Arg1:T59 Arg2:T26
+T60	Mineral 2943 2947	SiO2
+T61	Mineral 2966 2970	TiO2
+T62	Mineral 2986 2991	Al2O3
+T63	Mineral 3009 3013	FeOT
+T64	Mineral 3032 3035	MnO
+T65	Mineral 3051 3054	MgO
+T66	Mineral 3071 3074	CaO
+T67	Mineral 3090 3094	Na2O
+T68	Mineral 3110 3113	K2O
+T69	Mineral 3129 3133	P2O5
+T70	Mineral 3149 3154	Cr2O3
+R4	Contains Arg1:T58 Arg2:T60	
+R6	Contains Arg1:T58 Arg2:T61	
+R8	Contains Arg1:T58 Arg2:T62	
+R5	Contains Arg1:T58 Arg2:T63	
+R9	Contains Arg1:T58 Arg2:T64	
+R10	Contains Arg1:T58 Arg2:T65	
+R11	Contains Arg1:T58 Arg2:T66	
+R12	Contains Arg1:T58 Arg2:T67	
+R13	Contains Arg1:T58 Arg2:T68	
+R14	Contains Arg1:T58 Arg2:T69	
+R15	Contains Arg1:T58 Arg2:T70	

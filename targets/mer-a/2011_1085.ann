@@ -1,0 +1,75 @@
+T1	Property 37 44	IGNEOUS
+T2	Property 313 317	rock
+T3	Property 331 339	boulders
+T4	Property 419 427	basaltic
+T5	Property 592 597	mafic
+T6	Element 782 784	Fe
+T7	Element 789 791	Mg
+T8	Element 841 843	Fe
+T9	Element 898 900	Mg
+T10	Element 1220 1222	Fe
+T11	Property 1468 1473	mafic
+T12	Element 1763 1765	Fe
+T13	Element 1771 1773	Mg
+T14	Mineral 1953 1960	olivine
+T15	Element 2068 2070	Fe
+T16	Element 2071 2073	Mg
+T17	Element 2217 2219	Fe
+T18	Element 2220 2221	-
+T19	Element 2222 2224	Mg
+T20	Property 2316 2323	igneous
+T21	Mineral 2499 2507	feldspar
+T22	Property 2532 2537	mafic
+T23	Element 2599 2601	Mg
+T24	Mineral 3284 3293	magnetite
+T25	Mineral 3316 3323	olivine
+T26	Mineral 3506 3513	olivine
+T27	Property 3514 3525	composition
+T28	Property 3600 3611	composition
+T29	Mineral 3615 3622	olivine
+T30	Property 3803 3810	igneous
+T31	Element 3910 3919	magnesium
+T34	Mineral 3977 3998	olivine-orthopyroxene
+T35	Mineral 4003 4023	olivine gabbronorite
+T37	Mineral 4050 4059	magnetite
+T38	Mineral 4133 4140	olivine
+T39	Mineral 4168 4177	magnetite
+T40	Mineral 4230 4238	feldspar
+T41	Property 4246 4251	mafic
+T42	Mineral 4267 4276	magnetite
+T43	Element 4303 4304	P
+T44	Element 4312 4314	Mg
+T45	Mineral 4564 4571	apatite
+T46	Mineral 4795 4802	olivine
+T47	Mineral 4816 4829	orthopyroxene
+T48	Mineral 4836 4847	plagioclase
+T49	Mineral 4849 4858	magnetite
+T50	Mineral 4872 4879	apatite
+T51	Property 5223 5228	crust
+T52	Target 4404 4420	Cumberland Ridge
+R0	Contains Arg1:T52 Arg2:T43
+R1	Contains Arg1:T52 Arg2:T44
+R2	Contains Arg1:T52 Arg2:T45
+T53	Target 3938 3950	Hansen Ridge
+R3	Contains Arg1:T53 Arg2:T31	
+T54	Target 3958 3972	Eastern Valley
+R4	Contains Arg1:T54 Arg2:T31	
+R5	Contains Arg1:T53 Arg2:T34	
+R6	Contains Arg1:T53 Arg2:T35	
+R7	Contains Arg1:T54 Arg2:T34	
+R8	Contains Arg1:T54 Arg2:T35	
+T32	Target 4390 4399	West Spur
+T33	Mineral 4360 4366	alkali
+R9	Contains Arg1:T32 Arg2:T33	
+T36	Target 4424 4436	Husband Hill
+R10	Contains Arg1:T52 Arg2:T33	
+R11	Contains Arg1:T36 Arg2:T33	
+T55	Property 4525 4538	gabbronorites
+R12	HasProperty Arg1:T52 Arg2:T55	
+R13	HasProperty Arg1:T32 Arg2:T55	
+R14	Contains Arg1:T32 Arg2:T45	
+T56	Property 4542 4550	diorites
+R15	HasProperty Arg1:T52 Arg2:T56	
+R16	HasProperty Arg1:T32 Arg2:T56	
+R17	Contains Arg1:T32 Arg2:T44	
+R18	Contains Arg1:T32 Arg2:T43	

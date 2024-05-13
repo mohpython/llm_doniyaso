@@ -1,0 +1,55 @@
+T1	Target-MSL 1438 1446	Sheepbed
+T2	Property 1498 1503	mafic
+T3	Mineral 1514 1524	forsterite
+T4	Mineral 1526 1532	augite
+T5	Mineral 1537 1546	pigeonite
+T6	Mineral 2105 2116	plagioclase
+T7	Mineral 2117 2125	feldspar
+T8	Mineral 2127 2133	alkali
+T9	Mineral 2134 2142	feldspar
+T10	Property 2373 2377	dark
+T11	Property 2663 2667	soil
+T12	Property 2929 2933	rock
+T13	Target-MSL 2976 2984	Sheepbed
+T14	Property 3354 3358	soil
+T15	Element 3599 3600	S
+T16	Element 3604 3605	H
+T17	Mineral 4676 4683	sulfate
+T18	Target-MSL 5353 5361	Sheepbed
+T19	Mineral 5540 5555	phyllosilicates
+T20	Property 5821 5828	igneous
+T21	Target-MSL 5902 5910	Sheepbed
+T22	Property 6197 6206	sediments
+T23	Target-MSL 6213 6221	Sheepbed
+T24	Property 6268 6273	mafic
+T25	Property 6292 6303	composition
+T26	Property 6572 6583	composition
+T27	Target-MSL 6659 6667	Sheepbed
+T28	Property 6704 6712	basaltic
+T29	Element 6769 6779	silicarich
+T30	Mineral 7132 7141	tridymite
+T31	Target-MSL 7200 7208	Buckskin
+T32	Mineral 7482 7490	sanidine
+T33	Mineral 7605 7613	sanidine
+T34	Property 7868 7876	sediment
+T35	Property 8203 8207	rock
+T36	Mineral 8548 8557	tholeiite
+T37	Property 8570 8581	composition
+T38	Target-MSL 8658 8666	Sheepbed
+T39	Property 8812 8819	igneous
+T40	Target-MSL 8866 8874	Buckskin
+T41	Target-MSL 8970 8978	Windjana
+T42	Target 6322 6332	Adirondack
+T43	Target 8589 8599	Adirondack
+R0	Contains Arg1:T1 Arg2:T3
+R1	Contains Arg1:T1 Arg2:T4
+R2	Contains Arg1:T1 Arg2:T5
+R3	Contains Arg1:T31 Arg2:T30
+R5	Contains Arg1:T38 Arg2:T36
+R6	HasProperty Arg1:T1 Arg2:T2
+R7	HasProperty Arg1:T13 Arg2:T12
+R10	HasProperty Arg1:T42 Arg2:T24
+R13	HasProperty Arg1:T38 Arg2:T37
+R14	HasProperty Arg1:T40 Arg2:T39
+T44	Property 6311 6321	tholeiitic
+R15	HasProperty Arg1:T42 Arg2:T44	

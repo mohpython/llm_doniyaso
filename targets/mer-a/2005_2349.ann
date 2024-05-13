@@ -1,0 +1,75 @@
+T1	Property 1887 1895	basaltic
+T2	Property 1930 1937	spectra
+T3	Mineral 1958 1965	olivine
+T4	Mineral 2004 2011	olivine
+T5	Property 2040 2044	soil
+T6	Mineral 2266 2273	olivine
+T7	Element 2404 2406	Fe
+T8	Mineral 2420 2428	goethite
+T9	Mineral 2436 2444	jarosite
+T10	Mineral 2516 2524	goethite
+T11	Mineral 2700 2709	magnetite
+T12	Mineral 2756 2765	magnetite
+T13	Mineral 2794 2802	hematite
+T14	Mineral 2807 2815	goethite
+T15	Property 2849 2856	spectra
+T16	Property 2959 2966	spectra
+T17	Property 3055 3059	soil
+T18	Property 3060 3067	spectra
+T19	Property 3101 3105	soil
+T20	Property 3106 3113	spectra
+T21	Property 3165 3172	spectra
+T22	Property 3183 3187	rock
+T23	Property 3206 3210	rock
+T24	Property 3251 3258	spectra
+T25	Property 3303 3310	spectra
+T26	Element 3492 3496	iron
+T27	Mineral 3524 3532	jarosite
+T28	Element 3534 3535	K
+T29	Element 3536 3538	Na
+T30	Element 3540 3542	Fe
+T31	Mineral 3562 3570	Jarosite
+T32	Mineral 3732 3739	sulfate
+T33	Property 3807 3814	spectra
+T34	Element 3852 3855	Fe3
+T35	Mineral 3984 3992	goethite
+T36	Mineral 3997 4005	hematite
+T37	Mineral 4060 4068	pyroxene
+T38	Mineral 4074 4082	hematite
+T39	Property 4277 4284	spectra
+T40	Mineral 4347 4355	hematite
+T41	Mineral 4402 4410	hematite
+T42	Mineral 4465 4473	Hematite
+T43	Mineral 4567 4575	hematite
+T44	Property 4610 4617	spectra
+T45	Property 4628 4632	Rock
+T46	Property 4676 4683	spectra
+T47	Mineral 4804 4812	pyroxene
+T48	Mineral 4826 4833	olivine
+T49	Element 4845 4849	iron
+T50	Property 4884 4888	rock
+T51	Property 4919 4927	basaltic
+T52	Property 4981 4989	basaltic
+T53	Property 5047 5054	spectra
+T54	Property 5090 5097	spectra
+T55	Property 5110 5114	Rock
+T56	Property 5131 5138	spectra
+T57	Mineral 5192 5200	pyroxene
+T58	Property 5211 5215	Rock
+T59	Mineral 5251 5259	pyroxene
+T60	Property 5263 5271	basaltic
+T61	Mineral 5305 5313	pyroxene
+T62	Element 5410 5411	K
+T63	Property 5472 5479	spectra
+T64	Property 5540 5547	spectra
+T65	Target 2382 2388	Clovis
+T66	Target 2686 2692	Clovis
+T67	Target 2721 2729	Ebenezer
+T68	Target 5394 5400	Clovis
+R0	Contains Arg1:T65 Arg2:T7
+R1	Contains Arg1:T65 Arg2:T8
+R3	Contains Arg1:T67 Arg2:T12
+R4	Contains Arg1:T67 Arg2:T13
+R5	Contains Arg1:T67 Arg2:T14
+T69	Mineral 2407 2419	oxyhydroxide
+R7	Contains Arg1:T65 Arg2:T69	

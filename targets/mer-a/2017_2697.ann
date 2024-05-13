@@ -1,0 +1,78 @@
+T1	Mineral 88 95	SULFATE
+T2	Mineral 654 661	sulfate
+T3	Property 667 671	soil
+T4	Property 677 681	dust
+T5	Element 814 816	Fe
+T6	Property 1357 1365	basaltic
+T7	Property 1366 1370	soil
+T8	Mineral 1397 1405	sulfates
+T9	Mineral 1420 1427	sulfate
+T10	Element 1449 1451	Mg
+T11	Element 1453 1455	Ca
+T12	Element 1461 1463	Al
+T13	Mineral 1476 1478	Ca
+T15	Mineral 1479 1486	apatite
+T16	Element 1914 1916	Cl
+T17	Property 2039 2046	igneous
+T18	Property 2047 2052	crust
+T19	Property 2058 2064	bright
+T20	Property 2065 2069	soil
+T21	Property 2121 2129	basaltic
+T22	Property 2206 2214	basaltic
+T23	Property 2215 2219	soil
+T24	Property 2446 2454	basaltic
+T25	Mineral 2740 2748	sulfates
+T26	Property 2880 2891	composition
+T27	Mineral 2914 2921	sulfate
+T28	Property 3105 3116	composition
+T29	Property 3416 3424	Basaltic
+T30	Property 3443 3450	Igneous
+T31	Property 3451 3456	Crust
+T32	Property 3465 3473	Basaltic
+T33	Property 3474 3478	Rock
+T34	Property 3478 3479	/
+T35	Property 3479 3483	Soil
+T36	Property 3506 3511	Crust
+T37	Property 3521 3529	Basaltic
+T38	Property 3530 3534	Rock
+T39	Property 3534 3535	/
+T40	Property 3535 3539	Soil
+T41	Property 3548 3553	Crust
+T42	Property 3702 3707	Crust
+T43	Property 3779 3790	composition
+T44	Mineral 3889 3896	sulfate
+T45	Element 4714 4716	Fe
+T46	Property 4791 4794	red
+T47	Mineral 4915 4922	sulfate
+T48	Mineral 5080 5087	sulfate
+T49	Mineral 5461 5468	sulfate
+T50	Mineral 5729 5736	Sulfate
+T51	Mineral 6111 6119	jarosite
+T52	Mineral 6210 6218	Jarosite
+T53	Mineral 6363 6371	sulfates
+T54	Mineral 7366 7373	Sulfate
+T55	Property 7424 7429	Crust
+T56	Property 7488 7492	Rock
+T57	Element 10666 10667	K
+T58	Mineral 21297 21306	koristite
+T59	Target 1081 1091	Home Plate
+T60	Target 1295 1300	Penn2
+T61	Target 1323 1328	Penn2
+T62	Target 1371 1378	Whymper
+T63	Target 2070 2077	Whymper
+T64	Target 2542 2552	Home Plate
+R28	HasProperty Arg1:T62 Arg2:T6
+R29	HasProperty Arg1:T62 Arg2:T7
+R32	HasProperty Arg1:T63 Arg2:T19
+R33	HasProperty Arg1:T63 Arg2:T20
+T14	Property 1121 1134	hydrovolcanic
+R1	HasProperty Arg1:T59 Arg2:T14	
+T66	Target 1272 1285	KenoshaComets
+T67	Mineral 1338 1342	SiO2
+R2	Contains Arg1:T60 Arg2:T67	
+R3	Contains Arg1:T66 Arg2:T67	
+T68	Target 2621 2633	Husband Hill
+T69	Mineral 2485 2489	SiO2
+R4	Contains Arg1:T64 Arg2:T69	
+T70	Mineral 2584 2589	Al2O3
+R5	Contains Arg1:T68 Arg2:T70	

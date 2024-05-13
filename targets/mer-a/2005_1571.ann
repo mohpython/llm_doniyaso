@@ -1,0 +1,89 @@
+T1	Property 1778 1787	weathered
+T2	Property 1788 1796	coatings
+T3	Property 2047 2051	dust
+T4	Property 2447 2451	rock
+T5	Property 2481 2488	coating
+T6	Property 2647 2651	rock
+T7	Property 2832 2836	rind
+T8	Element 2855 2859	iron
+T9	Mineral 2866 2874	hematite
+T10	Element 2966 2970	iron
+T11	Mineral 3229 3237	hematite
+T12	Property 3421 3425	rock
+T13	Property 3558 3563	fines
+T14	Element 4008 4017	magnesium
+T15	Mineral 4018 4026	sulfates
+T16	Property 4074 4080	trench
+T17	Element 4213 4217	iron
+T18	Property 4300 4306	trench
+T19	Property 4562 4566	rock
+T20	Property 4631 4635	rock
+T21	Mineral 4687 4695	goethite
+T22	Element 4806 4808	Br
+T23	Property 5155 5160	rinds
+T24	Property 5597 5601	dust
+T25	Property 5717 5721	rock
+T26	Property 5739 5747	coatings
+T27	Element 5848 5855	Bromine
+T28	Element 5863 5871	chlorine
+T29	Property 5909 5912	red
+T30	Element 6035 6037	Br
+T31	Target 2654 2662	Mazatzal
+T32	Target 2799 2807	Mazatzal
+T33	Target 3392 3400	Mazatzal
+T34	Target 3638 3646	Big Hole
+T35	Target 3811 3819	Big Hole
+T36	Target 4608 4614	Clovis
+T37	Target 5513 5521	Mazatzal
+T38	Target 5940 5948	Mazatzal
+T39	Target 6056 6064	Mazatzal
+R0	Contains Arg1:T32 Arg2:T8
+R1	Contains Arg1:T32 Arg2:T9
+R2	Contains Arg1:T38 Arg2:T27
+R3	Contains Arg1:T38 Arg2:T28
+R4	Contains Arg1:T39 Arg2:T30
+R5	HasProperty Arg1:T31 Arg2:T6
+R6	HasProperty Arg1:T32 Arg2:T7
+R7	HasProperty Arg1:T33 Arg2:T12
+R8	HasProperty Arg1:T36 Arg2:T19
+R9	HasProperty Arg1:T38 Arg2:T29
+T40	Target 3653 3661	Boroughs
+R10	HasProperty Arg1:T34 Arg2:T13	
+R11	HasProperty Arg1:T40 Arg2:T13	
+T41	Property 3547 3563	subsurface fines
+R12	HasProperty Arg1:T34 Arg2:T41	
+R13	HasProperty Arg1:T40 Arg2:T41	
+T42	Property 3712 3720	oxidized
+R14	HasProperty Arg1:T40 Arg2:T42	
+R15	HasProperty Arg1:T34 Arg2:T42	
+T43	Target 3826 3834	Boroughs
+T44	Element 3791 3798	bromine
+R16	Contains Arg1:T35 Arg2:T44	
+R17	Contains Arg1:T43 Arg2:T44	
+T45	Element 3761 3763	Fe
+R18	Contains Arg1:T34 Arg2:T45	
+R19	Contains Arg1:T40 Arg2:T45	
+R20	Contains Arg1:T35 Arg2:T14	
+R21	Contains Arg1:T43 Arg2:T14	
+R22	Contains Arg1:T35 Arg2:T15	
+R23	Contains Arg1:T43 Arg2:T15	
+T46	Property 4041 4059	aqueous weathering
+R24	HasProperty Arg1:T35 Arg2:T46	
+R25	HasProperty Arg1:T43 Arg2:T46	
+T47	Target 4083 4089	Laguna
+R26	HasProperty Arg1:T47 Arg2:T16	
+T48	Element 4096 4103	bromine
+R27	Contains Arg1:T47 Arg2:T48	
+T49	Target 4142 4149	BigHole
+R28	Contains Arg1:T47 Arg2:T17	
+T50	Element 3015 3022	bromine
+R29	Contains Arg1:T32 Arg2:T50	
+R30	Contains Arg1:T32 Arg2:T11	
+R31	Contains Arg1:T32 Arg2:T10	
+R32	Contains Arg1:T49 Arg2:T48	
+R33	Contains Arg1:T36 Arg2:T21	
+R34	Contains Arg1:T36 Arg2:T22	
+T51	Element 4772 4774	Fe
+R35	Contains Arg1:T36 Arg2:T51	
+T52	Property 3354 3372	aqueous alteration
+R36	HasProperty Arg1:T33 Arg2:T52	

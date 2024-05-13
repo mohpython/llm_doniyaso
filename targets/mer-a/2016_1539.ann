@@ -1,0 +1,42 @@
+T1	Property 490 501	composition
+T2	Property 736 743	spectra
+T3	Property 792 803	composition
+T4	Property 1758 1765	spectra
+T5	Property 1974 1981	spectra
+T6	Property 2369 2380	composition
+T7	Property 2658 2669	composition
+T8	Element 2724 2725	N
+T9	Property 3228 3234	bright
+T10	Target-MERB 3341 3356	Pinnacle Island
+T11	Property 3450 3454	dark
+T12	Property 3563 3567	dark
+T13	Property 3607 3613	bright
+T14	Property 3614 3621	coating
+T15	Property 3635 3639	rock
+T16	Property 4007 4011	dark
+T17	Property 4012 4019	coating
+T18	Property 4023 4029	bright
+T19	Property 4030 4037	coating
+T20	Property 4041 4045	rock
+T21	Property 4059 4063	rock
+T22	Property 4214 4222	coatings
+T23	Element 4398 4399	C
+T24	Property 4741 4745	soil
+T25	Property 4793 4797	rock
+T26	Property 4808 4812	rock
+T27	Property 4838 4842	rock
+T28	Property 4958 4964	bright
+T29	Property 4965 4972	coating
+T30	Element 4995 4997	Mg
+T31	Element 5002 5003	S
+T32	Element 5017 5019	Mn
+T33	Element 5064 5066	Mn
+T34	Element 5068 5070	Ca
+T35	Element 5076 5077	P
+T36	Property 5107 5111	rock
+T37	Property 5444 5451	spectra
+T38	Property 5765 5772	spectra
+T39	Target-MERB 6306 6321	Pinnacle Island
+T40	Property 6696 6703	spectra
+T41	Property 6805 6809	Rock
+R0	HasProperty Arg1:T10 Arg2:T11

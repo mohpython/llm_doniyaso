@@ -1,0 +1,38 @@
+T1	Element 437 438	C
+T2	Element 440 441	S
+T3	Element 443 444	O
+T4	Element 446 447	H
+T5	Element 453 454	N
+T6	Element 456 457	P
+T7	Mineral 697 709	fluorapatite
+T8	Mineral 715 727	chlorapatite
+T9	Mineral 737 747	merrillite
+T10	Element 823 824	P
+T11	Mineral 1030 1044	ferristrunzite
+T12	Mineral 1048 1057	strengite
+T13	Mineral 1202 1212	phosphates
+T14	Mineral 1780 1790	phosphates
+T15	Element 2507 2509	Al
+T16	Element 2517 2519	Fe
+T17	Element 2581 2582	C
+T18	Element 2624 2625	C
+T19	Mineral 2737 2747	phosphates
+T20	Element 4238 4239	C
+T21	Element 4268 4276	Aluminum
+T22	Element 4569 4571	Fe
+T23	Element 4792 4794	Al
+T24	Element 4796 4798	Fe
+T25	Element 5457 5458	P
+T26	Property 7416 7420	Soil
+T27	Target 828 839	Paso Robles
+T28	Target 1076 1087	Paso Robles
+T29	Target 1417 1426	Wishstone
+T30	Target 1431 1441	Watchtower
+R0	Contains Arg1:T27 Arg2:T10
+R1	Contains Arg1:T28 Arg2:T11
+R2	Contains Arg1:T28 Arg2:T12
+T31	Property 840 845	soils
+R5	HasProperty Arg1:T27 Arg2:T31	
+T32	Mineral 1403 1413	wavellitte
+R3	Contains Arg1:T29 Arg2:T32	
+R4	Contains Arg1:T30 Arg2:T32	

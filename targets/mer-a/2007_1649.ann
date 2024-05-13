@@ -1,0 +1,256 @@
+T1	Element 863 865	Mg
+T2	Element 867 869	Fe
+T3	Element 897 899	Al
+T4	Element 901 902	K
+T5	Element 904 906	Ca
+T6	Element 911 913	Ti
+T7	Property 1085 1089	rock
+T8	Element 1266 1268	Ni
+T9	Element 1412 1414	Na
+T10	Element 1415 1417	Mg
+T11	Element 1418 1420	Al
+T12	Element 1421 1423	Si
+T13	Element 1424 1425	P
+T14	Element 1428 1430	Cl
+T15	Element 1431 1432	K
+T16	Element 1433 1435	Ca
+T17	Element 1436 1438	Ti
+T18	Element 1439 1441	Cr
+T19	Element 1442 1444	Mn
+T20	Element 1445 1447	Fe
+T21	Element 1448 1450	Ni
+T22	Element 1451 1453	Zn
+T23	Element 1454 1456	Br
+T24	Property 1743 1747	rock
+T25	Property 1792 1803	composition
+T26	Element 1844 1846	Mg
+T27	Element 1852 1854	Na
+T28	Element 1856 1858	Al
+T29	Element 1860 1861	K
+T30	Element 1867 1869	Ca
+T31	Element 2030 2032	Fe
+T32	Element 2228 2232	iron
+T33	Element 2271 2275	high
+T34	Element 2275 2276	-
+T35	Element 2276 2285	magnesium
+T36	Property 2611 2622	composition
+T37	Property 2816 2823	spectra
+T38	Property 2890 2897	igneous
+T39	Mineral 2914 2921	olivine
+T40	Mineral 3022 3029	olivine
+T41	Mineral 3186 3193	olivine
+T42	Element 3261 3263	Cr
+T43	Element 3274 3276	Mg
+T44	Element 3518 3520	Cr
+T45	Element 3528 3530	Mg
+T46	Element 4066 4068	Ca
+T47	Element 4073 4075	Al
+T48	Element 4566 4568	Fe
+T49	Element 4584 4586	Mn
+T50	Mineral 4722 4729	olivine
+T51	Element 4794 4796	Fe
+T52	Element 4804 4806	Fe
+T53	Element 4813 4815	Mn
+T54	Element 4825 4827	Fe
+T55	Element 4853 4855	Fe
+T56	Element 4870 4872	Fe
+T57	Element 4879 4881	Fe
+T58	Element 4909 4911	Fe
+T59	Element 4934 4936	Fe
+T60	Element 4943 4945	Fe
+T61	Element 4955 4957	Fe
+T62	Element 4957 4958	/
+T63	Element 4958 4960	Mn
+T64	Element 4966 4968	Fe
+T65	Element 4982 4984	Fe
+T66	Element 5018 5020	Fe
+T67	Element 5054 5056	Fe
+T68	Element 5293 5295	Ni
+T69	Element 5304 5306	Mg
+T70	Element 5314 5316	Mg
+T71	Element 5570 5576	Nickel
+T72	Element 5590 5592	Mg
+T73	Element 5724 5726	Ni
+T74	Element 5829 5831	Ni
+T75	Mineral 5869 5880	chassignite
+T76	Element 5918 5920	Ni
+T77	Element 5940 5942	Ni
+T78	Element 6076 6078	Ni
+T79	Element 6295 6297	Mg
+T80	Element 6414 6416	Ni
+T81	Element 6417 6419	Mg
+T82	Element 6526 6528	Ni
+T83	Element 6529 6531	Mg
+T84	Element 6598 6600	Ni
+T85	Mineral 6716 6723	olivine
+T86	Element 6747 6749	Ni
+T87	Mineral 6772 6779	olivine
+T88	Mineral 6988 6995	olivine
+T89	Element 7019 7021	Ni
+T90	Property 7048 7055	igneous
+T91	Element 7111 7113	Ni
+T92	Mineral 7236 7243	olivine
+T93	Element 7279 7281	Ni
+T94	Element 7422 7424	Ni
+T95	Element 7579 7585	Nickel
+T96	Mineral 7593 7600	olivine
+T97	Mineral 7652 7659	olivine
+T98	Element 7712 7713	S
+T99	Element 7722 7724	Cl
+T100	Element 10902 10903	K
+T101	Target 990 999	Algonquin
+T102	Target 1008 1017	Algonquin
+T103	Target 1018 1025	Iroquet
+T104	Target 1032 1040	Comanche
+T105	Target 1041 1049	Palomino
+T106	Target 1291 1300	Algonquin
+T107	Target 1471 1479	Thrasher
+T108	Target 1480 1488	Seminole
+T109	Target 1489 1496	Osceola
+T110	Target 1497 1506	Algonquin
+T111	Target 1507 1514	Iroquet
+T112	Target 1523 1531	Comanche
+T113	Target 1532 1540	Palomino
+T114	Target 1592 1600	Humphrey
+T115	Target 1749 1757	Humphrey
+T116	Target 1808 1817	Algonquin
+T117	Target 1824 1832	Comanche
+T118	Target 2526 2535	Algonquin
+T119	Target 2540 2548	Comanche
+T120	Target 2709 2718	Algonquin
+T121	Target 2745 2753	Seminole
+T122	Target 2757 2766	Algonquin
+T123	Target 2773 2781	Comanche
+T124	Target 3392 3403	Pot of Gold
+T125	Target 3404 3414	Adirondack
+T126	Target 3415 3423	Backstay
+T127	Target 3424 3432	Comanche
+T128	Target 3433 3441	Palomino
+T129	Target 3442 3448	Clovis
+T130	Target 3471 3479	Seminole
+T131	Target 3480 3489	Algonquin
+T132	Target 3490 3497	Iroquet
+T133	Target 3820 3830	Adirondack
+T134	Target 3911 3920	Algonquin
+T135	Target 4413 4421	Seminole
+T136	Target 4430 4439	Algonquin
+T137	Target 4452 4460	Comanche
+T138	Target 4835 4846	Pot of Gold
+T139	Target 4857 4863	Clovis
+T140	Target 4884 4892	Backstay
+T141	Target 4893 4902	Algonquin
+T142	Target 4913 4921	Comanche
+T143	Target 4948 4954	Irvine
+T144	Target 4987 4995	Seminole
+T145	Target 4996 5002	Abiaka
+T146	Target 5023 5033	Adirondack
+T147	Target 5337 5345	Comanche
+T148	Target 5346 5354	Palomino
+T149	Target 5355 5364	Algonquin
+T150	Target 5365 5372	Iroquet
+T151	Target 5373 5382	Assemblee
+T152	Target 5383 5390	Gruyere
+T153	Target 5391 5399	Comanche
+T154	Target 5402 5411	Horseback
+T155	Target 5412 5420	ElDorado
+T156	Target 5429 5435	Shadow
+T157	Target 5436 5442	Clovis
+T158	Target 5443 5454	Pot of Gold
+T159	Target 5455 5460	Peace
+T160	Target 5461 5467	Irvine
+T161	Target 5478 5490	Independence
+T162	Target 5491 5496	Penn2
+T163	Target 5524 5532	Seminole
+T164	Target 5535 5541	Abiaka
+T165	Target 5542 5550	Backstay
+T166	Target 5551 5559	Scuppers
+T167	Target 5784 5793	Algonquin
+T168	Target 5959 5968	Algonquin
+T169	Target 6917 6926	Algonquin
+T170	Target 7056 7065	Algonquin
+T171	Target 7448 7456	Comanche
+T172	Target 7457 7465	Palomino
+T173	Target 7466 7475	Algonquin
+T174	Target 7476 7483	Iroquet
+T175	Target 7494 7502	Seminole
+T176	Target 7503 7509	Abiaka
+T177	Target 7510 7518	Humphrey
+T178	Target 7525 7531	Irvine
+T179	Target 7554 7564	Adirondack
+R0	Contains Arg1:T101 Arg2:T1
+R1	Contains Arg1:T101 Arg2:T2
+R2	Contains Arg1:T101 Arg2:T3
+R3	Contains Arg1:T101 Arg2:T4
+R4	Contains Arg1:T101 Arg2:T5
+R5	Contains Arg1:T101 Arg2:T6
+R6	Contains Arg1:T102 Arg2:T1
+R7	Contains Arg1:T102 Arg2:T2
+R8	Contains Arg1:T102 Arg2:T3
+R9	Contains Arg1:T102 Arg2:T4
+R10	Contains Arg1:T102 Arg2:T5
+R11	Contains Arg1:T102 Arg2:T6
+R12	Contains Arg1:T103 Arg2:T2
+R13	Contains Arg1:T103 Arg2:T3
+R14	Contains Arg1:T103 Arg2:T4
+R15	Contains Arg1:T103 Arg2:T5
+R16	Contains Arg1:T103 Arg2:T6
+R17	Contains Arg1:T104 Arg2:T1
+R18	Contains Arg1:T104 Arg2:T2
+R19	Contains Arg1:T104 Arg2:T3
+R20	Contains Arg1:T104 Arg2:T4
+R21	Contains Arg1:T104 Arg2:T5
+R22	Contains Arg1:T104 Arg2:T6
+R23	Contains Arg1:T105 Arg2:T2
+R24	Contains Arg1:T105 Arg2:T3
+R25	Contains Arg1:T105 Arg2:T4
+R26	Contains Arg1:T105 Arg2:T5
+R27	Contains Arg1:T105 Arg2:T6
+R28	Contains Arg1:T106 Arg2:T8
+R147	Contains Arg1:T116 Arg2:T26
+R148	Contains Arg1:T116 Arg2:T27
+R149	Contains Arg1:T116 Arg2:T28
+R150	Contains Arg1:T116 Arg2:T29
+R151	Contains Arg1:T116 Arg2:T30
+R152	Contains Arg1:T117 Arg2:T26
+R153	Contains Arg1:T117 Arg2:T27
+R154	Contains Arg1:T117 Arg2:T28
+R155	Contains Arg1:T117 Arg2:T29
+R156	Contains Arg1:T117 Arg2:T30
+R419	Contains Arg1:T167 Arg2:T73
+R420	Contains Arg1:T167 Arg2:T74
+R421	Contains Arg1:T168 Arg2:T77
+R423	Contains Arg1:T170 Arg2:T91
+R445	HasProperty Arg1:T115 Arg2:T24
+R446	HasProperty Arg1:T116 Arg2:T25
+R447	HasProperty Arg1:T117 Arg2:T25
+R452	HasProperty Arg1:T170 Arg2:T90
+T180	Target 732 744	Husband Hill
+R453	Contains Arg1:T180 Arg2:T1
+R454	Contains Arg1:T180 Arg2:T2
+R455	Contains Arg1:T180 Arg2:T3
+R456	Contains Arg1:T180 Arg2:T4
+R457	Contains Arg1:T180 Arg2:T5
+R458	Contains Arg1:T180 Arg2:T6
+T181	Target 1457 1470	Larry's Bench
+T182	Target 1680 1692	Husband Hill
+T183	Mineral 2508 2514	alkali
+R29	Contains Arg1:T118 Arg2:T183	
+R30	Contains Arg1:T119 Arg2:T183	
+T184	Target 2628 2640	Husband Hill
+T185	Target 2728 2741	Larry's Bench
+R31	HasProperty Arg1:T120 Arg2:T38	
+R32	HasProperty Arg1:T185 Arg2:T38	
+R33	HasProperty Arg1:T121 Arg2:T38	
+R34	HasProperty Arg1:T122 Arg2:T38	
+R35	HasProperty Arg1:T184 Arg2:T38	
+R36	Contains Arg1:T184 Arg2:T39	
+R37	Contains Arg1:T120 Arg2:T39	
+R38	Contains Arg1:T185 Arg2:T39	
+R39	Contains Arg1:T121 Arg2:T39	
+R40	Contains Arg1:T122 Arg2:T39	
+R41	Contains Arg1:T123 Arg2:T39	
+T186	Target 3449 3462	Larry's Bench
+T187	Target 5034 5047	Larry's Bench
+T188	Target 5510 5523	Larry's Bench
+T189	Target 5993 6006	Larry's Bench
+T190	Target 7540 7553	Larry's Bench

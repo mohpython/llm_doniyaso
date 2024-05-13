@@ -1,0 +1,183 @@
+T1	Property 774 778	rock
+T2	Property 1373 1379	eolian
+T3	Target 1908 1915	Chanute
+T4	Property 2621 2628	spectra
+T5	Property 2638 2642	Rock
+T6	Element 2983 2985	Fe
+T7	Element 3374 3376	Fe
+T8	Mineral 3391 3399	pyroxene
+T9	Mineral 3406 3415	magnetite
+T10	Mineral 3426 3433	olivine
+T11	Mineral 3484 3493	magnetite
+T12	Mineral 3510 3518	pyroxene
+T13	Mineral 3548 3556	hematite
+T14	Mineral 3562 3569	olivine
+T15	Mineral 3658 3665	olivine
+T16	Element 3796 3798	Fe
+T17	Property 4053 4061	basaltic
+T18	Property 4094 4105	composition
+T19	Element 4214 4216	Al
+T20	Element 4218 4220	Ti
+T21	Element 4226 4228	Fe
+T22	Element 4391 4393	Zn
+T23	Element 4395 4397	Ni
+T24	Element 4403 4404	K
+T25	Element 4462 4464	Cl
+T26	Element 4469 4471	Br
+T27	Element 4574 4576	Zn
+T28	Element 4578 4580	Ni
+T29	Element 4586 4587	K
+T30	Element 4742 4744	Zn
+T31	Element 4748 4750	Cl
+T32	Property 4932 4940	basaltic
+T33	Element 5001 5003	Ni
+T34	Element 5008 5010	Zn
+T35	Property 5199 5203	dust
+T36	Property 5229 5233	rind
+T37	Property 5256 5263	coating
+T38	Property 5390 5396	layers
+T39	Property 5584 5590	Eolian
+T40	Property 5671 5678	igneous
+T41	Mineral 5719 5727	pyroxene
+T42	Mineral 5732 5739	olivine
+T43	Property 6290 6298	basaltic
+T44	Property 6299 6312	hyaloclastite
+T45	Property 6352 6361	weathered
+T46	Mineral 6362 6369	olivine
+T47	Element 6483 6485	Fe
+T48	Mineral 6619 6628	magnetite
+T49	Element 6764 6766	Zn
+T50	Element 6771 6773	Ni
+T51	Element 6866 6868	Zn
+T52	Element 6873 6875	Ni
+T53	Property 7351 7362	composition
+T54	Mineral 7444 7451	olivine
+T55	Target 725 735	Home Plate
+T56	Target 915 925	Home Plate
+T57	Target 1092 1102	Home Plate
+T58	Target 1211 1219	Barnhill
+T59	Target 1255 1265	Home Plate
+T60	Target 1287 1295	Barnhill
+T61	Target 1512 1522	Home Plate
+T62	Target 1555 1564	Pesapallo
+T63	Target 1664 1672	Barnhill
+T64	Target 1705 1715	Home Plate
+T65	Target 1877 1887	Home Plate
+T66	Target 2118 2128	Home Plate
+T67	Target 2220 2230	Home Plate
+T68	Target 2516 2526	Home Plate
+T69	Target 2796 2806	Home Plate
+T70	Target 3101 3111	Home Plate
+T71	Target 3170 3179	Pesapallo
+T72	Target 3184 3192	Barnhill
+T73	Target 3316 3324	Barnhill
+T74	Target 3450 3459	Pesapallo
+T75	Target 3633 3643	Home Plate
+T76	Target 3835 3845	Home Plate
+T77	Target 3944 3954	Home Plate
+T78	Target 4019 4029	Home Plate
+T79	Target 4144 4150	Irvine
+T80	Target 4233 4243	Home Plate
+T81	Target 4448 4457	Pesapallo
+T82	Target 4536 4544	Barnhill
+T83	Target 4610 4620	Home Plate
+T84	Target 4794 4804	Home Plate
+T85	Target 4985 4995	Home Plate
+T86	Target 5141 5151	Home Plate
+T87	Target 5422 5432	Home Plate
+T88	Target 6017 6025	Barnhill
+T89	Target 6030 6039	Pesapallo
+T90	Target 6146 6156	Home Plate
+T91	Target 6209 6219	Home Plate
+T92	Target 6393 6403	Home Plate
+T93	Target 7074 7084	Home Plate
+T94	Target 7392 7402	Home Plate
+R0	Contains Arg1:T70 Arg2:T6
+R1	Contains Arg1:T73 Arg2:T7
+R3	Contains Arg1:T73 Arg2:T8
+R4	Contains Arg1:T73 Arg2:T9
+R5	Contains Arg1:T73 Arg2:T10
+R13	Contains Arg1:T74 Arg2:T11
+R14	Contains Arg1:T74 Arg2:T12
+R15	Contains Arg1:T74 Arg2:T13
+R16	Contains Arg1:T74 Arg2:T14
+R17	Contains Arg1:T75 Arg2:T15
+R18	Contains Arg1:T76 Arg2:T16
+R19	Contains Arg1:T80 Arg2:T19
+R20	Contains Arg1:T80 Arg2:T20
+R21	Contains Arg1:T80 Arg2:T21
+R22	Contains Arg1:T81 Arg2:T22
+R23	Contains Arg1:T81 Arg2:T23
+R24	Contains Arg1:T81 Arg2:T24
+R30	Contains Arg1:T82 Arg2:T25
+R31	Contains Arg1:T82 Arg2:T26
+R32	Contains Arg1:T83 Arg2:T27
+R33	Contains Arg1:T83 Arg2:T28
+R34	Contains Arg1:T83 Arg2:T29
+R35	Contains Arg1:T84 Arg2:T30
+R36	Contains Arg1:T84 Arg2:T31
+R38	Contains Arg1:T92 Arg2:T46
+R39	HasProperty Arg1:T55 Arg2:T1
+R40	HasProperty Arg1:T60 Arg2:T2
+R41	HasProperty Arg1:T78 Arg2:T17
+R49	HasProperty Arg1:T87 Arg2:T38
+R50	HasProperty Arg1:T91 Arg2:T43
+R51	HasProperty Arg1:T92 Arg2:T45
+R52	HasProperty Arg1:T94 Arg2:T53
+T95	Property 766 773	clastic
+R53	HasProperty Arg1:T55 Arg2:T95	
+T96	Property 758 765	layered
+R54	HasProperty Arg1:T55 Arg2:T96	
+T97	Property 799 807	bomb sag
+R55	HasProperty Arg1:T56 Arg2:T97	
+T98	Property 929 940	pyroclastic
+R56	HasProperty Arg1:T56 Arg2:T98	
+T99	Property 952 965	hydrovolcanic
+R57	HasProperty Arg1:T56 Arg2:T99	
+T101	Property 1339 1353	coarse-grained
+R58	HasProperty Arg1:T60 Arg2:T101	
+T100	Property 1390 1402	cross-bedded
+R59	HasProperty Arg1:T60 Arg2:T100	
+T102	Target 1753 1763	TexasChili
+T103	Target 1805 1813	PecanPie
+T104	Property 1592 1605	poorly-sorted
+T105	Property 1607 1619	cross-bedded
+R60	HasProperty Arg1:T62 Arg2:T104	
+R61	HasProperty Arg1:T62 Arg2:T105	
+T106	Target 2194 2206	Husband Hill
+T107	Mineral 3384 3388	npOx
+R2	Contains Arg1:T73 Arg2:T107	
+T108	Mineral 3542 3546	npOx
+R6	Contains Arg1:T74 Arg2:T108	
+T109	Mineral 3649 3653	npOx
+R7	Contains Arg1:T75 Arg2:T109	
+T110	Property 4062 4068	tephra
+R8	HasProperty Arg1:T78 Arg2:T110	
+T111	Mineral 4077 4081	SiO2
+R9	Contains Arg1:T78 Arg2:T111	
+T112	Property 4129 4136	basalts
+R10	HasProperty Arg1:T79 Arg2:T112	
+T113	Property 4116 4128	scorieaceous
+R11	HasProperty Arg1:T79 Arg2:T113	
+T114	Mineral 4042 4052	alkalirich
+R12	Contains Arg1:T78 Arg2:T114	
+T115	Target 4524 4534	TexasChili
+T116	Target 4550 4558	PecanPie
+R25	Contains Arg1:T115 Arg2:T25	
+R26	Contains Arg1:T115 Arg2:T26	
+R27	Contains Arg1:T116 Arg2:T25	
+R28	Contains Arg1:T116 Arg2:T26	
+T117	Target 4667 4676	Low Ridge
+T118	Mineral 4644 4652	hematite
+R29	Contains Arg1:T117 Arg2:T118	
+T119	Property 6313 6319	tephra
+R42	HasProperty Arg1:T91 Arg2:T119	
+T120	Property 6253 6276	hydrothermal alteration
+R43	HasProperty Arg1:T91 Arg2:T120	
+T121	Property 1139 1162	hydrothermal alteration
+R44	HasProperty Arg1:T57 Arg2:T121	
+R45	Contains Arg1:T92 Arg2:T47	
+T122	Mineral 6509 6513	npOx
+R46	Contains Arg1:T92 Arg2:T122	
+T123	Target 53 63	HOME PLATE
+R37	HasProperty Arg1:T91 Arg2:T44	

@@ -1,0 +1,86 @@
+T1	Element 145 146	S
+T2	Property 148 152	Soil
+T3	Property 153 159	Bright
+T4	Property 160 164	soil
+T5	Property 259 263	Soil
+T6	Property 264 270	Bright
+T7	Property 271 275	Soil
+T8	Property 276 280	Soil
+T9	Property 284 288	Rock
+T10	Element 336 337	F
+T11	Property 341 349	Basaltic
+T12	Property 350 354	Sand
+T13	Property 362 373	COMPOSITION
+T14	Mineral 787 795	hematite
+T15	Property 939 948	weathered
+T16	Property 1001 1005	rock
+T17	Mineral 1031 1039	hematite
+T18	Mineral 1350 1358	hematite
+T19	Mineral 1502 1510	hematite
+T20	Property 1758 1769	sedimentary
+T21	Property 1770 1774	rock
+T22	Property 2065 2068	lag
+T23	Property 2411 2417	trench
+T24	Property 2549 2553	rock
+T25	Property 2577 2581	soil
+T26	Element 2686 2688	Fe
+T27	Property 2776 2780	soil
+T28	Property 2797 2801	rock
+T29	Property 2805 2809	rock
+T30	Property 2985 2996	composition
+T31	Property 3097 3101	rock
+T32	Property 3186 3190	soil
+T33	Element 3330 3332	Fe
+T34	Property 3527 3538	composition
+T35	Mineral 3912 3920	hematite
+T36	Property 4458 4462	rock
+T37	Property 4540 4544	rock
+T38	Element 4572 4574	Fe
+T39	Property 5083 5087	Fine
+T40	Property 5088 5092	soil
+T41	Property 5151 5155	rock
+T42	Property 5442 5446	rock
+T43	Property 6084 6088	rock
+T44	Property 6309 6313	soil
+T45	Property 6328 6332	rock
+T46	Property 6948 6952	rock
+T47	Element 7029 7030	S
+T48	Property 7062 7073	composition
+T49	Element 7508 7510	Fe
+T50	Property 7571 7575	dust
+T51	Property 7576 7584	coatings
+T52	Property 7630 7641	composition
+T53	Property 7881 7889	coatings
+T54	Property 8023 8027	soil
+T55	Property 8540 8548	basaltic
+T56	Property 8549 8560	composition
+T57	Element 9347 9349	Fe
+T58	Element 9542 9543	S
+T59	Property 9552 9556	Soil
+T60	Property 9560 9566	Bright
+T61	Property 9567 9571	soil
+T62	Property 9628 9636	Basaltic
+T63	Property 9637 9641	Sand
+T64	Property 9662 9666	Soil
+T65	Property 9667 9673	Bright
+T66	Property 9674 9678	Soil
+T67	Property 9692 9700	Basaltic
+T68	Property 9701 9705	Sand
+T69	Element 9706 9708	Fe
+T70	Element 9722 9724	Fe
+T71	Target-MERB 2402 2410	Anatolia
+T73	Target-MERB 9598 9606	Anatolia
+R0	Contains Arg1:T73 Arg2:T58
+R1	Contains Arg1:T73 Arg2:T69
+R2	Contains Arg1:T73 Arg2:T70
+R3	HasProperty Arg1:T71 Arg2:T23
+R6	HasProperty Arg1:T73 Arg2:T59
+R7	HasProperty Arg1:T73 Arg2:T60
+R8	HasProperty Arg1:T73 Arg2:T61
+R9	HasProperty Arg1:T73 Arg2:T62
+R10	HasProperty Arg1:T73 Arg2:T63
+R11	HasProperty Arg1:T73 Arg2:T64
+R12	HasProperty Arg1:T73 Arg2:T65
+R13	HasProperty Arg1:T73 Arg2:T66
+R14	HasProperty Arg1:T73 Arg2:T67
+R15	HasProperty Arg1:T73 Arg2:T68

@@ -1,0 +1,109 @@
+T1	Property 1006 1015	sediments
+T2	Mineral 1215 1230	phyllosilicates
+T3	Property 1234 1245	sedimentary
+T4	Property 1475 1484	sediments
+T5	Element 1571 1573	Fe
+T6	Element 1574 1576	Mg
+T7	Mineral 1577 1592	phyllosilicates
+T8	Mineral 1623 1630	fluvial
+T9	Mineral 1630 1631	-
+T10	Mineral 1631 1641	lacustrine
+T11	Property 1642 1651	sediments
+T12	Property 2169 2174	crust
+T13	Mineral 2709 2711	Ca
+T15	Mineral 2712 2720	sulfates
+T16	Mineral 2808 2815	olivine
+T17	Mineral 2846 2854	goethite
+T18	Element 2922 2923	S
+T19	Element 2925 2927	Cl
+T20	Element 2932 2934	Br
+T21	Property 2986 2992	brines
+T22	Mineral 3279 3294	phyllosilicates
+T23	Property 3299 3302	red
+T24	Property 3468 3477	sediments
+T25	Element 3716 3718	Fe
+T26	Mineral 3771 3779	goethite
+T27	Mineral 3781 3789	hematite
+T28	Mineral 3814 3822	pyroxene
+T29	Mineral 3895 3903	feldspar
+T30	Mineral 3964 3980	aluminosilicates
+T31	Mineral 4352 4361	allophane
+T32	Mineral 4381 4396	phyllosilicates
+T33	Mineral 4402 4410	zeolites
+T34	Mineral 4416 4431	Phyllosilicates
+T35	Mineral 4553 4562	kaolinite
+T36	Property 4986 4990	dust
+T37	Mineral 5387 5397	carbonates
+T38	Element 5443 5445	Fe
+T39	Element 5446 5448	Mg
+T40	Mineral 5449 5464	phyllosilicates
+T41	Mineral 5586 5601	phyllosilicates
+T42	Mineral 5749 5758	kaolinite
+T43	Mineral 6073 6088	phyllosilicates
+T44	Mineral 6123 6138	phyllosilicates
+T45	Mineral 6440 6455	phyllosilicates
+T46	Mineral 6710 6725	phyllosilicates
+T47	Property 6750 6755	crust
+T48	Property 6951 6960	sediments
+T49	Mineral 7314 7316	Al
+T50	Mineral 7316 7317	-
+T51	Mineral 7317 7332	phyllosilicates
+T52	Element 7404 7406	Fe
+T53	Mineral 7431 7440	chlorides
+T54	Mineral 7615 7621	halite
+T55	Mineral 7631 7639	sulfates
+T56	Mineral 7641 7650	kaolinite
+T57	Mineral 7696 7711	phyllosilicates
+T58	Property 7900 7909	sediments
+T59	Property 8604 8607	red
+T60	Property 8691 8694	red
+T61	Target 916 922	Clovis
+T62	Target 2504 2510	Clovis
+T63	Target 3623 3629	Clovis
+T64	Target 4462 4468	Clovis
+T65	Target 5405 5413	Comanche
+T66	Target 6142 6148	Clovis
+R0	Contains Arg1:T62 Arg2:T18
+R1	Contains Arg1:T62 Arg2:T19
+R2	Contains Arg1:T62 Arg2:T20
+R3	Contains Arg1:T62 Arg2:T13
+R5	Contains Arg1:T62 Arg2:T15
+R7	Contains Arg1:T62 Arg2:T17
+R9	Contains Arg1:T64 Arg2:T35
+R12	Contains Arg1:T65 Arg2:T37
+T67	Property 929 934	rocks
+R17	HasProperty Arg1:T61 Arg2:T67	
+T68	Property 902 912	alteration
+R18	HasProperty Arg1:T61 Arg2:T68	
+T69	Target 2541 2550	West Spur
+T70	Target 2554 2566	Husband Hill
+T71	Property 2584 2591	altered
+R19	HasProperty Arg1:T62 Arg2:T71	
+T14	Element 3007 3009	Al
+T72	Element 3010 3012	Si
+R4	Contains Arg1:T62 Arg2:T14	
+R6	Contains Arg1:T62 Arg2:T72	
+T73	Mineral 3022 3030	silicate
+R16	Contains Arg1:T62 Arg2:T73	
+R20	Contains Arg1:T63 Arg2:T25	
+T74	Mineral 3745 3761	nanophase oxides
+R21	Contains Arg1:T63 Arg2:T74	
+R22	Contains Arg1:T63 Arg2:T26	
+R23	Contains Arg1:T63 Arg2:T27	
+R24	Contains Arg1:T63 Arg2:T28	
+T75	Target 4098 4107	West Spur
+T76	Target 4259 4268	West Spur
+T77	Mineral 4363 4379	amorphous silica
+R25	Contains Arg1:T76 Arg2:T31	
+R26	Contains Arg1:T76 Arg2:T77	
+R27	Contains Arg1:T76 Arg2:T32	
+R28	Contains Arg1:T76 Arg2:T33	
+T78	Target 4776 4785	West Spur
+T79	Property 5414 5422	Outcrops
+R8	HasProperty Arg1:T65 Arg2:T79	
+T80	Target 5609 5618	West Spur
+R10	Contains Arg1:T80 Arg2:T41	
+T81	Element 5578 5580	Fe
+R11	Contains Arg1:T80 Arg2:T81	
+R13	Contains Arg1:T80 Arg2:T43	
+T82	Target 8614 8623	West Spur

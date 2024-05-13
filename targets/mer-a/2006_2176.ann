@@ -1,0 +1,239 @@
+T1	Property 1059 1070	composition
+T2	Property 1538 1542	rock
+T3	Element 1702 1703	S
+T4	Mineral 1707 1714	sulfate
+T5	Mineral 1727 1734	sulfide
+T6	Element 1748 1754	sulfur
+T7	Property 2458 2462	rock
+T8	Property 2530 2534	soil
+T9	Property 2535 2546	composition
+T10	Element 2675 2677	Ni
+T11	Element 2679 2681	Zn
+T12	Element 2686 2688	Br
+T13	Property 2713 2717	soil
+T14	Property 2721 2729	basaltic
+T15	Element 2785 2786	S
+T16	Element 2791 2793	Cl
+T17	Property 2926 2930	dust
+T18	Property 3083 3087	soil
+T19	Property 3088 3099	composition
+T20	Property 3112 3116	soil
+T21	Element 3193 3195	Mg
+T22	Element 3250 3251	S
+T23	Element 3376 3378	Mg
+T24	Element 3383 3385	Ni
+T25	Element 3394 3395	S
+T26	Element 3400 3402	Cl
+T27	Mineral 3440 3447	olivine
+T28	Property 3463 3467	dust
+T29	Property 3638 3642	dust
+T30	Property 3761 3767	trench
+T31	Element 3789 3791	Mg
+T32	Element 3793 3794	S
+T33	Element 3799 3801	Br
+T34	Property 3880 3884	soil
+T35	Element 3961 3963	Fe
+T36	Mineral 3997 4004	sulfate
+T37	Property 4136 4147	composition
+T38	Element 4544 4546	Mg
+T39	Element 4548 4549	S
+T40	Element 4551 4553	Cl
+T41	Element 4558 4560	Br
+T42	Element 4789 4790	P
+T43	Element 4796 4798	Ti
+T44	Mineral 4818 4829	plagioclase
+T45	Element 4846 4848	Mg
+T46	Element 4853 4855	Fe
+T47	Element 4870 4872	Cr
+T48	Element 4975 4977	Ca
+T49	Element 4983 4984	P
+T50	Element 5089 5091	Ti
+T51	Mineral 5106 5115	ilmentite
+T52	Element 5235 5236	S
+T53	Element 5320 5321	S
+T54	Property 5366 5370	rock
+T55	Element 5388 5390	Mg
+T56	Element 5441 5443	Fe
+T57	Mineral 5461 5468	olivine
+T58	Mineral 5473 5482	magnetite
+T59	Property 5531 5539	basaltic
+T60	Element 5567 5569	Mg
+T61	Element 5583 5585	Ca
+T62	Mineral 5586 5594	sulfates
+T63	Property 5667 5678	composition
+T64	Element 5870 5872	Mg
+T65	Property 5921 5932	composition
+T66	Property 6137 6141	rock
+T67	Element 6222 6224	Fe
+T68	Element 6441 6443	Cu
+T69	Element 6445 6447	Ni
+T70	Element 6449 6451	Cr
+T71	Element 6460 6462	Sr
+T72	Element 6491 6493	Zn
+T73	Element 6499 6501	Co
+T74	Element 6506 6508	Ba
+T75	Property 6550 6561	composition
+T76	Element 6715 6719	iron
+T77	Mineral 6750 6758	ilmenite
+T78	Property 6801 6809	basaltic
+T79	Property 7204 7215	composition
+T80	Element 7237 7239	Mg
+T81	Element 7241 7243	Fe
+T82	Element 7248 7250	Ni
+T83	Element 7262 7264	Al
+T84	Element 7269 7271	Ca
+T85	Mineral 7325 7332	olivine
+T86	Mineral 7346 7354	pyroxene
+T87	Property 7436 7440	dune
+T88	Property 7499 7510	composition
+T89	Property 7556 7560	rock
+T90	Property 7628 7632	dust
+T91	Property 7710 7714	dust
+T92	Property 7836 7840	dust
+T93	Mineral 7855 7863	infinite
+T94	Property 7976 7980	soil
+T95	Property 8015 8019	dust
+T96	Element 8105 8107	Si
+T97	Element 8112 8114	Ca
+T98	Element 8126 8127	S
+T99	Element 8132 8134	Cl
+T100	Element 8165 8167	Ti
+T101	Element 8169 8171	Cr
+T102	Element 8176 8178	Fe
+T103	Mineral 8231 8240	magnetite
+T104	Property 8281 8285	dust
+T105	Element 8440 8442	Si
+T106	Element 8443 8445	Ti
+T107	Element 8446 8448	Ca
+T108	Element 8449 8451	Cr
+T109	Element 8452 8454	Fe
+T110	Property 8507 8511	Dust
+T111	Element 8577 8578	S
+T112	Element 8583 8585	Cl
+T113	Element 8659 8661	Si
+T114	Element 8666 8668	Ca
+T116	Target 2138 2150	Independence
+T117	Target 2172 2177	Peace
+T118	Target 2184 2190	Clovis
+T119	Target 3013 3022	El Dorado
+T120	Target 3257 3266	El Dorado
+T121	Target 3892 3903	Paso Robles
+T122	Target 4508 4514	Clovis
+T123	Target 4702 4711	Wishstone
+T124	Target 5150 5155	Peace
+T125	Target 5600 5610	Watchtower
+T126	Target 5717 5726	Wishstone
+T127	Target 5752 5762	Watchtower
+T128	Target 5767 5776	Wishstone
+T129	Target 5876 5886	Watchtower
+T130	Target 5936 5946	Watchtower
+T131	Target 6149 6161	Independence
+T132	Target 6589 6601	Independence
+T133	Target 6777 6785	Backstay
+T134	Target 6790 6796	Irvine
+T135	Target 7426 7435	El Dorado
+R0	Contains Arg1:T120 Arg2:T23
+R1	Contains Arg1:T120 Arg2:T24
+R2	Contains Arg1:T120 Arg2:T25
+R3	Contains Arg1:T120 Arg2:T26
+R4	Contains Arg1:T120 Arg2:T27
+R5	Contains Arg1:T122 Arg2:T38
+R6	Contains Arg1:T122 Arg2:T39
+R7	Contains Arg1:T122 Arg2:T40
+R8	Contains Arg1:T122 Arg2:T41
+R9	Contains Arg1:T123 Arg2:T42
+R10	Contains Arg1:T123 Arg2:T43
+R11	Contains Arg1:T123 Arg2:T45
+R12	Contains Arg1:T123 Arg2:T46
+R13	Contains Arg1:T123 Arg2:T47
+R14	Contains Arg1:T123 Arg2:T44
+R15	Contains Arg1:T124 Arg2:T52
+R16	Contains Arg1:T129 Arg2:T64
+R17	Contains Arg1:T131 Arg2:T67
+R20	HasProperty Arg1:T120 Arg2:T28
+R21	HasProperty Arg1:T121 Arg2:T34
+R22	HasProperty Arg1:T125 Arg2:T63
+R23	HasProperty Arg1:T130 Arg2:T65
+R25	HasProperty Arg1:T132 Arg2:T75
+R26	HasProperty Arg1:T133 Arg2:T78
+R27	HasProperty Arg1:T134 Arg2:T78
+R28	HasProperty Arg1:T135 Arg2:T87
+R29	HasProperty Arg1:T135 Arg2:T88
+T115	Target 2156 2165	Wishstone
+T136	Target 2113 2123	PasoRobles
+T137	Target 2104 2112	Boroughs
+T138	Target 2096 2104	ElDorado
+T139	Property 2976 2986	dune field
+R31	HasProperty Arg1:T119 Arg2:T139	
+R18	HasProperty Arg1:T119 Arg2:T20	
+R19	Contains Arg1:T119 Arg2:T21	
+T140	Target 3752 3760	Boroughs
+R32	Contains Arg1:T140 Arg2:T31	
+R33	Contains Arg1:T140 Arg2:T32	
+R34	Contains Arg1:T140 Arg2:T33	
+R35	Contains Arg1:T121 Arg2:T35	
+T141	Mineral 3932 3935	SO3
+R36	Contains Arg1:T121 Arg2:T141	
+R37	Contains Arg1:T121 Arg2:T36	
+T142	Mineral 4091 4100	phosphate
+R38	Contains Arg1:T121 Arg2:T142	
+R39	Contains Arg1:T123 Arg2:T51	
+R40	Contains Arg1:T124 Arg2:T55	
+R41	Contains Arg1:T124 Arg2:T56	
+R42	Contains Arg1:T124 Arg2:T57	
+R43	Contains Arg1:T124 Arg2:T58	
+R44	Contains Arg1:T124 Arg2:T60	
+R45	Contains Arg1:T124 Arg2:T61	
+R46	Contains Arg1:T124 Arg2:T62	
+R24	Contains Arg1:T131 Arg2:T68	
+R47	Contains Arg1:T131 Arg2:T69	
+R48	Contains Arg1:T131 Arg2:T70	
+R49	Contains Arg1:T131 Arg2:T71	
+R50	Contains Arg1:T131 Arg2:T72	
+R51	Contains Arg1:T131 Arg2:T73	
+T143	Element 6495 6497	Ga
+R52	Contains Arg1:T131 Arg2:T143	
+R53	Contains Arg1:T131 Arg2:T74	
+T144	Property 6626 6630	clay
+R54	HasProperty Arg1:T132 Arg2:T144	
+T145	Mineral 6648 6664	montmorillonites
+R55	Contains Arg1:T132 Arg2:T145	
+R56	Contains Arg1:T132 Arg2:T76	
+T146	Mineral 6763 6771	chromite
+R57	Contains Arg1:T132 Arg2:T77	
+R58	Contains Arg1:T132 Arg2:T146	
+T147	Property 6810 6815	float
+R59	HasProperty Arg1:T133 Arg2:T147	
+R60	HasProperty Arg1:T134 Arg2:T147	
+T148	Target 2211 2223	Haskin Ridge
+T149	Target 2223 2235	Husband Hill
+T150	Target 2235 2244	West Spur
+R30	HasProperty Arg1:T140 Arg2:T30	
+T151	Target 4439 4448	West Spur
+R61	Contains Arg1:T151 Arg2:T38	
+R62	Contains Arg1:T151 Arg2:T39	
+R63	Contains Arg1:T151 Arg2:T40	
+R64	Contains Arg1:T151 Arg2:T41	
+T152	Target 4670 4679	West Spur
+T153	Target 4762 4774	Husband Hill
+R65	Contains Arg1:T153 Arg2:T42	
+R66	Contains Arg1:T153 Arg2:T43	
+R67	Contains Arg1:T153 Arg2:T44	
+R68	Contains Arg1:T153 Arg2:T45	
+R69	Contains Arg1:T153 Arg2:T46	
+R70	Contains Arg1:T153 Arg2:T47	
+T154	Mineral 5006 5019	Ca-phosphates
+R71	Contains Arg1:T123 Arg2:T154	
+R72	Contains Arg1:T153 Arg2:T154	
+R73	Contains Arg1:T153 Arg2:T51	
+T156	Target 7032 7044	Husband Hill
+T155	Target 7186 7198	Husband Hill
+R74	Contains Arg1:T155 Arg2:T80	
+R75	Contains Arg1:T155 Arg2:T81	
+R76	Contains Arg1:T155 Arg2:T82	
+R77	Contains Arg1:T155 Arg2:T83	
+R78	Contains Arg1:T155 Arg2:T84	
+R79	Contains Arg1:T155 Arg2:T85	
+R80	Contains Arg1:T155 Arg2:T86	
+T157	Property 4632 4650	aqueous alteration
+R81	HasProperty Arg1:T122 Arg2:T157	

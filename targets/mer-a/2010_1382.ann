@@ -1,0 +1,74 @@
+T1	Property 332 336	soil
+T2	Property 463 467	soil
+T3	Property 480 491	composition
+T4	Property 800 804	sand
+T5	Property 815 820	fines
+T6	Property 1057 1061	sand
+T7	Property 1066 1071	fines
+T8	Property 1128 1132	Soil
+T9	Property 1366 1370	Sand
+T10	Property 1385 1389	Sand
+T11	Property 1390 1395	Fines
+T12	Property 1405 1409	Sand
+T13	Property 1411 1415	silt
+T14	Property 1623 1634	composition
+T15	Property 1792 1800	sediment
+T16	Property 1999 2005	eolian
+T17	Property 2145 2149	soil
+T18	Property 2165 2169	soil
+T19	Property 2366 2371	fines
+T20	Property 2410 2414	soil
+T21	Property 2448 2459	composition
+T22	Property 2680 2684	soil
+T23	Property 2760 2771	composition
+T24	Property 3349 3353	soil
+T25	Property 3396 3401	fines
+T26	Property 3445 3449	dust
+T27	Property 3712 3717	fines
+T28	Property 3722 3726	dust
+T29	Property 3781 3786	Fines
+T30	Property 3916 3920	sand
+T31	Target 3969 3987	Enderbyland_Mawson
+T32	Property 4133 4137	dust
+T33	Property 4751 4755	rock
+T34	Property 4826 4830	soil
+T35	Property 5345 5350	Fines
+T36	Property 5367 5372	Fines
+T37	Mineral 5377 5385	Ilmenite
+T38	Property 5391 5396	Fines
+T39	Mineral 5401 5403	Mg
+T40	Mineral 5403 5404	-
+T41	Mineral 5404 5411	sulfate
+T42	Property 5481 5486	fines
+T43	Property 5845 5850	fines
+T44	Element 5868 5870	Si
+T45	Property 5925 5930	fines
+T46	Mineral 5936 5944	sulfates
+T47	Element 5966 5968	Ca
+T48	Element 5970 5972	Fe
+T49	Element 5978 5980	Mg
+T50	Element 6005 6007	Ni
+T51	Element 6078 6080	Ti
+T52	Mineral 6100 6108	ilmenite
+T53	Property 6261 6272	composition
+T54	Property 6417 6422	fines
+T55	Property 6839 6850	Sedimentary
+T56	Mineral 7871 7879	feldspar
+T57	Element 7971 7973	Al
+T58	Property 8001 8005	soil
+T59	Mineral 8041 8049	feldspar
+T60	Element 11240 11241	K
+T61	Mineral 21867 21876	koristite
+T62	Target 3811 3824	Gobi1 Deserts
+T63	Target 3864 3875	Crest Arena
+T64	Target 3931 3954	Flats1 Bitterroot flats
+T65	Target 5901 5911	Home Plate
+R0	Contains Arg1:T65 Arg2:T44
+R5	HasProperty Arg1:T62 Arg2:T29
+R6	HasProperty Arg1:T63 Arg2:T30
+R7	HasProperty Arg1:T65 Arg2:T43
+T66	Target 3840 3853	ArthurCHarmon
+T67	Target 3890 3910	ElDoradoScuff_Shadow
+R9	HasProperty Arg1:T66 Arg2:T29	
+R10	HasProperty Arg1:T67 Arg2:T30	
+R11	HasProperty Arg1:T62 Arg2:T32	

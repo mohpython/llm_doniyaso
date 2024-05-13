@@ -1,0 +1,33 @@
+T1	Mineral 924 930	gypsum
+T2	Property 1609 1620	composition
+T3	Property 1692 1703	composition
+T4	Property 2376 2384	fracture
+T5	Property 2469 2473	rock
+T6	Element 2502 2508	Copper
+T7	Property 2718 2724	clasts
+T8	Property 2887 2893	bright
+T9	Property 2978 2983	bands
+T10	Mineral 3335 3341	gypsum
+T11	Mineral 3506 3512	gypsum
+T12	Property 3513 3524	composition
+T13	Property 3871 3875	rock
+T14	Property 4185 4196	composition
+T15	Property 4496 4500	rock
+T16	Mineral 4618 4624	gypsum
+T17	Property 4737 4745	fracture
+T18	Property 5381 5386	bands
+T19	Property 5444 5447	red
+T20	Property 5488 5495	spectra
+T21	Property 5749 5756	spectra
+T22	Property 5767 5770	red
+T23	Property 5773 5777	dust
+T24	Property 5815 5820	bluer
+T25	Property 5830 5834	rock
+T26	Target-MERB 5845 5860	Whitewater Lake
+T27	Property 5898 5905	Spectra
+T28	Target 3259 3269	Home Plate
+R1	HasProperty Arg1:T26 Arg2:T21
+R2	HasProperty Arg1:T26 Arg2:T22
+R3	HasProperty Arg1:T26 Arg2:T23
+R4	HasProperty Arg1:T26 Arg2:T24
+R5	HasProperty Arg1:T26 Arg2:T25

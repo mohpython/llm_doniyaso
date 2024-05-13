@@ -1,0 +1,55 @@
+T1	Property 313 317	soil
+T2	Property 525 533	basaltic
+T3	Element 688 690	Ti
+T4	Property 709 713	soil
+T5	Mineral 1147 1153	Halite
+T6	Property 1267 1274	spectra
+T7	Mineral 1366 1374	chloride
+T8	Mineral 1906 1912	halite
+T9	Property 2023 2030	spectra
+T10	Property 2066 2073	spectra
+T11	Property 2459 2466	spectra
+T12	Mineral 2546 2552	halite
+T13	Mineral 2695 2701	halite
+T14	Mineral 2844 2850	halite
+T15	Property 2899 2906	Spectra
+T16	Mineral 2922 2928	halite
+T17	Property 3406 3410	dust
+T18	Mineral 3490 3496	halite
+T19	Property 3497 3502	crust
+T20	Property 3751 3758	spectra
+T21	Mineral 4136 4142	halite
+T22	Property 4143 4148	crust
+T23	Property 4237 4244	spectra
+T24	Mineral 4263 4269	halite
+T25	Property 4270 4275	crust
+T26	Mineral 4289 4295	halite
+T27	Mineral 4356 4362	halite
+T28	Mineral 4591 4597	halite
+T29	Property 4598 4603	crust
+T30	Property 4732 4739	spectra
+T31	Element 4833 4835	Ta
+T32	Element 4848 4850	Ta
+T33	Mineral 4865 4871	halite
+T34	Mineral 4944 4950	halite
+T35	Property 4951 4956	crust
+T36	Property 5048 5053	crust
+T37	Mineral 5077 5087	non-halite
+T38	Mineral 5194 5202	chloride
+T39	Mineral 5264 5270	halite
+T40	Mineral 5288 5294	halite
+T41	Property 5368 5375	spectra
+T42	Property 5499 5510	sedimentary
+T43	Target 334 344	Home Plate
+T44	Target 3191 3201	Home Plate
+T45	Target 5407 5417	Home Plate
+T46	Target 5613 5623	Home Plate
+T47	Mineral 263 277	opaline silica
+R1	Contains Arg1:T43 Arg2:T47	
+R2	HasProperty Arg1:T43 Arg2:T1	
+T48	Mineral 3152 3167	Digitate silica
+R3	Contains Arg1:T44 Arg2:T48	
+T49	Mineral 5379 5385	silica
+R4	Contains Arg1:T45 Arg2:T49	
+T50	Mineral 5624 5630	silica
+R5	Contains Arg1:T46 Arg2:T50	

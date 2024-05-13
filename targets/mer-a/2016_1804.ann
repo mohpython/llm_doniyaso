@@ -1,0 +1,23 @@
+T1	Property 1029 1033	dust
+T2	Property 1640 1644	flat
+T3	Property 2650 2654	dust
+T4	Property 2750 2758	boulders
+T5	Property 2775 2779	rock
+T6	Property 3304 3308	sand
+T7	Property 4524 4532	boulders
+T8	Property 5007 5016	sediments
+T9	Property 5117 5121	dust
+T10	Property 5805 5809	dust
+T11	Property 6220 6224	dust
+T12	Target 2826 2835	El Dorado
+T13	Target 2846 2856	Home Plate
+T14	Target 3325 3329	Troy
+T15	Target 3356 3366	Home Plate
+T16	Target 4144 4148	Troy
+T17	Target 5390 5394	Troy
+T18	Target 5440 5444	Troy
+T19	Target 6119 6123	Troy
+T20	Target 7510 7514	Troy
+R6	HasProperty Arg1:T14 Arg2:T6
+T21	Property 2836 2841	dunes
+R1	HasProperty Arg1:T12 Arg2:T21	

@@ -1,0 +1,80 @@
+T1	Property 1283 1287	dust
+T2	Element 2687 2688	K
+T3	Element 2727 2728	K
+T4	Element 2739 2740	K
+T5	Property 3139 3143	dust
+T6	Property 3208 3215	Spectra
+T7	Property 3306 3312	bright
+T8	Property 3328 3332	dust
+T9	Property 3368 3375	spectra
+T10	Mineral 3399 3409	carbonates
+T11	Mineral 3559 3567	feldspar
+T12	Mineral 3575 3582	zeolite
+T13	Property 3624 3628	dust
+T14	Property 3689 3693	dust
+T15	Property 3703 3710	Spectra
+T16	Property 3718 3722	rock
+T17	Mineral 3760 3767	olivine
+T18	Mineral 3814 3821	olivine
+T19	Property 3835 3842	spectra
+T20	Property 3904 3908	dust
+T21	Property 3909 3917	coatings
+T22	Property 3931 3938	spectra
+T23	Property 3984 3992	basaltic
+T24	Property 4009 4013	dust
+T25	Property 4130 4134	dust
+T26	Property 4285 4292	spectra
+T27	Property 4304 4308	dust
+T28	Property 4309 4316	coating
+T29	Property 4336 4340	dark
+T30	Property 4416 4427	composition
+T31	Property 4468 4472	dust
+T32	Property 4494 4498	Rock
+T33	Property 4527 4531	dust
+T34	Property 4532 4539	coating
+T35	Property 4588 4595	spectra
+T36	Property 4609 4613	rock
+T37	Property 4649 4656	spectra
+T38	Mineral 4713 4721	hematite
+T39	Mineral 4816 4824	hematite
+T40	Mineral 4882 4890	hematite
+T41	Property 5015 5019	dark
+T42	Property 5029 5035	clasts
+T43	Mineral 5066 5074	hematite
+T44	Property 5120 5124	rock
+T45	Mineral 5217 5225	hematite
+T46	Property 5338 5342	rock
+T47	Mineral 5407 5415	hematite
+T48	Property 5777 5781	soil
+T49	Mineral 5807 5815	hematite
+T50	Property 5888 5892	soil
+T51	Property 5897 5901	rock
+T52	Mineral 5942 5950	hematite
+T53	Property 5964 5968	soil
+T54	Property 6037 6041	dust
+T55	Property 6047 6051	soil
+T56	Mineral 6128 6136	hematite
+T57	Property 6193 6197	soil
+T58	Property 6228 6236	basaltic
+T59	Property 6314 6322	basaltic
+T60	Mineral 6327 6335	hematite
+T61	Mineral 6397 6405	hematite
+T62	Mineral 6552 6562	carbonates
+T63	Property 6836 6840	dark
+T64	Property 6876 6880	dust
+T65	Property 6982 6986	dust
+T66	Property 7058 7065	spectra
+T67	Property 7166 7173	spectra
+T68	Property 7251 7255	dust
+T69	Property 7320 7323	ice
+T70	Property 7350 7357	spectra
+T71	Mineral 7456 7464	hematite
+T73	Target 3723 3733	Adirondack
+R0	Contains Arg1:T73 Arg2:T17
+R1	Contains Arg1:T73 Arg2:T18
+R2	HasProperty Arg1:T73 Arg2:T15
+R3	HasProperty Arg1:T73 Arg2:T16
+T72	Property 3822 3828	basalt
+R4	HasProperty Arg1:T73 Arg2:T72	
+R5	HasProperty Arg1:T73 Arg2:T20	
+R6	HasProperty Arg1:T73 Arg2:T21	

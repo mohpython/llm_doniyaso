@@ -1,0 +1,132 @@
+T1	Property 1 12	COMPOSITION
+T2	Property 655 659	soil
+T3	Element 985 989	iron
+T4	Property 1198 1202	soil
+T5	Element 1502 1506	iron
+T6	Mineral 1655 1663	hematite
+T7	Property 1758 1766	basaltic
+T8	Element 1866 1872	sulfur
+T9	Property 2036 2047	composition
+T10	Element 2372 2376	iron
+T11	Property 2401 2408	spectra
+T12	Element 2432 2438	sulfur
+T13	Mineral 2500 2508	sulfates
+T14	Property 2603 2607	soil
+T15	Property 2825 2829	rock
+T16	Property 2947 2951	soil
+T17	Property 3114 3118	rock
+T18	Element 3155 3157	Cr
+T19	Element 3290 3292	Mg
+T20	Element 3297 3299	Ni
+T21	Element 3471 3472	P
+T22	Element 3473 3475	Ca
+T23	Element 3650 3651	P
+T24	Element 3652 3654	Ca
+T25	Property 3926 3930	soil
+T26	Element 3950 3956	Sulfur
+T27	Element 4057 4063	sulfur
+T28	Element 4145 4151	sulfur
+T29	Element 4233 4235	Si
+T30	Element 4240 4242	Fe
+T31	Property 4291 4299	basaltic
+T32	Mineral 4341 4348	olivine
+T33	Mineral 4353 4361	pyroxene
+T34	Element 4395 4396	K
+T35	Element 4473 4479	sulfur
+T36	Mineral 4505 4507	Mg
+T37	Mineral 4507 4508	-
+T38	Mineral 4508 4515	sulfate
+T39	Element 4526 4528	Mg
+T40	Element 4529 4530	S
+T41	Mineral 4551 4558	sulfate
+T42	Element 4569 4571	Fe
+T43	Element 4572 4573	S
+T44	Mineral 4711 4718	sulfate
+T45	Element 4938 4940	Pu
+T46	Mineral 5014 5022	sulfates
+T47	Mineral 5140 5147	sulfate
+T48	Element 5225 5227	Fe
+T49	Mineral 5242 5249	sulfate
+T50	Element 5280 5281	S
+T51	Element 5323 5325	Fe
+T52	Element 5326 5327	S
+T53	Mineral 5403 5411	sulfates
+T54	Element 5519 5521	Fe
+T55	Element 5522 5523	S
+T56	Element 5602 5604	Fe
+T57	Element 5605 5606	S
+T58	Element 5642 5644	Fe
+T59	Element 5645 5646	S
+T60	Element 5704 5710	sulfur
+T61	Element 5725 5727	Fe
+T62	Element 5728 5729	S
+T63	Element 5832 5834	Fe
+T64	Mineral 5979 5993	ferric sulfate
+T65	Property 6081 6085	soil
+T66	Property 6184 6192	basaltic
+T67	Property 6193 6197	soil
+T68	Mineral 6269 6271	Mg
+T69	Mineral 6271 6272	-
+T70	Mineral 6272 6280	sulfates
+T71	Property 6487 6491	soil
+T72	Mineral 6658 6666	sulfates
+T73	Element 7506 7512	sulfur
+T74	Target 1073 1084	Paso Robles
+T75	Target 1148 1154	Tyrone
+T76	Target 1179 1190	Paso Robles
+T77	Target 1310 1321	Paso Robles
+T78	Target 1550 1561	Paso Robles
+T79	Target 1835 1846	Paso Robles
+T80	Target 1888 1899	Paso Robles
+T81	Target 2703 2714	Paso Robles
+T82	Target 2770 2779	Wishstone
+T83	Target 2784 2794	Watchtower
+T84	Target 3194 3205	Paso Robles
+T85	Target 3234 3243	Wishstone
+T86	Target 3248 3258	Watchtower
+T87	Target 3303 3312	Algonquin
+T88	Target 3527 3536	Algonquin
+T89	Target 3706 3715	Algonquin
+T90	Target 3831 3842	Paso Robles
+T91	Target 4070 4075	Samra
+T92	Target 4824 4835	Paso Robles
+T93	Target 5931 5942	Paso Robles
+T94	Target 6063 6074	Paso Robles
+T95	Target 6469 6480	Paso Robles
+T96	Target 7610 7621	Paso Robles
+R0	Contains Arg1:T78 Arg2:T6
+R1	Contains Arg1:T80 Arg2:T8
+R2	Contains Arg1:T84 Arg2:T18
+R3	Contains Arg1:T85 Arg2:T18
+R4	Contains Arg1:T86 Arg2:T18
+R5	Contains Arg1:T87 Arg2:T19
+R6	Contains Arg1:T87 Arg2:T20
+R19	Contains Arg1:T91 Arg2:T28
+R23	Contains Arg1:T93 Arg2:T64
+R24	Contains Arg1:T96 Arg2:T73
+R25	HasProperty Arg1:T75 Arg2:T4
+R26	HasProperty Arg1:T76 Arg2:T4
+R33	HasProperty Arg1:T90 Arg2:T25
+R34	HasProperty Arg1:T94 Arg2:T65
+R37	HasProperty Arg1:T95 Arg2:T71
+T97	Target 1352 1364	Husband Hill
+T98	Target 1376 1384	Dead Sea
+T99	Target 1689 1697	Dead Sea
+T100	Element 2676 2687	phosphorous
+R27	Contains Arg1:T81 Arg2:T100	
+R38	Contains Arg1:T82 Arg2:T100	
+R39	Contains Arg1:T83 Arg2:T100	
+T101	Target 2972 2980	Dead Sea
+T102	Target 1401 1412	inner basin
+T103	Target 3365 3373	Dead Sea
+R28	Contains Arg1:T103 Arg2:T19	
+R29	Contains Arg1:T103 Arg2:T20	
+T104	Target 4095 4103	Dead Sea
+R7	Contains Arg1:T104 Arg2:T28	
+T105	Property 4867 4875	hydrated
+R8	HasProperty Arg1:T92 Arg2:T105	
+T106	Property 6548 6560	precipitates
+R9	HasProperty Arg1:T95 Arg2:T106	
+T107	Target 35 46	PASO ROBLES
+T108	Property 54 59	SOILS
+R10	HasProperty Arg1:T107 Arg2:T108	

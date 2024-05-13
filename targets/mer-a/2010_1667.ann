@@ -1,0 +1,35 @@
+T1	Property 859 870	composition
+T2	Element 881 887	oxygen
+T3	Property 1501 1505	Rock
+T4	Element 1521 1525	iron
+T5	Element 1658 1664	oxygen
+T6	Element 1878 1884	Carbon
+T7	Element 2161 2165	iron
+T8	Mineral 2387 2395	graphite
+T9	Mineral 2671 2679	graphite
+T10	Property 2999 3010	composition
+T11	Property 3349 3356	spectra
+T12	Mineral 3369 3378	carbonate
+T13	Property 3429 3436	spectra
+T14	Element 3535 3539	iron
+T15	Element 3611 3613	Mg
+T16	Property 3759 3764	mafic
+T17	Property 4081 4084	red
+T18	Element 4387 4391	iron
+T19	Property 4505 4510	mafic
+T20	Mineral 4636 4645	tholeiite
+T21	Mineral 4753 4762	tholeiite
+T22	Mineral 4921 4929	graphite
+T23	Mineral 5079 5083	iron
+T24	Mineral 5083 5084	-
+T25	Mineral 5084 5091	wüstite
+T26	Mineral 5210 5219	carbonate
+T27	Element 5356 5357	C
+T28	Target 1205 1213	Humphrey
+T29	Target 3961 3969	Humphrey
+T30	Target 4178 4186	Humphrey
+T31	Target 4325 4333	Humphrey
+R0	Contains Arg1:T31 Arg2:T18
+R1	HasProperty Arg1:T29 Arg2:T17
+R2	HasProperty Arg1:T30 Arg2:T17
+R3	HasProperty Arg1:T31 Arg2:T19

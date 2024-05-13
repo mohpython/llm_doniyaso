@@ -1,0 +1,108 @@
+T1	Mineral 532 534	Mg
+T2	Mineral 534 535	-
+T3	Mineral 535 543	sulfates
+T4	Property 623 631	basaltic
+T5	Property 892 896	dust
+T6	Property 2283 2286	red
+T7	Mineral 2372 2386	ferric sulfate
+T8	Mineral 2438 2446	hematite
+T9	Element 2514 2516	Fe
+T10	Mineral 2900 2915	ferric sulfates
+T13	Mineral 2996 3007	Ca-sulfates
+T14	Property 3245 3252	spectra
+T15	Property 3724 3731	spectra
+T16	Mineral 4027 4042	ferric sulfates
+T19	Mineral 4116 4127	Fe-sulfates
+T22	Mineral 4137 4148	Mg-sulfates
+T23	Property 4245 4249	dust
+T24	Property 4292 4299	spectra
+T25	Property 4619 4626	spectra
+T26	Property 5054 5061	spectra
+T27	Property 5420 5424	dust
+T28	Property 5497 5504	spectra
+T29	Mineral 7388 7396	sulfates
+T30	Property 7726 7730	dust
+T31	Target 646 663	Bonneville Crater
+T32	Target 998 1009	Paso Robles
+T33	Target 1011 1015	Arad
+T34	Target 1021 1027	Tyrone
+T35	Target 1451 1455	Arad
+T36	Target 1460 1466	Tyrone
+T37	Target 1997 2003	Tyrone
+T38	Target 2113 2124	McCool Hill
+T39	Target 2145 2151	Tyrone
+T40	Target 2252 2263	Paso Robles
+T41	Target 2265 2269	Arad
+T42	Target 2275 2281	Halley
+T43	Target 2403 2414	Paso Robles
+T44	Target 2419 2423	Arad
+T45	Target 2476 2482	Halley
+T46	Target 2586 2597	Paso Robles
+T47	Target 2602 2606	Arad
+T48	Target 2650 2656	Halley
+T49	Target 2685 2691	Halley
+T50	Target 2878 2889	Paso Robles
+T51	Target 2894 2898	Arad
+T52	Target 3049 3055	Tyrone
+T53	Target 3497 3503	Tyrone
+T54	Target 3605 3611	Tyrone
+T55	Target 3964 3970	Tyrone
+T56	Target 4317 4328	Paso Robles
+T57	Target 4333 4337	Arad
+T58	Target 4660 4671	Paso Robles
+T59	Target 4673 4677	Arad
+T60	Target 4683 4689	Tyrone
+T61	Target 4939 4945	Tyrone
+T62	Target 5085 5091	Tyrone
+T63	Target 5980 5986	Tyrone
+T64	Target 6523 6529	Tyrone
+T65	Target 7217 7223	Tyrone
+T66	Target 7309 7315	Tyrone
+R3	Contains Arg1:T43 Arg2:T7
+R5	Contains Arg1:T44 Arg2:T7
+R8	Contains Arg1:T45 Arg2:T8
+R9	Contains Arg1:T46 Arg2:T9
+R10	Contains Arg1:T47 Arg2:T9
+R12	Contains Arg1:T50 Arg2:T10
+R15	Contains Arg1:T50 Arg2:T13
+R16	Contains Arg1:T51 Arg2:T10
+R19	Contains Arg1:T51 Arg2:T13
+R20	Contains Arg1:T55 Arg2:T16
+R23	Contains Arg1:T55 Arg2:T19
+R26	Contains Arg1:T55 Arg2:T22
+R31	HasProperty Arg1:T54 Arg2:T15
+R32	HasProperty Arg1:T55 Arg2:T23
+R33	HasProperty Arg1:T56 Arg2:T24
+R34	HasProperty Arg1:T57 Arg2:T24
+R35	HasProperty Arg1:T58 Arg2:T25
+R36	HasProperty Arg1:T59 Arg2:T25
+R37	HasProperty Arg1:T60 Arg2:T25
+R38	HasProperty Arg1:T62 Arg2:T26
+T67	Property 775 780	salty
+T68	Property 763 774	light-toned
+R1	HasProperty Arg1:T32 Arg2:T68	
+R2	HasProperty Arg1:T32 Arg2:T67	
+R27	HasProperty Arg1:T33 Arg2:T68	
+R39	HasProperty Arg1:T33 Arg2:T67	
+R40	HasProperty Arg1:T34 Arg2:T68	
+R41	HasProperty Arg1:T34 Arg2:T67	
+T69	Mineral 2521 2524	SO3
+R4	Contains Arg1:T46 Arg2:T69	
+R6	Contains Arg1:T47 Arg2:T69	
+T70	Mineral 2623 2626	CaO
+T71	Mineral 2631 2634	SO3
+R7	Contains Arg1:T48 Arg2:T70	
+R11	Contains Arg1:T48 Arg2:T71	
+T11	Element 2988 2990	Mg
+R13	Contains Arg1:T51 Arg2:T11	
+R14	Contains Arg1:T50 Arg2:T11	
+T12	Property 3925 3932	layered
+R17	HasProperty Arg1:T55 Arg2:T12	
+T17	Element 4129 4131	Ca
+R18	Contains Arg1:T55 Arg2:T17	
+T18	Mineral 4169 4176	halides
+R21	Contains Arg1:T55 Arg2:T18	
+T20	Property 4770 4778	hydrated
+R22	HasProperty Arg1:T58 Arg2:T20	
+R24	HasProperty Arg1:T59 Arg2:T20	
+R25	HasProperty Arg1:T60 Arg2:T20	

@@ -1,0 +1,92 @@
+T1	Property 445 454	vesicular
+T2	Property 805 813	basaltic
+T3	Property 1087 1096	vesicular
+T4	Property 1412 1424	Vesicularity
+T5	Property 1446 1454	vesicles
+T6	Property 1563 1571	Vesicles
+T7	Property 2081 2089	basaltic
+T8	Property 2457 2466	vesicular
+T9	Property 2612 2618	planar
+T10	Property 2723 2732	vesicular
+T11	Property 2898 2906	basaltic
+T12	Property 3019 3027	basaltic
+T13	Property 3189 3198	vesicular
+T14	Property 3552 3561	Vesicular
+T15	Property 3842 3851	vesicular
+T16	Property 3852 3860	basaltic
+T17	Property 4109 4118	sediments
+T18	Property 4270 4282	vesicularity
+T19	Property 4373 4385	vesicularity
+T20	Property 4387 4394	tabular
+T21	Property 4853 4857	rock
+T22	Property 5043 5055	Vesicularity
+T23	Property 5067 5074	vesicle
+T24	Property 5155 5167	vesicularity
+T25	Property 5210 5222	Vesicularity
+T26	Property 5292 5304	vesicularity
+T27	Property 5567 5579	vesicularity
+T28	Property 5635 5643	basaltic
+T30	Property 5937 5946	vesicular
+T31	Property 6005 6017	vesicularity
+T32	Property 6146 6155	vesicular
+T33	Property 6770 6776	clasts
+T34	Property 6905 6914	vesicular
+T35	Element 6964 6965	F
+T36	Target 2522 2539	Mitcheltree Ridge
+T37	Target 3299 3308	Esperanza
+T38	Target 3697 3707	Home Plate
+T39	Target 3926 3943	Mitcheltree Ridge
+T40	Target 3970 3980	Home Plate
+T41	Target 4178 4195	Mitcheltree Ridge
+T42	Target 4298 4315	Mitcheltree Ridge
+T43	Target 4737 4744	Orcadas
+T44	Target 5624 5631	Orcadas
+R0	HasProperty Arg1:T36 Arg2:T8
+R1	HasProperty Arg1:T37 Arg2:T13
+R2	HasProperty Arg1:T39 Arg2:T15
+R3	HasProperty Arg1:T39 Arg2:T16
+R7	HasProperty Arg1:T42 Arg2:T18
+R8	HasProperty Arg1:T42 Arg2:T19
+R9	HasProperty Arg1:T42 Arg2:T20
+R10	HasProperty Arg1:T44 Arg2:T28
+T45	Target 2139 2150	Inner Basin
+T46	Property 2151 2158	basalts
+T47	Mineral 2118 2124	alkali
+R11	Contains Arg1:T45 Arg2:T47	
+R12	HasProperty Arg1:T45 Arg2:T46	
+T48	Property 2467 2474	basalts
+R13	HasProperty Arg1:T36 Arg2:T48	
+T49	Target 3048 3059	Inner Basin
+R14	HasProperty Arg1:T49 Arg2:T12	
+T50	Mineral 3012 3018	alkali
+R15	Contains Arg1:T49 Arg2:T50	
+T51	Target 3263 3269	Masada
+T52	Target 3278 3286	GongGong
+T53	Property 3199 3205	basalt
+R16	HasProperty Arg1:T51 Arg2:T53	
+R17	HasProperty Arg1:T52 Arg2:T53	
+R18	HasProperty Arg1:T37 Arg2:T53	
+R19	HasProperty Arg1:T51 Arg2:T13	
+R20	HasProperty Arg1:T52 Arg2:T13	
+T54	Target 3639 3651	Husband Hill
+T55	Target 3669 3680	Inner Basin
+T56	Target 3759 3777	Mitcheltree Ridges
+T57	Target 3749 3754	Lorre
+T58	Target 3908 3919	Inner Basin
+R21	HasProperty Arg1:T58 Arg2:T16	
+R22	HasProperty Arg1:T58 Arg2:T15	
+T59	Target 3951 3960	Low Ridge
+R23	HasProperty Arg1:T59 Arg2:T16	
+R24	HasProperty Arg1:T59 Arg2:T15	
+T60	Target 4026 4032	Irvine
+T61	Property 4437 4454	quenched surfaces
+R4	HasProperty Arg1:T42 Arg2:T61	
+T62	Property 4830 4846	quenched surface
+R5	HasProperty Arg1:T43 Arg2:T62	
+T63	Property 5644 5649	block
+R6	HasProperty Arg1:T44 Arg2:T63	
+T64	Target 5672 5681	Low Ridge
+T65	Property 5775 5795	basal quench texture
+R26	HasProperty Arg1:T44 Arg2:T65	
+T29	Property 5845 5862	scoriaceous knobs
+R25	HasProperty Arg1:T44 Arg2:T29	

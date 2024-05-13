@@ -1,0 +1,84 @@
+T1	Target-MERB 795 808	Pierre Pinaut
+T2	Property 834 842	fracture
+T3	Property 1115 1123	fracture
+T4	Property 1201 1207	bright
+T5	Property 1212 1216	dark
+T6	Target-MERB 1346 1363	George_Drouillard
+T7	Property 1444 1450	bright
+T8	Property 1451 1455	soil
+T9	Property 1535 1541	bright
+T10	Property 1542 1546	soil
+T11	Target-MERB 1854 1871	George_Drouillard
+T12	Property 2159 2166	spectra
+T13	Property 2218 2221	red
+T14	Property 2231 2235	dark
+T15	Property 2236 2240	soil
+T16	Property 2259 2263	soil
+T17	Element 2561 2562	C
+T18	Property 2761 2772	composition
+T19	Property 3379 3382	red
+T20	Property 3400 3411	composition
+T21	Property 3574 3582	basaltic
+T22	Property 3583 3587	sand
+T23	Property 3772 3776	dark
+T24	Property 3777 3781	soil
+T25	Property 3806 3817	composition
+T26	Property 3951 3955	soil
+T27	Property 4181 4185	dark
+T28	Property 4186 4190	soil
+T29	Property 4300 4303	red
+T30	Property 4379 4387	fracture
+T31	Target-MERB 4402 4419	George_Drouillard
+T32	Mineral 4466 4474	sulfates
+T33	Property 4479 4487	basaltic
+T34	Property 4488 4492	soil
+T35	Element 4593 4595	Mg
+T36	Element 4600 4601	S
+T37	Property 4750 4754	soil
+T38	Element 5116 5118	Mg
+T39	Mineral 5119 5126	sulfate
+T40	Mineral 5184 5198	schwertmannite
+T41	Mineral 5200 5206	gypsum
+T42	Element 5212 5220	aluminum
+T43	Mineral 5221 5228	sulfate
+T44	Property 5406 5414	fracture
+T45	Property 5463 5467	dark
+T46	Property 5468 5472	soil
+T47	Property 5534 5542	basaltic
+T48	Property 5543 5547	soil
+T49	Property 5553 5556	red
+T50	Element 5581 5583	Al
+T51	Element 5585 5587	Si
+T52	Element 5593 5594	K
+T53	Element 5611 5613	Fe
+T54	Element 5618 5620	Mg
+T55	Property 5735 5743	fracture
+T56	Property 6509 6512	red
+T57	Property 6627 6630	Red
+T58	Property 6643 6647	Dark
+T59	Property 6648 6652	soil
+T60	Property 6843 6847	dark
+T61	Property 6848 6852	soil
+T62	Property 6908 6916	basaltic
+T63	Property 6917 6921	soil
+T64	Element 6986 6987	S
+T65	Element 7014 7016	Mg
+T66	Property 7022 7025	red
+T67	Element 7079 7081	Si
+T68	Element 7083 7085	Al
+T69	Element 7091 7092	K
+T70	Element 7119 7121	Cl
+T71	Element 7123 7125	Ca
+T72	Element 7131 7133	Na
+R0	Contains Arg1:T31 Arg2:T32
+R1	HasProperty Arg1:T1 Arg2:T2
+R2	HasProperty Arg1:T6 Arg2:T7
+R3	HasProperty Arg1:T6 Arg2:T8
+R4	HasProperty Arg1:T6 Arg2:T9
+R5	HasProperty Arg1:T6 Arg2:T10
+R6	HasProperty Arg1:T31 Arg2:T27
+R7	HasProperty Arg1:T31 Arg2:T28
+R8	HasProperty Arg1:T31 Arg2:T29
+R9	HasProperty Arg1:T31 Arg2:T30
+R10	HasProperty Arg1:T31 Arg2:T33
+R11	HasProperty Arg1:T31 Arg2:T34

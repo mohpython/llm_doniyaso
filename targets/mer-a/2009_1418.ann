@@ -1,0 +1,161 @@
+T1	Property 10 17	SPECTRA
+T2	Property 511 518	coating
+T3	Property 801 809	basaltic
+T4	Property 883 887	rock
+T5	Property 991 999	basaltic
+T6	Property 1118 1125	spectra
+T7	Property 1173 1177	dust
+T8	Property 1244 1251	spectra
+T9	Property 1261 1265	rock
+T10	Mineral 1490 1497	olivine
+T11	Property 1585 1592	spectra
+T12	Mineral 1861 1872	plagioclase
+T13	Mineral 1873 1881	feldspar
+T14	Mineral 1887 1900	clinopyroxene
+T15	Mineral 1907 1914	olivine
+T16	Property 1966 1970	rock
+T17	Element 2110 2116	sulfur
+T18	Mineral 2155 2163	sulfides
+T19	Mineral 2167 2175	sulfates
+T20	Property 2329 2336	spectra
+T21	Mineral 2387 2394	sulfate
+T22	Property 2487 2494	spectra
+T23	Property 2600 2607	spectra
+T24	Property 2796 2800	rock
+T25	Mineral 2898 2906	sulfates
+T26	Property 3010 3014	dust
+T27	Property 3212 3220	Basaltic
+T28	Property 3383 3391	Basaltic
+T29	Property 3428 3432	dark
+T30	Property 3592 3599	spectra
+T31	Property 4103 4110	spectra
+T32	Property 4233 4240	spectra
+T33	Property 4255 4259	rock
+T34	Property 4373 4377	dust
+T35	Mineral 4489 4496	Sulfate
+T36	Property 4586 4593	spectra
+T37	Property 4597 4605	basaltic
+T38	Property 4848 4855	spectra
+T39	Property 4916 4920	rock
+T40	Property 4921 4928	spectra
+T41	Property 5042 5046	rock
+T42	Property 5090 5094	rock
+T43	Property 5138 5145	coating
+T44	Property 5226 5230	dust
+T45	Mineral 5263 5271	sulfates
+T46	Mineral 5381 5389	sulfates
+T47	Mineral 5473 5481	sulfates
+T48	Mineral 5768 5776	pyroxene
+T49	Mineral 5786 5793	olivine
+T50	Mineral 5803 5814	plagioclase
+T51	Property 5843 5847	dust
+T52	Property 6111 6118	spectra
+T53	Mineral 6140 6147	sulfate
+T54	Property 6318 6325	spectra
+T55	Mineral 6329 6337	sulfates
+T56	Mineral 6458 6465	olivine
+T57	Property 6707 6714	spectra
+T58	Mineral 6925 6933	sulfates
+T59	Property 6994 6998	rock
+T60	Mineral 7030 7037	sulfate
+T61	Mineral 7043 7050	olivine
+T62	Mineral 7059 7068	magnetite
+T63	Property 7138 7145	spectra
+T64	Mineral 7181 7188	zeolite
+T65	Mineral 7311 7319	sulfates
+T66	Mineral 7348 7355	sulfate
+T67	Mineral 7415 7422	olivine
+T68	Property 7559 7566	spectra
+T69	Mineral 7620 7627	sulfate
+T70	Mineral 7728 7735	sulfate
+T71	Property 7763 7770	coating
+T72	Mineral 7827 7834	sulfate
+T73	Mineral 7836 7845	magnetite
+T74	Mineral 7851 7858	olivine
+T75	Mineral 7877 7884	sulfate
+T76	Element 8049 8055	sulfur
+T77	Mineral 8091 8100	magnetite
+T78	Mineral 8144 8151	olivine
+T79	Property 8201 8209	basaltic
+T80	Property 8227 8234	coating
+T81	Target 533 541	Mazatzal
+T82	Target 849 859	Adirondack
+T83	Target 946 956	Adirondack
+T84	Target 3563 3573	Adirondack
+T85	Target 5095 5103	Mazatzal
+T86	Target 6999 7007	Mazatzal
+T87	Target 7774 7782	Mazatzal
+T88	Target 8912 8920	Mazatzal
+R0	Contains Arg1:T86 Arg2:T60
+R1	Contains Arg1:T86 Arg2:T61
+R2	Contains Arg1:T86 Arg2:T62
+R3	Contains Arg1:T87 Arg2:T72
+R4	Contains Arg1:T87 Arg2:T73
+R5	Contains Arg1:T87 Arg2:T74
+R6	HasProperty Arg1:T81 Arg2:T2
+R8	HasProperty Arg1:T83 Arg2:T4
+R9	HasProperty Arg1:T83 Arg2:T5
+R16	HasProperty Arg1:T85 Arg2:T42
+R17	HasProperty Arg1:T85 Arg2:T43
+R18	HasProperty Arg1:T86 Arg2:T59
+R19	HasProperty Arg1:T87 Arg2:T71
+T89	Target 21 29	MAZATZAL
+T90	Target 40 50	ADIRONDACK
+T91	Target 710 720	Adirondack
+T92	Target 759 768	West Spur
+T93	Target 1129 1139	Adirondack
+R7	HasProperty Arg1:T93 Arg2:T6	
+R20	Contains Arg1:T93 Arg2:T10	
+T94	Target 1978 1983	Sarah
+T95	Target 1949 1959	Adirondack
+R21	HasProperty Arg1:T94 Arg2:T16	
+R22	Contains Arg1:T94 Arg2:T12	
+R23	Contains Arg1:T94 Arg2:T13	
+R24	Contains Arg1:T94 Arg2:T14	
+R25	Contains Arg1:T94 Arg2:T15	
+T96	Mineral 1929 1935	silica
+R26	Contains Arg1:T94 Arg2:T96	
+T97	Target 2012 2022	Adirondack
+R27	Contains Arg1:T97 Arg2:T17	
+R28	Contains Arg1:T97 Arg2:T19	
+T98	Target 2801 2806	Sarah
+R29	HasProperty Arg1:T98 Arg2:T24	
+T99	Target 3283 3295	Husband Hill
+T100	Target 3661 3671	Adirondack
+T101	Target 3765 3776	Raster_rock
+T102	Target 3791 3795	Chac
+T103	Target 3753 3762	West Spur
+T104	Target 3892 3901	West Spur
+T105	Target 3950 3962	Husband Hill
+T106	Target 4086 4096	Adirondack
+T107	Target 4321 4331	Adirondack
+T108	Target 4500 4510	Adirondack
+R10	Contains Arg1:T108 Arg2:T35	
+T109	Target 4650 4660	Adirondack
+T110	Target 4786 4791	Sarah
+T111	Target 4899 4909	Adirondack
+T112	Target 4977 4987	Adirondack
+T113	Element 5122 5128	sulfur
+R11	Contains Arg1:T85 Arg2:T113	
+T114	Target 5357 5362	Sarah
+R12	Contains Arg1:T114 Arg2:T46	
+T115	Target 5746 5751	Sarah
+R13	Contains Arg1:T115 Arg2:T48	
+R14	Contains Arg1:T115 Arg2:T49	
+R15	Contains Arg1:T115 Arg2:T50	
+R30	HasProperty Arg1:T115 Arg2:T51	
+T116	Target 6029 6034	Sarah
+R31	Contains Arg1:T86 Arg2:T64	
+T117	Target 7570 7580	Adirondack
+R32	Contains Arg1:T117 Arg2:T69	
+R33	Contains Arg1:T87 Arg2:T75	
+T118	Target 8959 8964	Sarah
+T119	Property 1936 1941	glass
+R34	HasProperty Arg1:T94 Arg2:T119	
+T120	Property 7122 7129	glasses
+R35	HasProperty Arg1:T86 Arg2:T120	
+T121	Property 124 134	ALTERATION
+R36	HasProperty Arg1:T89 Arg2:T121	
+R37	HasProperty Arg1:T90 Arg2:T121	
+R38	HasProperty Arg1:T89 Arg2:T1	
+R39	HasProperty Arg1:T90 Arg2:T1	

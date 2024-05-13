@@ -1,0 +1,111 @@
+T1	Property 466 470	soil
+T2	Property 738 742	soil
+T3	Property 862 866	soil
+T4	Property 1248 1252	soil
+T5	Property 1399 1406	angular
+T6	Property 2600 2604	soil
+T7	Property 2619 2622	red
+T8	Property 2631 2635	soil
+T9	Property 2720 2724	soil
+T10	Property 2796 2803	angular
+T11	Property 2805 2809	silt
+T12	Property 2813 2817	fine
+T13	Property 2942 2948	poorly
+T14	Property 2949 2955	sorted
+T15	Mineral 3162 3170	sulfates
+T16	Element 3202 3209	calcium
+T17	Property 3238 3244	layers
+T18	Property 3250 3258	basaltic
+T19	Property 3417 3421	fine
+T20	Property 3422 3426	sand
+T21	Property 3634 3638	soil
+T22	Property 3639 3645	layers
+T23	Property 3701 3705	soil
+T24	Property 3727 3731	Rock
+T25	Property 3768 3774	layers
+T26	Property 4156 4161	sharp
+T27	Property 4249 4256	angular
+T28	Property 4469 4475	eolian
+T29	Property 4476 4484	basaltic
+T30	Property 4485 4489	sand
+T31	Property 4525 4530	crust
+T32	Property 4556 4563	angular
+T33	Property 4564 4572	siltsand
+T34	Property 4760 4764	soil
+T35	Property 5093 5097	soil
+T36	Property 5113 5124	composition
+T37	Property 5159 5163	soil
+T38	Property 5208 5213	fines
+T39	Property 5282 5286	sand
+T40	Property 5368 5376	basaltic
+T41	Property 5400 5404	sand
+T42	Property 5474 5479	fines
+T43	Target 532 548	Scamander Crater
+T44	Target 594 604	Home Plate
+T45	Target 745 752	Ulysses
+T46	Target 1191 1198	Ulysses
+T47	Target 1470 1477	Ulysses
+T48	Target 2433 2440	Ulysses
+T49	Target 2443 2452	Sackrider
+T50	Target 2456 2462	Penina
+T52	Target 2470 2482	Olive Branch
+T54	Target 2534 2546	Olive Branch
+T55	Target 2641 2647	Penina
+T56	Target 2652 2661	Sackrider
+T57	Target 2697 2704	Ulysses
+T59	Target 3049 3061	Olive Branch
+T61	Target 3301 3312	Cyclops Eye
+T62	Target 3363 3370	Ulysses
+T64	Target 3681 3692	Cyclops Eye
+T66	Target 3879 3891	Cyclops Eye5
+T68	Target 3984 3995	Cyclops Eye
+T69	Target 4016 4023	Ulysses
+T71	Target 4355 4367	Cyclops Eye5
+T72	Target 4976 4982	Penina
+T73	Target 4999 5006	Ulysses
+T74	Target 5518 5529	West Valley
+T75	Target 5657 5666	Sackrider
+T76	Target 5668 5674	Penina
+T78	Target 5676 5688	Olive Branch
+T80	Target 5690 5702	Cyclops Eye1
+T82	Target 5708 5720	Cyclops Eye5
+T83	Target 5740 5747	Penina1
+T84	Target 5789 5796	Penina2
+R2	HasProperty Arg1:T45 Arg2:T2
+R3	HasProperty Arg1:T46 Arg2:T4
+R11	HasProperty Arg1:T55 Arg2:T9
+R15	HasProperty Arg1:T56 Arg2:T9
+R19	HasProperty Arg1:T57 Arg2:T9
+R27	HasProperty Arg1:T72 Arg2:T35
+R30	HasProperty Arg1:T73 Arg2:T35
+T85	Property 572 578	crater
+R1	HasProperty Arg1:T43 Arg2:T85	
+T86	Property 552 559	shallow
+R34	HasProperty Arg1:T43 Arg2:T86	
+T87	Property 716 726	Lighttoned
+R35	HasProperty Arg1:T45 Arg2:T87	
+T88	Mineral 1422 1429	sulfate
+R36	Contains Arg1:T46 Arg2:T88	
+T89	Property 1408 1421	poorly sorted
+R38	HasProperty Arg1:T46 Arg2:T89	
+T51	Property 2783 2794	light-toned
+R4	HasProperty Arg1:T54 Arg2:T51	
+R5	HasProperty Arg1:T55 Arg2:T51	
+R6	HasProperty Arg1:T56 Arg2:T51	
+R7	HasProperty Arg1:T61 Arg2:T18	
+T53	Property 3397 3408	well-sorted
+R8	HasProperty Arg1:T61 Arg2:T53	
+R9	HasProperty Arg1:T64 Arg2:T23	
+R10	HasProperty Arg1:T66 Arg2:T25	
+R12	HasProperty Arg1:T64 Arg2:T22	
+T58	Target 4210 4223	Cyclops_eye_1
+T60	Property 727 737	subsurface
+R13	HasProperty Arg1:T45 Arg2:T60	
+R14	HasProperty Arg1:T46 Arg2:T5	
+R16	HasProperty Arg1:T54 Arg2:T10	
+R17	HasProperty Arg1:T55 Arg2:T10	
+R18	HasProperty Arg1:T56 Arg2:T10	
+T63	Property 3410 3415	round
+R20	HasProperty Arg1:T61 Arg2:T63	
+T65	Target 78 94	SCAMANDER CRATER
+T67	Target 104 114	HOME PLATE

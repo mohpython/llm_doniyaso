@@ -1,0 +1,63 @@
+T1	Property 1321 1328	coating
+T2	Property 1333 1337	soil
+T3	Property 1638 1645	spectra
+T4	Property 2058 2063	bands
+T5	Property 2568 2572	dark
+T6	Property 2611 2615	flat
+T7	Property 2672 2679	spectra
+T8	Property 2702 2706	dust
+T9	Property 2797 2801	rock
+T10	Property 2969 2976	spectra
+T11	Property 3034 3041	spectra
+T12	Property 3118 3125	spectra
+T13	Property 3142 3146	rock
+T14	Property 3239 3246	Spectra
+T15	Property 3374 3381	spectra
+T16	Mineral 3576 3583	olivine
+T17	Mineral 3764 3775	plagioclase
+T18	Mineral 3776 3784	feldspar
+T19	Property 3877 3884	spectra
+T20	Property 3989 3993	dust
+T21	Property 3998 4006	coatings
+T22	Property 4187 4191	dark
+T23	Property 4512 4516	rock
+T24	Property 4644 4648	dust
+T25	Property 4658 4666	coatings
+T26	Property 5006 5012	bright
+T27	Property 5071 5076	sharp
+T28	Property 5222 5226	rock
+T29	Property 5360 5364	rock
+T30	Property 6020 6024	rock
+T31	Target 2855 2863	Palenque
+T32	Target 2889 2898	Wishstone
+T33	Target 2998 3006	Palenque
+T34	Target 3015 3024	Wishstone
+T35	Target 3655 3663	Palenque
+T36	Target 3712 3721	Wishstone
+T37	Target 4217 4225	Palenque
+T38	Target 4399 4408	Wishstone
+T39	Target 5104 5112	Palenque
+T40	Target 5120 5129	Wishstone
+T41	Target 5906 5914	Palenque
+T42	Target 5915 5924	Wishstone
+R0	Contains Arg1:T36 Arg2:T17
+R1	Contains Arg1:T36 Arg2:T18
+R2	HasProperty Arg1:T31 Arg2:T9
+R3	HasProperty Arg1:T32 Arg2:T9
+R4	HasProperty Arg1:T33 Arg2:T10
+R5	HasProperty Arg1:T34 Arg2:T10
+R6	HasProperty Arg1:T37 Arg2:T22
+R9	HasProperty Arg1:T42 Arg2:T30
+T43	Target 2821 2830	Humphries
+R10	HasProperty Arg1:T43 Arg2:T9	
+T44	Target 2984 2993	Humphries
+R11	HasProperty Arg1:T44 Arg2:T10	
+T45	Target 3540 3549	Humphries
+R12	Contains Arg1:T45 Arg2:T16	
+T46	Target 4358 4367	Humphries
+T47	Element 4481 4483	Fe
+R13	Contains Arg1:T38 Arg2:T47	
+R14	Contains Arg1:T46 Arg2:T47	
+T48	Target 5896 5905	Humphries
+R7	HasProperty Arg1:T41 Arg2:T30	
+R8	HasProperty Arg1:T48 Arg2:T30	

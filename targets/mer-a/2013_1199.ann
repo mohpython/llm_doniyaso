@@ -1,0 +1,65 @@
+T1	Property 2805 2811	eolian
+T2	Property 2812 2816	sand
+T3	Property 2953 2957	Rock
+T4	Property 3129 3133	sand
+T5	Target-MSL 3964 3971	Et_Then
+T6	Property 4326 4330	dark
+T7	Property 4353 4357	dust
+T8	Property 4372 4376	fine
+T9	Property 4377 4381	sand
+T10	Property 4539 4543	rock
+T11	Property 4589 4593	dust
+T12	Property 4598 4602	sand
+T13	Property 5030 5034	rock
+T14	Property 5052 5056	Sand
+T15	Property 5061 5065	Dust
+T16	Property 5067 5071	Sand
+T17	Property 5255 5259	sand
+T18	Property 5271 5275	dust
+T19	Property 5334 5342	cohesive
+T20	Property 5432 5436	rock
+T21	Target-MSL 5443 5450	Burwash
+T22	Property 5477 5481	sand
+T23	Property 5525 5529	sand
+T24	Property 5719 5723	fine
+T25	Property 5732 5736	fine
+T26	Property 5937 5941	dark
+T27	Property 5947 5951	rock
+T28	Property 6058 6062	rock
+T29	Property 6124 6128	rock
+T30	Property 6150 6154	fine
+T31	Property 6163 6167	fine
+T32	Property 6168 6172	sand
+T33	Property 6174 6178	silt
+T34	Property 6195 6199	dust
+T35	Property 6207 6211	sand
+T36	Property 6428 6432	sand
+T37	Property 6729 6733	dust
+T38	Property 6748 6752	sand
+T39	Property 6770 6774	rock
+T40	Property 6952 6956	sand
+T41	Element 7034 7036	Ti
+T42	Property 7351 7355	dust
+T43	Property 7478 7482	dust
+T44	Property 7580 7584	dust
+T45	Property 7650 7654	dust
+T46	Property 7706 7712	clasts
+T47	Property 8564 8568	dark
+T48	Property 9554 9558	sand
+T49	Property 10225 10232	banding
+T50	Property 10612 10616	flat
+T51	Property 10666 10670	rock
+T52	Property 10821 10825	sand
+T53	Property 10852 10856	rock
+T54	Target-MSL 10858 10865	La_Bine
+T55	Property 11073 11077	rock
+T56	Target-MSL 11079 11086	Et_Then
+T57	Property 11443 11447	sand
+T58	Element 14681 14682	K
+T59	Mineral 25308 25317	koristite
+R0	HasProperty Arg1:T21 Arg2:T17
+R1	HasProperty Arg1:T21 Arg2:T18
+R2	HasProperty Arg1:T21 Arg2:T19
+R3	HasProperty Arg1:T21 Arg2:T20
+R4	HasProperty Arg1:T54 Arg2:T53
+R5	HasProperty Arg1:T56 Arg2:T55

@@ -1,0 +1,84 @@
+T1	Element 773 775	Cm
+T2	Element 970 972	Na
+T3	Property 1508 1515	igneous
+T4	Property 1526 1537	sedimentary
+T5	Element 1941 1942	S
+T6	Element 1955 1957	Fe
+T7	Element 2171 2172	S
+T8	Element 2177 2179	Fe
+T9	Element 2194 2195	S
+T10	Element 2200 2202	Fe
+T11	Element 2234 2235	S
+T12	Element 2250 2252	Fe
+T13	Property 2864 2868	rock
+T14	Property 3098 3106	basaltic
+T15	Property 3126 3130	rock
+T16	Element 3230 3232	Cr
+T17	Property 3465 3473	basaltic
+T18	Element 3520 3522	Mg
+T19	Mineral 3564 3571	olivine
+T20	Mineral 3578 3585	olivine
+T21	Mineral 3736 3743	biotite
+T22	Mineral 3745 3755	phlogopite
+T23	Mineral 3761 3771	lepidolite
+T24	Mineral 4755 4764	Quartzite
+T25	Property 4970 4981	composition
+T26	Mineral 5215 5222	sulfate
+T27	Mineral 5304 5312	sulfates
+T28	Mineral 5537 5543	gypsum
+T29	Mineral 5548 5556	jarosite
+T30	Mineral 5573 5580	sulfate
+T31	Property 5619 5623	rock
+T32	Mineral 5700 5707	sulfate
+T33	Mineral 5712 5718	gypsum
+T34	Property 5726 5730	rock
+T35	Property 5767 5778	composition
+T36	Property 5810 5814	rock
+T37	Mineral 5892 5899	sulfate
+T38	Mineral 5904 5912	jarosite
+T39	Property 5921 5932	composition
+T40	Property 6141 6149	coatings
+T41	Property 6235 6243	Coatings
+T42	Element 6320 6322	Mg
+T43	Element 6327 6329	Na
+T44	Property 6436 6444	coatings
+T45	Property 6662 6669	coating
+T46	Property 6696 6700	flat
+T47	Property 6789 6796	coating
+T48	Property 6857 6864	coating
+T49	Property 6927 6934	coating
+T50	Property 7145 7152	coating
+T51	Property 7185 7192	spectra
+T52	Property 7262 7270	coatings
+T53	Element 7300 7302	Mg
+T54	Element 7307 7309	Na
+T55	Property 7369 7377	basaltic
+T56	Property 7378 7382	rock
+T57	Property 7617 7624	spectra
+T58	Element 8024 8025	O
+T59	Element 8027 8028	H
+T60	Element 8033 8034	C
+T61	Mineral 8109 8117	hematite
+T62	Mineral 8119 8128	magnetite
+T63	Mineral 8130 8138	jarosite
+T64	Mineral 8167 8181	schwertmannite
+T65	Mineral 8196 8210	ferrocopiapite
+T66	Mineral 8212 8226	paracoquimbite
+T67	Mineral 8232 8240	siderite
+T68	Mineral 8284 8292	sulfates
+T69	Element 8438 8439	O
+T70	Mineral 8741 8756	phyllosilicates
+T71	Mineral 8758 8767	carbonate
+T72	Property 9336 9344	coatings
+T73	Element 9363 9365	Mg
+T74	Element 9370 9372	Na
+T75	Element 10205 10206	O
+T76	Element 10240 10241	O
+T80	Target 5242 5252	Arad Samra
+T82	Target 5261 5272	Paso Robles
+T84	Target 5669 5679	Arad Samra
+T86	Target 5862 5873	Paso Robles
+R6	Contains Arg1:T82 Arg2:T26
+R19	HasProperty Arg1:T86 Arg2:T36
+R1	Contains Arg1:T80 Arg2:T26	
+R2	HasProperty Arg1:T84 Arg2:T31	

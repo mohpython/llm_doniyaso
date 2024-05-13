@@ -1,0 +1,39 @@
+T1	Property 711 717	bright
+T2	Property 735 739	soil
+T3	Mineral 826 833	sulfate
+T4	Property 834 838	soil
+T5	Property 936 940	soil
+T6	Mineral 1372 1381	copiapite
+T7	Element 1468 1469	P
+T8	Property 2157 2164	spectra
+T9	Property 2357 2364	spectra
+T10	Property 2488 2495	Spectra
+T11	Property 2587 2594	spectra
+T12	Property 3313 3320	spectra
+T13	Property 3790 3795	bands
+T14	Property 4448 4455	spectra
+T15	Property 4558 4565	spectra
+T16	Property 4697 4704	spectra
+T17	Mineral 4784 4793	Copiapite
+T18	Mineral 5199 5209	Coquimbite
+T19	Mineral 5419 5431	Fibroferrite
+T20	Property 5668 5673	bands
+T21	Property 5724 5729	bands
+T22	Mineral 5756 5767	Rhomboclase
+T23	Element 5853 5856	Fe3
+T24	Property 5858 5863	bands
+T25	Property 6470 6475	bands
+T26	Property 6503 6508	bands
+T27	Property 6610 6615	bands
+T28	Property 6721 6726	bands
+T29	Target 819 825	Tyrone
+R0	Contains Arg1:T29 Arg2:T3
+R1	HasProperty Arg1:T29 Arg2:T4
+R2	HasProperty Arg1:T29 Arg2:T5
+T30	Target 613 624	Inner Basin
+T31	Mineral 564 570	silica
+T32	Mineral 580 590	Fe-sulfate
+R3	Contains Arg1:T30 Arg2:T31	
+R4	Contains Arg1:T30 Arg2:T32	
+T33	Property 839 846	deposit
+R5	HasProperty Arg1:T29 Arg2:T33	

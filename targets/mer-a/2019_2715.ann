@@ -1,0 +1,66 @@
+T1	Property 15 19	ROCK
+T2	Property 323 327	rock
+T3	Property 394 398	rock
+T4	Mineral 1094 1102	smectite
+T5	Element 1252 1254	Si
+T6	Element 1259 1261	Al
+T7	Property 1279 1282	red
+T8	Property 1974 1985	composition
+T9	Property 1997 2004	igneous
+T10	Property 2465 2469	rock
+T11	Property 2572 2576	rock
+T12	Property 2782 2786	rock
+T13	Property 2845 2849	Rock
+T14	Property 3363 3374	composition
+T15	Property 3637 3641	rock
+T16	Property 3692 3702	lineations
+T17	Target-MERB 3838 3848	San Miguel
+T18	Property 3913 3917	rock
+T19	Property 4086 4092	Pitted
+T20	Property 4136 4143	tabular
+T21	Property 4222 4228	pitted
+T22	Property 4273 4277	fine
+T23	Property 4327 4331	pits
+T24	Property 4344 4348	dark
+T25	Property 4466 4470	rock
+T26	Property 4521 4525	pits
+T27	Mineral 4618 4625	zeolite
+T28	Property 4639 4646	spectra
+T29	Property 4777 4781	pits
+T30	Property 5020 5027	cobbles
+T31	Property 5448 5452	soil
+T32	Property 5595 5600	rough
+T33	Property 5812 5823	composition
+T34	Property 5861 5865	rock
+T35	Property 5968 5974	pitted
+T36	Property 6004 6010	Pitted
+T37	Property 6076 6087	composition
+T38	Property 6169 6180	composition
+T39	Property 6301 6308	cobbles
+T40	Property 6339 6343	rock
+T41	Property 6717 6724	angular
+T42	Property 6732 6738	clasts
+T43	Property 6788 6794	clasts
+T44	Property 6873 6879	clasts
+T45	Property 7032 7043	composition
+T46	Property 7185 7196	composition
+T47	Property 7429 7433	rock
+T48	Property 7537 7547	lineations
+T49	Property 7569 7573	rock
+T50	Element 7701 7703	Mg
+T51	Element 7708 7709	S
+T52	Property 7755 7761	pitted
+T53	Property 7783 7786	red
+T54	Property 8062 8068	pitted
+T55	Target-MERB 4783 4802	Sgt Nathaniel Pryor
+T56	Target-MERB 6091 6111	Sgt. Nathaniel Pryor
+R1	HasProperty Arg1:T17 Arg2:T18
+R2	HasProperty Arg1:T55 Arg2:T29
+R3	HasProperty Arg1:T56 Arg2:T37
+T57	Target-MERB 4842 4859	Sgt Charles Floyd
+T58	Property 4714 4721	outcrop
+R4	HasProperty Arg1:T55 Arg2:T58	
+T59	Mineral 4741 4747	silica
+R5	Contains Arg1:T55 Arg2:T59	
+T60	Property 4833 4840	outcrop
+R6	HasProperty Arg1:T57 Arg2:T60	

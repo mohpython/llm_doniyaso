@@ -1,0 +1,54 @@
+T1	Property 25 32	SPECTRA
+T2	Property 1112 1116	rind
+T3	Property 1362 1369	spectra
+T4	Mineral 1492 1499	sulfate
+T5	Property 1675 1683	coatings
+T6	Property 1903 1911	basaltic
+T7	Property 2046 2054	coatings
+T8	Property 2179 2186	spectra
+T9	Property 2871 2879	Basaltic
+T10	Property 3098 3105	spectra
+T11	Property 3424 3432	coatings
+T12	Property 3551 3558	coating
+T13	Property 3790 3795	rough
+T14	Property 3828 3837	weathered
+T15	Property 3904 3911	coating
+T16	Property 3988 3997	weathered
+T17	Property 4052 4060	coatings
+T18	Property 4159 4167	basaltic
+T19	Property 4364 4372	basaltic
+T20	Property 4458 4466	coatings
+T21	Property 4510 4517	vesicle
+T22	Property 4592 4599	vesicle
+T23	Property 4634 4642	coatings
+T24	Property 4828 4835	coating
+T25	Property 4987 4995	vesicles
+T26	Property 5169 5175	smooth
+T27	Property 5197 5205	coatings
+T28	Property 5356 5364	coatings
+T29	Property 5387 5395	vesicles
+T30	Property 5575 5583	coatings
+T31	Property 5764 5771	spectra
+T32	Property 5888 5895	vesicle
+T33	Property 6088 6095	spectra
+T34	Mineral 7023 7027	opal
+T35	Property 7122 7129	spectra
+T36	Element 7222 7224	Fe
+T37	Property 7243 7251	basaltic
+T38	Property 7293 7302	weathered
+T39	Property 7332 7340	coatings
+T40	Property 7699 7707	coatings
+T41	Element 7752 7754	Fe
+T42	Property 7769 7776	spectra
+T43	Property 7801 7809	coatings
+T44	Property 8567 8574	spectra
+T45	Property 8667 8674	coating
+T46	Property 8837 8844	spectra
+T47	Target 495 505	Home Plate
+T48	Target 550 560	Home Plate
+T49	Mineral 370 384	Opaline silica
+R1	Contains Arg1:T47 Arg2:T49	
+T50	Mineral 528 542	Opaline silica
+R2	Contains Arg1:T48 Arg2:T50	
+T51	Property 595 607	hydrothermal
+R3	HasProperty Arg1:T48 Arg2:T51	

@@ -1,0 +1,33 @@
+T1	Property 1709 1714	crust
+T2	Element 1782 1784	Cl
+T3	Element 2334 2336	Al
+T4	Element 2338 2340	Si
+T5	Element 2342 2344	Fe
+T6	Element 2346 2348	Mn
+T7	Element 2350 2352	Ca
+T8	Element 2354 2356	Na
+T9	Element 2358 2360	Mg
+T10	Property 2387 2391	rock
+T11	Element 2440 2441	H
+T12	Element 2443 2444	C
+T13	Element 2446 2448	Cl
+T14	Element 2450 2451	S
+T15	Element 2647 2653	sulfur
+T16	Element 2655 2663	chlorine
+T17	Property 4358 4366	basaltic
+T18	Target-MSL 4678 4685	Portage
+T19	Element 4744 4752	chlorine
+T20	Property 4763 4767	soil
+T21	Element 4966 4968	Ca
+T22	Element 4973 4975	Fe
+T23	Mineral 5395 5409	phyllosilicate
+T24	Element 5651 5652	H
+T25	Element 5954 5956	Cl
+T26	Element 6236 6243	lithium
+T27	Property 6395 6399	soil
+T28	Element 6436 6445	manganese
+T29	Element 6517 6524	silicon
+T30	Target 6537 6547	Home Plate
+R0	Contains Arg1:T18 Arg2:T19
+R2	Contains Arg1:T30 Arg2:T29
+R3	HasProperty Arg1:T18 Arg2:T20

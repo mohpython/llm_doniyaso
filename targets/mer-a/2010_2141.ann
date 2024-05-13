@@ -1,0 +1,46 @@
+T1	Mineral 377 384	Apatite
+T2	Mineral 645 654	Strengite
+T3	Mineral 659 673	ferristrunzite
+T4	Property 807 811	soil
+T5	Mineral 1200 1207	apatite
+T6	Property 1382 1390	basaltic
+T7	Property 2666 2675	weathered
+T8	Property 2892 2896	rock
+T9	Property 3164 3173	weathered
+T10	Property 3418 3427	weathered
+T11	Element 3574 3576	Al
+T12	Property 3621 3630	weathered
+T13	Mineral 3771 3778	apatite
+T14	Property 3996 4007	composition
+T15	Element 4064 4066	Fe
+T16	Element 4071 4073	Al
+T17	Property 4103 4114	composition
+T18	Property 4304 4313	weathered
+T19	Mineral 4392 4399	olivine
+T20	Element 4405 4413	titanium
+T21	Property 4533 4538	crack
+T22	Mineral 4605 4612	apatite
+T23	Mineral 4640 4651	plagioclase
+T24	Property 4677 4686	weathered
+T25	Element 4845 4847	Fe
+T26	Element 4852 4854	Al
+T27	Property 4874 4883	weathered
+T28	Element 4911 4913	Al
+T29	Property 5024 5033	weathered
+T30	Target 325 335	Watchtower
+T31	Target 340 349	Wishstone
+T32	Target 585 595	Watchtower
+T33	Target 795 806	Paso Robles
+T34	Target 962 971	Wishstone
+R0	Contains Arg1:T33 Arg2:T2
+R1	Contains Arg1:T33 Arg2:T3
+R2	HasProperty Arg1:T33 Arg2:T4
+T35	Element 301 302	P
+R3	Contains Arg1:T30 Arg2:T35	
+R4	Contains Arg1:T31 Arg2:T35	
+T36	Mineral 517 526	wavellite
+R5	Contains Arg1:T32 Arg2:T36	
+T37	Element 788 789	P
+R6	Contains Arg1:T33 Arg2:T37	
+T38	Element 955 956	P
+R7	Contains Arg1:T34 Arg2:T38	

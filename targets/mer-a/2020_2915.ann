@@ -1,0 +1,100 @@
+T1	Element 356 358	Ti
+T2	Element 360 362	Cr
+T3	Element 364 366	Zn
+T4	Element 372 374	Ni
+T5	Mineral 380 382	Fe
+T7	Mineral 383 391	sulfates
+T8	Element 1691 1701	silicarich
+T9	Property 2052 2060	sediment
+T10	Mineral 3130 3136	quartz
+T11	Mineral 3138 3146	sanidine
+T12	Mineral 3152 3158	albite
+T13	Mineral 3284 3292	hematite
+T14	Mineral 3299 3308	kaolinite
+T15	Element 3360 3366	sulfur
+T16	Mineral 3567 3573	pyrite
+T17	Mineral 3786 3796	Casulfates
+T18	Mineral 3798 3807	bassanite
+T19	Mineral 3812 3821	anhydrite
+T20	Mineral 3840 3848	sulfates
+T21	Element 3850 3852	Al
+T22	Mineral 3899 3910	hexahydrite
+T23	Mineral 4062 4069	calcite
+T24	Mineral 4083 4092	kaolinite
+T25	Property 4129 4136	igneous
+T26	Mineral 4145 4153	sanidine
+T27	Mineral 4158 4164	quartz
+T28	Property 4208 4212	sand
+T29	Mineral 4337 4346	tridymite
+T30	Mineral 4348 4354	quartz
+T31	Mineral 4565 4574	Satellite
+T32	Element 5231 5233	Ni
+T33	Element 5235 5237	Cr
+T34	Element 5719 5721	Ti
+T35	Element 5755 5757	Ti
+T36	Mineral 5828 5837	tridymite
+T37	Mineral 5843 5849	quartz
+T38	Property 6018 6027	sediments
+T39	Mineral 6105 6114	kaolinite
+T40	Element 6133 6135	Ni
+T41	Element 6137 6138	V
+T42	Element 6144 6146	Cr
+T43	Mineral 6221 6227	pyrite
+T44	Mineral 6424 6432	rhyolite
+T45	Property 6508 6517	sediments
+T46	Element 6572 6574	Ti
+T47	Element 6783 6785	Ni
+T48	Element 6791 6793	Cr
+T49	Element 7088 7089	S
+T50	Mineral 7109 7115	pyrite
+T51	Mineral 7158 7165	sulfate
+T52	Property 8214 8218	rock
+T53	Property 8354 8359	crust
+T54	Element 8502 8503	K
+T55	Element 8517 8518	P
+T56	Element 8555 8556	F
+T57	Element 8560 8562	Mg
+T58	Element 8603 8605	Sm
+T59	Element 8638 8639	K
+T60	Element 8669 8670	H
+T61	Element 8799 8800	H
+T62	Element 8818 8819	C
+T63	Element 8856 8857	H
+T64	Element 9040 9041	C
+T65	Element 9132 9134	Si
+T66	Element 9373 9375	Ni
+T67	Element 9378 9380	Cr
+T68	Target 436 446	Home Plate
+T69	Target 1098 1108	Home Plate
+T70	Target 1361 1371	Home Plate
+T71	Target 1722 1732	Home Plate
+T73	Target 6544 6554	Home Plate
+T74	Target 6590 6604	Gertrude Weiss
+T75	Target 6656 6666	Home Plate
+T76	Target 6821 6835	Gertrude Weiss
+T77	Target 6926 6940	Gertrude Weiss
+R0	Contains Arg1:T68 Arg2:T1
+R1	Contains Arg1:T68 Arg2:T2
+R2	Contains Arg1:T68 Arg2:T3
+R3	Contains Arg1:T68 Arg2:T4
+R4	Contains Arg1:T68 Arg2:T5
+R6	Contains Arg1:T68 Arg2:T7
+R7	Contains Arg1:T71 Arg2:T8
+R8	Contains Arg1:T73 Arg2:T46
+R9	Contains Arg1:T74 Arg2:T46
+R10	Contains Arg1:T75 Arg2:T46
+R11	Contains Arg1:T76 Arg2:T47
+R12	Contains Arg1:T76 Arg2:T48
+T72	Target 72 82	HOME PLATE
+T6	Property 6606 6611	soils
+R5	HasProperty Arg1:T74 Arg2:T6	
+T78	Mineral 6777 6781	SiO2
+R16	Contains Arg1:T76 Arg2:T78	
+T79	Property 494 517	hydrothermal alteration
+R13	HasProperty Arg1:T68 Arg2:T79	
+T80	Mineral 313 319	silica
+R14	Contains Arg1:T68 Arg2:T80	
+T81	Mineral 46 52	SILICA
+R15	Contains Arg1:T72 Arg2:T81	
+T82	Property 1334 1346	hydrothermal
+R17	HasProperty Arg1:T70 Arg2:T82	

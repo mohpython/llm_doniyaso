@@ -1,0 +1,85 @@
+T1	Mineral 1635 1643	sulfates
+T2	Property 3569 3575	clasts
+T3	Property 4076 4081	fines
+T4	Property 4205 4210	Fines
+T5	Property 5168 5175	cobbles
+T6	Property 5189 5198	vesicular
+T7	Property 5354 5360	planar
+T8	Property 5374 5386	vesicularity
+T9	Property 5624 5633	vesicular
+T10	Property 5634 5642	basaltic
+T11	Property 5714 5722	basaltic
+T12	Property 5771 5779	basaltic
+T13	Mineral 6918 6925	sulfate
+T14	Element 6957 6961	iron
+T15	Mineral 6973 6981	hematite
+T16	Mineral 8312 8319	sulfate
+T17	Property 8328 8333	fines
+T18	Property 8506 8514	basaltic
+T19	Mineral 8817 8824	sulfate
+T20	Property 9007 9016	indurated
+T21	Mineral 9121 9128	sulfate
+T22	Target 1048 1058	Home Plate
+T23	Target 1452 1462	Home Plate
+T24	Target 1787 1797	Home Plate
+T25	Target 2396 2406	Home Plate
+T26	Target 2495 2505	Home Plate
+T27	Target 4781 4791	Home Plate
+T28	Target 4909 4919	Home Plate
+T29	Target 5100 5117	Mitcheltree Ridge
+T30	Target 5261 5271	Home Plate
+T31	Target 5739 5749	Home Plate
+T32	Target 5839 5849	Home Plate
+T33	Target 6043 6053	Home Plate
+T34	Target 6140 6150	Home Plate
+T35	Target 6376 6386	Home Plate
+T36	Target 6546 6564	King George Island
+T37	Target 6827 6837	Home Plate
+T38	Target 8016 8026	Home Plate
+T39	Target 8176 8186	Home Plate
+T40	Target 8394 8404	Home Plate
+T41	Target 8723 8733	Home Plate
+T42	Target 8861 8871	Home Plate
+T43	Target 9068 9078	Home Plate
+T44	Target 9462 9472	Home Plate
+T45	Target 9702 9712	Home Plate
+T46	Target 10680 10690	Home Plate
+T47	Target 10754 10758	Troy
+R4	HasProperty Arg1:T30 Arg2:T5
+R5	HasProperty Arg1:T30 Arg2:T6
+R6	HasProperty Arg1:T32 Arg2:T12
+T48	Property 5088 5096	Deposits
+R10	HasProperty Arg1:T29 Arg2:T48	
+T49	Property 5081 5087	Blocky
+R11	HasProperty Arg1:T29 Arg2:T49	
+T50	Target 5232 5248	Micheltree Ridge
+R12	HasProperty Arg1:T50 Arg2:T6	
+T51	Property 5199 5205	basalt
+R14	HasProperty Arg1:T50 Arg2:T51	
+R13	HasProperty Arg1:T50 Arg2:T5	
+R15	HasProperty Arg1:T30 Arg2:T51	
+T52	Property 5157 5163	blocks
+R16	HasProperty Arg1:T50 Arg2:T52	
+R17	HasProperty Arg1:T30 Arg2:T52	
+T53	Property 5755 5770	Cross-laminated
+T54	Property 5780 5789	sandstone
+R18	HasProperty Arg1:T32 Arg2:T53	
+R19	HasProperty Arg1:T32 Arg2:T54	
+T55	Property 6197 6212	coarsely-bedded
+T56	Property 6213 6220	lapilli
+R20	HasProperty Arg1:T34 Arg2:T55	
+R21	HasProperty Arg1:T34 Arg2:T56	
+T57	Property 6316 6324	bomb-sag
+R22	HasProperty Arg1:T35 Arg2:T57	
+T58	Property 6531 6538	lapilli
+T59	Property 6539 6543	tuff
+R23	HasProperty Arg1:T36 Arg2:T58	
+R24	HasProperty Arg1:T36 Arg2:T59	
+T60	Target 74 84	HOME PLATE
+R1	HasProperty Arg1:T39 Arg2:T17	
+T61	Mineral 8303 8311	silicate
+R2	Contains Arg1:T39 Arg2:T61	
+R3	Contains Arg1:T39 Arg2:T16	
+T62	Mineral 8834 8840	silica
+R7	Contains Arg1:T42 Arg2:T19	
+R8	Contains Arg1:T42 Arg2:T62	

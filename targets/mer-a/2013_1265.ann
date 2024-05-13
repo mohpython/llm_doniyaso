@@ -1,0 +1,114 @@
+T1	Property 666 674	basaltic
+T2	Mineral 898 906	tephrite
+T3	Mineral 1027 1035	feldspar
+T4	Property 1215 1226	composition
+T5	Property 2053 2057	rock
+T6	Mineral 2432 2440	pyroxene
+T7	Mineral 2446 2457	plagioclase
+T8	Mineral 2812 2820	pyroxene
+T9	Mineral 2825 2836	plagioclase
+T10	Property 2837 2848	composition
+T11	Property 2965 2970	crust
+T12	Property 3368 3379	composition
+T13	Property 3654 3665	composition
+T14	Element 3807 3813	oxygen
+T15	Property 4045 4056	composition
+T16	Mineral 4569 4576	olivine
+T17	Mineral 4576 4577	-
+T18	Mineral 4577 4590	orthopyroxene
+T19	Property 4675 4686	composition
+T20	Property 4877 4888	composition
+T21	Property 4916 4927	composition
+T22	Property 5354 5365	composition
+T23	Mineral 5412 5421	pigeonite
+T24	Mineral 5436 5445	pigeonite
+T25	Mineral 5448 5454	augite
+T26	Mineral 5465 5471	augite
+T27	Property 5637 5642	crust
+T28	Property 5891 5902	composition
+T29	Property 6147 6158	composition
+T30	Property 6485 6496	composition
+T31	Property 6511 6522	composition
+T32	Mineral 6754 6761	olivine
+T33	Mineral 6801 6810	feldspars
+T34	Property 6912 6916	rock
+T35	Property 7007 7018	composition
+T36	Property 7110 7114	rock
+T37	Property 7174 7185	composition
+T38	Property 7328 7339	composition
+T39	Target 270 280	Adirondack
+T40	Target 300 308	Humphrey
+T41	Target 592 600	Backstay
+T42	Target 602 608	Irvine
+T43	Target 614 623	Wishstone
+T44	Target 803 809	Irvine
+T45	Target 841 849	Backstay
+T46	Target 885 894	Wishstone
+T47	Target 3453 3461	Humphrey
+T48	Target 3551 3559	Backstay
+T49	Target 3645 3653	Humphrey
+T50	Target 3739 3747	Backstay
+T51	Target 4028 4036	Humphrey
+T52	Target 4661 4669	Humphrey
+T53	Target 4797 4805	Backstay
+T54	Target 4868 4876	Humphrey
+T55	Target 5684 5693	Wishstone
+T56	Target 5695 5704	Champagne
+T57	Target 5710 5718	Backstay
+T58	Target 5754 5760	Irvine
+T59	Target 5882 5890	Humphrey
+T60	Target 6089 6097	Backstay
+T61	Target 6138 6146	Humphrey
+T62	Target 6320 6328	Backstay
+T63	Target 6406 6416	Adirondack
+T64	Target 6574 6582	Backstay
+T65	Target 7100 7109	Homeplate
+T66	Target 7115 7123	Fastball
+T67	Target 7202 7210	Backstay
+T68	Target 7212 7218	Irvine
+T69	Target 7223 7232	Wishstone
+R2	Contains Arg1:T46 Arg2:T2
+R4	HasProperty Arg1:T41 Arg2:T1
+R5	HasProperty Arg1:T42 Arg2:T1
+R6	HasProperty Arg1:T43 Arg2:T1
+R9	HasProperty Arg1:T49 Arg2:T13
+R10	HasProperty Arg1:T51 Arg2:T15
+R11	HasProperty Arg1:T52 Arg2:T19
+R14	HasProperty Arg1:T54 Arg2:T20
+R16	HasProperty Arg1:T59 Arg2:T28
+R18	HasProperty Arg1:T61 Arg2:T29
+R22	HasProperty Arg1:T66 Arg2:T36
+T70	Property 281 288	basalts
+R24	HasProperty Arg1:T39 Arg2:T70	
+R25	HasProperty Arg1:T40 Arg2:T70	
+T71	Property 371 382	subalkaline
+R26	HasProperty Arg1:T39 Arg2:T71	
+R27	HasProperty Arg1:T40 Arg2:T71	
+T72	Property 657 665	alkaline
+R28	HasProperty Arg1:T41 Arg2:T72	
+R29	HasProperty Arg1:T42 Arg2:T72	
+R30	HasProperty Arg1:T43 Arg2:T72	
+T73	Property 833 839	basalt
+T74	Property 853 865	trachybasalt
+T75	Property 870 878	hawaiite
+R31	HasProperty Arg1:T44 Arg2:T73	
+R32	HasProperty Arg1:T45 Arg2:T74	
+T76	Property 3535 3543	alkaline
+R1	HasProperty Arg1:T48 Arg2:T76	
+T77	Property 3544 3550	basalt
+R7	HasProperty Arg1:T48 Arg2:T77	
+T78	Property 5724 5732	alkaline
+R3	HasProperty Arg1:T57 Arg2:T78	
+R8	HasProperty Arg1:T56 Arg2:T78	
+R12	HasProperty Arg1:T55 Arg2:T78	
+T79	Property 5771 5791	alkaline-subalkaline
+R13	HasProperty Arg1:T58 Arg2:T79	
+T80	Mineral 6558 6561	MgO
+T81	Mineral 6538 6541	FeO
+R15	Contains Arg1:T64 Arg2:T81	
+R17	Contains Arg1:T64 Arg2:T80	
+T82	Mineral 6617 6621	Na2O
+T83	Mineral 6626 6629	K2O
+R19	Contains Arg1:T64 Arg2:T82	
+R34	Contains Arg1:T64 Arg2:T83	
+R20	HasProperty Arg1:T45 Arg2:T75	

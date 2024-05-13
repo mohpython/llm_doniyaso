@@ -1,0 +1,81 @@
+T1	Property 511 518	spectra
+T2	Property 633 640	spectra
+T3	Property 892 896	rock
+T4	Property 897 904	spectra
+T5	Property 1020 1024	rock
+T6	Property 1094 1098	rock
+T7	Property 1164 1168	rock
+T8	Mineral 1182 1193	plagioclase
+T9	Property 1210 1221	composition
+T10	Property 1314 1318	dust
+T11	Property 1454 1458	dust
+T12	Property 1625 1632	cobbles
+T13	Property 1637 1645	boulders
+T14	Property 1962 1966	rock
+T15	Property 2130 2134	dust
+T16	Property 2210 2214	rock
+T17	Property 2440 2444	rock
+T18	Property 2445 2452	spectra
+T19	Property 2491 2498	spectra
+T20	Property 2802 2806	rock
+T21	Property 3117 3121	rock
+T22	Property 3229 3233	rock
+T23	Property 3234 3241	coating
+T24	Mineral 3411 3418	olivine
+T25	Property 3436 3447	composition
+T26	Property 3484 3491	spectra
+T27	Property 3904 3911	spectra
+T28	Property 3976 3980	rock
+T29	Property 4075 4079	rock
+T30	Property 4412 4416	rock
+T31	Property 4417 4424	spectra
+T32	Property 4514 4518	rock
+T33	Property 4814 4822	basaltic
+T34	Mineral 4946 4954	pyroxene
+T35	Mineral 4960 4971	plagioclase
+T36	Property 5142 5150	basaltic
+T37	Property 5192 5203	composition
+T38	Mineral 5302 5313	plagioclase
+T39	Property 5477 5481	Rock
+T40	Property 5774 5778	rock
+T41	Property 6045 6049	dark
+T42	Property 6075 6079	rock
+T43	Mineral 6208 6219	plagioclase
+T44	Mineral 6220 6228	feldspar
+T45	Property 6245 6256	composition
+T46	Mineral 6295 6303	pyroxene
+T47	Mineral 6308 6315	olivine
+T48	Property 6333 6341	basaltic
+T49	Property 6795 6799	rock
+T50	Property 6800 6807	spectra
+T51	Property 6932 6939	spectra
+T52	Property 7042 7049	spectra
+T53	Property 7194 7201	spectra
+T54	Target 2763 2771	Humphrey
+T55	Target 3128 3136	Mazatzal
+R0	HasProperty Arg1:T54 Arg2:T20
+R1	HasProperty Arg1:T55 Arg2:T21
+R2	HasProperty Arg1:T55 Arg2:T23	
+T56	Target 4525 4529	Pico
+R3	HasProperty Arg1:T56 Arg2:T32	
+T57	Target 4731 4735	Pico
+R4	HasProperty Arg1:T57 Arg2:T33	
+T58	Mineral 4937 4944	Olivine
+T59	Target 6086 6094	Wishbone
+R5	HasProperty Arg1:T59 Arg2:T42	
+R6	HasProperty Arg1:T59 Arg2:T41	
+T60	Property 6065 6074	dust-free
+R7	HasProperty Arg1:T59 Arg2:T60	
+T61	Target 6179 6187	Wishbone
+R8	Contains Arg1:T61 Arg2:T43	
+R9	Contains Arg1:T61 Arg2:T44	
+R10	Contains Arg1:T61 Arg2:T46	
+R11	Contains Arg1:T61 Arg2:T47	
+T62	Property 4823 4828	glass
+R12	HasProperty Arg1:T57 Arg2:T62	
+T63	Property 6342 6347	glass
+T64	Target 6370 6379	West Spur
+T65	Target 6424 6436	Husband Hill
+R13	HasProperty Arg1:T64 Arg2:T48	
+R14	HasProperty Arg1:T64 Arg2:T63	
+T66	Target 6511 6520	West Spur

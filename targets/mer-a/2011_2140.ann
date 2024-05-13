@@ -1,0 +1,19 @@
+T1	Property 3359 3363	dune
+T2	Property 4137 4144	massive
+T3	Property 4843 4847	dune
+T4	Element 6931 6932	C
+T5	Element 7148 7149	C
+T6	Element 7365 7366	C
+T7	Element 7964 7965	C
+T8	Element 8662 8663	C
+T9	Target 2036 2046	Home Plate
+T10	Target 3536 3546	Home Plate
+T11	Target 4095 4105	Home Plate
+T12	Property 1985 1991	bedded
+R1	HasProperty Arg1:T9 Arg2:T12	
+T13	Property 1992 2000	deposits
+R2	HasProperty Arg1:T9 Arg2:T13	
+T14	Property 4043 4059	cross-stratified
+T15	Property 4060 4068	deposits
+R3	HasProperty Arg1:T11 Arg2:T14	
+R4	HasProperty Arg1:T11 Arg2:T15	

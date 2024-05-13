@@ -1,0 +1,106 @@
+T1	Element 737 741	iron
+T2	Property 761 772	composition
+T3	Element 819 821	Fe
+T4	Mineral 1195 1204	magnetite
+T5	Property 1235 1246	composition
+T6	Element 1420 1422	Fe
+T7	Mineral 1439 1448	magnetite
+T8	Element 1537 1539	Fe
+T9	Property 1615 1619	soil
+T10	Property 1695 1699	soil
+T11	Element 1855 1857	Fe
+T12	Element 1901 1903	Fe
+T13	Mineral 1909 1916	olivine
+T14	Mineral 1927 1935	pyroxene
+T15	Element 2223 2225	Fe
+T16	Property 2325 2329	rock
+T17	Property 2334 2338	soil
+T18	Property 2403 2410	igneous
+T20	Mineral 2665 2674	magnetite
+T21	Property 2740 2747	igneous
+T22	Element 2863 2865	Fe
+T23	Property 3033 3040	spectra
+T24	Property 3711 3718	spectra
+T25	Element 3768 3770	Fe
+T26	Element 3801 3803	Mt
+T27	Mineral 3932 3941	magnetite
+T28	Element 4148 4149	K
+T29	Element 4515 4517	Fe
+T30	Property 4586 4593	spectra
+T31	Element 4687 4689	Mt
+T32	Element 4785 4787	Fe
+T33	Property 4845 4849	Rock
+T34	Element 4975 4977	Fe
+T35	Mineral 5159 5166	olivine
+T36	Element 5342 5344	Fe
+T37	Element 5350 5352	Mt
+T38	Property 5672 5676	rock
+T39	Element 5737 5739	Fe
+T40	Element 5745 5747	Mt
+T41	Element 5875 5877	Fe
+T42	Element 6002 6004	Mt
+T43	Property 6268 6272	rock
+T44	Property 6736 6740	Soil
+T45	Element 7221 7222	K
+T46	Element 7279 7280	K
+T47	Element 7333 7334	K
+T48	Element 7412 7413	K
+T49	Element 7475 7476	K
+T50	Mineral 7531 7540	Magnetite
+T51	Element 7562 7563	K
+T52	Property 7676 7683	spectra
+T53	Target 2023 2033	Adirondack
+T54	Target 2062 2072	Adirondack
+T55	Target 2080 2088	Humphrey
+T56	Target 2096 2104	Mazatzal
+T57	Target 2713 2723	Adirondack
+T58	Target 4828 4838	Adirondack
+T59	Target 5083 5093	Adirondack
+T60	Target 5751 5761	Adirondack
+T61	Target 6198 6208	Adirondack
+T62	Target 6343 6353	Adirondack
+T63	Target 6358 6366	Humphrey
+T64	Target 7707 7717	Adirondack
+R3	Contains Arg1:T59 Arg2:T35
+R4	Contains Arg1:T60 Arg2:T39
+R5	Contains Arg1:T60 Arg2:T40
+R6	HasProperty Arg1:T57 Arg2:T21
+R7	HasProperty Arg1:T58 Arg2:T33
+R9	HasProperty Arg1:T62 Arg2:T43
+R10	HasProperty Arg1:T63 Arg2:T43
+R11	HasProperty Arg1:T64 Arg2:T52
+T65	Target 2116 2123	Route66
+T19	Target 5553 5556	Adk
+T66	Target 5558 5561	Hmp
+T67	Target 5567 5570	Maz
+T68	Target 2074 2077	Adk
+T69	Target 2090 2093	Hmp
+T70	Target 2106 2109	Maz
+T71	Target 2125 2128	R66
+T72	Mineral 5187 5189	Ol
+T73	Mineral 5191 5193	Px
+T74	Mineral 5205 5207	Mt
+R1	Contains Arg1:T59 Arg2:T72	
+R2	Contains Arg1:T59 Arg2:T73	
+R12	Contains Arg1:T59 Arg2:T74	
+T75	Element 5223 5225	Fe
+R13	Contains Arg1:T59 Arg2:T75	
+T76	Target 5312 5315	R66
+T77	Target 5383 5386	Adk
+T78	Target 5391 5394	Hmp
+T79	Target 5369 5372	R66
+R14	Contains Arg1:T77 Arg2:T37	
+R15	Contains Arg1:T78 Arg2:T37	
+R16	Contains Arg1:T77 Arg2:T36	
+R17	Contains Arg1:T78 Arg2:T36	
+T80	Target 5942 5945	Maz
+T81	Target 5968 5971	Adk
+T82	Target 5975 5978	Hmp
+T83	Target 6276 6283	Route66
+R8	HasProperty Arg1:T83 Arg2:T43	
+T84	Mineral 6321 6323	Mt
+R18	Contains Arg1:T62 Arg2:T84	
+R19	Contains Arg1:T63 Arg2:T84	
+T85	Target 52 62	ADIRONDACK
+T86	Mineral 1 10	MAGNETITE
+R20	Contains Arg1:T85 Arg2:T86	

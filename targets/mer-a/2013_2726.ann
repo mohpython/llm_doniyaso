@@ -1,0 +1,44 @@
+T1	Property 605 613	coatings
+T2	Property 878 886	coatings
+T3	Mineral 1066 1076	carbonates
+T4	Property 1496 1504	basaltic
+T5	Property 1505 1509	rock
+T6	Property 1539 1547	coatings
+T7	Mineral 1709 1718	carbonate
+T8	Mineral 1854 1863	carbonate
+T9	Mineral 1930 1940	carbonates
+T10	Mineral 2044 2054	carbonates
+T11	Property 3158 3165	spectra
+T12	Property 3505 3509	Rock
+T13	Property 3667 3674	spectra
+T14	Property 4537 4544	coating
+T15	Property 5164 5168	dust
+T16	Property 5208 5215	coating
+T17	Element 5258 5260	Si
+T18	Element 5265 5267	Fe
+T19	Property 5365 5372	coating
+T20	Element 5443 5452	potassium
+T21	Mineral 5576 5584	goethite
+T22	Mineral 5589 5596	calcite
+T23	Property 5696 5703	Coating
+T24	Element 5896 5898	Ti
+T25	Element 5903 5905	Li
+T26	Property 6018 6025	coating
+T27	Property 6168 6172	rock
+T28	Property 6173 6181	coatings
+T29	Property 6272 6278	layers
+T30	Property 6432 6438	layers
+T31	Property 6555 6566	composition
+T32	Property 6582 6590	coatings
+T33	Element 6706 6708	Fe
+T34	Element 6713 6715	Si
+T35	Property 6752 6759	coating
+T36	Mineral 6771 6779	goethite
+T37	Target 1962 1970	Comanche
+T38	Target 2035 2043	Comanche
+R1	Contains Arg1:T37 Arg2:T9
+R5	Contains Arg1:T38 Arg2:T10
+T39	Property 2076 2088	hydrothermal
+R2	HasProperty Arg1:T38 Arg2:T39	
+T40	Property 1971 1979	outcrops
+R3	HasProperty Arg1:T37 Arg2:T40	

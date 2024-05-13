@@ -1,0 +1,63 @@
+T1	Property 506 510	dust
+T2	Property 649 660	Sedimentary
+T3	Property 812 817	fines
+T4	Property 903 912	sediments
+T5	Property 941 945	dust
+T6	Property 1005 1014	sediments
+T7	Property 1279 1288	sediments
+T8	Property 1621 1625	Soil
+T9	Property 1784 1788	dust
+T10	Property 2005 2012	spectra
+T11	Property 2040 2047	spectra
+T12	Property 2932 2941	sediments
+T13	Property 3029 3033	soil
+T14	Property 3268 3272	fine
+T15	Property 3558 3562	dune
+T16	Property 3625 3629	Dust
+T17	Property 3735 3746	composition
+T18	Property 3750 3759	sediments
+T19	Property 4026 4030	sand
+T20	Property 4076 4080	soil
+T21	Property 4333 4337	sand
+T22	Property 4633 4637	dust
+T23	Property 5446 5450	dust
+T24	Property 5469 5473	soil
+T25	Property 5474 5483	sediments
+T26	Property 6358 6362	dust
+T27	Property 6502 6506	sand
+T28	Property 6507 6511	sand
+T29	Element 6557 6559	Ti
+T30	Property 6601 6605	sand
+T31	Property 6606 6610	sand
+T32	Element 6639 6641	Fe
+T33	Property 6683 6687	sand
+T34	Property 6688 6692	sand
+T35	Property 6780 6784	sand
+T36	Property 6785 6789	sand
+T37	Property 6868 6872	sand
+T38	Property 6873 6877	sand
+T39	Target 3150 3163	Crest Morning
+T40	Target 3165 3170	Sugar
+T41	Target 3193 3201	Hang Two
+T42	Target 3203 3209	Mawson
+T43	Target 3215 3223	Progress
+T44	Target 3311 3331	Conjunction Junction
+T45	Target 3333 3344	Paso Robles
+T46	Target 3350 3357	Whymper
+T47	Target 3498 3508	Ramp Flats
+T48	Target 3548 3557	El Dorado
+T49	Target 4089 4095	Mawson
+R0	HasProperty Arg1:T39 Arg2:T13
+R1	HasProperty Arg1:T40 Arg2:T13
+R2	HasProperty Arg1:T41 Arg2:T13
+R3	HasProperty Arg1:T42 Arg2:T13
+R4	HasProperty Arg1:T43 Arg2:T13
+R8	HasProperty Arg1:T48 Arg2:T15
+R10	HasProperty Arg1:T49 Arg2:T20
+T50	Target 3172 3180	Bear Paw
+T51	Target 3182 3191	Lands End
+R11	HasProperty Arg1:T50 Arg2:T13	
+R12	HasProperty Arg1:T51 Arg2:T13	
+T52	Target 3300 3309	Greeneyes
+T53	Target 3510 3525	Bitterrootflats
+T54	Target 3531 3542	Hole Mayfly

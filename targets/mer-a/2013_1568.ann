@@ -1,0 +1,72 @@
+T1	Property 25 29	ROCK
+T2	Property 30 38	COATINGS
+T3	Property 736 740	dust
+T4	Property 771 775	soil
+T5	Property 783 787	dust
+T6	Property 804 808	rock
+T7	Property 1058 1066	coatings
+T8	Property 1146 1150	rock
+T9	Property 1176 1183	coating
+T10	Property 1238 1242	rock
+T11	Property 1294 1298	soil
+T12	Element 1337 1341	iron
+T13	Property 1445 1449	rock
+T14	Property 1450 1458	coatings
+T15	Property 1782 1786	rock
+T16	Property 1890 1901	composition
+T17	Property 1909 1913	rock
+T18	Property 2446 2450	rock
+T19	Property 2545 2549	rock
+T20	Property 2602 2609	spectra
+T21	Property 2652 2656	rock
+T22	Property 2744 2748	dust
+T23	Property 2767 2774	spectra
+T24	Property 2806 2810	rock
+T25	Property 2811 2822	composition
+T26	Property 3005 3009	rock
+T27	Property 3010 3018	coatings
+T28	Property 3137 3141	soil
+T29	Property 3154 3158	rock
+T30	Property 3196 3207	composition
+T31	Property 3450 3458	coatings
+T32	Property 3593 3601	coatings
+T33	Property 4218 4229	composition
+T34	Property 4351 4357	silica
+T35	Property 4358 4365	content
+T36	Property 4636 4643	coating
+T37	Property 4655 4666	composition
+T38	Property 4714 4718	rock
+T39	Property 4904 4912	coatings
+T40	Property 5136 5144	coatings
+T41	Property 5278 5282	rock
+T42	Property 5486 5489	red
+T43	Property 5654 5665	composition
+T44	Property 5890 5894	rock
+T45	Property 5973 5977	rock
+T46	Target-MSL 5993 5996	Peg
+T47	Property 6079 6083	flat
+T48	Property 6103 6114	composition
+T49	Property 6326 6334	Coatings
+T50	Property 6402 6410	coatings
+T51	Property 6462 6466	rock
+T52	Element 6560 6567	calcium
+T53	Property 6695 6699	rock
+T54	Property 6720 6724	soil
+T55	Property 6772 6779	coating
+T56	Element 6798 6800	Ca
+T57	Element 6849 6851	Ca
+T58	Element 6856 6858	Si
+T59	Property 7055 7063	coatings
+T60	Property 7243 7247	Rock
+T61	Element 7602 7604	Sr
+T62	Property 7859 7863	rock
+T63	Property 7904 7908	rock
+T64	Property 7932 7940	coatings
+T65	Target 1243 1251	Mazatzal
+R0	Contains Arg1:T65 Arg2:T12
+R1	HasProperty Arg1:T65 Arg2:T9
+R2	HasProperty Arg1:T65 Arg2:T10
+R4	HasProperty Arg1:T46 Arg2:T44
+R5	HasProperty Arg1:T46 Arg2:T45
+T66	Property 1274 1279	salts
+R6	HasProperty Arg1:T65 Arg2:T66	

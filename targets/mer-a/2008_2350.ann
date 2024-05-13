@@ -1,0 +1,108 @@
+T1	Element 219 229	Phosphorus
+T2	Property 456 460	Rock
+T3	Property 1142 1146	rock
+T4	Mineral 1242 1254	fluorapatite
+T5	Mineral 1256 1263	olivine
+T6	Mineral 1432 1438	quartz
+T7	Mineral 1601 1611	forsterite
+T8	Mineral 1621 1633	fluorapatite
+T9	Mineral 2013 2023	forsterite
+T10	Mineral 2025 2032	apatite
+T11	Mineral 2075 2085	forsterite
+T12	Mineral 2087 2094	apatite
+T13	Mineral 3382 3389	olivine
+T14	Mineral 3436 3443	apatite
+T15	Mineral 3455 3462	Olivine
+T16	Mineral 3666 3676	forsterite
+T17	Mineral 3717 3719	Mg
+T18	Mineral 3719 3720	-
+T19	Mineral 3720 3727	sulfate
+T20	Mineral 3817 3829	fluorapatite
+T21	Property 3979 3982	red
+T22	Mineral 4097 4107	forsterite
+T23	Mineral 4140 4149	anhydrite
+T24	Mineral 4177 4189	fluorapatite
+T25	Element 4202 4204	Ca
+T26	Mineral 4269 4281	fluorapatite
+T27	Mineral 4293 4295	Mg
+T28	Mineral 4295 4296	-
+T29	Mineral 4296 4303	sulfate
+T30	Property 4349 4354	crust
+T31	Mineral 4485 4492	Apatite
+T32	Mineral 4735 4745	forsterite
+T33	Mineral 4761 4771	Mgsulfates
+T34	Property 4817 4823	layers
+T35	Mineral 4837 4844	apatite
+T36	Mineral 4922 4930	sulfates
+T37	Element 5080 5082	Ca
+T38	Element 5112 5114	Ca
+T39	Mineral 5129 5138	strengite
+T40	Element 5254 5256	Ca
+T41	Mineral 5313 5321	brushite
+T42	Mineral 5541 5551	forsterite
+T43	Mineral 5586 5596	forsterite
+T44	Mineral 5597 5607	forsterite
+T45	Mineral 5608 5618	forsterite
+T46	Mineral 5619 5629	forsterite
+T47	Mineral 5631 5642	hexahydrite
+T48	Mineral 5651 5663	fluorapatite
+T49	Mineral 5664 5676	fluorapatite
+T50	Mineral 5677 5689	fluorapatite
+T51	Mineral 5691 5700	anhydrite
+T52	Mineral 5702 5710	fluorite
+T53	Mineral 5732 5744	fluorapatite
+T54	Mineral 5746 5755	anhydrite
+T55	Mineral 5762 5770	fluorite
+T56	Mineral 5796 5805	anhydrite
+T57	Mineral 5807 5815	fluorite
+T58	Mineral 5819 5828	anhydrite
+T59	Mineral 5830 5841	hexahydrite
+T60	Mineral 5857 5865	fluorite
+T61	Property 5945 5952	igneous
+T62	Mineral 5960 5970	forsterite
+T63	Mineral 5989 6001	fluorapatite
+T64	Element 6017 6019	Mg
+T65	Element 6021 6023	Al
+T66	Mineral 6028 6030	Ca
+T67	Mineral 6030 6031	-
+T68	Mineral 6031 6039	sulfates
+T69	Mineral 6193 6205	fluorapatite
+T70	Element 6305 6307	Ca
+T71	Mineral 6349 6361	chlorapatite
+T72	Element 6618 6620	Ca
+T73	Element 6636 6638	Ca
+T74	Element 6682 6684	Ca
+T75	Mineral 6756 6763	apatite
+T76	Mineral 6842 6850	Brushite
+T77	Mineral 6938 6946	Brushite
+T78	Element 7021 7023	Ca
+T79	Mineral 7092 7100	Brushite
+T80	Mineral 7390 7399	strengite
+T81	Mineral 7462 7471	Strengite
+T82	Element 7692 7694	Ca
+T83	Mineral 7749 7756	apatite
+T84	Mineral 7760 7771	whitlockite
+T85	Element 7805 7807	Ca
+T86	Element 7812 7813	P
+T87	Mineral 7849 7856	apatite
+T88	Mineral 7860 7871	whitlockite
+T89	Property 8105 8116	composition
+T90	Target 637 648	Paso Robles
+T91	Target 1055 1066	Paso Robles
+T92	Target 7514 7525	Paso Robles
+T93	Target 7566 7577	Paso Robles
+T94	Target 7706 7717	Paso Robles
+R1	Contains Arg1:T92 Arg2:T81
+R2	Contains Arg1:T94 Arg2:T82
+T95	Property 649 656	deposit
+R5	HasProperty Arg1:T90 Arg2:T95	
+T96	Property 629 636	altered
+R6	HasProperty Arg1:T90 Arg2:T96	
+T97	Mineral 670 674	P2O5
+T98	Mineral 694 703	phosphate
+R7	Contains Arg1:T90 Arg2:T97	
+R8	Contains Arg1:T90 Arg2:T98	
+T99	Mineral 7482 7495	Fe-phosphates
+R9	Contains Arg1:T92 Arg2:T99	
+T100	Element 7695 7696	P
+R10	Contains Arg1:T94 Arg2:T100	

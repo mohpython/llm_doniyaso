@@ -1,0 +1,118 @@
+T1	Property 133 140	spectra
+T2	Property 412 423	composition
+T3	Property 487 498	composition
+T4	Element 589 591	Na
+T5	Element 619 625	Oxygen
+T6	Element 630 636	Carbon
+T7	Property 915 922	spectra
+T8	Element 971 977	oxygen
+T9	Property 1022 1027	bound
+T10	Property 1028 1033	water
+T11	Mineral 1132 1140	sulfates
+T12	Mineral 1228 1236	Jarosite
+T13	Mineral 1241 1249	Goethite
+T14	Property 2081 2088	spectra
+T15	Element 2720 2726	Oxygen
+T16	Property 2828 2839	composition
+T17	Element 2973 2979	Oxygen
+T18	Element 3130 3136	Carbon
+T19	Element 3138 3144	Oxygen
+T20	Property 3206 3217	composition
+T21	Property 3537 3544	spectra
+T22	Property 3663 3670	spectra
+T23	Property 3826 3834	basaltic
+T24	Property 4158 4162	soil
+T25	Property 4178 4186	basaltic
+T26	Element 4254 4255	K
+T27	Property 4331 4342	composition
+T28	Property 4368 4376	basaltic
+T29	Element 4515 4521	oxygen
+T30	Mineral 4703 4717	ferric sulfate
+T31	Property 4981 4987	bright
+T32	Property 5012 5023	composition
+T33	Element 5045 5051	sulfur
+T34	Element 5110 5112	Fe
+T35	Element 5114 5116	Si
+T36	Element 5118 5120	Mg
+T37	Element 5122 5124	Ca
+T38	Element 5129 5130	P
+T39	Property 5168 5172	soil
+T40	Mineral 5219 5234	ferric sulfates
+T41	Property 5293 5297	soil
+T42	Mineral 5350 5358	sulfates
+T43	Element 5422 5424	Fe
+T44	Mineral 5511 5519	sulfates
+T45	Property 5553 5564	composition
+T46	Mineral 5634 5641	sulfate
+T47	Mineral 5706 5713	sulfate
+T48	Mineral 5865 5872	sulfate
+T49	Mineral 6232 6238	Quartz
+T50	Element 6260 6262	Si
+T51	Element 6359 6360	S
+T52	Mineral 6382 6389	sulfate
+T53	Element 6419 6420	S
+T54	Property 6955 6960	bound
+T55	Property 6961 6966	water
+T56	Mineral 7203 7210	sulfate
+T57	Property 7478 7489	composition
+T58	Mineral 7553 7560	sulfate
+T59	Property 7667 7673	trench
+T60	Element 7703 7705	Mg
+T61	Element 7706 7708	Fe
+T62	Element 7711 7712	K
+T63	Property 7959 7963	soil
+T64	Target 4725 4736	Paso Robles
+T65	Target 4891 4902	Paso Robles
+T66	Target 5305 5310	Samra
+T67	Target 7801 7806	Samra
+T68	Target 7838 7842	Hula
+R0	Contains Arg1:T64 Arg2:T30
+R1	Contains Arg1:T66 Arg2:T40
+R2	Contains Arg1:T67 Arg2:T60
+R3	Contains Arg1:T67 Arg2:T61
+R4	Contains Arg1:T67 Arg2:T62
+R5	Contains Arg1:T68 Arg2:T60
+R6	Contains Arg1:T68 Arg2:T61
+R7	Contains Arg1:T68 Arg2:T62
+R8	HasProperty Arg1:T65 Arg2:T31
+R9	HasProperty Arg1:T66 Arg2:T41
+T69	Target 4741 4748	DeadSea
+R12	Contains Arg1:T69 Arg2:T30	
+T70	Property 4911 4916	soils
+R13	HasProperty Arg1:T65 Arg2:T70	
+R14	Contains Arg1:T65 Arg2:T33	
+R15	Contains Arg1:T65 Arg2:T34	
+R16	Contains Arg1:T65 Arg2:T35	
+R17	Contains Arg1:T65 Arg2:T36	
+R18	Contains Arg1:T65 Arg2:T37	
+R19	Contains Arg1:T65 Arg2:T38	
+T71	Mineral 5239 5245	silica
+R20	Contains Arg1:T66 Arg2:T71	
+T72	Target 7616 7626	PasoRobles
+T73	Target 7632 7647	PasoRoblesLight
+T74	Target 7679 7693	Hell'sKittchen
+T75	Target 7653 7665	The Boroughs
+T76	Element 7709 7710	S
+R10	Contains Arg1:T67 Arg2:T76	
+R11	Contains Arg1:T68 Arg2:T76	
+R21	Contains Arg1:T72 Arg2:T60	
+R22	Contains Arg1:T72 Arg2:T61	
+R23	Contains Arg1:T72 Arg2:T76	
+R24	Contains Arg1:T72 Arg2:T62	
+R25	Contains Arg1:T75 Arg2:T60	
+R26	Contains Arg1:T75 Arg2:T61	
+R27	Contains Arg1:T75 Arg2:T62	
+R28	Contains Arg1:T75 Arg2:T76	
+R29	Contains Arg1:T73 Arg2:T60	
+R30	Contains Arg1:T73 Arg2:T61	
+R31	Contains Arg1:T73 Arg2:T76	
+R32	Contains Arg1:T73 Arg2:T62	
+T77	Mineral 7714 7717	H2O
+R33	Contains Arg1:T72 Arg2:T77	
+R34	Contains Arg1:T73 Arg2:T77	
+R35	Contains Arg1:T74 Arg2:T60	
+R36	Contains Arg1:T74 Arg2:T61	
+R37	Contains Arg1:T74 Arg2:T76	
+R38	Contains Arg1:T74 Arg2:T62	
+R39	Contains Arg1:T67 Arg2:T77	
+R40	Contains Arg1:T68 Arg2:T77	

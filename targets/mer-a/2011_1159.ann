@@ -1,0 +1,49 @@
+T1	Target 2773 2781	Keystone
+T2	Property 3479 3483	Rock
+T3	Target 902 918	Cumberland Ridge
+T4	Target 1004 1014	Methuselah
+T5	Target 1016 1024	Jibsheet
+T6	Target 1247 1263	Cumberland Ridge
+T7	Target 1546 1562	Cumberland Ridge
+T8	Target 1667 1683	Cumberland Ridge
+T9	Target 1748 1758	Methuselah
+T10	Target 2755 2765	Methuselah
+T11	Target 3376 3386	Methuselah
+T12	Target 3394 3402	Keystone
+T13	Target 3670 3680	Methuselah
+T14	Target 3863 3879	Cumberland Ridge
+T15	Target 3969 3979	Methuselah
+T16	Target 965 977	Husband Hill
+T17	Target 940 956	Tennessee Valley
+T18	Target 1030 1045	Larry's Lookout
+T19	Property 1046 1054	outcrops
+R1	HasProperty Arg1:T4 Arg2:T19	
+R2	HasProperty Arg1:T5 Arg2:T19	
+R3	HasProperty Arg1:T18 Arg2:T19	
+T20	Property 1231 1245	bedding planes
+R4	HasProperty Arg1:T6 Arg2:T20	
+T21	Target 1627 1639	Husband Hill
+T22	Target 1770 1785	Larry's Lookout
+T23	Property 1794 1802	outcrops
+R5	HasProperty Arg1:T9 Arg2:T23	
+R6	HasProperty Arg1:T22 Arg2:T23	
+T24	Target 2413 2425	Husband Hill
+T25	Target 2446 2461	Larry's Lookout
+T26	Property 2426 2434	outcrops
+R7	HasProperty Arg1:T24 Arg2:T26	
+R8	HasProperty Arg1:T25 Arg2:T26	
+T27	Property 2788 2802	bedding planes
+R9	HasProperty Arg1:T1 Arg2:T27	
+R10	HasProperty Arg1:T10 Arg2:T27	
+T28	Property 3354 3368	bedding planes
+R11	HasProperty Arg1:T11 Arg2:T28	
+R12	HasProperty Arg1:T12 Arg2:T28	
+T29	Property 3648 3662	bedding planes
+R13	HasProperty Arg1:T13 Arg2:T29	
+T30	Target 3685 3700	Larry's Lookout
+R14	HasProperty Arg1:T30 Arg2:T29	
+T31	Property 3701 3709	outcrops
+R15	HasProperty Arg1:T30 Arg2:T31	
+R16	HasProperty Arg1:T13 Arg2:T31	
+T32	Target 3924 3939	Larry's Lookout
+T33	Target 32 44	HUSBAND HILL

@@ -1,0 +1,142 @@
+T1	Property 854 860	layers
+T2	Property 1445 1451	layers
+T3	Property 1586 1595	vesicular
+T4	Property 1641 1647	bright
+T5	Property 1657 1661	rock
+T6	Property 1950 1954	rock
+T7	Property 2126 2130	dust
+T8	Property 2526 2535	vesicular
+T9	Property 2887 2893	layers
+T10	Property 2970 2974	dust
+T11	Property 3149 3153	rock
+T12	Property 3218 3225	rounded
+T13	Property 3314 3318	rock
+T14	Property 3368 3376	sediment
+T15	Property 4077 4084	massive
+T16	Property 4334 4338	flat
+T17	Property 4607 4613	Layers
+T18	Property 4863 4869	layers
+T19	Property 5057 5063	layers
+T20	Property 5342 5348	layers
+T21	Property 5492 5498	layers
+T22	Property 5579 5585	layers
+T23	Property 5721 5727	layers
+T24	Property 6469 6475	layers
+T25	Property 6552 6558	layers
+T26	Property 6701 6709	sediment
+T27	Property 6729 6735	layers
+T28	Property 7790 7793	Red
+T29	Property 7818 7824	layers
+T30	Property 7876 7882	layers
+T31	Property 8004 8008	rock
+T34	Property 8057 8064	rounded
+T35	Property 8085 8091	clasts
+T36	Property 8105 8109	rock
+T37	Property 8176 8180	rock
+T38	Target 1000 1010	Home Plate
+T39	Target 1351 1361	Home Plate
+T40	Target 1603 1612	Esperanza
+T41	Target 1809 1814	Troll
+T42	Target 3101 3119	King George Island
+T43	Target 3683 3688	Troll
+T44	Target 3932 3937	Troll
+T45	Target 5008 5018	Home Plate
+T46	Target 5551 5561	Home Plate
+T47	Target 5567 5577	Home Plate
+T48	Target 5773 5783	Home Plate
+T49	Target 6114 6124	Home Plate
+T50	Target 6324 6334	Home Plate
+T51	Target 6622 6632	Home Plate
+T52	Target 6923 6933	Home Plate
+T53	Target 7221 7231	Home Plate
+T54	Target 8009 8027	King George Island
+T55	Target 8190 8198	Montalva
+T56	Target 8207 8212	Troll
+R0	HasProperty Arg1:T40 Arg2:T3
+R4	HasProperty Arg1:T46 Arg2:T21
+R5	HasProperty Arg1:T47 Arg2:T22
+R7	HasProperty Arg1:T51 Arg2:T25
+R8	HasProperty Arg1:T51 Arg2:T26
+R9	HasProperty Arg1:T54 Arg2:T31
+R10	HasProperty Arg1:T55 Arg2:T37
+R11	HasProperty Arg1:T56 Arg2:T37
+T57	Target 516 528	Husband Hill
+T58	Target 795 804	Low Ridge
+T59	Property 826 831	talus
+R12	HasProperty Arg1:T58 Arg2:T59	
+R13	HasProperty Arg1:T58 Arg2:T1	
+T60	Property 1024 1031	layered
+T61	Property 1032 1040	pedestal
+R14	HasProperty Arg1:T38 Arg2:T60	
+R15	HasProperty Arg1:T38 Arg2:T61	
+T62	Target 1141 1152	Inner Basin
+T63	Target 1247 1258	Inner Basin
+T64	Target 1285 1294	Low Ridge
+T65	Target 1317 1326	Low Ridge
+T66	Target 1476 1485	Low Ridge
+R16	HasProperty Arg1:T66 Arg2:T2	
+T67	Property 1596 1602	basalt
+R17	HasProperty Arg1:T40 Arg2:T67	
+T68	Target 1790 1799	Low Ridge
+T69	Property 1853 1860	layered
+R1	HasProperty Arg1:T41 Arg2:T69	
+T70	Target 1894 1903	Low Ridge
+T71	Property 1942 1949	layered
+R2	HasProperty Arg1:T70 Arg2:T71	
+T72	Target 2030 2039	Low Ridge
+T73	Target 2171 2180	Low Ridge
+T74	Target 2547 2556	Low Ridge
+T75	Property 2536 2543	basalts
+R18	HasProperty Arg1:T74 Arg2:T75	
+R19	HasProperty Arg1:T74 Arg2:T8	
+T76	Target 2681 2690	Low Ridge
+T77	Property 2712 2717	layer
+R20	HasProperty Arg1:T76 Arg2:T77	
+T78	Property 2847 2851	beds
+R21	HasProperty Arg1:T76 Arg2:T78	
+R22	HasProperty Arg1:T76 Arg2:T9	
+T79	Property 3182 3189	clastic
+R23	HasProperty Arg1:T42 Arg2:T11	
+R24	HasProperty Arg1:T42 Arg2:T79	
+T80	Target 3617 3626	Low Ridge
+T81	Target 3796 3805	Low Ridge
+T82	Target 4173 4182	Low Ridge
+T85	Target 4354 4363	Low Ridge
+T83	Target 4665 4674	Low Ridge
+T84	Target 4873 4882	Low Ridge
+R3	HasProperty Arg1:T84 Arg2:T18	
+T86	Property 4991 4998	layered
+R25	HasProperty Arg1:T45 Arg2:T86	
+T87	Target 5067 5076	Low Ridge
+R26	HasProperty Arg1:T87 Arg2:T19	
+T88	Target 5190 5199	Low Ridge
+T89	Property 5227 5230	dip
+R27	HasProperty Arg1:T88 Arg2:T89	
+T90	Target 5332 5341	Low ridge
+R28	HasProperty Arg1:T90 Arg2:T20	
+T91	Property 5313 5316	dip
+R29	HasProperty Arg1:T90 Arg2:T91	
+T92	Target 5482 5491	Low Ridge
+R30	HasProperty Arg1:T92 Arg2:T21	
+T93	Property 5642 5646	dips
+R31	HasProperty Arg1:T47 Arg2:T93	
+T94	Target 5731 5740	Low Ridge
+R6	HasProperty Arg1:T94 Arg2:T23	
+T95	Target 5959 5970	Inner Basin
+T96	Target 6100 6109	Low Ridge
+T97	Target 6339 6348	Low ridge
+T98	Property 6674 6685	pyroclastic
+R32	HasProperty Arg1:T51 Arg2:T98	
+T99	Target 7064 7073	Low Ridge
+T100	Target 7207 7216	Low Ridge
+T101	Target 7961 7970	Low Ridge
+T102	Target 8040 8049	Low Ridge
+R33	HasProperty Arg1:T54 Arg2:T35	
+T32	Property 8297 8309	fine-grained
+R34	HasProperty Arg1:T55 Arg2:T32	
+T33	Target 31 42	INNER BASIN
+T103	Property 43 51	OUTCROPS
+R35	HasProperty Arg1:T33 Arg2:T103	
+T104	Target 677 686	Low Ridge
+T105	Target 459 470	Inner Basin
+T106	Target 4954 4965	Inner Basin

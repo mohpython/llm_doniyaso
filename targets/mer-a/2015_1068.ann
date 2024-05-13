@@ -1,0 +1,69 @@
+T1	Property 164 168	dune
+T2	Property 379 390	composition
+T3	Property 686 697	composition
+T4	Property 701 710	sediments
+T5	Property 801 812	composition
+T6	Property 1284 1295	composition
+T7	Property 1303 1309	eolian
+T8	Property 1353 1357	fine
+T9	Property 1468 1478	dune field
+T10	Property 1580 1584	fine
+T11	Property 1709 1713	dune
+T12	Property 1848 1852	rock
+T13	Property 1867 1875	sediment
+T14	Property 2071 2082	composition
+T15	Property 2177 2181	dune
+T16	Property 2240 2244	sand
+T17	Property 2338 2342	dune
+T18	Mineral 2596 2603	olivine
+T19	Property 2615 2622	spectra
+T20	Mineral 2919 2926	olivine
+T21	Mineral 3025 3032	olivine
+T22	Mineral 3172 3179	olivine
+T23	Property 3215 3219	dune
+T24	Property 3329 3340	composition
+T25	Property 3439 3443	dust
+T26	Property 3515 3519	dust
+T27	Property 3529 3533	sand
+T28	Property 3534 3538	dune
+T29	Property 3779 3783	dune
+T30	Property 3807 3813	smooth
+T31	Property 4198 4203	mafic
+T32	Mineral 4248 4255	olivine
+T33	Mineral 4517 4524	olivine
+T34	Mineral 4613 4620	olivine
+T35	Mineral 4718 4725	olivine
+T36	Property 4766 4770	dune
+T37	Mineral 4871 4878	olivine
+T38	Mineral 4990 4997	olivine
+T39	Property 5023 5029	smooth
+T40	Mineral 5102 5109	olivine
+T41	Property 5262 5266	dune
+T42	Property 5376 5387	composition
+T43	Property 5532 5536	dune
+T44	Property 5557 5565	sediment
+T45	Mineral 5619 5626	olivine
+T46	Property 5793 5804	Sedimentary
+T47	Property 6569 6573	dune
+T48	Element 6615 6616	C
+T49	Property 6734 6738	dune
+T50	Mineral 6905 6912	olivine
+T51	Property 6931 6938	spectra
+T52	Property 6985 6989	dune
+T53	Mineral 7004 7011	olivine
+T54	Property 7102 7107	mafic
+T55	Property 7126 7133	spectra
+T56	Property 7180 7184	dune
+T57	Mineral 7286 7293	olivine
+T58	Mineral 7349 7356	olivine
+T59	Property 7602 7605	red
+T60	Mineral 7732 7739	olivine
+T61	Mineral 7834 7841	olivine
+T63	Target 1457 1466	El Dorado
+T64	Target 5073 5082	El Dorado
+R0	Contains Arg1:T64 Arg2:T40
+R1	HasProperty Arg1:T63 Arg2:T9
+T62	Mineral 1528 1535	olivine
+R3	Contains Arg1:T63 Arg2:T62	
+T65	Mineral 1562 1570	pyroxene
+R4	Contains Arg1:T63 Arg2:T65	

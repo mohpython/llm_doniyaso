@@ -1,0 +1,77 @@
+T1	Property 36 44	BASALTIC
+T2	Property 45 49	SOIL
+T3	Property 839 847	basaltic
+T4	Property 856 860	soil
+T5	Property 1190 1201	composition
+T6	Property 1307 1315	basaltic
+T7	Property 1324 1328	soil
+T8	Property 1370 1378	basaltic
+T9	Property 1379 1383	soil
+T10	Target-MSL 1693 1709	Rocknest_Portage
+T11	Property 1831 1839	basaltic
+T12	Property 1840 1844	soil
+T13	Property 2039 2043	soil
+T14	Property 2166 2177	composition
+T15	Property 2254 2258	soil
+T16	Mineral 2347 2355	feldspar
+T17	Mineral 2357 2364	olivine
+T18	Mineral 2370 2378	pyroxene
+T19	Property 2688 2699	composition
+T20	Property 2749 2760	composition
+T21	Element 2868 2870	Fe
+T22	Element 2941 2943	Fe
+T23	Property 2956 2960	soil
+T24	Element 2997 2999	Fe
+T25	Element 3071 3073	Fe
+T26	Element 3272 3274	Mt
+T27	Element 3354 3356	Cl
+T28	Property 3650 3654	soil
+T29	Element 4230 4232	Cl
+T30	Element 4290 4292	Cl
+T31	Element 4351 4353	Fe
+T32	Mineral 4391 4398	Olivine
+T33	Mineral 4417 4425	Pyroxene
+T34	Mineral 4444 4452	Ilmenite
+T35	Mineral 4469 4478	Magnetite
+T36	Mineral 4518 4526	Hematite
+T37	Element 4567 4569	Fe
+T38	Mineral 4988 4997	allophane
+T39	Property 5087 5095	basaltic
+T40	Element 5125 5128	Fe3
+T41	Element 5131 5133	Fe
+T42	Property 5219 5223	soil
+T43	Property 5254 5262	basaltic
+T44	Element 5332 5333	S
+T45	Element 5338 5340	Cl
+T46	Mineral 5399 5410	Plagioclase
+T47	Mineral 5423 5430	Olivine
+T48	Mineral 5440 5448	Pyroxene
+T49	Property 5863 5871	basaltic
+T50	Property 5872 5876	soil
+T51	Element 6283 6285	Fe
+T52	Element 6290 6291	S
+T53	Element 6341 6343	Cl
+T54	Property 6421 6425	soil
+T55	Property 6500 6511	Composition
+T56	Element 7485 7487	Cl
+T57	Mineral 7726 7737	plagioclase
+T58	Mineral 7742 7749	olivine
+T59	Mineral 7754 7762	pyroxene
+T60	Mineral 7768 7776	ilmenite
+T61	Mineral 7781 7789	hematite
+T62	Mineral 7794 7803	magnetite
+T63	Mineral 7809 7818	anhydrite
+T64	Mineral 7823 7829	quartz
+T65	Property 7873 7877	dust
+T66	Property 7881 7885	rock
+T67	Property 7892 7896	soil
+T68	Property 7907 7911	soil
+T69	Property 7926 7930	soil
+T70	Target-MSL 7939 7946	Portage
+R0	HasProperty Arg1:T10 Arg2:T11
+R1	HasProperty Arg1:T10 Arg2:T12
+R2	HasProperty Arg1:T70 Arg2:T65
+R3	HasProperty Arg1:T70 Arg2:T66
+R4	HasProperty Arg1:T70 Arg2:T67
+R5	HasProperty Arg1:T70 Arg2:T68
+R6	HasProperty Arg1:T70 Arg2:T69

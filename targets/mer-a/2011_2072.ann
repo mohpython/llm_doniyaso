@@ -1,0 +1,212 @@
+T1	Property 559 567	basaltic
+T2	Property 568 579	composition
+T3	Element 890 891	P
+T4	Property 1198 1205	igneous
+T5	Property 1304 1311	igneous
+T6	Mineral 1312 1319	olivine
+T7	Mineral 1321 1329	pyroxene
+T8	Mineral 1335 1344	magnetite
+T9	Mineral 1366 1374	hematite
+T10	Mineral 1441 1449	goethite
+T11	Mineral 1451 1459	hematite
+T12	Element 1464 1466	Fe
+T14	Mineral 1467 1475	sulfates
+T15	Mineral 1514 1520	pyrite
+T16	Mineral 1568 1575	sulfate
+T17	Mineral 2193 2201	jarosite
+T18	Property 2423 2427	rock
+T19	Property 2635 2639	rock
+T20	Property 2753 2761	basaltic
+T21	Property 2762 2773	composition
+T22	Element 2813 2815	Cl
+T23	Property 2892 2903	composition
+T24	Element 2920 2926	oxygen
+T25	Element 2965 2971	oxygen
+T26	Element 3043 3044	F
+T27	Element 3049 3051	Cl
+T28	Property 3235 3240	brine
+T29	Mineral 3364 3373	magnetite
+T30	Mineral 3452 3461	magnetite
+T31	Mineral 3570 3578	chlorite
+T32	Mineral 3583 3593	serpentine
+T33	Mineral 3620 3628	chlorite
+T34	Mineral 3655 3664	magnetite
+T35	Mineral 3684 3690	quartz
+T36	Mineral 3726 3734	chlorite
+T37	Mineral 3739 3749	serpentine
+T38	Mineral 3763 3771	chlorite
+T39	Mineral 3776 3786	serpentine
+T40	Mineral 3848 3856	feldspar
+T41	Mineral 3858 3866	pyroxene
+T42	Mineral 4007 4015	hematite
+T43	Mineral 4041 4050	kaolinite
+T44	Mineral 4072 4082	nontronite
+T45	Mineral 4087 4096	kaolinite
+T46	Mineral 4100 4108	chlorite
+T47	Mineral 4262 4270	chlorite
+T48	Mineral 4272 4280	feldspar
+T49	Mineral 4281 4287	quartz
+T50	Mineral 4292 4300	pyroxene
+T51	Mineral 4386 4396	nontronite
+T52	Mineral 4396 4397	-
+T53	Mineral 4397 4413	chloritegoethite
+T54	Mineral 4464 4472	chlorite
+T55	Mineral 4498 4504	quartz
+T56	Mineral 4609 4619	carbonates
+T57	Mineral 4649 4658	silicates
+T58	Mineral 4774 4782	hematite
+T59	Mineral 4783 4789	pyrite
+T60	Mineral 4790 4791	F
+T61	Mineral 4791 4792	-
+T62	Mineral 4792 4799	apatite
+T63	Mineral 4800 4809	kaolinite
+T64	Mineral 4810 4820	nontronite
+T65	Mineral 4821 4827	quartz
+T66	Mineral 4828 4836	chlorite
+T67	Mineral 4837 4845	fluorite
+T68	Mineral 4879 4887	pyroxene
+T69	Mineral 4888 4896	feldspar
+T70	Property 5065 5070	Brine
+T71	Property 5071 5082	composition
+T72	Property 5134 5139	brine
+T73	Property 5236 5241	crust
+T74	Property 5306 5312	brines
+T75	Property 5400 5405	brine
+T76	Property 5441 5446	brine
+T77	Property 5904 5909	brine
+T78	Property 6041 6046	Brine
+T79	Element 6142 6143	S
+T80	Element 6413 6414	K
+T81	Element 6452 6454	Na
+T82	Element 6536 6537	S
+T83	Property 6714 6718	rock
+T84	Mineral 6842 6850	chlorite
+T85	Mineral 6937 6947	nontronite
+T86	Mineral 6953 6961	chlorite
+T87	Mineral 6966 6974	hematite
+T88	Mineral 7041 7049	chlorite
+T89	Mineral 7069 7075	quartz
+T90	Mineral 7080 7088	prehnite
+T91	Mineral 7159 7167	chlorite
+T92	Mineral 7180 7186	quartz
+T93	Mineral 7191 7199	feldspar
+T94	Property 7230 7235	mafic
+T95	Mineral 7326 7336	nontronite
+T97	Mineral 7337 7345	hematite
+T99	Mineral 7346 7354	chlorite
+T100	Mineral 7479 7488	amphibole
+T102	Mineral 7489 7497	chlorite
+T104	Mineral 7498 7506	feldspar
+T105	Property 7634 7638	rock
+T106	Element 7671 7672	F
+T107	Element 7677 7679	Cl
+T108	Mineral 7736 7743	apatite
+T109	Mineral 7750 7755	fluor
+T110	Mineral 7755 7756	-
+T111	Mineral 7756 7763	apatite
+T112	Mineral 7783 7791	fluorite
+T113	Mineral 7926 7934	fluorite
+T114	Element 8019 8027	fluorine
+T115	Property 8061 8065	rock
+T116	Property 8267 8274	igneous
+T117	Mineral 8285 8292	olivine
+T118	Mineral 8294 8302	pyroxene
+T119	Mineral 8308 8317	magnetite
+T120	Mineral 8361 8369	hematite
+T121	Mineral 8436 8444	goethite
+T122	Mineral 8446 8454	hematite
+T123	Element 8459 8461	Fe
+T125	Mineral 8462 8470	sulfates
+T126	Mineral 8509 8515	pyrite
+T127	Mineral 8542 8550	hematite
+T128	Mineral 8663 8671	Goethite
+T129	Mineral 8771 8777	Pyrite
+T130	Property 8987 8992	brine
+T131	Mineral 9255 9263	fluorite
+T132	Property 9301 9305	rock
+T133	Element 14286 14287	K
+T134	Target 438 448	Home Plate
+T135	Target 932 942	Home Plate
+T136	Target 1011 1019	Fastball
+T137	Target 1049 1059	Home Plate
+T138	Target 1128 1138	Home Plate
+T139	Target 1249 1259	Home Plate
+T140	Target 1261 1271	Home Plate
+T141	Target 1409 1419	Home Plate
+T142	Target 1637 1647	Home Plate
+T143	Target 2428 2436	Fastball
+T144	Target 2681 2689	Fastball
+T145	Target 2838 2848	Home Plate
+T146	Target 4660 4668	Fastball
+T147	Target 5895 5903	Fastball
+T148	Target 6080 6088	Fastball
+T149	Target 6905 6913	Fastball
+T150	Target 7211 7219	Fastball
+T151	Target 7535 7543	Fastball
+T152	Target 7687 7695	Fastball
+T153	Target 8150 8160	Home Plate
+T154	Target 8240 8250	Home Plate
+T155	Target 8417 8427	Home Plate
+T156	Target 8950 8960	Home Plate
+R3	Contains Arg1:T140 Arg2:T6
+R4	Contains Arg1:T140 Arg2:T7
+R5	Contains Arg1:T140 Arg2:T8
+R6	Contains Arg1:T140 Arg2:T9
+R14	Contains Arg1:T144 Arg2:T22
+R28	Contains Arg1:T149 Arg2:T85
+R29	Contains Arg1:T149 Arg2:T86
+R30	Contains Arg1:T149 Arg2:T87
+R34	Contains Arg1:T150 Arg2:T95
+R36	Contains Arg1:T150 Arg2:T97
+R38	Contains Arg1:T150 Arg2:T99
+R39	Contains Arg1:T151 Arg2:T100
+R41	Contains Arg1:T151 Arg2:T102
+R43	Contains Arg1:T151 Arg2:T104
+R44	Contains Arg1:T152 Arg2:T106
+R45	Contains Arg1:T152 Arg2:T107
+R46	Contains Arg1:T154 Arg2:T117
+R47	Contains Arg1:T154 Arg2:T118
+R48	Contains Arg1:T154 Arg2:T119
+R49	Contains Arg1:T154 Arg2:T120
+R68	HasProperty Arg1:T140 Arg2:T5
+R69	HasProperty Arg1:T143 Arg2:T18
+R70	HasProperty Arg1:T144 Arg2:T20
+R71	HasProperty Arg1:T144 Arg2:T21
+R80	HasProperty Arg1:T154 Arg2:T116
+T157	Property 1033 1039	basalt
+R1	HasProperty Arg1:T136 Arg2:T157	
+T158	Mineral 1379 1395	nanophase oxides
+R2	Contains Arg1:T140 Arg2:T158	
+T159	Mineral 2820 2823	SO3
+R7	Contains Arg1:T144 Arg2:T159	
+R8	Contains Arg1:T145 Arg2:T22	
+R9	HasProperty Arg1:T144 Arg2:T23	
+T96	Mineral 8374 8390	nanophase oxides
+R10	Contains Arg1:T154 Arg2:T96	
+T98	Property 8932 8942	alteration
+R11	HasProperty Arg1:T156 Arg2:T98	
+T101	Target 39 49	HOME PLATE
+T103	Property 1 24	HYDROTHERMAL ALTERATION
+R12	HasProperty Arg1:T101 Arg2:T103	
+T160	Property 454 461	plateau
+R13	HasProperty Arg1:T134 Arg2:T160	
+T161	Property 900 923	hydrothermal alteration
+R15	HasProperty Arg1:T135 Arg2:T161	
+T162	Property 973 996	hydrothermal alteration
+R16	HasProperty Arg1:T136 Arg2:T162	
+R17	Contains Arg1:T141 Arg2:T10	
+R18	Contains Arg1:T141 Arg2:T11	
+R19	Contains Arg1:T141 Arg2:T14	
+R20	Contains Arg1:T141 Arg2:T12	
+T13	Mineral 1521 1530	marcasite
+R21	Contains Arg1:T141 Arg2:T15	
+R22	Contains Arg1:T141 Arg2:T13	
+T163	Property 1648 1659	pyroclastic
+R23	HasProperty Arg1:T142 Arg2:T163	
+R24	Contains Arg1:T155 Arg2:T121	
+R25	Contains Arg1:T155 Arg2:T122	
+R26	Contains Arg1:T155 Arg2:T123	
+R27	Contains Arg1:T155 Arg2:T125	
+T124	Mineral 8516 8525	marcasite
+R31	Contains Arg1:T155 Arg2:T126	
+R32	Contains Arg1:T155 Arg2:T124	

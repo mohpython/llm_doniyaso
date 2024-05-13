@@ -1,0 +1,99 @@
+T1	Property 337 341	soil
+T2	Property 400 411	sedimentary
+T3	Property 668 679	sedimentary
+T4	Mineral 2098 2104	halite
+T5	Property 2112 2117	crust
+T6	Property 2446 2450	rock
+T7	Property 2748 2755	organic
+T8	Property 3238 3245	organic
+T9	Property 3533 3537	sand
+T10	Property 3829 3838	vesicular
+T11	Property 3949 3953	rock
+T12	Property 4003 4012	vesicular
+T13	Property 4118 4127	vesicular
+T14	Property 4263 4274	sedimentary
+T15	Property 4275 4279	rock
+T16	Property 4363 4367	rock
+T17	Property 4496 4502	clasts
+T18	Property 4792 4796	rock
+T19	Property 4888 4892	pits
+T20	Property 4898 4906	basaltic
+T21	Property 4907 4911	sand
+T22	Property 4945 4949	rock
+T23	Property 5556 5560	rock
+T24	Property 6192 6196	pits
+T25	Property 6247 6255	basaltic
+T26	Property 6256 6260	sand
+T27	Property 6310 6314	rock
+T28	Target 429 439	Home Plate
+T29	Target 782 792	Home Plate
+T30	Target 1005 1015	Home Plate
+T31	Target 1474 1484	Home Plate
+T32	Target 1677 1687	Home Plate
+T33	Target 2159 2169	Home Plate
+T34	Target 2291 2301	Home Plate
+T35	Target 2516 2526	Home Plate
+T36	Target 3044 3054	Home Plate
+T37	Target 3450 3460	Home Plate
+T38	Target 3609 3619	Home Plate
+T39	Target 3855 3865	Home Plate
+T40	Target 4179 4189	Home Plate
+T41	Target 4382 4392	Home Plate
+T42	Target 5048 5058	Home Plate
+T43	Target 5580 5590	Home Plate
+T44	Target 6292 6302	Home Plate
+T45	Target 6322 6334	Nancy Warren
+R0	Contains Arg1:T33 Arg2:T4
+R2	HasProperty Arg1:T28 Arg2:T2
+R3	HasProperty Arg1:T33 Arg2:T5
+R5	HasProperty Arg1:T39 Arg2:T10
+R19	HasProperty Arg1:T45 Arg2:T27
+T46	Property 412 419	deposit
+R1	HasProperty Arg1:T28 Arg2:T46	
+T47	Property 385 399	volcaniclastic
+R20	HasProperty Arg1:T28 Arg2:T47	
+T48	Property 3013 3020	Nodular
+T49	Property 3025 3033	digitate
+T50	Mineral 3034 3040	silica
+R21	Contains Arg1:T36 Arg2:T50	
+R22	HasProperty Arg1:T36 Arg2:T49	
+R23	HasProperty Arg1:T36 Arg2:T48	
+T51	Mineral 6303 6309	silica
+R4	Contains Arg1:T45 Arg2:T51	
+T52	Property 6279 6291	sand-covered
+R6	HasProperty Arg1:T45 Arg2:T52	
+R7	Contains Arg1:T44 Arg2:T51	
+T53	Target 73 83	HOME PLATE
+T54	Mineral 63 69	SILICA
+R8	Contains Arg1:T53 Arg2:T54	
+T55	Mineral 354 368	opaline silica
+R9	Contains Arg1:T28 Arg2:T55	
+T56	Mineral 793 799	silica
+R10	Contains Arg1:T29 Arg2:T56	
+T57	Mineral 1016 1022	silica
+R11	Contains Arg1:T30 Arg2:T57	
+T58	Property 975 982	nodular
+T59	Property 987 995	digitate
+R12	HasProperty Arg1:T30 Arg2:T58	
+R13	HasProperty Arg1:T30 Arg2:T59	
+T60	Mineral 1485 1491	silica
+R14	Contains Arg1:T31 Arg2:T60	
+T61	Mineral 1688 1694	silica
+R15	Contains Arg1:T32 Arg2:T61	
+T62	Mineral 2575 2581	silica
+R16	Contains Arg1:T35 Arg2:T62	
+T63	Mineral 3461 3467	silica
+R17	Contains Arg1:T37 Arg2:T63	
+T64	Property 3549 3564	Aeolian erosion
+R18	HasProperty Arg1:T38 Arg2:T64	
+T66	Property 3839 3845	basalt
+R24	HasProperty Arg1:T39 Arg2:T66	
+T65	Property 3817 3828	windabraded
+R25	HasProperty Arg1:T39 Arg2:T65	
+T67	Property 3922 3937	aeolian erosion
+R26	HasProperty Arg1:T39 Arg2:T67	
+T68	Mineral 4190 4205	digitate silica
+R27	Contains Arg1:T40 Arg2:T68	
+T69	Mineral 4356 4362	silica
+R28	Contains Arg1:T41 Arg2:T69	
+R29	HasProperty Arg1:T44 Arg2:T52	

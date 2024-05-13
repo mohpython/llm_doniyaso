@@ -1,0 +1,26 @@
+T1	Property 841 847	impact
+T2	Property 848 854	crater
+T3	Target-MERB 1789 1798	Shoemaker
+T4	Mineral 1839 1847	smectite
+T5	Property 2123 2132	weathered
+T6	Property 3919 3925	planar
+T7	Property 4362 4371	weathered
+T8	Mineral 4576 4583	sulfate
+T9	Property 5127 5135	fracture
+T10	Element 5210 5212	Mn
+T11	Mineral 5226 5234	sulfates
+T12	Property 5441 5448	spectra
+T13	Mineral 5484 5492	smectite
+T14	Property 5854 5858	Dark
+T15	Property 6157 6161	dark
+T16	Property 6282 6286	dark
+T17	Property 6604 6608	dark
+T18	Property 6632 6639	massive
+T19	Element 7067 7069	Cl
+T20	Element 7074 7075	S
+T21	Property 7279 7289	transverse
+T22	Property 7347 7352	crust
+T23	Element 7662 7664	Fe
+T24	Property 8665 8671	impact
+T25	Property 8672 8678	crater
+R0	Contains Arg1:T3 Arg2:T4

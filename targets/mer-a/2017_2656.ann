@@ -1,0 +1,49 @@
+T1	Property 1315 1323	coatings
+T2	Property 1428 1432	Rock
+T3	Property 1712 1716	Rock
+T4	Property 2119 2123	Rock
+T5	Target-MSL 2661 2670	Littleton
+T6	Element 3557 3561	iron
+T7	Element 4208 4212	iron
+T8	Property 4364 4368	Rock
+T9	Element 4398 4402	iron
+T10	Element 4468 4472	iron
+T11	Element 4535 4539	iron
+T12	Element 4591 4595	iron
+T13	Element 4640 4644	iron
+T14	Element 4683 4687	iron
+T15	Element 4730 4734	iron
+T16	Element 4776 4780	iron
+T17	Element 4817 4821	iron
+T18	Element 4863 4867	iron
+T19	Element 4909 4913	iron
+T20	Element 4958 4962	iron
+T21	Element 5007 5011	iron
+T22	Element 5056 5060	iron
+T23	Element 5934 5938	iron
+T24	Element 5977 5981	iron
+T25	Property 6279 6283	Rock
+T26	Property 6438 6442	Rock
+T27	Element 6651 6655	iron
+T28	Element 7055 7059	iron
+T29	Element 7283 7287	iron
+T30	Element 7380 7384	iron
+T31	Mineral 8007 8015	kamacite
+T32	Mineral 8026 8033	taenite
+T33	Element 8136 8140	iron
+T34	Property 8259 8263	dust
+T35	Property 8336 8342	pitted
+T36	Property 8386 8389	pit
+T37	Property 8416 8423	grooves
+T38	Property 8673 8677	dust
+T39	Property 8716 8720	Rock
+T40	Element 8752 8756	iron
+T41	Element 9036 9040	iron
+T42	Element 9197 9201	iron
+T43	Property 9229 9236	coating
+T44	Property 9251 9258	tabular
+T45	Property 9460 9467	coating
+T46	Target 4841 4851	Zhong Shan
+R1	Contains Arg1:T46 Arg2:T18	
+T47	Target 4794 4805	Allan Hills
+R2	Contains Arg1:T47 Arg2:T17	

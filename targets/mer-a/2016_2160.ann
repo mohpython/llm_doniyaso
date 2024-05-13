@@ -1,0 +1,39 @@
+T1	Property 1044 1051	igneous
+T2	Property 1208 1216	basaltic
+T3	Property 2103 2107	rock
+T4	Property 2389 2396	igneous
+T5	Property 2397 2401	rock
+T6	Target-MSL 2469 2478	Ashuanipi
+T7	Target-MSL 2565 2575	Robin Hood
+T8	Target-MSL 2584 2592	Harrison
+T9	Target-MSL 2621 2627	Hottah
+T10	Mineral 2816 2824	Feldspar
+T11	Property 3303 3310	igneous
+T12	Property 4000 4011	composition
+T13	Property 4575 4586	composition
+T14	Property 4821 4825	dark
+T15	Property 4827 4831	fine
+T16	Property 4863 4874	composition
+T17	Mineral 5027 5034	olivine
+T18	Mineral 5039 5050	hypersthene
+T19	Mineral 5266 5275	feldspars
+T20	Property 5358 5365	igneous
+T21	Mineral 5516 5523	olivine
+T22	Mineral 5536 5544	pyroxene
+T23	Target 5573 5585	Humphrey_RAT
+T24	Mineral 5606 5612	augite
+T25	Mineral 5632 5639	olivine
+T26	Mineral 5786 5793	olivine
+T27	Element 6000 6002	Fe
+T28	Element 6004 6006	Al
+T29	Element 6227 6229	Al
+T30	Property 6243 6254	composition
+T31	Property 6314 6325	composition
+T32	Property 6548 6556	basaltic
+T33	Property 6562 6567	crust
+T34	Mineral 6630 6639	amphibole
+T35	Target 7534 7543	Wishstone
+R0	Contains Arg1:T23 Arg2:T24
+R1	Contains Arg1:T23 Arg2:T25
+R2	HasProperty Arg1:T6 Arg2:T4
+R3	HasProperty Arg1:T6 Arg2:T5

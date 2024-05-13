@@ -1,0 +1,33 @@
+T1	Property 909 914	crust
+T2	Property 1277 1281	rock
+T3	Mineral 1795 1799	SSTB
+T4	Mineral 1799 1800	-
+T5	Mineral 1800 1804	lite
+T6	Mineral 1939 1943	SSTB
+T7	Mineral 1943 1944	-
+T8	Mineral 1944 1948	lite
+T9	Property 2133 2137	soil
+T10	Property 4081 4085	soil
+T11	Property 5262 5267	crust
+T12	Property 6719 6722	red
+T13	Target 699 709	Home Plate
+T14	Target 728 732	Troy
+T15	Target 777 786	Von Braun
+T17	Target 857 873	Scamander Plains
+T18	Target 1516 1523	Ulysses
+T19	Target 1684 1688	Troy
+T20	Target 2261 2265	Troy
+T21	Target 2380 2384	Troy
+T22	Target 4216 4220	Troy
+T23	Mineral 648 655	sulfate
+R3	Contains Arg1:T14 Arg2:T23	
+T24	Target 765 772	Goddard
+T16	Property 844 854	depression
+R1	HasProperty Arg1:T17 Arg2:T16	
+T25	Property 1689 1694	sands
+R2	HasProperty Arg1:T19 Arg2:T25	
+T26	Target 24 28	TROY
+T27	Property 661 666	sandy
+R4	HasProperty Arg1:T14 Arg2:T27	
+R5	Contains Arg1:T13 Arg2:T23	
+R6	HasProperty Arg1:T13 Arg2:T27	

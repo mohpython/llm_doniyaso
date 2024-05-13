@@ -1,0 +1,142 @@
+T1	Property 1397 1405	sediment
+T2	Mineral 1526 1534	sulfates
+T3	Mineral 1719 1727	smectite
+T4	Mineral 1879 1887	smectite
+T5	Target-MERB 2138 2153	Pinnacle Island
+T6	Target-MERB 2160 2173	Stuart Island
+T7	Element 2275 2277	Fe
+T8	Element 2282 2284	Mn
+T9	Element 2381 2383	Mn
+T10	Element 2645 2647	Fe
+T11	Element 2648 2650	Mn
+T12	Element 2652 2654	Ni
+T13	Element 2660 2661	S
+T14	Element 2673 2675	Fe
+T15	Element 2818 2820	Mn
+T16	Property 2836 2845	sediments
+T17	Element 2877 2879	Mn
+T18	Element 2907 2909	Fe
+T19	Element 2923 2925	Mn
+T20	Element 3025 3027	Fe
+T21	Element 3052 3054	Mn
+T22	Element 3111 3113	Mn
+T23	Element 3377 3379	Fe
+T24	Element 3380 3382	Mn
+T25	Property 3396 3404	basaltic
+T26	Element 3465 3467	Mn
+T27	Element 3473 3475	Fe
+T28	Element 3513 3514	S
+T29	Element 3519 3521	Fe
+T30	Element 3536 3538	Mn
+T31	Element 3568 3569	S
+T32	Element 3760 3762	Ni
+T33	Element 3786 3788	Fe
+T34	Element 3789 3791	Mn
+T35	Element 3818 3820	Ni
+T36	Element 3918 3919	S
+T37	Element 3929 3931	Fe
+T38	Element 4085 4087	Mn
+T39	Element 4099 4101	Mn
+T40	Target-MERB 4172 4187	Pinnacle Island
+T41	Target-MERB 4188 4201	Stuart Island
+T42	Element 4223 4225	Fe
+T43	Element 4308 4310	Ni
+T44	Element 4321 4323	Fe
+T45	Target-MERB 4374 4389	Pinnicle Island
+T46	Target-MERB 4390 4403	Stuart Island
+T47	Target 4404 4414	Adirondack
+T48	Element 4461 4463	Mn
+T49	Element 4475 4477	Mn
+T50	Target-MERB 4500 4515	Pinnacle Island
+T51	Target-MERB 4516 4529	Stuart Island
+T52	Element 4551 4553	Fe
+T53	Element 4554 4556	Mn
+T54	Element 4582 4583	S
+T55	Element 4592 4594	Ni
+T56	Element 4602 4604	Fe
+T57	Element 4742 4743	S
+T58	Element 4753 4755	Fe
+T59	Element 4818 4820	Mn
+T60	Element 4832 4834	Mn
+T61	Target-MERB 4864 4879	Pinnacle Island
+T62	Target-MERB 4880 4893	Stuart Island
+T63	Element 4915 4917	Fe
+T64	Element 4957 4958	S
+T65	Element 4962 4964	Fe
+T66	Element 5058 5060	Fe
+T67	Element 5070 5072	Mn
+T68	Element 5199 5201	Mn
+T69	Element 5213 5215	Mn
+T70	Target-MERB 5265 5280	Pinnacle Island
+T71	Target-MERB 5281 5294	Stuart Island
+T72	Element 5356 5358	Fe
+T73	Element 5362 5364	Mn
+T74	Element 5417 5419	Mn
+T75	Element 5440 5442	Fe
+T76	Element 5492 5494	Mn
+T77	Element 5532 5534	Mn
+T78	Element 5540 5542	Fe
+T79	Target-MERB 5694 5703	Shoemaker
+T80	Element 5768 5770	Mn
+T81	Element 5779 5781	Fe
+T82	Element 5860 5862	Fe
+T83	Property 6002 6011	sediments
+T84	Element 6040 6042	Fe
+T85	Element 6047 6049	Mn
+T86	Element 6080 6082	Mn
+T87	Element 6098 6100	Mn
+T88	Element 6650 6652	Fe
+T89	Element 6711 6713	Mn
+T90	Element 7321 7322	S
+T91	Element 7407 7408	S
+T92	Element 7421 7423	Mn
+T93	Element 7425 7426	S
+T94	Element 7428 7430	Ni
+T95	Element 7591 7593	Mn
+T96	Mineral 7621 7628	sulfate
+T97	Element 7644 7646	Mn
+T98	Element 7703 7705	Mn
+T99	Element 7758 7760	Fe
+T100	Element 7781 7783	Fe
+T101	Element 7784 7786	Mn
+T102	Element 8205 8207	Mn
+T103	Element 8418 8420	Mn
+T104	Target 4068 4078	Adirondack
+T105	Target 5188 5198	Adirondack
+R5	Contains Arg1:T40 Arg2:T38
+R6	Contains Arg1:T40 Arg2:T39
+R7	Contains Arg1:T40 Arg2:T42
+R8	Contains Arg1:T40 Arg2:T43
+R9	Contains Arg1:T40 Arg2:T44
+R10	Contains Arg1:T41 Arg2:T39
+R11	Contains Arg1:T41 Arg2:T42
+R12	Contains Arg1:T41 Arg2:T43
+R13	Contains Arg1:T41 Arg2:T44
+R14	Contains Arg1:T41 Arg2:T38
+R15	Contains Arg1:T45 Arg2:T48
+R16	Contains Arg1:T45 Arg2:T49
+R17	Contains Arg1:T45 Arg2:T52
+R18	Contains Arg1:T45 Arg2:T53
+R19	Contains Arg1:T46 Arg2:T49
+R20	Contains Arg1:T46 Arg2:T52
+R21	Contains Arg1:T46 Arg2:T53
+R22	Contains Arg1:T46 Arg2:T48
+R26	Contains Arg1:T50 Arg2:T48
+R27	Contains Arg1:T50 Arg2:T49
+R28	Contains Arg1:T50 Arg2:T52
+R29	Contains Arg1:T50 Arg2:T53
+R30	Contains Arg1:T51 Arg2:T49
+R31	Contains Arg1:T51 Arg2:T52
+R32	Contains Arg1:T51 Arg2:T53
+R33	Contains Arg1:T51 Arg2:T48
+R34	Contains Arg1:T61 Arg2:T59
+R35	Contains Arg1:T61 Arg2:T60
+R36	Contains Arg1:T61 Arg2:T63
+R37	Contains Arg1:T62 Arg2:T60
+R38	Contains Arg1:T62 Arg2:T59
+R39	Contains Arg1:T62 Arg2:T63
+R42	Contains Arg1:T70 Arg2:T68
+R43	Contains Arg1:T70 Arg2:T69
+R44	Contains Arg1:T71 Arg2:T68
+R45	Contains Arg1:T71 Arg2:T69
+R46	Contains Arg1:T79 Arg2:T80

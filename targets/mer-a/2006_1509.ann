@@ -1,0 +1,92 @@
+T1	Element 474 482	titanium
+T2	Element 995 996	P
+T3	Element 1001 1003	Ti
+T4	Element 1228 1230	Cr
+T5	Element 1300 1301	P
+T6	Element 1306 1308	Ti
+T7	Element 1628 1629	P
+T8	Element 1730 1732	Ni
+T9	Element 1810 1812	Cr
+T10	Element 1867 1868	P
+T11	Element 1876 1878	Ti
+T12	Element 1897 1899	Ni
+T13	Element 1904 1906	Cr
+T14	Element 1956 1958	Fe
+T15	Element 1965 1967	Mg
+T16	Element 1977 1978	K
+T17	Element 2155 2156	P
+T18	Element 2438 2439	P
+T19	Element 2441 2443	Ti
+T20	Element 2448 2450	Cr
+T21	Element 2581 2583	Al
+T22	Element 2599 2601	Ga
+T23	Mineral 3056 3063	sulfate
+T24	Property 3093 3097	soil
+T25	Property 3247 3251	rock
+T26	Element 3612 3614	Mg
+T27	Element 3616 3618	Fe
+T28	Element 3623 3624	K
+T29	Property 3766 3773	igneous
+T30	Element 3830 3831	P
+T31	Element 3836 3838	Ti
+T32	Property 4177 4184	igneous
+T33	Element 4360 4361	P
+T35	Element 4362 4364	Ti
+T36	Element 4419 4420	P
+T37	Property 4590 4594	rock
+T38	Property 4695 4699	rock
+T39	Element 5231 5232	P
+T40	Element 5234 5236	Ti
+T41	Element 5241 5243	Cr
+T42	Element 5312 5313	P
+T43	Element 5382 5383	P
+T44	Element 5385 5387	Ti
+T45	Element 5392 5394	Cr
+T46	Element 5445 5446	H
+T47	Element 5662 5663	P
+T48	Target 925 934	Wishstone
+T49	Target 939 949	Watchtower
+T50	Target 1010 1019	Wishstone
+T51	Target 1233 1245	Independence
+T52	Target 3207 3217	Adirondack
+T53	Target 3219 3225	Clovis
+T54	Target 3230 3235	Peace
+T55	Target 3325 3335	Adirondack
+T56	Target 3380 3386	Clovis
+T57	Target 3465 3470	Peace
+T58	Target 3551 3560	Wishstone
+T59	Target 3565 3575	Watchtower
+T60	Target 3710 3719	Wishstone
+T61	Target 5865 5874	Champagne
+T62	Target 5988 5997	Champagne
+R0	Contains Arg1:T48 Arg2:T2
+R1	Contains Arg1:T48 Arg2:T3
+R2	Contains Arg1:T49 Arg2:T2
+R3	Contains Arg1:T49 Arg2:T3
+R4	Contains Arg1:T50 Arg2:T2
+R5	Contains Arg1:T50 Arg2:T3
+R6	Contains Arg1:T51 Arg2:T5
+R7	Contains Arg1:T51 Arg2:T6
+R8	Contains Arg1:T57 Arg2:T26
+R9	Contains Arg1:T57 Arg2:T27
+R10	Contains Arg1:T57 Arg2:T28
+R20	HasProperty Arg1:T52 Arg2:T25
+R21	HasProperty Arg1:T53 Arg2:T25
+R22	HasProperty Arg1:T54 Arg2:T25
+T63	Target 1082 1094	Husband Hill
+T64	Target 598 610	Husband Hill
+T65	Target 897 910	Husband Hills
+R11	Contains Arg1:T65 Arg2:T2	
+R12	Contains Arg1:T65 Arg2:T3	
+R13	Contains Arg1:T48 Arg2:T4	
+R14	Contains Arg1:T49 Arg2:T4	
+R15	Contains Arg1:T65 Arg2:T4	
+T66	Target 3255 3267	Husband Hill
+T67	Target 3842 3854	Husband Hill
+R16	Contains Arg1:T67 Arg2:T31	
+R17	Contains Arg1:T67 Arg2:T30	
+T68	Target 4268 4281	Husband Hills
+T69	Target 4380 4393	Husband Hills
+R18	Contains Arg1:T69 Arg2:T35	
+R19	Contains Arg1:T69 Arg2:T33	
+R23	Contains Arg1:T69 Arg2:T36	

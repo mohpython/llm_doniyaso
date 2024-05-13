@@ -1,0 +1,111 @@
+T1	Element 667 671	iron
+T2	Property 769 773	Rock
+T3	Element 878 882	iron
+T4	Target-MERB 1009 1020	Heat Shield
+T6	Property 1126 1130	Rock
+T7	Element 1144 1148	iron
+T8	Property 1322 1326	Rock
+T9	Property 1648 1652	Rock
+T10	Property 1908 1912	Rock
+T11	Element 1962 1964	Ni
+T12	Element 1966 1968	Ge
+T13	Element 1974 1976	Ga
+T14	Element 2024 2028	iron
+T15	Element 2192 2196	iron
+T16	Element 2223 2227	iron
+T17	Property 2586 2597	composition
+T18	Element 2625 2629	iron
+T19	Property 2665 2672	spectra
+T20	Property 2737 2741	Rock
+T21	Property 2816 2823	spectra
+T22	Property 3016 3023	spectra
+T23	Property 3048 3052	Rock
+T24	Property 3153 3157	Rock
+T25	Property 3217 3224	spectra
+T26	Property 3322 3329	spectra
+T27	Mineral 3479 3487	kamacite
+T28	Element 3492 3494	Fe
+T29	Element 3495 3497	Ni
+T30	Mineral 3504 3511	taenite
+T31	Element 3516 3518	Ni
+T32	Element 3519 3521	Fe
+T33	Property 3537 3541	Rock
+T34	Property 3542 3549	spectra
+T35	Element 3599 3601	Fe
+T36	Element 3602 3604	Ni
+T37	Property 3658 3665	spectra
+T38	Property 3691 3698	spectra
+T39	Property 3795 3799	Rock
+T40	Property 3949 3953	Rock
+T41	Property 4043 4050	coating
+T42	Mineral 4226 4234	cohenite
+T43	Element 4237 4239	Fe
+T44	Element 4240 4242	Ni
+T45	Element 4243 4245	Co
+T46	Mineral 4254 4267	schreibersite
+T47	Mineral 4357 4365	cohenite
+T48	Element 4455 4459	Iron
+T49	Property 4707 4711	Rock
+T50	Property 4733 4739	smooth
+T51	Property 4746 4750	pits
+T52	Property 4869 4878	weathered
+T53	Property 4879 4882	pit
+T54	Property 4982 4985	pit
+T55	Mineral 5261 5269	Hematite
+T56	Property 5308 5312	pits
+T57	Property 5504 5508	Rock
+T58	Property 5585 5592	coating
+T59	Property 5666 5673	coating
+T60	Property 5741 5748	spectra
+T61	Element 5822 5826	iron
+T62	Mineral 5944 5952	hematite
+T63	Mineral 5963 5972	maghemite
+T64	Mineral 5984 5992	goethite
+T65	Mineral 6004 6014	akaganeite
+T66	Element 6026 6028	Cl
+T67	Mineral 6038 6051	lepidocrocite
+T68	Property 6075 6079	Rock
+T69	Property 6080 6087	spectra
+T70	Mineral 6192 6200	hematite
+T71	Mineral 6202 6211	maghemite
+T72	Mineral 6228 6237	magnetite
+T73	Property 6264 6271	spectra
+T74	Property 6329 6333	Rock
+T75	Property 6455 6464	weathered
+T76	Property 6509 6513	Rock
+T77	Property 6551 6560	weathered
+T78	Property 6569 6572	pit
+T79	Property 6605 6612	spectra
+T80	Element 6676 6680	iron
+T81	Element 6721 6725	iron
+T82	Property 6799 6810	composition
+T83	Property 6816 6827	composition
+T84	Property 6864 6871	spectra
+T85	Target-MERB 6885 6896	Heat Shield
+T87	Element 6940 6944	iron
+T88	Element 6944 6945	-
+T89	Element 6945 6951	nickel
+T90	Mineral 7006 7014	cohenite
+T91	Element 7084 7088	iron
+T92	Property 7150 7157	coating
+T93	Property 7198 7207	weathered
+T94	Property 7208 7211	pit
+T95	Property 7288 7295	spectra
+T96	Target-MERB 7297 7309	Block Island
+T97	Property 7329 7338	weathered
+T98	Property 7356 7360	Rock
+T99	Property 8206 8213	spectra
+T100	Property 8238 8242	Rock
+T101	Mineral 8302 8310	kamacite
+T102	Mineral 8312 8319	taenite
+T103	Mineral 8338 8346	cohenite
+T104	Element 8372 8376	iron
+T105	Property 8422 8426	Rock
+R0	Contains Arg1:T85 Arg2:T87
+R1	Contains Arg1:T85 Arg2:T88
+R2	Contains Arg1:T85 Arg2:T89
+R5	Contains Arg1:T85 Arg2:T90
+R6	HasProperty Arg1:T85 Arg2:T84
+R7	HasProperty Arg1:T96 Arg2:T95
+R8	HasProperty Arg1:T96 Arg2:T97
+R9	HasProperty Arg1:T96 Arg2:T98

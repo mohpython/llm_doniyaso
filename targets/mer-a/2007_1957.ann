@@ -1,0 +1,92 @@
+T1	Property 558 562	rock
+T2	Property 1984 1988	dust
+T3	Property 3014 3017	red
+T4	Property 3052 3058	bright
+T5	Property 3088 3092	Rock
+T6	Property 3213 3220	spectra
+T7	Property 3512 3519	spectra
+T8	Property 3589 3596	spectra
+T9	Property 3672 3679	spectra
+T10	Property 3685 3689	rock
+T11	Property 3950 3954	rock
+T12	Mineral 3969 3977	hematite
+T13	Property 4515 4520	bands
+T14	Property 4562 4566	rock
+T15	Property 4709 4714	bands
+T16	Property 4749 4752	red
+T17	Property 4859 4863	rock
+T18	Property 5060 5064	rock
+T19	Property 5134 5141	spectra
+T20	Property 5181 5188	rounded
+T21	Property 5740 5748	basaltic
+T22	Mineral 6276 6283	olivine
+T23	Mineral 6421 6428	olivine
+T24	Property 6627 6634	spectra
+T25	Target 461 477	Cumberland Ridge
+T26	Target 931 941	Home Plate
+T27	Target 958 970	Winter Haven
+T28	Target 2687 2694	Hillary
+T29	Target 3788 3798	Watchtower
+T30	Target 3871 3887	Cumberland Ridge
+T31	Target 4052 4060	Jibsheet
+T32	Target 4092 4108	Cumberland Ridge
+T33	Target 4341 4351	Methuselah
+T34	Target 5086 5096	Home Plate
+T35	Target 5108 5113	Posey
+T36	Target 5550 5560	Watchtower
+T37	Target 5671 5681	Adirondack
+T38	Target 5813 5823	Methuselah
+T39	Target 5944 5954	Methuselah
+T40	Target 6257 6265	Seminole
+T41	Target 6434 6444	Home Plate
+T42	Target 6474 6480	Clovis
+T43	Target 6506 6516	Home Plate
+T44	Target 6595 6607	Winter Haven
+T45	Target 6679 6685	Clovis
+T46	Target 6717 6727	Home Plate
+T47	Target 7981 7991	Home Plate
+R0	Contains Arg1:T40 Arg2:T22
+R1	Contains Arg1:T40 Arg2:T23
+R4	HasProperty Arg1:T34 Arg2:T18
+R7	HasProperty Arg1:T35 Arg2:T18
+R8	HasProperty Arg1:T35 Arg2:T19
+R12	HasProperty Arg1:T44 Arg2:T24
+T48	Target 489 501	Husband Hill
+T49	Target 2564 2576	Husband Hill
+T50	Target 2699 2706	Tenzing
+T51	Target 2794 2801	Bowline
+T52	Target 2806 2814	Prussick
+T53	Property 2673 2680	outcrop
+T54	Property 2729 2734	float
+R2	HasProperty Arg1:T28 Arg2:T53	
+R13	HasProperty Arg1:T50 Arg2:T53	
+R14	HasProperty Arg1:T51 Arg2:T54	
+R15	HasProperty Arg1:T52 Arg2:T54	
+T55	Target 2916 2928	Husband Hill
+R16	HasProperty Arg1:T29 Arg2:T11	
+R17	Contains Arg1:T29 Arg2:T12	
+T56	Target 4123 4135	Husband Hill
+T57	Target 4404 4413	West Spur
+T58	Target 4864 4873	Commanche
+R3	HasProperty Arg1:T58 Arg2:T17	
+T59	Property 5696 5702	basalt
+R5	HasProperty Arg1:T37 Arg2:T59	
+T60	Target 5881 5890	West Spur
+T61	Target 5912 5919	Bowline
+T62	Target 6067 6076	Methuslah
+T63	Target 6140 6149	Commanche
+T64	Target 6243 6252	Commanche
+R6	Contains Arg1:T64 Arg2:T22	
+R9	Contains Arg1:T64 Arg2:T23	
+T65	Property 6533 6540	layered
+R10	HasProperty Arg1:T43 Arg2:T65	
+T67	Property 6637 6644	Layered
+R18	HasProperty Arg1:T45 Arg2:T67	
+T66	Target 6705 6714	West Spur
+R19	HasProperty Arg1:T66 Arg2:T67	
+T68	Target 6732 6741	West Spur
+T69	Property 6801 6815	volcaniclastic
+R20	HasProperty Arg1:T68 Arg2:T69	
+R21	HasProperty Arg1:T46 Arg2:T69	
+T70	Target 105 121	CUMBERLAND RIDGE
+T71	Target 125 135	HOME PLATE

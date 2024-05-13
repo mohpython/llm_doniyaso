@@ -1,0 +1,26 @@
+T1	Property 568 575	granule
+T2	Property 593 597	Sand
+T3	Property 952 956	fine
+T4	Property 957 961	sand
+T5	Property 1031 1035	sand
+T6	Property 1086 1093	granule
+T7	Property 1243 1250	granule
+T8	Property 1463 1470	granule
+T9	Property 1696 1703	granule
+T10	Property 3205 3212	granule
+T11	Property 4315 4319	dark
+T12	Property 4947 4954	granule
+T13	Property 5159 5163	Dust
+T14	Property 5165 5169	silt
+T15	Property 5281 5288	cobbles
+T16	Property 5732 5739	granule
+T17	Property 5801 5805	Sand
+T18	Property 5819 5827	basaltic
+T19	Property 5831 5842	composition
+T20	Property 5992 5996	sand
+T21	Element 6373 6374	S
+T22	Property 6661 6665	Sand
+T23	Property 6777 6782	Sharp
+T24	Target 5515 5524	El Dorado
+T25	Property 5478 5484	ripple
+R1	HasProperty Arg1:T24 Arg2:T25	

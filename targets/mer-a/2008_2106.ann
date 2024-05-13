@@ -1,0 +1,72 @@
+T1	Property 868 872	dust
+T2	Property 1040 1044	soil
+T3	Property 1126 1130	Soil
+T4	Property 1154 1159	rough
+T5	Property 1597 1601	soil
+T6	Property 1728 1732	dust
+T7	Property 1998 2002	sand
+T8	Property 2011 2015	fine
+T9	Property 2069 2073	fine
+T10	Property 2074 2078	sand
+T11	Property 2271 2275	sand
+T12	Property 2282 2286	dust
+T13	Property 2388 2392	sand
+T14	Property 2447 2451	dust
+T15	Property 2529 2533	Rock
+T16	Property 2579 2587	coatings
+T17	Property 2715 2723	coatings
+T18	Property 2739 2747	basaltic
+T19	Property 3046 3052	clasts
+T20	Property 3722 3726	dark
+T21	Property 3727 3731	sand
+T22	Property 3744 3748	fine
+T23	Property 3750 3756	bright
+T24	Property 3849 3857	basaltic
+T25	Property 3858 3864	clasts
+T26	Property 4002 4006	soil
+T27	Property 4246 4254	cohesion
+T28	Property 4323 4327	soil
+T29	Property 4486 4490	fine
+T30	Property 4491 4495	sand
+T31	Property 4511 4519	cohesion
+T32	Property 4621 4625	soil
+T33	Property 4779 4784	crust
+T34	Property 4809 4814	crust
+T35	Property 5047 5051	soil
+T36	Property 5126 5130	dust
+T37	Property 5198 5202	soil
+T38	Property 5267 5271	soil
+T39	Property 5508 5512	soil
+T40	Property 5582 5586	soil
+T41	Property 5622 5633	sedimentary
+T42	Property 5901 5908	rounded
+T43	Property 5940 5944	sand
+T44	Mineral 6008 6016	sulfates
+T45	Property 6026 6037	finegrained
+T46	Property 6099 6103	fine
+T47	Mineral 6331 6338	sulfate
+T48	Property 6588 6599	finegrained
+T49	Mineral 6722 6729	sulfate
+T50	Property 6893 6902	sediments
+T51	Property 6960 6964	rock
+T52	Property 7197 7206	prismatic
+T53	Mineral 7391 7400	evaporite
+T54	Target 2227 2236	El Dorado
+T55	Target 2358 2376	Innocent Bystander
+T56	Target 3271 3281	Home Plate
+T57	Target 3505 3515	Home Plate
+T58	Target 3693 3703	Home Plate
+T59	Target 4008 4022	Kenosha Comets
+R0	HasProperty Arg1:T54 Arg2:T11
+R1	HasProperty Arg1:T54 Arg2:T12
+R10	HasProperty Arg1:T59 Arg2:T26
+T60	Target 2988 3000	Husband Hill
+R2	HasProperty Arg1:T60 Arg2:T19	
+T61	Property 3532 3540	volcanic
+R3	HasProperty Arg1:T57 Arg2:T61	
+T62	Mineral 3990 3996	silica
+R4	Contains Arg1:T59 Arg2:T62	
+T63	Property 3388 3408	accretionary lapilli
+R5	HasProperty Arg1:T56 Arg2:T63	
+T64	Property 3419 3432	hydrovolcanic
+R6	HasProperty Arg1:T56 Arg2:T64	

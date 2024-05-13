@@ -1,0 +1,61 @@
+T1	Property 475 481	eolian
+T2	Property 1455 1466	Sedimentary
+T3	Property 1547 1553	eolian
+T4	Property 1568 1572	flat
+T5	Property 1730 1736	eolian
+T6	Property 1843 1849	eolian
+T7	Property 1912 1923	Sedimentary
+T8	Property 2010 2016	eolian
+T9	Property 3122 3128	layers
+T10	Property 3645 3651	layers
+T11	Property 3881 3887	layers
+T12	Mineral 4085 4093	sulfates
+T13	Property 4438 4444	brines
+T14	Element 6117 6121	iron
+T15	Mineral 6201 6209	hematite
+T16	Mineral 6214 6221	sulfate
+T17	Mineral 6279 6287	hematite
+T18	Element 6469 6473	iron
+T19	Mineral 6485 6493	sulfates
+T20	Element 6654 6656	Ni
+T21	Element 6710 6712	Ni
+T22	Element 6718 6722	iron
+T23	Element 6756 6760	iron
+T24	Element 6844 6846	Ni
+T25	Element 6871 6873	Fe
+T26	Element 6963 6965	Mg
+T27	Property 7017 7025	basaltic
+T28	Property 7099 7107	basaltic
+T29	Mineral 7126 7133	sulfate
+T30	Mineral 7459 7466	sulfate
+T31	Mineral 7627 7634	sulfate
+T32	Property 7730 7733	red
+T33	Element 7795 7799	iron
+T34	Mineral 7899 7907	hematite
+T35	Element 8109 8111	Br
+T36	Element 8116 8118	Cl
+T37	Element 8121 8123	Br
+T38	Element 8128 8130	Cl
+T39	Property 8637 8641	fine
+T40	Property 8642 8648	layers
+T41	Property 8904 8908	fine
+T42	Property 8909 8913	dust
+T43	Property 9152 9158	layers
+T44	Target 772 781	Homeplate
+T46	Target 2835 2845	Home Plate
+T47	Target 3474 3484	Home Plate
+T48	Target 7039 7049	Home Plate
+R0	HasProperty Arg1:T48 Arg2:T27
+R1	HasProperty Arg1:T48 Arg2:T28
+T45	Property 2817 2830	cross bedding
+R2	HasProperty Arg1:T46 Arg2:T45	
+T49	Property 712 726	finely-layered
+T50	Property 727 742	crossstratified
+T51	Property 743 750	deposit
+R3	HasProperty Arg1:T44 Arg2:T49	
+R4	HasProperty Arg1:T44 Arg2:T50	
+R5	HasProperty Arg1:T44 Arg2:T51	
+T52	Property 810 823	hydromagmatic
+R6	HasProperty Arg1:T44 Arg2:T52	
+T53	Property 3490 3498	volcanic
+R7	HasProperty Arg1:T47 Arg2:T53	

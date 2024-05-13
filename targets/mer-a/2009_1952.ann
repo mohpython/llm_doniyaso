@@ -1,0 +1,52 @@
+T1	Element 575 581	carbon
+T2	Property 610 618	basaltic
+T3	Property 733 744	composition
+T4	Element 894 900	Carbon
+T5	Property 968 979	composition
+T6	Property 1133 1144	composition
+T7	Element 1413 1417	iron
+T8	Element 1516 1518	Pt
+T9	Element 1546 1548	Fe
+T10	Property 2506 2512	Bright
+T11	Element 2533 2535	Ag
+T12	Element 2829 2831	Mg
+T13	Property 2892 2899	spectra
+T14	Property 2962 2969	spectra
+T15	Property 3043 3051	basaltic
+T16	Property 3076 3081	mafic
+T17	Element 3337 3343	oxygen
+T18	Mineral 3434 3438	iron
+T19	Mineral 3438 3439	-
+T20	Mineral 3439 3446	wustite
+T21	Element 3486 3492	carbon
+T22	Mineral 3513 3521	graphite
+T23	Property 3603 3611	basaltic
+T24	Element 3635 3641	oxygen
+T25	Element 3675 3676	K
+T26	Element 3690 3691	K
+T27	Mineral 3796 3804	graphite
+T28	Property 3858 3866	basaltic
+T29	Property 3892 3903	composition
+T30	Mineral 4087 4094	olivine
+T31	Mineral 4328 4335	olivine
+T32	Mineral 4466 4474	andesite
+T33	Mineral 4497 4499	ol
+T34	Mineral 4499 4500	-
+T35	Mineral 4500 4509	leucitite
+T36	Mineral 4746 4753	olivine
+T37	Mineral 5203 5210	olivine
+T38	Mineral 5211 5220	tholeiite
+T39	Element 6122 6128	oxygen
+T40	Target 849 857	Humphrey
+T41	Target 1018 1026	Humphrey
+T42	Target 4203 4211	Humphrey
+T43	Target 5175 5183	Humphrey
+T44	Target 824 834	Adirondack
+T45	Property 841 847	basalt
+R2	HasProperty Arg1:T40 Arg2:T45	
+T46	Property 1035 1041	basalt
+R3	HasProperty Arg1:T41 Arg2:T46	
+T47	Property 4212 4218	basalt
+R4	HasProperty Arg1:T42 Arg2:T47	
+T48	Property 5184 5190	basalt
+R1	HasProperty Arg1:T43 Arg2:T48	

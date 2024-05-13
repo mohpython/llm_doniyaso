@@ -1,0 +1,49 @@
+T1	Property 423 428	crust
+T2	Mineral 984 995	plagioclase
+T3	Element 1290 1292	Na
+T4	Element 1311 1312	K
+T5	Property 1580 1591	composition
+T6	Mineral 1856 1865	mugearite
+T7	Mineral 2536 2544	graphite
+T8	Mineral 2617 2625	graphite
+T9	Property 3047 3058	Composition
+T10	Property 3086 3097	composition
+T11	Property 3167 3173	silica
+T12	Property 3174 3181	content
+T13	Mineral 3558 3571	orthopyroxene
+T14	Mineral 3600 3607	olivine
+T15	Mineral 3655 3662	olivine
+T16	Mineral 3752 3759	olivine
+T17	Mineral 3829 3842	orthopyroxene
+T18	Mineral 4010 4017	olivine
+T19	Element 4695 4697	Mg
+T20	Element 4702 4704	Fe
+T21	Element 4759 4760	P
+T22	Element 4765 4767	Ti
+T23	Mineral 4948 4959	plagioclase
+T24	Mineral 5163 5172	feldspars
+T25	Mineral 5641 5648	olivine
+T26	Property 5773 5784	composition
+T27	Element 5814 5816	Ca
+T28	Element 5818 5820	Na
+T29	Element 5821 5822	K
+T30	Mineral 5926 5933	olivine
+T31	Mineral 5961 5970	anorthite
+T32	Mineral 5970 5971	-
+T33	Mineral 5971 5975	rich
+T34	Mineral 5976 5987	plagioclase
+T35	Property 6031 6042	composition
+T36	Mineral 6309 6316	olivine
+T37	Mineral 7381 7388	olivine
+T38	Target 1818 1826	Backstay
+T39	Target 5668 5676	Backstay
+T40	Target 5995 6003	Backstay
+R6	HasProperty Arg1:T39 Arg2:T26
+T41	Property 1827 1839	trachybasalt
+R8	HasProperty Arg1:T38 Arg2:T41	
+T42	Property 1788 1796	alkaline
+R9	HasProperty Arg1:T38 Arg2:T42	
+T43	Property 5707 5716	aphanitic
+T44	Property 5680 5690	homogenous
+R10	HasProperty Arg1:T39 Arg2:T43	
+R11	HasProperty Arg1:T39 Arg2:T44	

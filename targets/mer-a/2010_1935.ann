@@ -1,0 +1,62 @@
+T1	Mineral 577 584	sulfate
+T2	Property 605 612	cobbles
+T3	Property 913 917	Rock
+T4	Mineral 989 997	pyroxene
+T5	Property 1033 1040	spectra
+T6	Element 1162 1164	Ca
+T7	Mineral 1165 1173	pyroxene
+T8	Mineral 1190 1201	plagioclase
+T9	Mineral 1226 1237	maskelynite
+T10	Property 1267 1271	Rock
+T11	Property 1381 1385	rock
+T12	Target-MERB 1387 1403	Marquette Island
+T13	Property 1682 1687	sharp
+T14	Property 1729 1733	rock
+T15	Property 1791 1796	bands
+T16	Property 2048 2051	red
+T17	Property 2970 2977	spectra
+T18	Property 3099 3106	spectra
+T19	Element 3518 3522	iron
+T20	Mineral 3562 3569	olivine
+T21	Mineral 3595 3603	pyroxene
+T22	Property 3629 3636	spectra
+T23	Property 3735 3739	Rock
+T24	Property 3744 3751	Cobbles
+T25	Property 4083 4088	bluer
+T26	Property 4240 4247	cobbles
+T27	Property 4299 4303	Rock
+T28	Property 4519 4526	cobbles
+T29	Property 4724 4731	cobbles
+T30	Property 4963 4970	cobbles
+T31	Property 4987 4991	Rock
+T32	Property 5015 5022	cobbles
+T33	Property 5107 5111	Rock
+T34	Property 5226 5233	cobbles
+T35	Property 5378 5385	cobbles
+T36	Property 5414 5421	cobbles
+T37	Property 5506 5513	cobbles
+T38	Element 5613 5615	Ni
+T39	Property 5644 5652	basaltic
+T40	Target-MERB 5776 5785	Barberton
+T41	Property 5796 5803	cobbles
+T42	Element 5839 5841	Ni
+T43	Mineral 5873 5881	kamacite
+T44	Mineral 5889 5897	troilite
+T45	Property 6323 6330	cobbles
+T46	Property 6367 6371	Rock
+T47	Target-MERB 6417 6433	Marquette Island
+T48	Property 6491 6495	Rock
+T49	Property 6509 6516	cobbles
+T50	Property 6572 6577	rough
+T51	Property 6831 6835	rock
+T52	Mineral 7106 7113	olivine
+T53	Mineral 7120 7128	pyroxene
+T54	Mineral 7174 7182	pyroxene
+R0	Contains Arg1:T40 Arg2:T42
+R1	Contains Arg1:T40 Arg2:T43
+R2	Contains Arg1:T40 Arg2:T44
+R3	HasProperty Arg1:T12 Arg2:T10
+R4	HasProperty Arg1:T12 Arg2:T11
+R5	HasProperty Arg1:T40 Arg2:T41
+R6	HasProperty Arg1:T47 Arg2:T48
+R7	HasProperty Arg1:T47 Arg2:T49

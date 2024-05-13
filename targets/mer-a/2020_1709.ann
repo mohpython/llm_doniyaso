@@ -1,0 +1,18 @@
+T1	Mineral 1957 1964	sulfate
+T2	Property 2000 2007	spectra
+T3	Property 2130 2134	soil
+T4	Property 2139 2143	rock
+T5	Property 3353 3357	rock
+T6	Property 3361 3365	soil
+T7	Property 3548 3554	clasts
+T8	Property 3583 3587	dust
+T9	Property 4116 4122	bright
+T10	Property 4123 4127	soil
+T11	Target 2011 2021	Watchtower
+T12	Target 3860 3876	Cumberland Ridge
+T13	Target 3920 3930	Watchtower
+T14	Target 3885 3897	Husband Hill
+T15	Target 3946 3961	Larry's Lookout
+T16	Target 3985 3991	Astern
+T17	Property 3937 3944	outcrop
+R1	HasProperty Arg1:T15 Arg2:T17	

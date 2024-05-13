@@ -1,0 +1,118 @@
+T1	Mineral 305 310	Suite
+T2	Property 937 944	spectra
+T3	Property 1139 1146	spectra
+T4	Property 1193 1200	spectra
+T5	Mineral 1317 1331	phyllosilicate
+T6	Property 1514 1521	spectra
+T7	Property 1817 1826	weathered
+T8	Property 1868 1875	spectra
+T9	Mineral 2097 2106	smectites
+T10	Property 2131 2140	weathered
+T11	Mineral 2370 2378	smectite
+T12	Property 2603 2612	weathered
+T13	Mineral 2909 2923	phyllosilicate
+T14	Mineral 3141 3148	sulfate
+T15	Element 3475 3477	Fe
+T16	Property 3557 3561	rock
+T17	Property 3593 3600	coating
+T18	Mineral 3705 3719	phyllosilicate
+T19	Mineral 3721 3728	sulfate
+T20	Property 3821 3829	coatings
+T21	Property 3913 3920	coating
+T22	Property 3928 3935	coating
+T23	Property 3951 3955	rock
+T24	Property 4194 4198	rock
+T25	Property 4199 4206	coating
+T26	Mineral 4246 4260	phyllosilicate
+T27	Mineral 4262 4269	sulfate
+T28	Mineral 4271 4280	carbonate
+T29	Element 4597 4598	S
+T30	Element 4600 4602	Cl
+T31	Element 4608 4610	Br
+T32	Property 4696 4703	spectra
+T33	Property 4711 4718	coating
+T34	Property 4731 4735	rock
+T35	Property 4867 4871	rock
+T36	Property 4919 4923	dust
+T37	Mineral 4970 4978	goethite
+T38	Element 4999 5001	Fe
+T39	Property 5032 5039	spectra
+T40	Property 5179 5187	basaltic
+T41	Property 5188 5199	composition
+T42	Property 5266 5270	rock
+T43	Property 5311 5318	spectra
+T44	Mineral 5534 5549	montmorillonite
+T45	Mineral 5786 5793	sulfate
+T46	Mineral 5897 5904	sulfate
+T47	Property 5969 5973	rock
+T48	Property 6042 6049	spectra
+T49	Mineral 6110 6125	phyllosilicates
+T50	Property 6221 6228	spectra
+T51	Property 6249 6256	spectra
+T52	Target 3602 3610	Mazatzal
+T53	Target 3904 3912	Mazatzal
+T54	Target 3939 3947	Mazatzal
+T55	Target 4384 4390	Clovis
+T56	Target 4485 4491	Clovis
+T57	Target 4722 4730	Mazatzal
+T58	Target 4783 4791	Mazatzal
+T59	Target 5381 5390	Assemblee
+T60	Target 5403 5412	Assemblee
+T61	Target 5864 5873	Assemblee
+T62	Target 5974 5983	Assemblee
+R1	Contains Arg1:T61 Arg2:T46
+R3	HasProperty Arg1:T52 Arg2:T16
+R4	HasProperty Arg1:T52 Arg2:T17
+R5	HasProperty Arg1:T53 Arg2:T21
+R6	HasProperty Arg1:T54 Arg2:T22
+R7	HasProperty Arg1:T54 Arg2:T23
+R8	HasProperty Arg1:T57 Arg2:T32
+R9	HasProperty Arg1:T57 Arg2:T33
+R10	HasProperty Arg1:T57 Arg2:T34
+R11	HasProperty Arg1:T58 Arg2:T35
+R12	HasProperty Arg1:T62 Arg2:T47
+T63	Target 4085 4095	Adirondack
+T64	Property 4102 4108	basalt
+R2	HasProperty Arg1:T63 Arg2:T64	
+T65	Mineral 4353 4371	amorphous silicate
+R13	Contains Arg1:T54 Arg2:T65	
+T66	Target 4432 4441	West Spur
+T67	Target 4445 4457	Husband Hill
+T68	Property 4521 4528	layered
+T69	Property 4529 4536	clastic
+R14	HasProperty Arg1:T56 Arg2:T68	
+R15	HasProperty Arg1:T56 Arg2:T69	
+T70	Property 4564 4571	altered
+R16	HasProperty Arg1:T56 Arg2:T70	
+R17	Contains Arg1:T56 Arg2:T29	
+R18	Contains Arg1:T56 Arg2:T30	
+R19	Contains Arg1:T56 Arg2:T31	
+T71	Target 4627 4637	Adirondack
+T72	Property 4644 4651	basalts
+R20	HasProperty Arg1:T71 Arg2:T72	
+R21	Contains Arg1:T66 Arg2:T29	
+R22	Contains Arg1:T66 Arg2:T30	
+R23	Contains Arg1:T66 Arg2:T31	
+R24	Contains Arg1:T67 Arg2:T29	
+R25	Contains Arg1:T67 Arg2:T30	
+R26	Contains Arg1:T67 Arg2:T31	
+T73	Target 4754 4764	Adirondack
+T74	Property 4771 4777	basalt
+R27	HasProperty Arg1:T73 Arg2:T74	
+R28	Contains Arg1:T56 Arg2:T37	
+R29	Contains Arg1:T56 Arg2:T38	
+R30	Contains Arg1:T66 Arg2:T37	
+R31	Contains Arg1:T67 Arg2:T37	
+R32	Contains Arg1:T66 Arg2:T38	
+R33	Contains Arg1:T67 Arg2:T38	
+T75	Target 5254 5260	Clovis
+R34	HasProperty Arg1:T75 Arg2:T42	
+T76	Property 5441 5448	outcrop
+R35	HasProperty Arg1:T60 Arg2:T76	
+T77	Target 5465 5477	Husband Hill
+R36	HasProperty Arg1:T66 Arg2:T68	
+R37	HasProperty Arg1:T66 Arg2:T69	
+R38	HasProperty Arg1:T66 Arg2:T70	
+R39	HasProperty Arg1:T67 Arg2:T68	
+R40	HasProperty Arg1:T67 Arg2:T69	
+R41	HasProperty Arg1:T67 Arg2:T70	

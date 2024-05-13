@@ -1,0 +1,161 @@
+T1	Element 453 459	oxygen
+T2	Property 472 480	basaltic
+T3	Property 1275 1283	Basaltic
+T4	Property 1537 1548	composition
+T5	Mineral 1596 1603	olivine
+T6	Mineral 1604 1612	pyroxene
+T7	Property 1719 1723	rock
+T8	Element 1866 1869	Fe3
+T9	Mineral 1919 1927	hematite
+T10	Mineral 2417 2423	quartz
+T11	Mineral 2423 2424	-
+T12	Mineral 2424 2432	fayalite
+T13	Mineral 2432 2433	-
+T14	Mineral 2433 2442	magnetite
+T15	Element 2485 2486	K
+T16	Element 2594 2597	Fe3
+T17	Element 2845 2848	Fe3
+T18	Target 2871 2883	Barnhill_Ace
+T19	Mineral 2902 2909	olivine
+T20	Mineral 2962 2969	olivine
+T21	Property 2990 2994	rock
+T22	Target 3155 3167	Barnhill_Ace
+T23	Target 3276 3288	Barnhill_Ace
+T24	Property 3354 3361	Igneous
+T25	Property 3433 3440	igneous
+T26	Mineral 3451 3458	olivine
+T27	Mineral 3460 3468	pyroxene
+T28	Mineral 3474 3483	magnetite
+T29	Property 3664 3671	igneous
+T30	Property 3748 3755	Igneous
+T31	Mineral 4260 4267	olivine
+T32	Mineral 4314 4321	olivine
+T33	Mineral 4322 4330	pyroxene
+T34	Mineral 4402 4409	olivine
+T35	Mineral 4410 4418	pyroxene
+T36	Mineral 4449 4456	olivine
+T37	Element 4519 4522	Fe3
+T38	Mineral 4547 4554	olivine
+T39	Mineral 4602 4609	olivine
+T40	Property 5068 5075	igneous
+T41	Property 5100 5107	igneous
+T42	Mineral 5183 5192	magnetite
+T43	Mineral 5361 5368	olivine
+T44	Mineral 5397 5405	pyroxene
+T45	Mineral 5435 5442	olivine
+T46	Mineral 5443 5451	pyroxene
+T47	Property 5472 5477	rinds
+T48	Property 5826 5833	igneous
+T49	Property 6133 6140	igneous
+T50	Property 6355 6360	crust
+T51	Mineral 6430 6437	olivine
+T52	Mineral 6456 6464	pyroxene
+T53	Mineral 6469 6478	magnetite
+T54	Property 6620 6624	rock
+T55	Element 6680 6683	Fe3
+T56	Property 7310 7317	igneous
+T57	Target 1376 1386	Adirondack
+T58	Target 1418 1426	Backstay
+T59	Target 1431 1437	Irvine
+T60	Target 1476 1484	Barnhill
+T61	Target 1552 1558	Irvine
+T62	Target 1649 1659	Adirondack
+T63	Target 1664 1670	Irvine
+T64	Target 2062 2070	Humphrey
+T65	Target 2163 2173	Adirondack
+T66	Target 2184 2192	Humphrey
+T67	Target 2194 2204	Adirondack
+T68	Target 2222 2230	Backstay
+T69	Target 2241 2247	Irvine
+T70	Target 2257 2266	Esperanza
+T71	Target 2268 2274	Irvine
+T72	Target 2312 2317	Posey
+T73	Target 2319 2327	Barnhill
+T74	Target 2364 2372	Barnhill
+T75	Target 3781 3791	Adirondack
+T76	Target 3802 3810	Humphrey
+T77	Target 3812 3822	Adirondack
+T78	Target 3840 3848	Backstay
+T79	Target 3859 3865	Irvine
+T80	Target 3876 3885	Esperanza
+T81	Target 3887 3893	Irvine
+T82	Target 3933 3938	Posey
+T83	Target 3940 3948	Barnhill
+T84	Target 3986 3994	Barnhill
+T85	Target 4588 4596	Backstay
+T86	Target 4710 4720	Adirondack
+T87	Target 4731 4739	Humphrey
+T88	Target 4741 4751	Adirondack
+T89	Target 4769 4777	Backstay
+T90	Target 4788 4794	Irvine
+T91	Target 4804 4813	Esperanza
+T92	Target 4815 4821	Irvine
+T93	Target 4861 4866	Posey
+T94	Target 4868 4876	Barnhill
+T95	Target 4914 4922	Barnhill
+T96	Target 4983 4991	Barnhill
+T97	Target 5120 5128	Barnhill
+T98	Target 5224 5232	Barnhill
+T99	Target 5664 5674	Adirondack
+T100	Target 5686 5694	Backstay
+T101	Target 6009 6015	Irvine
+T102	Target 6096 6102	Irvine
+T103	Target 6107 6116	Esperanza
+T104	Target 6876 6886	Adirondack
+T105	Target 6891 6899	Backstay
+T106	Target 7024 7030	Irvine
+R0	Contains Arg1:T62 Arg2:T5
+R1	Contains Arg1:T62 Arg2:T6
+R2	Contains Arg1:T63 Arg2:T5
+R3	Contains Arg1:T63 Arg2:T6
+R54	Contains Arg1:T18 Arg2:T17
+R56	Contains Arg1:T18 Arg2:T20
+R57	Contains Arg1:T85 Arg2:T37
+R58	Contains Arg1:T85 Arg2:T38
+R59	Contains Arg1:T97 Arg2:T42
+R60	HasProperty Arg1:T57 Arg2:T3
+R61	HasProperty Arg1:T58 Arg2:T3
+R62	HasProperty Arg1:T59 Arg2:T3
+R63	HasProperty Arg1:T60 Arg2:T4
+R64	HasProperty Arg1:T61 Arg2:T4
+R65	HasProperty Arg1:T18 Arg2:T21
+R77	HasProperty Arg1:T97 Arg2:T41
+R78	HasProperty Arg1:T102 Arg2:T49
+R79	HasProperty Arg1:T103 Arg2:T49
+T107	Element 1411 1412	K
+R80	Contains Arg1:T58 Arg2:T107	
+R81	Contains Arg1:T59 Arg2:T107	
+T108	Property 1508 1519	pyroclastic
+T109	Property 1500 1507	altered
+R82	HasProperty Arg1:T60 Arg2:T109	
+R83	HasProperty Arg1:T60 Arg2:T108	
+T110	Mineral 2094 2105	Fe3+ oxides
+R84	Contains Arg1:T64 Arg2:T110	
+T111	Target 2290 2302	Barnhill_Ace
+T112	Target 2344 2362	JamesCoolPappaBell
+T113	Mineral 3115 3125	Fe3+ oxide
+R4	Contains Arg1:T22 Arg2:T113	
+T114	Property 3190 3200	alteration
+R5	HasProperty Arg1:T22 Arg2:T114	
+T115	Target 3910 3922	Barnhill_Ace
+T116	Target 3966 3984	JamesCoolPappaBell
+T117	Mineral 4555 4566	hypersthene
+R6	Contains Arg1:T85 Arg2:T117	
+T118	Target 4838 4850	Barnhill_Ace
+T119	Target 4894 4912	JamesCoolPappaBell
+T120	Mineral 5216 5220	NpOx
+R7	Contains Arg1:T98 Arg2:T120	
+T121	Property 5308 5318	alteration
+R8	HasProperty Arg1:T98 Arg2:T121	
+T122	Element 5679 5680	K
+R9	Contains Arg1:T100 Arg2:T122	
+T123	Property 5701 5708	basalts
+R10	HasProperty Arg1:T99 Arg2:T123	
+R11	HasProperty Arg1:T100 Arg2:T123	
+T124	Property 6022 6029	basalts
+T125	Property 6039 6047	oxidized
+R12	HasProperty Arg1:T101 Arg2:T124	
+R13	HasProperty Arg1:T101 Arg2:T125	
+T126	Mineral 6863 6870	olivine
+R14	Contains Arg1:T104 Arg2:T126	
+R15	Contains Arg1:T105 Arg2:T126	

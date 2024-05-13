@@ -1,0 +1,25 @@
+T1	Mineral 1727 1735	andesite
+T2	Property 2656 2667	composition
+T3	Property 3776 3787	composition
+T4	Mineral 4425 4433	chloride
+T5	Property 5223 5226	red
+T6	Element 5356 5360	iron
+T7	Mineral 5383 5391	jarosite
+T8	Element 6563 6573	silicarich
+T9	Property 7124 7127	red
+T10	Element 7221 7225	Iron
+T11	Element 8688 8689	S
+T12	Target 6639 6649	Home Plate
+T13	Target 6768 6778	Home Plate
+T14	Target 7548 7558	Home Plate
+T15	Property 6748 6755	layered
+R1	HasProperty Arg1:T13 Arg2:T15	
+T16	Property 6795 6803	volcanic
+R2	HasProperty Arg1:T13 Arg2:T16	
+T17	Property 6627 6638	light-toned
+R3	HasProperty Arg1:T12 Arg2:T17	
+R4	Contains Arg1:T12 Arg2:T8	
+T18	Property 7536 7547	light-toned
+R5	HasProperty Arg1:T14 Arg2:T18	
+T19	Mineral 7586 7592	silica
+R6	Contains Arg1:T14 Arg2:T19	

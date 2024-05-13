@@ -1,0 +1,42 @@
+T1	Property 1632 1636	dust
+T2	Property 1659 1663	soil
+T3	Property 1770 1774	dust
+T4	Property 2231 2239	sediment
+T5	Property 2385 2389	dark
+T6	Property 2417 2421	soil
+T7	Property 2461 2465	sand
+T8	Property 2507 2513	bright
+T9	Property 2514 2518	dust
+T10	Property 3219 3223	dust
+T11	Property 3312 3316	dust
+T12	Property 3387 3391	soil
+T13	Property 3503 3507	dust
+T14	Mineral 3854 3862	hematite
+T15	Property 3887 3891	soil
+T16	Property 4081 4087	bright
+T17	Property 4102 4108	smooth
+T18	Property 4268 4272	dust
+T19	Property 4849 4854	Sharp
+T20	Property 4903 4906	red
+T21	Property 5072 5078	bright
+T22	Property 5079 5083	soil
+T23	Property 5234 5238	dust
+T24	Property 5335 5341	bright
+T25	Property 5342 5346	dust
+T26	Property 5434 5438	dust
+T27	Property 5646 5650	Dust
+T28	Property 5722 5726	sand
+T29	Property 5814 5818	dust
+T30	Property 5955 5963	sediment
+T31	Property 5994 5998	sand
+T32	Property 6029 6033	dust
+T33	Property 6178 6182	dust
+T34	Target 2874 2884	Home Plate
+T35	Target 3010 3027	Mitcheltree Ridge
+T36	Target 3135 3145	Home Plate
+T37	Target 5152 5158	Tyrone
+R1	HasProperty Arg1:T37 Arg2:T21
+R2	HasProperty Arg1:T37 Arg2:T22
+T38	Target 2969 2981	Husband Hill
+T39	Mineral 3100 3106	silica
+R3	Contains Arg1:T36 Arg2:T39	

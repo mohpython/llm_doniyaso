@@ -1,0 +1,84 @@
+T1	Property 102 106	ROCK
+T2	Property 362 367	crust
+T3	Property 474 479	crust
+T4	Property 495 500	mafic
+T5	Property 501 508	igneous
+T6	Property 509 513	rock
+T7	Element 1068 1074	sulfur
+T8	Mineral 1276 1291	Phyllosilicates
+T9	Property 2535 2539	rock
+T10	Property 2603 2607	rock
+T11	Element 2659 2665	oxygen
+T12	Property 2873 2884	composition
+T13	Property 2904 2908	rock
+T14	Property 2956 2967	finegrained
+T15	Property 2968 2975	igneous
+T16	Property 3075 3079	rock
+T17	Property 3148 3152	rock
+T18	Property 3166 3177	composition
+T19	Property 3295 3299	rock
+T20	Mineral 3306 3317	plagioclase
+T21	Mineral 3319 3327	pyroxene
+T22	Mineral 3329 3336	olivine
+T23	Property 3388 3399	composition
+T24	Property 3506 3511	crust
+T25	Property 3597 3608	composition
+T26	Property 3683 3687	rock
+T27	Mineral 3757 3763	albite
+T28	Mineral 3765 3771	augite
+T29	Mineral 3777 3784	olivine
+T30	Property 3908 3919	composition
+T31	Mineral 4104 4111	brucite
+T32	Element 4113 4115	Mg
+T33	Element 4385 4393	Rubidium
+T35	Element 5064 5070	oxygen
+T36	Mineral 5145 5154	magnetite
+T37	Element 5215 5217	Cl
+T38	Mineral 5465 5471	quartz
+T39	Property 5728 5732	rock
+T40	Property 5849 5853	rock
+T41	Property 6385 6389	rock
+T42	Mineral 7553 7560	olivine
+T43	Mineral 8025 8032	olivine
+T44	Mineral 8171 8178	olivine
+T45	Property 8219 8223	fine
+T46	Element 8469 8471	Cl
+T47	Element 8473 8475	Fe
+T48	Element 8477 8479	Zn
+T49	Element 8485 8487	Au
+T50	Target 1005 1015	Home Plate
+T51	Target 3080 3086	Irvine
+T56	Target 5388 5394	Irvine
+R0	Contains Arg1:T50 Arg2:T7
+R4	Contains Arg1:T56 Arg2:T37
+R7	HasProperty Arg1:T51 Arg2:T16
+T57	Element 1058 1066	halogens
+R15	Contains Arg1:T50 Arg2:T57	
+T58	Property 3113 3119	basalt
+R16	HasProperty Arg1:T51 Arg2:T58	
+R8	HasProperty Arg1:T51 Arg2:T14	
+R17	HasProperty Arg1:T51 Arg2:T15	
+T34	Mineral 5159 5163	SiO2
+T52	Mineral 5164 5168	TiO2
+T53	Mineral 5169 5174	Al2O3
+T54	Mineral 5175 5178	FeO
+T55	Mineral 5179 5182	MnO
+T59	Mineral 5183 5186	MgO
+T60	Mineral 5187 5190	CaO
+T61	Mineral 5191 5195	Na2O
+T62	Mineral 5196 5199	K2O
+T63	Mineral 5200 5204	P2O5
+T64	Mineral 5205 5210	Cr2O3
+T65	Mineral 5211 5214	SO2
+R1	Contains Arg1:T56 Arg2:T34	
+R2	Contains Arg1:T56 Arg2:T52	
+R3	Contains Arg1:T56 Arg2:T53	
+R5	Contains Arg1:T56 Arg2:T54	
+R6	Contains Arg1:T56 Arg2:T55	
+R9	Contains Arg1:T56 Arg2:T59	
+R10	Contains Arg1:T56 Arg2:T60	
+R11	Contains Arg1:T56 Arg2:T61	
+R12	Contains Arg1:T56 Arg2:T62	
+R13	Contains Arg1:T56 Arg2:T63	
+R14	Contains Arg1:T56 Arg2:T64	
+R18	Contains Arg1:T56 Arg2:T65	

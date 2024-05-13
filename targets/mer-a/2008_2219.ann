@@ -1,0 +1,133 @@
+T1	Property 319 324	crust
+T2	Property 383 388	crust
+T3	Property 469 474	crust
+T4	Property 518 523	crust
+T5	Property 569 574	crust
+T6	Property 811 816	crust
+T7	Property 1002 1007	crust
+T8	Property 1080 1088	basaltic
+T9	Element 1140 1142	Fe
+T10	Element 1144 1146	Ti
+T11	Property 1307 1318	composition
+T12	Property 1446 1450	rock
+T13	Mineral 1587 1596	tholeiite
+T14	Mineral 1716 1725	tholeiite
+T15	Property 1732 1736	rock
+T16	Property 2138 2149	composition
+T17	Property 2183 2194	composition
+T18	Property 2230 2241	composition
+T19	Mineral 2293 2300	olivine
+T20	Property 2372 2383	composition
+T21	Mineral 2730 2739	tholeiite
+T22	Property 2822 2833	composition
+T23	Element 2887 2889	Fe
+T24	Mineral 3025 3033	graphite
+T25	Element 3098 3104	oxygen
+T26	Property 3465 3476	Composition
+T27	Property 3555 3566	composition
+T28	Property 3615 3626	composition
+T29	Element 3722 3724	Fe
+T30	Property 5389 5394	crust
+T31	Property 5403 5414	composition
+T32	Property 5446 5457	composition
+T33	Mineral 5820 5829	tholeiite
+T34	Mineral 6098 6105	olivine
+T35	Property 6107 6110	red
+T36	Mineral 6113 6122	pigeonite
+T37	Mineral 6135 6146	plagioclase
+T38	Mineral 6184 6192	chromite
+T39	Mineral 6519 6526	olivine
+T40	Mineral 6561 6568	olivine
+T41	Mineral 6577 6586	pigeonite
+T42	Mineral 6602 6610	chromite
+T43	Mineral 6638 6645	olivine
+T44	Mineral 6654 6663	pigeonite
+T45	Mineral 6680 6691	plagioclase
+T47	Target 909 917	Humphrey
+T48	Target 1260 1268	Humphrey
+T49	Target 1298 1306	Backstay
+T50	Target 1370 1378	Backstay
+T51	Target 1659 1667	Backstay
+T52	Target 1737 1743	Irvine
+T53	Target 1824 1832	Backstay
+T54	Target 2131 2137	Irvine
+T55	Target 2174 2182	Backstay
+T56	Target 2221 2229	Backstay
+T57	Target 2363 2371	Backstay
+T58	Target 2641 2647	Irvine
+T59	Target 2652 2660	Backstay
+T61	Target 3480 3486	Irvine
+T62	Target 3491 3499	Backstay
+T63	Target 3531 3539	Backstay
+T64	Target 3742 3748	Irvine
+T66	Target 3760 3768	Backstay
+T67	Target 4837 4843	Irvine
+T68	Target 4848 4856	Backstay
+T69	Target 4871 4879	Humphrey
+T70	Target 4884 4893	Wishstone
+T72	Target 5396 5402	Irvine
+T73	Target 5437 5445	Backstay
+T74	Target 5543 5551	Humphrey
+T76	Target 5711 5717	Irvine
+T77	Target 5722 5730	Backstay
+R17	HasProperty Arg1:T49 Arg2:T11
+R18	HasProperty Arg1:T52 Arg2:T15
+R19	HasProperty Arg1:T53 Arg2:T15
+R20	HasProperty Arg1:T54 Arg2:T16
+R23	HasProperty Arg1:T55 Arg2:T17
+R24	HasProperty Arg1:T56 Arg2:T18
+R27	HasProperty Arg1:T57 Arg2:T20
+R29	HasProperty Arg1:T61 Arg2:T26
+R32	HasProperty Arg1:T62 Arg2:T26
+R36	HasProperty Arg1:T63 Arg2:T27
+R39	HasProperty Arg1:T72 Arg2:T31
+R43	HasProperty Arg1:T73 Arg2:T32
+T46	Property 1392 1400	hawaiite
+T80	Element 1861 1863	mg
+R2	Contains Arg1:T52 Arg2:T80	
+T81	Mineral 1875 1881	alkali
+R3	Contains Arg1:T52 Arg2:T81	
+R12	Contains Arg1:T53 Arg2:T80	
+R13	Contains Arg1:T53 Arg2:T81	
+T82	Mineral 3781 3785	SiO2
+T83	Mineral 3803 3807	TiO2
+T84	Mineral 3823 3828	Al2O3
+T85	Mineral 3846 3851	Fe2O3
+T86	Mineral 3870 3875	Cr2O3
+T87	Mineral 3891 3894	FeO
+T88	Mineral 3913 3916	MnO
+T89	Mineral 3932 3935	MgO
+T90	Mineral 3953 3956	CaO
+T91	Mineral 3972 3976	Na2O
+T92	Mineral 3992 3995	K2O
+T93	Mineral 4011 4015	P2O5
+T94	Mineral 4031 4034	SO3
+R4	Contains Arg1:T64 Arg2:T82	
+R5	Contains Arg1:T64 Arg2:T83	
+R6	Contains Arg1:T64 Arg2:T84	
+R7	Contains Arg1:T64 Arg2:T85	
+R8	Contains Arg1:T64 Arg2:T86	
+R9	Contains Arg1:T64 Arg2:T87	
+R10	Contains Arg1:T64 Arg2:T88	
+R11	Contains Arg1:T64 Arg2:T89	
+R14	Contains Arg1:T64 Arg2:T90	
+R15	Contains Arg1:T64 Arg2:T91	
+R16	Contains Arg1:T64 Arg2:T92	
+R21	Contains Arg1:T64 Arg2:T93	
+R22	Contains Arg1:T64 Arg2:T94	
+R44	Contains Arg1:T66 Arg2:T82	
+R45	Contains Arg1:T66 Arg2:T83	
+R46	Contains Arg1:T66 Arg2:T84	
+R47	Contains Arg1:T66 Arg2:T85	
+R48	Contains Arg1:T66 Arg2:T86	
+R49	Contains Arg1:T66 Arg2:T87	
+R50	Contains Arg1:T66 Arg2:T88	
+R51	Contains Arg1:T66 Arg2:T89	
+R52	Contains Arg1:T66 Arg2:T90	
+R53	Contains Arg1:T66 Arg2:T91	
+R54	Contains Arg1:T66 Arg2:T92	
+R55	Contains Arg1:T66 Arg2:T93	
+R56	Contains Arg1:T66 Arg2:T94	
+T95	Target 1 7	IRVINE
+T96	Target 21 29	BACKSTAY
+R1	HasProperty Arg1:T50 Arg2:T46	

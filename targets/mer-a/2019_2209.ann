@@ -1,0 +1,82 @@
+T1	Property 931 939	basaltic
+T2	Property 1549 1552	pit
+T3	Property 1638 1642	pits
+T4	Property 1839 1843	pits
+T5	Property 1866 1870	Soil
+T6	Property 1872 1876	rock
+T7	Property 1956 1967	composition
+T8	Mineral 2339 2347	sulfates
+T9	Mineral 2349 2357	sulfides
+T10	Element 2670 2672	Si
+T11	Element 2677 2679	Ti
+T12	Element 3236 3242	sulfur
+T13	Element 3329 3331	Si
+T14	Element 3336 3338	Ti
+T15	Mineral 3416 3425	kaolinite
+T16	Mineral 3430 3437	alunite
+T17	Mineral 3456 3464	sulfates
+T18	Mineral 3478 3486	smectite
+T19	Property 3527 3532	mafic
+T20	Element 3986 3992	sulfur
+T21	Element 4028 4034	sulfur
+T22	Mineral 4045 4052	sulfate
+T23	Element 4312 4314	Si
+T24	Element 4316 4318	Ti
+T25	Element 4320 4322	Zr
+T26	Element 4328 4329	S
+T27	Element 4400 4401	K
+T28	Property 4532 4536	pits
+T29	Mineral 4539 4547	sulfides
+T30	Element 4559 4565	sulfur
+T31	Mineral 4589 4598	kaolinite
+T32	Mineral 4654 4662	sulfides
+T33	Element 4677 4683	sulfur
+T34	Mineral 4705 4713	sulfates
+T35	Mineral 4747 4755	sulfates
+T36	Mineral 4760 4768	hematite
+T37	Mineral 4807 4815	sulfides
+T38	Element 4827 4833	sulfur
+T39	Mineral 4839 4847	sulfates
+T40	Property 4890 4894	pits
+T41	Mineral 4896 4904	sulfides
+T42	Element 4935 4937	Fe
+T43	Mineral 4938 4946	sulfates
+T44	Mineral 4961 4969	jarosite
+T45	Mineral 4971 4985	ferricopiapite
+T46	Mineral 5172 5186	ferricopiapite
+T47	Mineral 5232 5240	sulfates
+T48	Element 5610 5616	Sulfur
+T49	Mineral 5645 5653	sulfides
+T50	Element 5668 5674	sulfur
+T51	Mineral 5680 5688	sulfates
+T52	Element 5690 5694	iron
+T53	Mineral 5728 5736	sulfates
+T54	Mineral 5747 5755	sulfates
+T55	Mineral 5779 5787	hematite
+T56	Mineral 6191 6198	sulfate
+T57	Mineral 6277 6284	sulfate
+T58	Element 6301 6307	sulfur
+T59	Mineral 7291 7299	Smectite
+T60	Mineral 7300 7308	Hematite
+T61	Mineral 7308 7309	/
+T62	Mineral 7309 7317	Goethite
+T63	Mineral 7318 7325	Alunite
+T64	Mineral 7326 7334	Jarosite
+T65	Mineral 7335 7347	Halotrichite
+T66	Mineral 7354 7366	Szomolnokite
+T67	Mineral 7367 7375	Rozenite
+T68	Mineral 7376 7390	Ferricopiapite
+T69	Mineral 7391 7400	Kaolinite
+T70	Mineral 7411 7417	Pyrite
+T71	Element 7421 7427	Sulfur
+T72	Element 7428 7432	Iron
+T73	Target 679 689	Home Plate
+T74	Target 5086 5097	Paso Robles
+T75	Target 5267 5278	Paso Robles
+R1	Contains Arg1:T75 Arg2:T47
+T76	Property 5104 5109	soils
+R2	HasProperty Arg1:T74 Arg2:T76	
+T77	Element 5220 5222	Mg
+T78	Element 5228 5230	Ca
+R3	Contains Arg1:T75 Arg2:T77	
+R4	Contains Arg1:T75 Arg2:T78	

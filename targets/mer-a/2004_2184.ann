@@ -1,0 +1,89 @@
+T1	Property 1180 1184	soil
+T2	Property 1189 1193	rock
+T3	Property 1249 1257	basaltic
+T4	Property 1258 1269	composition
+T5	Property 2166 2173	spectra
+T6	Property 3547 3554	spectra
+T7	Property 3597 3601	soil
+T8	Property 3687 3691	rock
+T9	Property 3731 3735	soil
+T10	Property 3834 3841	spectra
+T11	Property 3849 3857	basaltic
+T12	Property 3866 3877	composition
+T13	Property 3893 3897	soil
+T14	Property 3963 3967	rock
+T15	Property 4022 4033	composition
+T16	Mineral 4074 4081	olivine
+T17	Mineral 4212 4220	pyroxene
+T18	Property 4297 4301	rock
+T19	Mineral 4373 4382	magnetite
+T20	Mineral 4393 4402	magnetite
+T21	Property 4443 4447	soil
+T22	Property 4462 4466	rock
+T23	Property 4552 4556	soil
+T24	Mineral 4661 4670	magnetite
+T25	Element 4728 4732	iron
+T26	Property 4753 4757	rock
+T27	Property 4766 4770	soil
+T28	Property 4809 4813	soil
+T29	Property 4837 4841	rock
+T30	Element 4883 4885	Fe
+T31	Property 4903 4907	soil
+T32	Property 4920 4924	rock
+T33	Property 4965 4969	dust
+T34	Property 4970 4977	coating
+T35	Property 4996 5000	rind
+T36	Property 5008 5012	rock
+T37	Property 5113 5117	dust
+T38	Property 5146 5150	rock
+T39	Property 5151 5158	coating
+T40	Property 5170 5177	spectra
+T41	Property 5276 5280	rock
+T42	Property 5285 5289	soil
+T43	Property 5340 5344	soil
+T44	Mineral 5523 5530	olivine
+T45	Mineral 5692 5700	hematite
+T46	Property 5910 5914	soil
+T47	Mineral 5943 5951	hematite
+T48	Property 5994 5998	soil
+T49	Property 6061 6065	rock
+T50	Property 6117 6121	soil
+T51	Property 6235 6243	basaltic
+T52	Property 6295 6302	spectra
+T53	Mineral 6332 6339	olivine
+T54	Mineral 6341 6348	Olivine
+T55	Mineral 6485 6492	olivine
+T56	Property 6819 6826	spectra
+T57	Mineral 6855 6864	magnetite
+T58	Element 6886 6888	Ti
+T59	Property 7044 7052	basaltic
+T60	Element 7281 7282	P
+T61	Target 3692 3702	Adirondack
+T62	Target 3968 3978	Adirondack
+T63	Target 4943 4953	Adirondack
+T64	Target 5036 5046	Adirondack
+T65	Target 6050 6060	Adirondack
+T66	Target 6917 6927	Adirondack
+R0	Contains Arg1:T62 Arg2:T16
+R1	Contains Arg1:T66 Arg2:T58
+R2	Contains Arg1:T66 Arg2:T57
+R5	HasProperty Arg1:T61 Arg2:T8
+R8	HasProperty Arg1:T62 Arg2:T14
+R10	HasProperty Arg1:T63 Arg2:T33
+R11	HasProperty Arg1:T63 Arg2:T34
+R12	HasProperty Arg1:T63 Arg2:T35
+R13	HasProperty Arg1:T63 Arg2:T36
+R14	HasProperty Arg1:T64 Arg2:T37
+R15	HasProperty Arg1:T64 Arg2:T38
+R16	HasProperty Arg1:T64 Arg2:T39
+R17	HasProperty Arg1:T65 Arg2:T49
+R3	HasProperty Arg1:T61 Arg2:T11	
+R4	HasProperty Arg1:T61 Arg2:T10	
+T67	Mineral 4109 4117	silicate
+R6	Contains Arg1:T62 Arg2:T67	
+T68	Element 4082 4084	Fe
+R7	Contains Arg1:T62 Arg2:T68	
+R9	Contains Arg1:T62 Arg2:T17	
+R18	Contains Arg1:T62 Arg2:T19	
+T69	Property 6038 6046	spectrum
+R19	HasProperty Arg1:T65 Arg2:T69	

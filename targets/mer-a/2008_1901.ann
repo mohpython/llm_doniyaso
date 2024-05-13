@@ -1,0 +1,72 @@
+T1	Property 866 872	layers
+T2	Property 2094 2100	layers
+T3	Target 3295 3301	Halley
+T4	Property 6546 6549	Red
+T5	Target 357 367	Home Plate
+T6	Target 801 811	Home Plate
+T7	Target 816 833	Mitcheltree Ridge
+T8	Target 1129 1146	Mitcheltree Ridge
+T9	Target 1262 1272	Home Plate
+T10	Target 2620 2625	Troll
+T11	Target 2650 2666	Madeline English
+T12	Target 2685 2692	Torquas
+T13	Target 2697 2709	Nancy Warren
+T14	Target 3058 3068	Home Plate
+T15	Target 3070 3087	Mitcheltree Ridge
+T16	Target 3402 3410	Montalva
+T17	Target 3724 3741	Mitcheltree Ridge
+T18	Target 3766 3776	Home Plate
+T19	Target 3932 3942	Home Plate
+T20	Target 3975 3992	Mitcheltree Ridge
+T21	Target 4193 4210	Mitcheltree Ridge
+T22	Target 4403 4408	Troll
+T23	Target 4437 4453	Madeline English
+T24	Target 4924 4934	Home Plate
+T25	Target 5100 5117	Mitcheltree Ridge
+T26	Target 6207 6217	Home Plate
+T27	Target 780 791	East Valley
+T28	Target 935 946	East Valley
+T29	Target 1151 1160	Low Ridge
+T30	Target 1330 1341	East Valley
+T31	Target 2159 2170	East Valley
+T32	Target 2603 2615	WinterHaven2
+T33	Target 2630 2645	Bellin gshausen
+T34	Target 2671 2680	Clara Zap
+T35	Target 2714 2724	Pes apallo
+T36	Property 2590 2598	outcrops
+R1	HasProperty Arg1:T32 Arg2:T36	
+R2	HasProperty Arg1:T10 Arg2:T36	
+R3	HasProperty Arg1:T33 Arg2:T36	
+R4	HasProperty Arg1:T11 Arg2:T36	
+R5	HasProperty Arg1:T34 Arg2:T36	
+R6	HasProperty Arg1:T12 Arg2:T36	
+R7	HasProperty Arg1:T13 Arg2:T36	
+R8	HasProperty Arg1:T35 Arg2:T36	
+T37	Target 3093 3102	Low Ridge
+T38	Target 3012 3024	East Val ley
+T39	Property 3282 3287	loose
+T40	Property 3288 3293	plate
+R9	HasProperty Arg1:T3 Arg2:T39	
+R10	HasProperty Arg1:T3 Arg2:T40	
+T41	Property 3355 3362	outcrop
+R11	HasProperty Arg1:T16 Arg2:T41	
+T42	Property 3436 3447	light toned
+R12	HasProperty Arg1:T16 Arg2:T42	
+T43	Element 3464 3472	potassic
+R13	Contains Arg1:T16 Arg2:T43	
+T44	Target 3710 3719	Low Ridge
+T45	Target 4215 4224	Low Ridge
+T46	Target 4390 4401	Graham Land
+T47	Target 4417 4425	Tor quas
+T48	Property 4569 4576	lapilli
+R14	HasProperty Arg1:T46 Arg2:T48	
+R15	HasProperty Arg1:T22 Arg2:T48	
+R16	HasProperty Arg1:T47 Arg2:T48	
+R17	HasProperty Arg1:T23 Arg2:T48	
+T49	Property 4367 4375	outcrops
+R18	HasProperty Arg1:T46 Arg2:T49	
+R19	HasProperty Arg1:T22 Arg2:T49	
+R20	HasProperty Arg1:T47 Arg2:T49	
+R21	HasProperty Arg1:T23 Arg2:T49	
+T50	Target 6222 6239	Mitcheltree ridge
+T51	Target 6185 6196	East Valley

@@ -1,0 +1,117 @@
+T1	Property 54 58	SOIL
+T2	Property 401 410	sediments
+T3	Property 646 655	sediments
+T4	Property 689 698	sediments
+T5	Property 779 790	composition
+T6	Property 1084 1095	composition
+T7	Property 1225 1229	fine
+T8	Property 1293 1304	composition
+T9	Property 1308 1316	basaltic
+T10	Property 1341 1349	basaltic
+T11	Property 1692 1700	basaltic
+T12	Property 1758 1762	soil
+T13	Property 1863 1867	Soil
+T14	Property 2065 2072	igneous
+T15	Mineral 2143 2158	phyllosilicates
+T16	Mineral 2195 2203	sulfates
+T17	Mineral 2208 2217	chlorides
+T18	Mineral 2258 2266	Smectite
+T19	Mineral 2296 2311	montmorillonite
+T20	Mineral 2316 2326	nontronite
+T21	Mineral 2343 2357	phyllosilicate
+T22	Element 2414 2420	sulfur
+T23	Mineral 2473 2481	chloride
+T24	Property 2543 2547	soil
+T25	Property 2664 2668	soil
+T26	Mineral 2700 2707	Olivine
+T27	Mineral 2715 2722	Olivine
+T28	Property 2724 2732	basaltic
+T29	Mineral 2744 2753	feldspars
+T30	Mineral 2907 2914	olivine
+T31	Mineral 2919 2928	feldspars
+T32	Mineral 2961 2976	phyllosilicates
+T33	Property 3160 3171	composition
+T34	Property 3438 3442	soil
+T35	Mineral 3466 3473	olivine
+T36	Element 3598 3606	chlorine
+T37	Element 3611 3617	sulfur
+T38	Mineral 3765 3780	phyllosilicates
+T39	Mineral 3784 3792	smectite
+T40	Mineral 3833 3840	sulfate
+T41	Mineral 3845 3853	chloride
+T42	Property 3892 3896	soil
+T43	Property 3919 3925	bright
+T44	Property 3926 3930	dust
+T45	Mineral 3953 3960	olivine
+T46	Property 4034 4043	weathered
+T47	Property 4149 4155	Bright
+T48	Property 4156 4160	dust
+T49	Property 4202 4211	sediments
+T50	Mineral 4324 4331	olivine
+T51	Property 4379 4383	dust
+T52	Mineral 4404 4411	olivine
+T53	Property 4441 4445	dark
+T54	Property 4446 4450	soil
+T55	Mineral 4475 4482	olivine
+T56	Property 4617 4626	weathered
+T57	Property 4676 4680	dust
+T58	Mineral 4740 4747	olivine
+T59	Property 4769 4773	soil
+T60	Property 4839 4843	rock
+T61	Mineral 4878 4885	olivine
+T62	Mineral 4925 4932	olivine
+T63	Property 4956 4960	soil
+T64	Mineral 5026 5033	olivine
+T65	Property 5099 5103	rock
+T66	Property 5118 5122	Soil
+T67	Property 5133 5139	bright
+T68	Property 5140 5144	dust
+T69	Property 5149 5153	dark
+T70	Property 5154 5158	soil
+T71	Property 5204 5208	dark
+T72	Property 5209 5213	soil
+T73	Property 5244 5248	dark
+T74	Property 5249 5253	soil
+T75	Property 5286 5290	Rock
+T76	Element 5351 5353	Al
+T77	Property 5386 5390	Soil
+T78	Property 5598 5602	soil
+T79	Property 5734 5738	soil
+T80	Property 5845 5853	basaltic
+T81	Property 5962 5970	basaltic
+T82	Property 5983 5987	Dust
+T83	Property 6021 6025	soil
+T84	Mineral 6219 6234	phyllosilicates
+T85	Property 6371 6379	basaltic
+T86	Property 6380 6389	sediments
+T87	Mineral 6434 6441	Olivine
+T88	Property 6611 6615	dust
+T89	Property 6625 6629	soil
+T90	Property 6644 6648	soil
+T91	Property 6923 6930	igneous
+T92	Mineral 6942 6949	Olivine
+T93	Mineral 6998 7007	Feldspars
+T94	Mineral 7010 7021	Plagioclase
+T95	Mineral 7042 7051	Magnetite
+T96	Mineral 7052 7060	Chromite
+T97	Mineral 7071 7078	Apatite
+T98	Mineral 7145 7153	Hematite
+T99	Mineral 7170 7178	Sulfates
+T100	Target 5301 5311	Adirondack
+T101	Target 5316 5322	Irvine
+T102	Target 5327 5336	Wishstone
+T103	Target 5341 5349	Backstay
+T104	Target 5354 5363	Algonquin
+T105	Target 5368 5376	Barnhill
+R14	HasProperty Arg1:T100 Arg2:T75
+R15	HasProperty Arg1:T101 Arg2:T75
+R16	HasProperty Arg1:T102 Arg2:T75
+R17	HasProperty Arg1:T103 Arg2:T75
+R18	HasProperty Arg1:T104 Arg2:T75
+R19	HasProperty Arg1:T105 Arg2:T75
+R1	Contains Arg1:T100 Arg2:T62	
+R2	Contains Arg1:T101 Arg2:T62	
+R3	Contains Arg1:T102 Arg2:T62	
+R4	Contains Arg1:T103 Arg2:T62	
+R5	Contains Arg1:T104 Arg2:T62	
+R6	Contains Arg1:T105 Arg2:T62	

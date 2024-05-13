@@ -1,0 +1,10 @@
+T1	Property 365 372	granule
+T2	Property 1865 1871	smooth
+T3	Property 3733 3742	weathered
+T4	Property 3779 3785	layers
+T5	Property 6288 6294	layers
+T6	Target 2719 2729	Home Plate
+T7	Target 2772 2790	King George Island
+T8	Property 2669 2678	spherules
+R1	HasProperty Arg1:T6 Arg2:T8	
+R2	HasProperty Arg1:T7 Arg2:T8	

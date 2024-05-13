@@ -1,0 +1,72 @@
+T1	Property 779 786	angular
+T2	Property 931 938	angular
+T3	Element 1529 1531	Fe
+T4	Property 1867 1871	Rock
+T5	Property 1915 1919	rock
+T6	Property 2442 2446	flat
+T7	Property 2500 2507	angular
+T8	Property 2544 2552	vesicles
+T9	Property 2559 2563	rock
+T10	Property 2780 2787	coating
+T11	Property 2823 2827	dust
+T12	Property 2946 2950	rock
+T13	Property 3073 3077	rock
+T14	Element 3146 3152	sulfur
+T15	Element 3157 3165	chlorine
+T16	Mineral 3343 3350	olivine
+T17	Property 3403 3407	soil
+T18	Property 3593 3600	spectra
+T19	Property 3609 3613	soil
+T20	Property 3696 3703	spectra
+T21	Mineral 3798 3805	olivine
+T22	Property 3816 3823	spectra
+T23	Property 3903 3910	spectra
+T24	Property 3949 3953	soil
+T25	Mineral 4074 4083	carbonate
+T26	Property 4414 4420	impact
+T27	Property 4421 4427	crater
+T28	Property 4494 4498	soil
+T29	Mineral 4648 4656	hematite
+T30	Mineral 4763 4771	hematite
+T31	Property 4779 4783	soil
+T32	Property 4790 4794	soil
+T33	Property 4879 4883	soil
+T34	Property 4911 4915	fine
+T35	Property 4930 4934	sand
+T36	Property 4946 4953	spectra
+T37	Property 4961 4965	sand
+T38	Mineral 5012 5019	olivine
+T39	Property 5100 5104	sand
+T40	Property 5127 5138	composition
+T41	Property 5186 5190	soil
+T42	Property 5273 5280	rounded
+T43	Property 5366 5370	soil
+T44	Mineral 5450 5458	hematite
+T45	Property 5911 5917	layers
+T46	Property 6009 6020	composition
+T47	Element 6032 6038	sulfur
+T48	Mineral 6457 6465	hematite
+T49	Property 6479 6483	soil
+T50	Property 6497 6501	rock
+T51	Property 6954 6958	dust
+T52	Target 2624 2634	Adirondack
+T53	Target 2661 2671	Adirondack
+T54	Target 2741 2751	Adirondack
+T55	Target 2874 2884	Adirondack
+T56	Target 3276 3286	Adirondack
+R0	Contains Arg1:T56 Arg2:T16
+R1	HasProperty Arg1:T52 Arg2:T9
+R2	HasProperty Arg1:T54 Arg2:T10
+R3	HasProperty Arg1:T54 Arg2:T11
+R4	HasProperty Arg1:T55 Arg2:T12
+R5	HasProperty Arg1:T55 Arg2:T13
+T57	Property 2686 2691	dense
+T58	Property 2693 2705	fine-grained
+T59	Property 2710 2722	sand-blasted
+R6	HasProperty Arg1:T53 Arg2:T57	
+R7	HasProperty Arg1:T53 Arg2:T58	
+R8	HasProperty Arg1:T53 Arg2:T59	
+T60	Mineral 3355 3364	magnetite
+T61	Mineral 3378 3384	silica
+R9	Contains Arg1:T56 Arg2:T60	
+R10	Contains Arg1:T56 Arg2:T61	

@@ -1,0 +1,84 @@
+T1	Mineral 692 702	carbonates
+T2	Property 749 756	igneous
+T3	Property 757 761	rock
+T4	Mineral 805 814	carbonate
+T5	Property 871 875	rock
+T6	Mineral 886 893	olivine
+T7	Mineral 905 914	carbonate
+T8	Property 1042 1046	rock
+T9	Mineral 1080 1090	serpentine
+T10	Mineral 1184 1193	carbonate
+T11	Mineral 1234 1243	carbonate
+T12	Mineral 1362 1372	carbonates
+T13	Mineral 1608 1618	carbonates
+T14	Mineral 1643 1652	carbonate
+T15	Mineral 2199 2208	ophiolite
+T16	Mineral 2235 2244	ophiolite
+T17	Mineral 2281 2291	carbonates
+T18	Mineral 2335 2345	serpentine
+T19	Mineral 2571 2580	carbonate
+T20	Mineral 2823 2833	carbonates
+T21	Mineral 2997 3006	ophiolite
+T22	Property 3278 3286	coatings
+T23	Mineral 3356 3365	carbonate
+T24	Mineral 3370 3380	serpentine
+T25	Property 3482 3487	mafic
+T26	Mineral 3501 3510	ophiolite
+T27	Property 3984 3989	rinds
+T28	Property 3991 3999	coatings
+T29	Property 4146 4153	massive
+T30	Mineral 4154 4166	serpentinite
+T31	Mineral 4168 4178	peridotite
+T32	Mineral 4191 4200	magnesite
+T33	Mineral 4415 4425	peridotite
+T34	Mineral 4427 4437	peridotite
+T35	Mineral 4451 4460	magnesite
+T36	Property 4507 4514	massive
+T37	Mineral 4642 4651	carbonate
+T38	Property 4652 4663	composition
+T39	Mineral 4682 4689	calcite
+T40	Element 4798 4805	calcium
+T41	Mineral 4999 5008	carbonate
+T42	Property 5020 5025	bands
+T43	Property 5070 5077	spectra
+T44	Mineral 5587 5596	carbonate
+T45	Mineral 5615 5624	ophiolite
+T46	Element 5730 5737	calcium
+T47	Mineral 5738 5748	carbonates
+T48	Element 5774 5783	magnesium
+T49	Mineral 5784 5794	carbonates
+T50	Mineral 5850 5860	carbonates
+T51	Mineral 5879 5888	Magnesite
+T52	Mineral 5943 5953	peridotite
+T53	Element 6054 6056	Mg
+T54	Mineral 6075 6084	carbonate
+T55	Element 6107 6115	hydrogen
+T56	Element 6168 6170	Ca
+T57	Mineral 6211 6221	peridotite
+T58	Element 6273 6275	Ca
+T59	Element 6351 6358	calcium
+T60	Element 6358 6359	-
+T61	Element 6359 6363	rich
+T62	Mineral 6364 6374	carbonates
+T63	Mineral 6450 6459	carbonate
+T64	Property 6460 6471	composition
+T65	Mineral 6711 6720	carbonate
+T66	Property 6765 6773	coatings
+T67	Property 6778 6783	rinds
+T68	Mineral 6945 6954	carbonate
+T69	Property 7022 7033	composition
+T70	Element 7752 7753	P
+T71	Element 8104 8111	calcium
+T72	Mineral 8112 8121	carbonate
+T73	Mineral 8210 8217	calcite
+T74	Target 822 830	Comanche
+R0	Contains Arg1:T74 Arg2:T4
+R1	HasProperty Arg1:T74 Arg2:T5
+T75	Property 831 838	outcrop
+R2	HasProperty Arg1:T74 Arg2:T75	
+T76	Property 854 862	granular
+T77	Property 864 870	veined
+R3	HasProperty Arg1:T74 Arg2:T76	
+R4	HasProperty Arg1:T74 Arg2:T77	
+R5	Contains Arg1:T74 Arg2:T6	
+R6	Contains Arg1:T74 Arg2:T7	

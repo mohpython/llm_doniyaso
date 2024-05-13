@@ -1,0 +1,57 @@
+T1	Property 57 65	Basaltic
+T2	Mineral 433 441	sulfates
+T3	Mineral 498 506	sulfates
+T4	Mineral 580 582	Al
+T5	Mineral 582 583	-
+T6	Mineral 583 598	phyllosilicates
+T7	Mineral 602 604	Al
+T8	Mineral 604 605	-
+T9	Mineral 605 613	sulfates
+T10	Mineral 801 808	sulfate
+T11	Property 837 845	basaltic
+T12	Property 846 850	rock
+T13	Property 870 874	rock
+T14	Property 1259 1266	coating
+T15	Property 1626 1634	basaltic
+T16	Property 2367 2375	basaltic
+T17	Property 2392 2403	composition
+T18	Property 2415 2423	basaltic
+T19	Property 2982 2993	composition
+T20	Property 3058 3069	composition
+T21	Property 3329 3333	rock
+T22	Property 3419 3430	composition
+T23	Property 3480 3484	rock
+T24	Property 3492 3500	basaltic
+T25	Property 3501 3512	composition
+T26	Element 3879 3880	S
+T27	Element 3897 3899	Cl
+T28	Element 4150 4152	Fe
+T29	Property 4226 4237	composition
+T30	Mineral 4309 4318	phosphate
+T31	Mineral 4320 4328	chloride
+T32	Property 4386 4397	composition
+T33	Mineral 4585 4593	graphite
+T34	Element 4773 4779	oxygen
+T35	Element 4815 4821	sulfur
+T36	Element 4823 4831	chlorine
+T37	Property 5400 5408	basaltic
+T38	Property 6091 6098	spectra
+T39	Property 6449 6456	coating
+T40	Property 6615 6622	spectra
+T41	Property 6724 6731	spectra
+T42	Mineral 7561 7568	sulfate
+T43	Mineral 7808 7815	sulfate
+T44	Property 7905 7912	spectra
+T45	Mineral 8132 8139	sulfate
+T46	Mineral 8512 8519	sulfate
+T47	Mineral 8605 8612	sulfate
+T49	Target 3308 3314	Irvine
+R5	HasProperty Arg1:T49 Arg2:T21
+R7	HasProperty Arg1:T49 Arg2:T23
+R8	HasProperty Arg1:T49 Arg2:T24
+R9	HasProperty Arg1:T49 Arg2:T25
+T56	Target 3356 3368	Husband Hill
+T57	Property 3458 3467	unaltered
+T58	Property 3469 3478	aphanitic
+R4	HasProperty Arg1:T49 Arg2:T57	
+R6	HasProperty Arg1:T49 Arg2:T58	

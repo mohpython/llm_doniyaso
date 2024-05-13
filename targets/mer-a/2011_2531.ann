@@ -1,0 +1,94 @@
+T1	Property 1101 1107	layers
+T2	Property 2652 2656	fine
+T3	Property 2685 2693	basaltic
+T4	Property 3857 3861	rock
+T5	Property 4696 4704	cohesive
+T6	Mineral 4735 4742	sulfate
+T7	Property 4820 4824	rock
+T8	Property 4883 4891	basaltic
+T9	Mineral 4961 4969	pyroxene
+T10	Element 4987 4989	Cl
+T11	Element 5005 5007	Br
+T12	Element 5073 5077	iron
+T13	Mineral 5086 5094	goethite
+T14	Mineral 5100 5108	hematite
+T15	Property 5176 5180	Rock
+T16	Element 5238 5242	iron
+T17	Property 5405 5411	weakly
+T18	Property 5412 5420	cohesive
+T19	Property 5421 5425	fine
+T20	Element 5452 5460	chlorine
+T21	Element 5599 5607	chlorine
+T22	Element 5854 5856	Cl
+T23	Element 5992 6000	chlorine
+T24	Property 6215 6219	rock
+T25	Element 7465 7467	Mg
+T26	Element 7468 7470	Fe
+T27	Target 2783 2789	Clovis
+T28	Target 4801 4807	Clovis
+T29	Target 5475 5481	Clovis
+T30	Target 5808 5814	Clovis
+T31	Target 6204 6210	Clovis
+T32	Target 7219 7227	Palomino
+T33	Target 7232 7241	Horseback
+T35	Target 7246 7259	Comanche Spur
+R0	Contains Arg1:T28 Arg2:T10
+R1	Contains Arg1:T28 Arg2:T11
+R2	Contains Arg1:T28 Arg2:T9
+R3	Contains Arg1:T29 Arg2:T20
+R5	Contains Arg1:T30 Arg2:T22
+R7	HasProperty Arg1:T28 Arg2:T8
+R8	HasProperty Arg1:T31 Arg2:T24
+T36	Target 1062 1074	Husband Hill
+T37	Target 1674 1683	West Spur
+T38	Target 1711 1723	Husband Hill
+T39	Target 1751 1763	Husband Hill
+T40	Target 1891 1903	Haskin Ridge
+T41	Target 1876 1888	Husband Hill
+T42	Target 1782 1802	Western Husband Hill
+T43	Target 2771 2780	West Spur
+T44	Element 2761 2763	Cl
+R9	Contains Arg1:T43 Arg2:T44	
+R10	Contains Arg1:T27 Arg2:T44	
+T45	Property 2764 2767	ash
+R11	HasProperty Arg1:T43 Arg2:T45	
+T46	Property 2791 2798	outcrop
+R12	HasProperty Arg1:T27 Arg2:T45	
+R13	HasProperty Arg1:T27 Arg2:T46	
+T47	Target 4828 4837	West Spur
+R6	HasProperty Arg1:T47 Arg2:T8	
+T48	Property 4892 4900	volcanic
+R14	HasProperty Arg1:T47 Arg2:T48	
+T49	Property 4901 4904	ash
+R15	HasProperty Arg1:T47 Arg2:T49	
+R16	HasProperty Arg1:T28 Arg2:T48	
+R17	HasProperty Arg1:T28 Arg2:T49	
+T50	Property 4793 4800	outcrop
+R18	HasProperty Arg1:T28 Arg2:T50	
+R19	Contains Arg1:T28 Arg2:T9	
+R20	Contains Arg1:T47 Arg2:T9	
+R21	Contains Arg1:T28 Arg2:T10	
+R22	Contains Arg1:T47 Arg2:T10	
+R23	Contains Arg1:T47 Arg2:T11	
+T51	Property 5044 5051	altered
+T52	Mineral 5063 5084	nanophase iron oxides
+R24	HasProperty Arg1:T28 Arg2:T51	
+R25	Contains Arg1:T28 Arg2:T52	
+R26	Contains Arg1:T28 Arg2:T13	
+R27	Contains Arg1:T28 Arg2:T14	
+T53	Target 5184 5193	West Spur
+T54	Target 6019 6025	Clovis
+R4	Contains Arg1:T54 Arg2:T23	
+T55	Target 6223 6232	West Spur
+T34	Property 7278 7285	lapilli
+R28	HasProperty Arg1:T35 Arg2:T34	
+T56	Property 7286 7290	tuff
+R29	HasProperty Arg1:T35 Arg2:T56	
+T57	Property 7265 7272	outcrop
+R30	HasProperty Arg1:T35 Arg2:T57	
+R31	Contains Arg1:T35 Arg2:T25	
+R32	Contains Arg1:T35 Arg2:T26	
+T58	Mineral 7472 7481	carbonate
+R33	Contains Arg1:T35 Arg2:T58	
+T59	Property 7497 7503	cement
+R34	HasProperty Arg1:T35 Arg2:T59	

@@ -1,0 +1,183 @@
+T1	Property 1173 1179	trench
+T2	Property 1362 1368	trench
+T3	Property 1402 1408	trench
+T4	Property 1749 1756	spectra
+T5	Property 1766 1774	basaltic
+T6	Property 1812 1818	trench
+T7	Property 2076 2083	spectra
+T8	Property 2197 2201	dust
+T9	Property 2362 2366	dust
+T10	Property 2576 2584	basaltic
+T11	Property 2585 2589	sand
+T12	Property 2649 2655	trench
+T13	Property 3024 3031	spectra
+T14	Property 3050 3058	basaltic
+T15	Mineral 3192 3199	olivine
+T16	Mineral 3208 3216	pyroxene
+T17	Property 3345 3351	trench
+T18	Property 3478 3484	trench
+T19	Property 3541 3547	trench
+T20	Property 3716 3722	trench
+T21	Element 3788 3789	S
+T22	Element 3791 3793	Br
+T23	Element 3799 3801	Mg
+T24	Element 3827 3829	Cl
+T25	Mineral 3983 3985	Mg
+T27	Mineral 3986 3994	sulfates
+T28	Property 4180 4186	trench
+T29	Property 4216 4223	spectra
+T30	Property 4314 4320	poorly
+T31	Property 4321 4327	sorted
+T32	Property 4328 4332	sand
+T33	Property 4357 4364	cobbles
+T34	Property 4480 4491	Composition
+T35	Property 4496 4502	trench
+T36	Property 4595 4606	composition
+T37	Property 4753 4757	soil
+T38	Property 4900 4904	soil
+T39	Property 4970 4981	Composition
+T40	Property 4986 4992	trench
+T41	Property 5085 5096	composition
+T42	Property 5243 5247	soil
+T43	Property 5390 5394	soil
+T44	Property 5524 5530	trench
+T45	Element 5609 5610	S
+T46	Element 5612 5614	Cl
+T47	Element 5620 5622	Mg
+T48	Property 5761 5767	Trench
+T49	Property 5945 5951	Trench
+T50	Property 6099 6105	trench
+T51	Element 6187 6189	Mg
+T52	Property 6296 6304	basaltic
+T53	Property 6597 6608	composition
+T54	Element 6652 6653	S
+T55	Element 7061 7063	Fe
+T56	Mineral 7101 7108	olivine
+T57	Mineral 7144 7151	olivine
+T58	Property 7267 7273	trench
+T59	Mineral 7317 7324	olivine
+T60	Property 7371 7379	basaltic
+T61	Property 7446 7452	trench
+T62	Mineral 7582 7589	olivine
+T63	Property 7611 7619	basaltic
+T64	Property 7635 7646	composition
+T65	Property 7688 7696	basaltic
+T66	Property 7740 7751	composition
+T67	Mineral 7937 7945	sulfates
+T68	Mineral 8060 8068	sulfates
+T69	Property 8274 8280	brines
+T70	Property 8484 8492	basaltic
+T71	Mineral 8515 8522	olivine
+T72	Property 8621 8625	rock
+T73	Mineral 8675 8682	olivine
+T74	Element 8694 8696	Mg
+T75	Mineral 8721 8728	olivine
+T76	Mineral 8798 8805	olivine
+T77	Element 8822 8824	Mg
+T78	Mineral 9018 9029	plagioclase
+T79	Element 9051 9053	Mg
+T80	Element 9054 9056	Ca
+T81	Mineral 9060 9068	sulfates
+T82	Element 9224 9226	Ca
+T83	Mineral 9259 9266	Sulfate
+T84	Mineral 9272 9278	Halite
+T85	Mineral 9313 9321	Feldspar
+T86	Mineral 9335 9343	Pyroxene
+T87	Mineral 9355 9362	Olivine
+T88	Mineral 9429 9436	Sulfate
+T89	Mineral 9442 9448	Halite
+T90	Mineral 9483 9491	Feldspar
+T91	Mineral 9505 9513	Pyroxene
+T92	Mineral 9525 9532	Olivine
+T93	Element 9670 9671	S
+T94	Element 9673 9675	Cl
+T95	Element 9681 9683	Br
+T96	Property 9729 9735	brines
+T97	Property 9813 9817	rock
+T98	Property 10095 10103	basaltic
+T99	Property 10302 10310	basaltic
+T100	Mineral 10322 10329	olivine
+T101	Mineral 10395 10406	plagioclase
+T102	Property 10561 10567	trench
+T104	Target 1353 1361	Big Hole
+T105	Target 2692 2700	Big Hole
+T106	Target 3469 3477	Big Hole
+T107	Target 4780 4788	Big Hole
+T108	Target 4927 4935	Big Hole
+T109	Target 5270 5278	Big Hole
+T110	Target 5417 5425	Big Hole
+T111	Target 8231 8239	Big Hole
+R12	HasProperty Arg1:T104 Arg2:T2
+R14	HasProperty Arg1:T106 Arg2:T18
+R72	HasProperty Arg1:T111 Arg2:T69
+T103	Target 1166 1172	Laguna
+R73	HasProperty Arg1:T103 Arg2:T1	
+T112	Target 1389 1401	The Boroughs
+R74	HasProperty Arg1:T112 Arg2:T3	
+T113	Target 1703 1709	Laguna
+R13	HasProperty Arg1:T113 Arg2:T5	
+T114	Target 2546 2559	Laguna Hollow
+R75	HasProperty Arg1:T114 Arg2:T10	
+R76	HasProperty Arg1:T114 Arg2:T11	
+T115	Target 2705 2717	The Boroughs
+T116	Target 3338 3344	Laguna
+T117	Element 3254 3256	Fe
+R77	Contains Arg1:T115 Arg2:T117	
+R78	Contains Arg1:T105 Arg2:T117	
+R79	HasProperty Arg1:T115 Arg2:T14	
+R80	HasProperty Arg1:T105 Arg2:T14	
+T118	Target 3528 3540	The Boroughs
+R15	HasProperty Arg1:T118 Arg2:T19	
+T119	Target 3625 3637	The Boroughs
+T120	Element 3365 3367	Fe
+R81	Contains Arg1:T106 Arg2:T120	
+R82	Contains Arg1:T118 Arg2:T120	
+T121	Target 3703 3715	The Boroughs
+R83	HasProperty Arg1:T121 Arg2:T20	
+R84	Contains Arg1:T121 Arg2:T21	
+R85	Contains Arg1:T121 Arg2:T22	
+R86	Contains Arg1:T121 Arg2:T23	
+R87	Contains Arg1:T121 Arg2:T24	
+R88	Contains Arg1:T121 Arg2:T25	
+R89	Contains Arg1:T121 Arg2:T27	
+T26	Target 4789 4801	The Boroughs
+T122	Target 4773 4779	Laguna
+T123	Target 4920 4926	Laguna
+T124	Target 4936 4948	The Boroughs
+T125	Target 5263 5269	Laguna
+T126	Target 5410 5416	Laguna
+T127	Target 5279 5291	The Boroughs
+T128	Target 5426 5438	The Boroughs
+T129	Target 6086 6098	The Boroughs
+T130	Target 6022 6034	The Boroughs
+T131	Target 6167 6179	The Boroughs
+R1	Contains Arg1:T131 Arg2:T51	
+T132	Target 7433 7445	The Boroughs
+R2	HasProperty Arg1:T132 Arg2:T61	
+T133	Target 8214 8226	The Boroughs
+R3	HasProperty Arg1:T133 Arg2:T69	
+T134	Target 9145 9157	The Boroughs
+R4	Contains Arg1:T134 Arg2:T81	
+R5	Contains Arg1:T134 Arg2:T78	
+T135	Mineral 9000 9013	clinopyroxene
+R6	Contains Arg1:T134 Arg2:T135	
+T136	Target 9415 9427	The Boroughs
+T137	Target 9585 9597	The Boroughs
+R7	Contains Arg1:T136 Arg2:T87	
+R8	Contains Arg1:T136 Arg2:T86	
+R9	Contains Arg1:T136 Arg2:T85	
+R10	Contains Arg1:T136 Arg2:T84	
+R11	Contains Arg1:T136 Arg2:T83	
+R16	Contains Arg1:T137 Arg2:T92	
+R17	Contains Arg1:T137 Arg2:T91	
+R18	Contains Arg1:T137 Arg2:T90	
+R19	Contains Arg1:T137 Arg2:T89	
+R20	Contains Arg1:T137 Arg2:T88	
+T138	Mineral 9284 9292	Phospate
+R21	Contains Arg1:T136 Arg2:T138	
+T139	Mineral 9454 9462	Phospate
+R22	Contains Arg1:T137 Arg2:T139	
+T140	Element 9298 9300	Fe
+R23	Contains Arg1:T136 Arg2:T140	
+T141	Element 9468 9470	Fe
+R24	Contains Arg1:T137 Arg2:T141	

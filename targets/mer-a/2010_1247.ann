@@ -1,0 +1,106 @@
+T1	Mineral 57 64	SULFATE
+T2	Mineral 461 468	sulfate
+T3	Mineral 850 857	sulfate
+T4	Mineral 1130 1138	sulfates
+T5	Property 2529 2533	Rock
+T6	Property 2666 2672	poorly
+T7	Property 2673 2679	sorted
+T8	Property 2680 2687	angular
+T9	Mineral 2707 2721	ferric sulfate
+T10	Property 2726 2734	basaltic
+T11	Mineral 2769 2776	sulfate
+T12	Property 3093 3100	rounded
+T13	Property 3109 3117	basaltic
+T14	Property 3118 3122	sand
+T15	Element 3144 3148	iron
+T16	Property 3200 3203	red
+T17	Property 3211 3216	sharp
+T18	Element 3270 3274	iron
+T19	Mineral 3627 3642	ferric sulfates
+T20	Mineral 3678 3685	sulfate
+T21	Property 4198 4202	dark
+T22	Property 4203 4207	soil
+T23	Property 5045 5049	soil
+T24	Property 5093 5097	Rock
+T25	Property 5235 5238	red
+T26	Element 5295 5297	Li
+T27	Element 5890 5892	Ca
+T28	Mineral 5893 5901	sulfates
+T29	Mineral 6216 6223	sulfate
+T30	Property 6228 6236	basaltic
+T31	Element 6349 6351	Ca
+T32	Mineral 6352 6360	sulfates
+T33	Property 6460 6464	soil
+T34	Mineral 6512 6519	sulfate
+T35	Target 435 445	Home Plate
+T36	Target 597 606	Scamander
+T37	Target 1046 1056	Home Plate
+T38	Target 1596 1605	Scamander
+T39	Target 1639 1643	Troy
+T40	Target 2376 2383	Ulysses
+T41	Target 2499 2506	Ulysses
+T42	Target 2654 2661	Ulysses
+T43	Target 2823 2830	Ulysses
+T44	Target 2892 2901	Scamander
+T45	Target 3290 3299	Scamander
+T46	Target 3529 3536	Ulysses
+T47	Target 3698 3707	Scamander
+T48	Target 3831 3841	Home Plate
+T49	Target 4320 4329	Scamander
+T50	Target 4616 4626	Home Plate
+T51	Target 4682 4686	Troy
+T52	Target 4688 4697	Scamander
+T53	Target 4734 4744	Home Plate
+T54	Target 4958 4967	Scamander
+T55	Target 5017 5024	Ulysses
+T56	Target 5567 5574	Ulysses
+T57	Target 5691 5698	Ulysses
+T58	Target 5845 5852	Ulysses
+T59	Target 6080 6087	Ulysses
+T60	Target 6478 6485	Ulysses
+R1	Contains Arg1:T42 Arg2:T9
+R4	Contains Arg1:T46 Arg2:T19
+R5	Contains Arg1:T47 Arg2:T20
+R7	Contains Arg1:T58 Arg2:T27
+R8	Contains Arg1:T58 Arg2:T28
+R14	HasProperty Arg1:T42 Arg2:T6
+R15	HasProperty Arg1:T42 Arg2:T7
+R16	HasProperty Arg1:T42 Arg2:T8
+R17	HasProperty Arg1:T42 Arg2:T10
+R18	HasProperty Arg1:T55 Arg2:T23
+R19	HasProperty Arg1:T60 Arg2:T33
+T61	Target 310 321	Inner Basin
+T62	Property 2645 2650	soils
+R11	HasProperty Arg1:T42 Arg2:T62	
+T63	Mineral 3573 3576	SO3
+R2	Contains Arg1:T46 Arg2:T63	
+T64	Mineral 5032 5039	sulfate
+R3	Contains Arg1:T55 Arg2:T64	
+T65	Target 5093 5104	Rock Garden
+T66	Property 5126 5132	clasts
+R6	HasProperty Arg1:T65 Arg2:T66	
+T67	Target 5174 5181	Sandals
+T68	Property 5195 5200	rocks
+R12	HasProperty Arg1:T67 Arg2:T68	
+T69	Target 5576 5587	Cyclops_eye
+T70	Target 5592 5607	Polyhphemus_eye
+T71	Mineral 5660 5667	Sulfate
+R13	Contains Arg1:T57 Arg2:T71	
+T72	Target 5703 5714	Cyclops_eye
+R20	Contains Arg1:T72 Arg2:T71	
+T73	Property 5672 5677	soils
+R21	HasProperty Arg1:T57 Arg2:T73	
+R22	HasProperty Arg1:T72 Arg2:T73	
+T74	Target 5742 5754	Husband Hill
+T75	Property 5861 5870	sandstone
+T76	Property 5871 5877	layers
+R23	HasProperty Arg1:T58 Arg2:T75	
+R24	HasProperty Arg1:T58 Arg2:T76	
+T77	Target 6553 6564	Cyclops_eye
+T78	Target 86 102	SCAMANDER CRATER
+R9	Contains Arg1:T78 Arg2:T1	
+T79	Property 395 409	volcaniclastic
+R10	HasProperty Arg1:T35 Arg2:T79	
+R25	Contains Arg1:T35 Arg2:T2	
+T80	Mineral 473 487	opaline silica
+R26	Contains Arg1:T35 Arg2:T80	

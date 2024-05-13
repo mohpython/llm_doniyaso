@@ -1,0 +1,55 @@
+T1	Property 1 5	ROCK
+T2	Property 638 641	ice
+T3	Property 723 731	fracture
+T4	Property 1053 1064	composition
+T5	Property 1116 1120	rock
+T6	Property 1454 1458	rock
+T7	Property 1587 1591	Rock
+T8	Property 1767 1771	Rock
+T9	Property 1866 1870	dust
+T10	Property 1875 1879	soil
+T11	Property 1985 1989	Rock
+T12	Property 2334 2338	Rock
+T13	Target-MERB 2606 2615	Zacatecas
+T14	Property 2722 2726	soil
+T15	Property 2739 2743	rock
+T16	Property 2744 2751	cobbles
+T17	Property 2829 2835	cobble
+T18	Property 2928 2934	cobble
+T19	Property 2972 2976	Rock
+T20	Property 3259 3270	finegrained
+T21	Property 3271 3275	rock
+T22	Element 3717 3719	Cl
+T23	Element 4035 4037	Cl
+T24	Property 4231 4235	rock
+T25	Property 4247 4250	red
+T26	Property 4565 4568	red
+T27	Property 4781 4788	cobbles
+T28	Property 5123 5130	angular
+T29	Property 5131 5137	clasts
+T30	Property 5203 5210	cobbles
+T31	Property 5463 5474	composition
+T32	Property 5491 5495	rock
+T33	Property 5694 5698	soil
+T34	Property 5700 5707	cobbles
+T35	Property 5718 5729	composition
+T36	Property 6058 6062	soil
+T37	Property 6136 6139	red
+T38	Property 6207 6210	red
+T39	Property 6316 6319	red
+T40	Property 6321 6331	lineations
+T41	Property 6647 6650	ice
+T42	Property 8124 8135	Composition
+T43	Property 8174 8178	rock
+T44	Property 8280 8284	rock
+T45	Target-MERB 8297 8306	Shoemaker
+T46	Property 8308 8311	red
+T47	Property 8442 8446	Soil
+T48	Property 8492 8499	cobbles
+T49	Element 8581 8582	H
+T50	Element 8642 8643	H
+R0	HasProperty Arg1:T13 Arg2:T14
+R1	HasProperty Arg1:T13 Arg2:T15
+R2	HasProperty Arg1:T13 Arg2:T16
+R4	HasProperty Arg1:T45 Arg2:T44
+R5	HasProperty Arg1:T45 Arg2:T46

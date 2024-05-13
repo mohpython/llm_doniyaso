@@ -1,0 +1,85 @@
+T1	Property 746 750	dark
+T2	Property 752 757	mafic
+T3	Property 1012 1016	dust
+T4	Property 1027 1031	sand
+T5	Property 1427 1431	dark
+T6	Property 1704 1709	mafic
+T7	Property 1710 1714	sand
+T8	Property 1822 1826	sand
+T9	Property 2043 2047	sand
+T10	Property 2261 2265	sand
+T11	Property 2316 2321	mafic
+T12	Property 2492 2496	dust
+T13	Property 2517 2521	sand
+T14	Property 2677 2681	dust
+T15	Property 2729 2733	dust
+T16	Property 2853 2857	dark
+T17	Property 2944 2948	Dust
+T18	Property 3134 3138	dust
+T19	Property 3209 3213	Dust
+T20	Property 3218 3222	Sand
+T21	Property 3373 3377	dust
+T22	Property 3460 3464	sand
+T23	Property 3502 3506	dust
+T24	Property 3621 3625	dust
+T25	Property 3837 3841	dust
+T26	Property 3859 3863	sand
+T27	Property 3921 3925	dust
+T28	Property 4458 4462	sand
+T29	Property 4541 4545	dust
+T30	Property 4557 4561	dust
+T31	Property 4811 4815	dust
+T32	Property 4871 4875	sand
+T33	Property 4898 4902	dust
+T34	Mineral 6034 6040	quartz
+T35	Property 6103 6111	sediment
+T36	Mineral 6290 6296	quartz
+T37	Property 7737 7742	Sharp
+T39	Target 776 785	El Dorado
+T40	Target 1120 1129	El Dorado
+T41	Target 1367 1376	El Dorado
+T42	Target 1542 1551	El Dorado
+T43	Target 2595 2604	El Dorado
+T44	Target 2769 2778	El Dorado
+T45	Target 3163 3172	El Dorado
+T46	Target 3766 3775	El Dorado
+T47	Target 4337 4346	El Dorado
+T48	Target 4861 4870	El Dorado
+T49	Target 6746 6755	El Dorado
+R0	HasProperty Arg1:T39 Arg2:T1
+R1	HasProperty Arg1:T39 Arg2:T2
+R5	HasProperty Arg1:T42 Arg2:T6
+R6	HasProperty Arg1:T42 Arg2:T7
+R9	HasProperty Arg1:T43 Arg2:T14
+R11	HasProperty Arg1:T45 Arg2:T18
+R12	HasProperty Arg1:T46 Arg2:T25
+R13	HasProperty Arg1:T46 Arg2:T26
+R15	HasProperty Arg1:T47 Arg2:T28
+R16	HasProperty Arg1:T48 Arg2:T31
+R17	HasProperty Arg1:T48 Arg2:T32
+T38	Property 758 765	ripples
+R18	HasProperty Arg1:T39 Arg2:T38	
+T50	Property 833 837	dust
+T51	Property 860 864	sand
+R2	HasProperty Arg1:T39 Arg2:T50	
+R3	HasProperty Arg1:T39 Arg2:T51	
+T52	Property 1106 1112	ripple
+R19	HasProperty Arg1:T40 Arg2:T52	
+T53	Target 1164 1176	Husband Hill
+R20	HasProperty Arg1:T53 Arg2:T52	
+T54	Property 1598 1605	ripples
+R4	HasProperty Arg1:T42 Arg2:T54	
+R21	HasProperty Arg1:T42 Arg2:T8	
+T55	Property 2729 2746	dust devil tracks
+R7	HasProperty Arg1:T44 Arg2:T55	
+T56	Property 4307 4317	Induration
+R8	HasProperty Arg1:T47 Arg2:T56	
+T57	Property 6671 6680	Indurated
+T58	Property 6681 6695	coarse-grained
+T59	Property 6696 6703	ripples
+T60	Property 6737 6742	sands
+R10	HasProperty Arg1:T49 Arg2:T57	
+R14	HasProperty Arg1:T49 Arg2:T58	
+R22	HasProperty Arg1:T49 Arg2:T59	
+R23	HasProperty Arg1:T49 Arg2:T60	
+T61	Target 76 85	EL DORADO

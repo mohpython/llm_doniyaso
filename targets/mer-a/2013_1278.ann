@@ -1,0 +1,85 @@
+T1	Element 106 107	K
+T2	Property 1250 1254	soil
+T3	Property 1329 1333	rock
+T4	Element 1422 1424	Fe
+T5	Element 1429 1431	Mn
+T6	Element 1574 1576	Cr
+T7	Element 1578 1580	Ni
+T8	Element 1582 1584	Zn
+T9	Element 1586 1588	Br
+T10	Property 1687 1694	spectra
+T11	Element 1911 1913	Na
+T12	Element 1917 1919	Fe
+T13	Element 2087 2088	P
+T14	Element 2090 2091	K
+T15	Element 2093 2095	Ti
+T16	Element 2101 2103	Ni
+T17	Target-MSL 2342 2356	Bathurst_Inlet
+T18	Property 2462 2466	soil
+T19	Property 2484 2488	Rock
+T20	Property 2528 2532	dark
+T21	Property 2534 2538	fine
+T22	Property 2572 2581	vesicular
+T23	Property 2594 2603	pyramidal
+T24	Property 2604 2608	rock
+T25	Property 2693 2697	rock
+T26	Property 2730 2736	smooth
+T27	Property 2837 2841	dark
+T28	Property 2864 2868	rock
+T29	Property 2897 2903	planar
+T30	Property 2979 2983	dark
+T31	Property 3007 3011	rock
+T32	Property 3159 3163	Dust
+T33	Property 3228 3232	dust
+T34	Property 3292 3296	rock
+T35	Property 3297 3308	composition
+T36	Property 3355 3359	dust
+T37	Element 3369 3370	S
+T38	Property 3380 3384	rock
+T39	Property 3555 3559	dust
+T40	Property 3615 3619	dust
+T41	Property 3715 3719	dust
+T42	Property 3749 3753	rock
+T43	Element 4159 4160	K
+T44	Element 4162 4164	Zn
+T45	Element 4178 4180	Ge
+T46	Property 4327 4331	dust
+T47	Property 4346 4357	composition
+T48	Mineral 4451 4460	mugearite
+T49	Mineral 4500 4508	basanite
+T50	Element 4652 4654	Fe
+T51	Element 4663 4665	Al
+T52	Property 4815 4826	sedimentary
+T53	Property 5355 5360	crust
+T54	Element 5423 5425	Zn
+T55	Element 5505 5506	S
+T56	Element 5660 5661	K
+T57	Element 5663 5665	Zn
+T58	Element 5671 5673	Ge
+T59	Element 5766 5769	Fe3
+T60	Property 5884 5888	rock
+T61	Element 5923 5924	K
+T62	Element 5926 5928	Zn
+T63	Property 5952 5956	rind
+T64	Property 6037 6041	dark
+T65	Property 6042 6049	coating
+T66	Property 6120 6128	basaltic
+T67	Property 6129 6138	sediments
+T68	Element 7428 7430	Zn
+T70	Target 5696 5706	Home Plate
+T71	Target 5892 5900	Mazatzal
+R4	Contains Arg1:T71 Arg2:T61
+R5	Contains Arg1:T71 Arg2:T62
+R13	HasProperty Arg1:T17 Arg2:T18
+R14	HasProperty Arg1:T17 Arg2:T19
+R15	HasProperty Arg1:T17 Arg2:T20
+R16	HasProperty Arg1:T17 Arg2:T21
+R17	HasProperty Arg1:T17 Arg2:T22
+R18	HasProperty Arg1:T17 Arg2:T23
+R19	HasProperty Arg1:T17 Arg2:T24
+R34	HasProperty Arg1:T71 Arg2:T60
+R35	HasProperty Arg1:T71 Arg2:T63
+T69	Element 5934 5936	Cl
+R1	Contains Arg1:T71 Arg2:T69	
+T72	Property 5943 5951	oxidized
+R2	HasProperty Arg1:T71 Arg2:T72	

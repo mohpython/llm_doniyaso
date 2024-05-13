@@ -1,0 +1,26 @@
+T1	Element 643 647	iron
+T2	Element 673 677	iron
+T3	Element 1237 1241	iron
+T4	Property 1842 1847	bands
+T5	Element 2292 2296	iron
+T6	Element 2845 2849	iron
+T7	Element 3129 3138	manganese
+T8	Property 3166 3173	spectra
+T9	Element 3602 3606	iron
+T10	Property 3688 3692	dust
+T11	Property 3707 3715	coatings
+T12	Property 3740 3747	spectra
+T13	Element 3810 3814	iron
+T14	Element 4004 4006	Fe
+T15	Element 4011 4013	Ni
+T16	Property 4040 4044	dark
+T17	Property 4097 4104	spectra
+T18	Property 4283 4290	spectra
+T19	Element 4474 4478	iron
+T20	Element 6266 6270	iron
+T21	Element 7741 7745	iron
+T22	Target-MSL 9481 9491	Stoneyburn
+T23	Element 10274 10278	iron
+T24	Target 5878 5890	Winter Haven
+T25	Property 5803 5812	meteorite
+R1	HasProperty Arg1:T24 Arg2:T25	

@@ -1,0 +1,81 @@
+T1	Property 64 68	SAND
+T2	Property 464 470	bright
+T3	Property 480 484	dust
+T4	Property 570 574	dust
+T5	Property 926 930	dust
+T6	Property 1019 1023	dark
+T7	Property 1079 1083	Dark
+T8	Property 2148 2152	Dust
+T9	Property 2445 2451	bright
+T10	Property 2837 2841	dark
+T11	Property 2945 2949	dust
+T12	Property 3268 3272	dust
+T13	Property 3340 3344	sand
+T14	Property 3450 3454	sand
+T15	Property 3672 3680	cohesive
+T16	Property 3687 3695	cohesion
+T17	Property 3915 3926	Composition
+T18	Property 3996 4000	sand
+T19	Mineral 4085 4092	olivine
+T20	Mineral 4241 4249	pyroxene
+T21	Property 4379 4387	basaltic
+T22	Property 4414 4418	sand
+T23	Property 4447 4451	dust
+T24	Property 4491 4499	cohesion
+T25	Property 4552 4560	cohesion
+T26	Property 5163 5167	fine
+T27	Property 5250 5254	sand
+T28	Property 6197 6201	dark
+T29	Property 6749 6753	dust
+T30	Property 6775 6780	rough
+T31	Property 6946 6950	sand
+T32	Property 7048 7052	dark
+T33	Property 7098 7108	transverse
+T34	Property 8088 8098	transverse
+T35	Property 8472 8480	cohesion
+T36	Property 8627 8635	cohesion
+T37	Property 8928 8936	cohesion
+T38	Property 9135 9140	crust
+T39	Property 9599 9603	Dust
+T40	Target 1039 1048	El Dorado
+T41	Target 1120 1129	El Dorado
+T42	Target 1351 1360	El Dorado
+T43	Target 1648 1657	El Dorado
+T44	Target 1675 1684	El Dorado
+T45	Target 2842 2851	El Dorado
+T46	Target 3002 3011	El Dorado
+T47	Target 4357 4366	El Dorado
+T48	Target 4564 4573	El Dorado
+T49	Target 5286 5295	El Dorado
+T50	Target 5519 5528	El Dorado
+T51	Target 5900 5909	El Dorado
+T52	Target 6114 6123	El Dorado
+T53	Target 6454 6463	El Dorado
+T54	Target 7024 7033	El Dorado
+T55	Target 7301 7310	El Dorado
+T56	Target 7468 7477	El Dorado
+T57	Target 8514 8523	El Dorado
+T58	Target 9552 9561	El Dorado
+R0	HasProperty Arg1:T40 Arg2:T6
+R2	HasProperty Arg1:T45 Arg2:T10
+R3	HasProperty Arg1:T46 Arg2:T11
+R4	HasProperty Arg1:T47 Arg2:T21
+R5	HasProperty Arg1:T47 Arg2:T22
+R6	HasProperty Arg1:T47 Arg2:T23
+R11	HasProperty Arg1:T57 Arg2:T35
+T59	Mineral 4388 4395	olivine
+R1	Contains Arg1:T47 Arg2:T59	
+T60	Mineral 4401 4409	pyroxene
+R12	Contains Arg1:T47 Arg2:T60	
+T61	Property 6124 6131	ripples
+R7	HasProperty Arg1:T52 Arg2:T61	
+T62	Property 7290 7297	ripples
+R8	HasProperty Arg1:T55 Arg2:T62	
+T63	Property 8459 8467	crusting
+R9	HasProperty Arg1:T57 Arg2:T63	
+T64	Property 9527 9544	dust-devil tracks
+R10	HasProperty Arg1:T58 Arg2:T64	
+T65	Target 53 62	EL DORADO
+R13	HasProperty Arg1:T65 Arg2:T1	
+T66	Property 69 76	DEPOSIT
+R14	HasProperty Arg1:T65 Arg2:T66	

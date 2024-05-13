@@ -1,0 +1,45 @@
+T1	Property 1 12	PERCHLORATE
+T2	Property 335 346	Perchlorate
+T3	Property 484 495	perchlorate
+T4	Property 568 579	Perchlorate
+T5	Property 792 803	perchlorate
+T6	Element 1014 1020	carbon
+T7	Element 1033 1041	nitrogen
+T8	Property 1397 1408	composition
+T9	Element 1761 1769	nitrogen
+T10	Element 1774 1780	carbon
+T11	Mineral 1975 1983	chloride
+T12	Element 2012 2021	magnesium
+T13	Mineral 2022 2033	perchlorate
+T14	Element 2138 2147	magnesium
+T15	Mineral 2148 2159	perchlorate
+T16	Element 2317 2326	magnesium
+T17	Mineral 2327 2338	perchlorate
+T18	Element 2444 2453	magnesium
+T19	Mineral 2454 2465	perchlorate
+T20	Element 3678 3686	nitrogen
+T21	Element 3691 3697	carbon
+T22	Property 3857 3860	red
+T23	Element 4178 4186	nitrogen
+T24	Element 4191 4197	carbon
+T25	Property 4354 4357	red
+T26	Property 4463 4474	perchlorate
+T27	Element 5330 5338	nitrogen
+T28	Element 5748 5754	sodium
+T29	Property 5915 5926	perchlorate
+T30	Property 5937 5943	brines
+T31	Target 1417 1428	Paso Robles
+R0	HasProperty Arg1:T31 Arg2:T8
+T32	Property 1430 1440	evaporitic
+T33	Property 1441 1449	deposits
+T34	Target 1453 1465	Husband Hill
+R1	HasProperty Arg1:T31 Arg2:T32	
+R2	HasProperty Arg1:T31 Arg2:T33	
+T35	Element 1548 1550	Ca
+T36	Mineral 1548 1560	Ca-phosphate
+R3	Contains Arg1:T31 Arg2:T36	
+R4	Contains Arg1:T31 Arg2:T35	
+R5	HasProperty Arg1:T34 Arg2:T32	
+R6	HasProperty Arg1:T34 Arg2:T33	
+R8	Contains Arg1:T34 Arg2:T36	
+R7	Contains Arg1:T34 Arg2:T35	

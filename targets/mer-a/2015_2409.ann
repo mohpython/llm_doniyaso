@@ -1,0 +1,47 @@
+T1	Property 51 59	BASALTIC
+T2	Property 584 592	basaltic
+T3	Property 593 604	composition
+T4	Property 699 707	basaltic
+T5	Property 852 855	ice
+T6	Property 1301 1309	basaltic
+T7	Property 1584 1592	Basaltic
+T8	Property 1771 1779	basaltic
+T9	Mineral 1789 1799	palagonite
+T10	Mineral 1801 1811	Palagonite
+T11	Property 2372 2381	weathered
+T12	Property 2382 2390	basaltic
+T13	Property 3320 3327	spectra
+T14	Mineral 3469 3479	palagonite
+T15	Property 3774 3781	spectra
+T16	Mineral 3857 3867	palagonite
+T17	Property 4187 4192	bands
+T18	Mineral 4232 4240	zeolites
+T19	Mineral 4262 4272	palagonite
+T20	Mineral 4351 4359	zeolites
+T21	Mineral 4381 4391	palagonite
+T22	Mineral 4511 4519	zeolites
+T23	Mineral 4645 4655	palagonite
+T24	Property 4862 4869	Spectra
+T25	Property 4977 4984	spectra
+T26	Property 5089 5096	spectra
+T27	Mineral 5140 5150	palagonite
+T28	Property 5237 5240	red
+T29	Property 5363 5366	red
+T30	Property 5403 5410	spectra
+T31	Mineral 5467 5477	palagonite
+T32	Property 5631 5639	basaltic
+T33	Property 6330 6337	spectra
+T34	Mineral 6369 6384	titanomagnetite
+T35	Property 6549 6556	spectra
+T36	Property 6564 6571	spectra
+T37	Property 6704 6711	spectra
+T38	Property 7716 7729	hyaloclastite
+T39	Property 7766 7773	spectra
+T40	Property 7818 7831	hyaloclastite
+T41	Target 5005 5015	Home Plate
+R1	HasProperty Arg1:T41 Arg2:T25
+T42	Property 4960 4965	glass
+T43	Target 4988 5000	Husband Hill
+R2	HasProperty Arg1:T43 Arg2:T42	
+R3	HasProperty Arg1:T43 Arg2:T25	
+R4	HasProperty Arg1:T41 Arg2:T42	

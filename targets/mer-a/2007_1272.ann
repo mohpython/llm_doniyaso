@@ -1,0 +1,61 @@
+T1	Property 561 568	igneous
+T2	Property 569 573	rock
+T3	Element 955 956	P
+T4	Element 958 960	Ti
+T5	Property 1081 1089	basaltic
+T6	Property 1828 1832	rock
+T7	Property 1960 1964	rock
+T8	Property 2032 2036	rock
+T9	Element 2215 2221	sulfur
+T10	Property 2243 2251	basaltic
+T11	Property 2282 2286	rock
+T12	Property 2804 2811	igneous
+T13	Property 2812 2816	rock
+T14	Property 2914 2918	rock
+T15	Property 3480 3487	igneous
+T16	Mineral 3640 3647	apatite
+T17	Mineral 3651 3662	whitlockite
+T18	Element 3689 3690	P
+T19	Property 3741 3745	rock
+T20	Property 3839 3843	rock
+T21	Mineral 4010 4018	jotunite
+T22	Mineral 4250 4261	anorthosite
+T23	Mineral 4351 4362	plagioclase
+T24	Mineral 4540 4549	nepheline
+T25	Mineral 4549 4550	-
+T26	Mineral 4550 4557	apatite
+T27	Mineral 4700 4707	apatite
+T28	Mineral 4718 4729	whitlockite
+T29	Mineral 5068 5080	carbonatites
+T30	Property 5086 5097	composition
+T31	Mineral 5156 5163	apatite
+T32	Mineral 5286 5295	nepheline
+T33	Mineral 5295 5296	-
+T34	Mineral 5296 5303	apatite
+T35	Mineral 5745 5755	carbonates
+T36	Property 5808 5815	spectra
+T37	Mineral 5871 5881	carbonates
+T38	Mineral 5974 5984	carbonates
+T39	Element 6176 6182	carbon
+T40	Mineral 6268 6278	lherzolite
+T41	Target 777 786	Wishstone
+T42	Target 791 800	Champagne
+T43	Target 1533 1542	Wishstone
+T44	Target 1547 1556	Champagne
+T45	Target 2619 2628	Wishstone
+T46	Target 3137 3146	Wishstone
+R0	Contains Arg1:T41 Arg2:T3
+R1	Contains Arg1:T41 Arg2:T4
+R2	Contains Arg1:T42 Arg2:T3
+R3	Contains Arg1:T42 Arg2:T4
+T47	Mineral 1581 1584	SO3
+T48	Mineral 2641 2645	P2O5
+R4	Contains Arg1:T45 Arg2:T48	
+T49	Mineral 2654 2658	SiO2
+R5	Contains Arg1:T45 Arg2:T49	
+T50	Property 766 775	tephrites
+R6	HasProperty Arg1:T41 Arg2:T50	
+R7	HasProperty Arg1:T42 Arg2:T50	
+T51	Target 3126 3135	Champange
+T52	Target 32 41	WISHSTONE
+T53	Target 750 759	Wishstone

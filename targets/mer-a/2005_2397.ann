@@ -1,0 +1,74 @@
+T1	Property 13 17	DUST
+T2	Property 371 375	dust
+T3	Property 563 567	dust
+T4	Property 710 714	dust
+T5	Property 721 726	scour
+T6	Property 741 745	rock
+T7	Property 805 809	dust
+T8	Property 858 862	Dust
+T9	Property 987 991	dust
+T10	Property 1342 1346	dust
+T11	Property 2186 2190	rock
+T12	Property 2468 2472	dust
+T13	Property 2474 2478	Dust
+T14	Property 2485 2490	Scour
+T15	Property 2728 2732	dust
+T16	Property 2754 2758	dust
+T17	Property 2840 2844	rock
+T18	Property 2868 2874	smooth
+T19	Property 2879 2883	flat
+T20	Property 3005 3009	dust
+T21	Property 3179 3183	rock
+T22	Property 3259 3268	ventifact
+T23	Property 3335 3339	dust
+T24	Property 3369 3373	rock
+T25	Property 3524 3528	dark
+T26	Property 3601 3605	rock
+T27	Property 3659 3663	sand
+T28	Property 3715 3719	dust
+T29	Property 3737 3741	sand
+T30	Property 3884 3892	basaltic
+T31	Property 3893 3899	clasts
+T32	Property 4022 4029	rounded
+T33	Property 4135 4139	dust
+T34	Property 4259 4263	dust
+T35	Property 4467 4472	scour
+T36	Property 4604 4608	dust
+T37	Property 5021 5025	dust
+T38	Property 5121 5125	dust
+T39	Property 5262 5266	dust
+T40	Property 5371 5375	Dust
+T41	Property 5418 5422	dust
+T42	Property 5547 5551	dust
+T43	Property 5679 5683	dust
+T44	Property 5723 5727	dust
+T45	Property 5829 5833	dust
+T46	Property 5916 5920	dust
+T47	Property 5969 5973	dust
+T48	Property 6384 6388	dust
+T49	Property 6696 6700	fine
+T50	Property 6807 6811	dust
+T51	Property 7604 7608	dust
+T52	Property 7729 7733	fine
+T53	Property 7761 7765	dust
+T54	Target 2179 2184	Plank
+T55	Target 2533 2538	Plank
+T56	Target 3126 3131	Plank
+T57	Target 3392 3397	Plank
+T58	Target 3500 3505	Plank
+T59	Target 3595 3600	Plank
+T60	Target 5635 5640	Plank
+R2	HasProperty Arg1:T54 Arg2:T11
+R6	HasProperty Arg1:T59 Arg2:T26
+R9	HasProperty Arg1:T60 Arg2:T43
+T61	Property 2625 2637	microgrooves
+R1	HasProperty Arg1:T55 Arg2:T61	
+R3	HasProperty Arg1:T56 Arg2:T22	
+T62	Property 3452 3467	deflation moats
+R4	HasProperty Arg1:T58 Arg2:T62	
+T63	Property 3579 3591	microgrooves
+R5	HasProperty Arg1:T59 Arg2:T63	
+T64	Property 3628 3643	impact trenches
+R7	HasProperty Arg1:T59 Arg2:T64	
+T65	Property 5658 5665	scoured
+R8	HasProperty Arg1:T60 Arg2:T65	

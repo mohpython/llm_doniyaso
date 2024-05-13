@@ -1,0 +1,42 @@
+T1	Element 19 23	IRON
+T2	Element 1302 1306	iron
+T3	Target-MERB 1318 1330	Block Island
+T4	Target-MERB 1339 1352	Oileán Ruaidh
+T5	Element 1461 1465	iron
+T6	Property 1556 1563	coating
+T7	Element 2129 2133	iron
+T8	Element 2278 2282	iron
+T9	Element 2424 2428	iron
+T10	Mineral 2750 2758	troilite
+T11	Mineral 2946 2957	octahedrite
+T12	Mineral 3010 3018	troilite
+T13	Target-MERB 3138 3149	Heat Shield
+T15	Element 3496 3500	iron
+T16	Element 3642 3646	iron
+T17	Element 3814 3818	iron
+T18	Mineral 3891 3899	troilite
+T19	Element 3978 3982	iron
+T20	Mineral 4007 4015	Troilite
+T21	Target-MSL 4320 4327	Lebanon
+T22	Element 4353 4357	iron
+T23	Target-MSL 4399 4408	Littleton
+T24	Target-MSL 4616 4625	Littleton
+T25	Element 5128 5132	iron
+T26	Mineral 5179 5187	kamacite
+T27	Mineral 5486 5494	troilite
+T28	Element 5585 5589	iron
+T29	Element 5717 5721	iron
+T30	Target-MSL 5733 5740	Lebanon
+T31	Target-MSL 5745 5754	Littleton
+T32	Target-MSL 6014 6023	Littleton
+T33	Property 6240 6247	igneous
+T34	Property 6670 6674	sand
+T35	Target-MSL 7039 7048	Littleton
+T36	Element 7092 7096	iron
+T37	Element 7675 7679	Iron
+R0	Contains Arg1:T3 Arg2:T2
+R1	Contains Arg1:T4 Arg2:T2
+R2	Contains Arg1:T21 Arg2:T22
+R3	Contains Arg1:T23 Arg2:T22
+R4	Contains Arg1:T30 Arg2:T29
+R5	Contains Arg1:T31 Arg2:T29

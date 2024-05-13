@@ -1,0 +1,189 @@
+T1	Element 893 895	Mg
+T2	Element 895 896	/
+T3	Element 896 898	Si
+T4	Element 906 908	Al
+T5	Element 908 909	/
+T6	Element 909 911	Si
+T7	Property 1025 1036	composition
+T8	Property 1106 1113	igneous
+T9	Element 1210 1212	Si
+T10	Element 1213 1215	Mg
+T11	Element 1356 1358	Mg
+T12	Element 1358 1359	/
+T13	Element 1359 1361	Si
+T14	Element 1369 1371	Al
+T15	Element 1371 1372	/
+T16	Element 1372 1374	Si
+T17	Property 1414 1417	Red
+T18	Element 1438 1440	Si
+T19	Property 1515 1523	Basaltic
+T20	Property 1602 1613	composition
+T21	Element 1717 1719	Fe
+T22	Property 1819 1828	weathered
+T23	Mineral 1992 2000	sulfates
+T24	Property 2061 2065	rock
+T25	Property 2070 2074	soil
+T26	Mineral 2353 2361	sulfates
+T27	Element 2427 2429	Si
+T28	Element 2434 2436	Ti
+T29	Property 2752 2757	sharp
+T30	Element 3269 3271	Mg
+T31	Element 3271 3272	/
+T32	Element 3272 3274	Si
+T33	Element 3282 3284	Al
+T34	Element 3284 3285	/
+T35	Element 3285 3287	Si
+T36	Element 3438 3440	Si
+T37	Element 3441 3443	Mg
+T38	Element 3567 3569	Mg
+T39	Element 3569 3570	/
+T40	Element 3570 3572	Si
+T41	Element 3580 3582	Al
+T42	Element 3582 3583	/
+T43	Element 3583 3585	Si
+T44	Property 3658 3669	composition
+T45	Property 3736 3741	mafic
+T46	Target-MERB 3766 3782	Marquette Island
+T47	Element 3871 3873	Mn
+T48	Property 3874 3881	coating
+T49	Mineral 3930 3932	Al
+T50	Mineral 3932 3933	-
+T51	Mineral 3933 3941	smectite
+T52	Property 3951 3959	fracture
+T53	Target-MERB 4136 4144	Grasberg
+T54	Element 4155 4157	Mg
+T55	Element 4157 4158	/
+T56	Element 4158 4160	Si
+T57	Element 4165 4167	Al
+T58	Element 4167 4168	/
+T59	Element 4168 4170	Si
+T60	Element 4201 4203	Mg
+T61	Element 4208 4210	Al
+T62	Element 4484 4486	Mn
+T63	Element 4499 4501	Fe
+T64	Element 4664 4666	Mg
+T65	Element 4666 4667	/
+T66	Element 4667 4669	Si
+T67	Element 4677 4679	Al
+T68	Element 4679 4680	/
+T69	Element 4680 4682	Si
+T70	Element 4833 4835	Si
+T71	Element 4836 4838	Mg
+T72	Element 4935 4937	Mg
+T73	Element 4937 4938	/
+T74	Element 4938 4940	Si
+T75	Element 4948 4950	Al
+T76	Element 4950 4951	/
+T77	Element 4951 4953	Si
+T78	Property 5061 5072	composition
+T79	Element 5156 5158	Mg
+T80	Element 5170 5172	Al
+T81	Element 5172 5173	/
+T82	Element 5173 5175	Si
+T83	Target-MSL 5203 5211	Windjana
+T84	Mineral 5312 5321	mugearite
+T85	Target-MSL 5568 5575	Stephen
+T86	Target-MSL 5596 5604	Windjana
+T87	Element 5690 5692	Mg
+T88	Element 5694 5696	Mn
+T89	Element 5698 5700	Cl
+T90	Element 5702 5704	Ni
+T91	Element 5709 5711	Zn
+T92	Element 5862 5864	Mg
+T93	Element 5872 5874	Al
+T94	Element 5874 5875	/
+T95	Element 5875 5877	Si
+T96	Property 5940 5945	Sharp
+T97	Target-MSL 5971 5983	Bonanza King
+T98	Element 6047 6049	Mg
+T99	Element 6049 6050	/
+T100	Element 6050 6052	Si
+T101	Property 6094 6099	mafic
+T102	Element 6128 6130	Mg
+T103	Property 6424 6429	Sharp
+T104	Mineral 6488 6496	sulfates
+T105	Mineral 6505 6513	jarosite
+T106	Element 6592 6594	Al
+T107	Element 6599 6601	Mg
+T108	Element 6637 6639	Si
+T109	Property 6811 6822	composition
+T110	Element 6915 6917	Mg
+T112	Element 6918 6920	Si
+T113	Element 6925 6927	Al
+T115	Element 6928 6930	Si
+T116	Property 7149 7154	Sharp
+T117	Target 1259 1268	Algonquin
+T118	Target 1269 1274	Peace
+T119	Target 1281 1287	Clovis
+T120	Target 1315 1325	Home Plate
+T121	Target 1502 1512	Home Plate
+T122	Target 1768 1774	Clovis
+T123	Target 1896 1905	Algonquin
+T124	Target 1930 1935	Peace
+T125	Target 2111 2121	Home Plate
+T126	Target 2639 2649	Home Plate
+T127	Target 6241 6251	Home Plate
+T128	Target 6939 6949	Home Plate
+R31	Contains Arg1:T121 Arg2:T18
+R32	Contains Arg1:T122 Arg2:T21
+R37	Contains Arg1:T124 Arg2:T23
+R38	Contains Arg1:T46 Arg2:T47
+R39	Contains Arg1:T46 Arg2:T49
+R40	Contains Arg1:T46 Arg2:T50
+R41	Contains Arg1:T46 Arg2:T51
+R42	Contains Arg1:T53 Arg2:T54
+R43	Contains Arg1:T53 Arg2:T55
+R44	Contains Arg1:T53 Arg2:T56
+R45	Contains Arg1:T53 Arg2:T57
+R46	Contains Arg1:T53 Arg2:T58
+R47	Contains Arg1:T53 Arg2:T59
+R48	Contains Arg1:T53 Arg2:T60
+R49	Contains Arg1:T53 Arg2:T61
+R50	Contains Arg1:T83 Arg2:T79
+R51	Contains Arg1:T83 Arg2:T80
+R52	Contains Arg1:T83 Arg2:T81
+R53	Contains Arg1:T83 Arg2:T82
+R54	Contains Arg1:T83 Arg2:T84
+R55	Contains Arg1:T85 Arg2:T87
+R56	Contains Arg1:T85 Arg2:T88
+R57	Contains Arg1:T85 Arg2:T89
+R58	Contains Arg1:T85 Arg2:T90
+R59	Contains Arg1:T85 Arg2:T91
+R60	Contains Arg1:T86 Arg2:T87
+R61	Contains Arg1:T86 Arg2:T88
+R62	Contains Arg1:T86 Arg2:T89
+R63	Contains Arg1:T86 Arg2:T90
+R64	Contains Arg1:T86 Arg2:T91
+R65	Contains Arg1:T128 Arg2:T110
+R67	Contains Arg1:T128 Arg2:T112
+R68	Contains Arg1:T128 Arg2:T113
+R70	Contains Arg1:T128 Arg2:T115
+R78	HasProperty Arg1:T46 Arg2:T45
+R79	HasProperty Arg1:T46 Arg2:T48
+R80	HasProperty Arg1:T46 Arg2:T52
+R81	HasProperty Arg1:T83 Arg2:T78
+R82	HasProperty Arg1:T97 Arg2:T96
+T129	Target 1294 1303	Wishstone
+T130	Target 1304 1314	Watchtower
+T131	Element 1759 1761	Mg
+R1	Contains Arg1:T122 Arg2:T131	
+T132	Target 1829 1838	Wishstone
+T133	Target 1839 1849	Watchtower
+R2	HasProperty Arg1:T132 Arg2:T22	
+R3	HasProperty Arg1:T133 Arg2:T22	
+T134	Mineral 1883 1890	olivine
+T135	Property 1871 1881	ultramafic
+R4	HasProperty Arg1:T123 Arg2:T135	
+R5	Contains Arg1:T123 Arg2:T134	
+T136	Property 1942 1952	ultramafic
+T137	Mineral 1954 1963	magnetite
+T138	Property 1969 1979	sandstones
+R6	HasProperty Arg1:T124 Arg2:T136	
+R7	Contains Arg1:T124 Arg2:T137	
+R8	HasProperty Arg1:T124 Arg2:T138	
+T139	Property 2144 2155	pyroclastic
+T140	Property 2156 2163	deposit
+R9	HasProperty Arg1:T125 Arg2:T139	
+R10	HasProperty Arg1:T125 Arg2:T140	
+T141	Mineral 2175 2181	silica
+R11	Contains Arg1:T125 Arg2:T141	

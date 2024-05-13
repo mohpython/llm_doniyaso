@@ -1,0 +1,108 @@
+T1	Property 568 572	rock
+T2	Mineral 835 842	olivine
+T3	Property 1498 1506	basaltic
+T4	Mineral 1632 1643	plagioclase
+T5	Property 1830 1838	basaltic
+T6	Mineral 1909 1920	plagioclase
+T7	Mineral 1924 1931	olivine
+T8	Property 2063 2067	rock
+T9	Mineral 2121 2128	olivine
+T10	Property 2159 2166	spectra
+T11	Property 2180 2184	rock
+T12	Property 2244 2251	spectra
+T13	Property 2451 2455	rock
+T14	Property 2617 2624	spectra
+T15	Mineral 2672 2679	olivine
+T16	Mineral 2957 2964	olivine
+T17	Property 2989 2996	spectra
+T18	Mineral 3036 3043	olivine
+T19	Property 3044 3051	spectra
+T20	Mineral 3069 3076	olivine
+T21	Property 3084 3095	composition
+T22	Property 3230 3237	spectra
+T23	Property 3278 3282	dust
+T24	Property 3380 3384	Dust
+T25	Property 3487 3491	dust
+T26	Property 3599 3603	dust
+T27	Property 3718 3722	dust
+T28	Property 3833 3837	dust
+T29	Property 3983 3987	dust
+T30	Property 4249 4253	dust
+T31	Property 4285 4289	rock
+T32	Property 4479 4483	rock
+T33	Target 4491 4499	Rousseau
+T34	Property 5235 5239	rock
+T35	Property 5618 5622	dust
+T36	Property 5730 5737	spectra
+T37	Property 5839 5843	dust
+T38	Mineral 5999 6006	olivine
+T39	Mineral 6158 6165	olivine
+T40	Property 6184 6191	igneous
+T41	Property 6239 6247	basaltic
+T42	Mineral 6361 6372	plagioclase
+T43	Mineral 6386 6393	olivine
+T44	Mineral 6473 6480	olivine
+T45	Mineral 6561 6568	olivine
+T46	Target 472 482	Home Plate
+T47	Target 1454 1460	Clovis
+T48	Target 1579 1588	Wishstone
+T49	Target 1731 1745	Jibsheet Ridge
+T50	Target 1774 1784	Watchtower
+T51	Target 1988 1997	Wishstone
+T52	Target 2084 2094	Watchtower
+T53	Target 2599 2605	Kansas
+T54	Target 4463 4472	Wishstone
+T55	Target 5086 5095	Wishstone
+T56	Target 5256 5265	Wishstone
+R0	Contains Arg1:T48 Arg2:T4
+R7	HasProperty Arg1:T47 Arg2:T3
+R9	HasProperty Arg1:T50 Arg2:T5
+R14	HasProperty Arg1:T56 Arg2:T34
+T57	Target 1296 1308	Husband Hill
+T58	Target 882 894	Haskin Ridge
+T59	Mineral 845 852	Olivine
+R13	Contains Arg1:T58 Arg2:T59	
+T60	Target 930 939	West Spur
+T61	Target 944 956	Husband Hill
+T62	Property 1560 1565	float
+T63	Target 1533 1545	Husband Hill
+T64	Target 1711 1726	Larry's Lookout
+T65	Target 1749 1761	Husband Hill
+T66	Mineral 1969 1980	plagioclase
+R1	Contains Arg1:T51 Arg2:T66	
+T67	Target 1950 1962	Husband Hill
+T68	Target 2792 2805	Larry's Bench
+R2	Contains Arg1:T68 Arg2:T16	
+R5	HasProperty Arg1:T33 Arg2:T32	
+T69	Target 5032 5040	Rousseau
+T70	Target 5845 5853	Rousseau
+R6	HasProperty Arg1:T63 Arg2:T62	
+T71	Target 1422 1431	West Spur
+R8	HasProperty Arg1:T48 Arg2:T62	
+R3	Contains Arg1:T63 Arg2:T4	
+R4	Contains Arg1:T67 Arg2:T66	
+R10	HasProperty Arg1:T71 Arg2:T3	
+R11	HasProperty Arg1:T64 Arg2:T5	
+R12	HasProperty Arg1:T49 Arg2:T5	
+R15	HasProperty Arg1:T65 Arg2:T5	
+T72	Target 2815 2827	Haskin Ridge
+R16	Contains Arg1:T72 Arg2:T16	
+R17	HasProperty Arg1:T54 Arg2:T32	
+T73	Target 368 380	Husband Hill
+T74	Target 401 413	Haskin Ridge
+T75	Target 520 532	Husband Hill
+T76	Property 1839 1844	glass
+R18	HasProperty Arg1:T64 Arg2:T76	
+R19	HasProperty Arg1:T49 Arg2:T76	
+R20	HasProperty Arg1:T65 Arg2:T76	
+R21	HasProperty Arg1:T50 Arg2:T76	
+T77	Property 6248 6253	glass
+T78	Target 6084 6093	West Spur
+T79	Target 6130 6142	Husband Hill
+R22	HasProperty Arg1:T78 Arg2:T41	
+R23	HasProperty Arg1:T78 Arg2:T77	
+R24	HasProperty Arg1:T79 Arg2:T41	
+R25	HasProperty Arg1:T79 Arg2:T77	
+T80	Property 1507 1512	glass
+R26	HasProperty Arg1:T71 Arg2:T80	
+R27	HasProperty Arg1:T47 Arg2:T80	

@@ -1,0 +1,42 @@
+T1	Property 846 850	rock
+T2	Property 1944 1948	rock
+T3	Property 2679 2683	dust
+T4	Property 3691 3695	rock
+T5	Property 4169 4173	rock
+T6	Property 4207 4211	rock
+T7	Property 4674 4678	rock
+T8	Property 4826 4830	soil
+T9	Property 5468 5472	Soil
+T10	Property 6496 6500	rock
+T11	Property 6829 6838	vesicular
+T12	Property 6855 6862	igneous
+T13	Property 6907 6918	sedimentary
+T14	Property 7246 7250	dust
+T15	Property 7530 7534	rock
+T16	Property 8070 8074	rock
+T17	Property 8206 8212	planar
+T18	Property 8276 8279	ice
+T19	Property 8374 8379	sharp
+T20	Property 8419 8425	impact
+T21	Property 8426 8432	crater
+T22	Property 8472 8477	sharp
+T23	Property 8520 8524	rock
+T24	Property 8640 8651	composition
+T25	Property 8680 8685	mafic
+T26	Property 8713 8722	andesites
+T27	Mineral 8903 8911	hematite
+T28	Property 9139 9143	soil
+T29	Property 9181 9185	dark
+T30	Property 9186 9190	soil
+T31	Mineral 9418 9426	jarosite
+T32	Property 9452 9463	sedimentary
+T33	Property 9652 9656	pits
+T34	Property 9707 9713	trench
+T35	Property 12694 12698	Rock
+T36	Property 12845 12849	Rock
+T38	Target 8578 8588	Adirondack
+T39	Target 8590 8598	Humphrey
+R0	HasProperty Arg1:T38 Arg2:T24
+R1	HasProperty Arg1:T39 Arg2:T24
+R2	HasProperty Arg1:T38 Arg2:T25	
+R3	HasProperty Arg1:T39 Arg2:T25	

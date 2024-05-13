@@ -1,0 +1,67 @@
+T1	Property 1770 1774	rock
+T2	Property 1779 1783	soil
+T5	Property 2626 2629	ice
+T6	Property 2897 2901	dune
+T7	Property 3080 3084	dust
+T8	Property 3089 3093	sand
+T9	Property 3541 3545	rock
+T10	Property 3550 3554	soil
+T11	Property 4143 4151	basaltic
+T12	Property 4218 4227	vesicular
+T13	Property 4235 4243	boulders
+T14	Element 4426 4430	iron
+T15	Property 4442 4450	basaltic
+T16	Target 4625 4631	Halley
+T19	Property 4685 4689	rock
+T20	Element 4732 4734	Ca
+T21	Element 4739 4740	S
+T22	Mineral 4755 4761	gypsum
+T23	Mineral 4765 4774	anhydrite
+T24	Mineral 4842 4850	hematite
+T25	Element 5664 5670	sulfur
+T26	Mineral 5691 5699	sulfates
+T27	Property 5795 5803	basaltic
+T28	Property 6904 6907	red
+T29	Target 2379 2397	King George Island
+T30	Target 2887 2896	El Dorado
+T31	Target 3209 3219	Home Plate
+T32	Target 3268 3279	McCool Hill
+T33	Target 4109 4119	Home Plate
+T34	Target 4636 4654	King George Island
+T35	Target 4665 4671	Halley
+T36	Target 4776 4794	King George Island
+T37	Target 5195 5206	McCool Hill
+T38	Target 5227 5237	Home Plate
+T39	Target 5310 5316	Tyrone
+T40	Target 5621 5637	Berkner Island 1
+T41	Target 5846 5852	Tyrone
+T42	Target 5937 5948	McCool Hill
+T43	Target 6150 6161	McCool Hill
+T44	Target 6802 6813	McCool Hill
+T45	Target 6972 6982	Home Plate
+T46	Target 6992 6998	Tyrone
+T47	Target 7335 7341	Tyrone
+T48	Target 7401 7407	Tyrone
+T49	Target 7539 7545	Tyrone
+R0	Contains Arg1:T35 Arg2:T20
+R1	Contains Arg1:T35 Arg2:T21
+R2	Contains Arg1:T35 Arg2:T22
+R3	Contains Arg1:T35 Arg2:T23
+R4	Contains Arg1:T36 Arg2:T24
+R5	HasProperty Arg1:T30 Arg2:T6
+R9	HasProperty Arg1:T35 Arg2:T19
+T3	Property 4082 4095	cross-bedding
+R12	HasProperty Arg1:T33 Arg2:T3	
+R6	Contains Arg1:T40 Arg2:T25	
+R7	Contains Arg1:T40 Arg2:T26	
+T4	Mineral 7010 7017	sulfate
+R8	Contains Arg1:T46 Arg2:T4	
+T17	Target 1202 1211	Low Ridge
+T18	Target 3134 3143	Low Ridge
+T50	Target 3251 3263	Husband Hill
+T51	Target 6768 6780	Husband Hill
+T52	Target 6789 6800	Inner Basin
+T53	Target 6961 6970	Low Ridge
+T54	Target 33 44	INNER BASIN
+T55	Target 3231 3242	Inner Basin
+T56	Target 4965 4976	Inner Basin

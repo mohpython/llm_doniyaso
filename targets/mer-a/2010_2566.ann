@@ -1,0 +1,71 @@
+T1	Property 1204 1210	impact
+T2	Property 1211 1217	crater
+T3	Property 1701 1709	basaltic
+T4	Property 2605 2609	dune
+T5	Element 2766 2767	H
+T6	Property 3227 3233	impact
+T7	Property 3234 3240	crater
+T8	Property 3604 3608	dark
+T9	Property 3609 3617	boulders
+T10	Property 4564 4567	ice
+T11	Target 2236 2247	McCool Hill
+T12	Target 3814 3820	Oberth
+T13	Target 3822 3829	Korolev
+T14	Target 3834 3839	Faget
+T15	Target 3884 3895	McCool Hill
+T16	Target 4190 4201	McCool Hill
+T17	Target 4413 4423	Home Plate
+T18	Target 4673 4683	East Basin
+T19	Target 4724 4734	Home Plate
+T20	Target 4793 4803	Home Plate
+T21	Target 4901 4911	East Basin
+T22	Target 4938 4948	Home Plate
+T23	Target 2173 2184	Inner Basin
+T24	Target 2204 2210	Haskin
+T25	Target 2215 2230	Allegheny Ridge
+T26	Target 2435 2447	Husband Hill
+T27	Target 2596 2604	Eldorado
+R1	HasProperty Arg1:T27 Arg2:T4	
+T28	Target 2844 2858	Goddard Crater
+T29	Target 3171 3185	Goddard Crater
+T30	Property 3202 3210	volcanic
+T31	Property 3211 3215	vent
+R3	HasProperty Arg1:T29 Arg2:T30	
+R4	HasProperty Arg1:T29 Arg2:T31	
+T33	Property 2971 2978	outcrop
+R6	HasProperty Arg1:T28 Arg2:T33	
+T34	Property 3069 3079	rim collar
+R7	HasProperty Arg1:T28 Arg2:T34	
+T35	Target 3388 3395	Goddard
+T36	Target 3401 3416	von Braun Butte
+T37	Target 3418 3433	von Braun Butte
+T38	Target 3523 3532	von Braun
+T39	Property 3546 3551	butte
+T40	Property 3538 3545	layered
+R8	HasProperty Arg1:T38 Arg2:T40	
+R9	HasProperty Arg1:T38 Arg2:T39	
+R10	HasProperty Arg1:T38 Arg2:T9	
+T41	Property 3840 3848	outcrops
+R11	HasProperty Arg1:T12 Arg2:T41	
+R12	HasProperty Arg1:T13 Arg2:T41	
+R13	HasProperty Arg1:T14 Arg2:T41	
+T42	Target 3931 3946	von Braun Butte
+R14	HasProperty Arg1:T15 Arg2:T41	
+T43	Target 4026 4037	Inner Basin
+T44	Target 4173 4184	Inner Basin
+T45	Target 4216 4228	Haskin Ridge
+T46	Property 4429 4436	deposit
+R15	HasProperty Arg1:T17 Arg2:T46	
+T47	Target 4639 4650	Inner Basin
+T48	Target 4694 4704	Crossfield
+T49	Target 4739 4746	Goddard
+T50	Target 4754 4765	Inner Basin
+T51	Property 4833 4839	mantle
+R2	HasProperty Arg1:T48 Arg2:T51	
+T52	Target 5344 5353	von Braun
+T53	Target 5355 5362	Goddard
+T54	Target 5368 5378	Crossfield
+T55	Target 5893 5905	Husband Hill
+T56	Target 5952 5963	Inner Basin
+T57	Target 6003 6018	von Braun Butte
+T58	Target 6023 6037	Goddard Crater

@@ -1,0 +1,74 @@
+T1	Property 62 70	BASALTIC
+T2	Property 995 1002	angular
+T3	Property 1046 1054	basaltic
+T4	Property 1055 1066	composition
+T5	Property 1094 1101	spectra
+T6	Mineral 1122 1129	olivine
+T7	Mineral 1179 1186	olivine
+T8	Property 1215 1219	soil
+T9	Property 1348 1355	spectra
+T10	Property 1703 1710	spectra
+T11	Mineral 1745 1752	olivine
+T12	Mineral 1797 1806	magnetite
+T13	Mineral 1808 1816	hematite
+T14	Property 1979 1983	rock
+T15	Property 2023 2027	rock
+T16	Mineral 2185 2192	olivine
+T17	Mineral 2202 2210	pyroxene
+T18	Mineral 2274 2283	magnetite
+T19	Mineral 2315 2323	hematite
+T20	Property 2407 2414	spectra
+T21	Mineral 2592 2599	olivine
+T22	Mineral 2800 2807	olivine
+T23	Mineral 2902 2909	olivine
+T24	Mineral 3027 3034	olivine
+T25	Mineral 3123 3130	olivine
+T26	Mineral 3246 3254	pyroxene
+T27	Mineral 3287 3295	pyroxene
+T28	Mineral 3381 3388	olivine
+T29	Mineral 3402 3411	magnetite
+T30	Property 3466 3473	igneous
+T31	Mineral 3587 3596	magnetite
+T32	Mineral 3670 3679	magnetite
+T33	Mineral 3694 3701	olivine
+T34	Element 3984 3985	S
+T35	Element 4066 4072	sulfur
+T36	Mineral 4143 4153	serpentine
+T37	Mineral 4163 4178	phyllosilicates
+T38	Mineral 4249 4258	magnetite
+T39	Mineral 4490 4499	magnetite
+T40	Property 4574 4581	spectra
+T41	Mineral 4738 4747	magnetite
+T42	Property 4776 4783	spectra
+T43	Mineral 4834 4843	magnetite
+T44	Mineral 5116 5124	hematite
+T45	Mineral 5264 5272	hematite
+T46	Mineral 5310 5319	magnetite
+T47	Property 5408 5415	spectra
+T48	Property 5489 5497	basaltic
+T49	Mineral 5541 5548	olivine
+T50	Mineral 5606 5613	olivine
+T51	Property 5767 5775	basaltic
+T52	Mineral 5917 5926	magnetite
+T53	Property 6004 6011	igneous
+T54	Mineral 6056 6063	olivine
+T55	Mineral 6104 6112	hematite
+T56	Element 7025 7027	Fe
+T57	Mineral 7232 7240	Feldspar
+T58	Mineral 7241 7249	Pyroxene
+T59	Mineral 7250 7257	Olivine
+T60	Mineral 7258 7267	Magnetite
+T61	Target 4606 4614	Route 66
+T62	Target 4616 4624	Humphrey
+T63	Target 4629 4635	Joshua
+T64	Target 4671 4682	Pot of Gold
+R0	HasProperty Arg1:T61 Arg2:T40
+R1	HasProperty Arg1:T62 Arg2:T40
+R2	HasProperty Arg1:T63 Arg2:T40
+R3	HasProperty Arg1:T64 Arg2:T40
+T65	Target 1985 1993	Breadbox
+R4	HasProperty Arg1:T65 Arg2:T14	
+T66	Target 4661 4669	Breadbox
+R5	HasProperty Arg1:T66 Arg2:T40	
+T67	Target 4687 4698	Wooly Patch
+R6	HasProperty Arg1:T67 Arg2:T40	

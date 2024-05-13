@@ -1,0 +1,132 @@
+T1	Property 451 455	soil
+T2	Element 464 470	sulfur
+T3	Mineral 592 606	ferric sulfate
+T4	Mineral 621 636	Ferric sulfates
+T5	Property 681 692	composition
+T6	Property 715 719	soil
+T7	Property 801 807	bright
+T8	Mineral 983 990	sulfate
+T9	Property 1283 1287	dark
+T10	Property 1355 1360	bands
+T11	Property 1610 1617	spectra
+T12	Property 2041 2048	spectra
+T13	Property 2589 2593	dark
+T14	Property 2686 2690	dust
+T15	Property 2763 2770	spectra
+T16	Mineral 2832 2839	sulfate
+T17	Property 2848 2855	spectra
+T18	Mineral 2932 2943	Rhomboclase
+T19	Mineral 2944 2953	Kornelite
+T20	Mineral 2954 2964	Coquimbite
+T21	Mineral 2965 2977	Fibroferrite
+T22	Mineral 2978 2987	Yavapiite
+T23	Mineral 2988 2997	Copiapite
+T24	Mineral 2998 3012	Ferricopiapite
+T25	Mineral 3013 3027	Schwertmannite
+T26	Mineral 3028 3036	Jarosite
+T27	Mineral 3178 3189	Rhomboclase
+T28	Mineral 3190 3199	Kornelite
+T29	Mineral 3200 3210	Coquimbite
+T30	Mineral 3211 3223	Fibroferrite
+T31	Mineral 3224 3233	Yavapiite
+T32	Mineral 3234 3243	Copiapite
+T33	Mineral 3244 3258	Ferricopiapite
+T34	Mineral 3259 3273	Schwertmannite
+T35	Mineral 3274 3282	Jarosite
+T36	Property 3364 3371	spectra
+T37	Mineral 3375 3382	sulfate
+T38	Mineral 3470 3477	sulfate
+T39	Property 3487 3491	dust
+T40	Property 3493 3496	red
+T41	Mineral 3536 3543	Sulfate
+T42	Mineral 3852 3859	sulfate
+T43	Mineral 3886 3895	kornelite
+T44	Mineral 4057 4064	sulfate
+T45	Property 4188 4192	dust
+T46	Mineral 4329 4336	Sulfate
+T47	Property 4343 4347	Dust
+T48	Property 4401 4408	spectra
+T49	Property 4459 4466	spectra
+T50	Property 4663 4667	dust
+T51	Property 4686 4690	soil
+T52	Mineral 4699 4706	sulfate
+T53	Property 4733 4737	soil
+T54	Mineral 4760 4767	sulfate
+T55	Property 4815 4819	dust
+T56	Mineral 4955 4962	sulfate
+T57	Property 4972 4976	dust
+T58	Property 4978 4981	red
+T59	Mineral 5196 5203	sulfate
+T60	Mineral 5220 5227	sulfate
+T61	Mineral 5347 5354	sulfate
+T62	Property 5409 5413	dust
+T63	Property 5512 5516	soil
+T64	Mineral 5593 5600	Sulfate
+T65	Property 5601 5605	Dust
+T66	Property 5654 5661	spectra
+T67	Mineral 5748 5755	sulfate
+T68	Property 5757 5761	dust
+T69	Property 5808 5814	bright
+T70	Mineral 5876 5886	Coquimbite
+T71	Mineral 5891 5900	kornelite
+T72	Mineral 5950 5957	sulfate
+T73	Mineral 6031 6038	sulfate
+T74	Mineral 6139 6146	sulfate
+T75	Property 6156 6160	dust
+T76	Property 6162 6165	red
+T77	Target 517 528	Paso Robles
+T78	Target 669 680	Paso Robles
+T79	Target 854 858	Arad
+T80	Target 863 869	Tyrone
+T81	Target 1014 1025	Paso Robles
+T82	Target 1030 1034	Arad
+T83	Target 1809 1820	Paso Robles
+T84	Target 1825 1829	Arad
+T85	Target 3442 3453	Paso Robles
+T86	Target 3514 3525	Paso Robles
+T87	Target 4423 4434	Paso Robles
+T88	Target 4927 4938	Paso Robles
+T89	Target 4999 5003	Arad
+T90	Target 5245 5249	Arad
+T91	Target 5507 5511	Arad
+T92	Target 5976 5987	Paso Robles
+T93	Target 6062 6066	Arad
+T94	Target 6118 6122	Arad
+R0	Contains Arg1:T77 Arg2:T2
+R1	Contains Arg1:T78 Arg2:T4
+R4	Contains Arg1:T85 Arg2:T38
+R5	Contains Arg1:T86 Arg2:T41
+R6	Contains Arg1:T88 Arg2:T56
+R8	Contains Arg1:T90 Arg2:T60
+R9	Contains Arg1:T92 Arg2:T70
+R10	Contains Arg1:T92 Arg2:T71
+R11	Contains Arg1:T92 Arg2:T72
+R16	Contains Arg1:T93 Arg2:T73
+R17	Contains Arg1:T94 Arg2:T74
+R18	HasProperty Arg1:T77 Arg2:T1
+R19	HasProperty Arg1:T78 Arg2:T5
+R20	HasProperty Arg1:T85 Arg2:T39
+R22	HasProperty Arg1:T87 Arg2:T49
+R23	HasProperty Arg1:T88 Arg2:T57
+R25	HasProperty Arg1:T91 Arg2:T63
+R26	HasProperty Arg1:T94 Arg2:T75
+T95	Element 483 493	phosphorus
+R28	Contains Arg1:T77 Arg2:T95	
+R30	Contains Arg1:T77 Arg2:T3	
+R29	HasProperty Arg1:T78 Arg2:T6	
+T96	Mineral 702 709	sulfate
+R31	Contains Arg1:T78 Arg2:T96	
+R32	HasProperty Arg1:T78 Arg2:T7	
+R33	Contains Arg1:T79 Arg2:T96	
+R34	HasProperty Arg1:T79 Arg2:T6	
+R35	Contains Arg1:T80 Arg2:T96	
+R36	HasProperty Arg1:T80 Arg2:T6	
+R2	HasProperty Arg1:T86 Arg2:T45	
+T97	Element 4103 4109	ferric
+R3	Contains Arg1:T86 Arg2:T97	
+R21	Contains Arg1:T87 Arg2:T52	
+R37	Contains Arg1:T87 Arg2:T54	
+R7	Contains Arg1:T90 Arg2:T61	
+R24	HasProperty Arg1:T90 Arg2:T62	
+T98	Mineral 6001 6013	fibroferrite
+R38	Contains Arg1:T93 Arg2:T98	

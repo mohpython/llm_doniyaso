@@ -1,0 +1,136 @@
+T1	Property 1633 1641	coatings
+T2	Property 1656 1661	rinds
+T3	Property 1736 1744	basaltic
+T4	Mineral 1758 1766	Hematite
+T5	Element 1776 1779	Fe3
+T6	Element 1781 1783	Fe
+T7	Element 1897 1898	S
+T8	Element 1900 1902	Cl
+T9	Element 1908 1910	Br
+T10	Property 1921 1925	rock
+T11	Property 1943 1951	coatings
+T12	Property 1957 1961	Soil
+T13	Element 2032 2035	Fe3
+T14	Element 2037 2039	Fe
+T15	Element 2095 2096	S
+T16	Element 2101 2103	Mg
+T17	Property 2122 2126	soil
+T18	Property 2270 2274	rock
+T19	Property 2275 2283	coatings
+T20	Property 2287 2292	rinds
+T21	Property 3145 3149	rock
+T22	Property 3228 3232	Rock
+T23	Element 3498 3501	Fe3
+T24	Element 3503 3505	Fe
+T25	Element 3547 3551	iron
+T26	Mineral 3603 3611	hematite
+T27	Mineral 3617 3626	magnetite
+T28	Mineral 3660 3668	pyroxene
+T29	Mineral 4192 4200	Goethite
+T30	Element 4266 4268	Br
+T31	Element 4270 4272	Cl
+T32	Element 4278 4279	S
+T33	Element 4541 4543	Ti
+T34	Element 4545 4547	Al
+T35	Element 4553 4555	Fe
+T36	Property 4623 4634	composition
+T37	Property 4650 4654	soil
+T38	Element 4725 4727	Al
+T39	Target 4758 4775	Wooly Patch_Sabre
+T40	Element 4814 4816	Mg
+T41	Property 4855 4859	soil
+T42	Element 4903 4905	Ca
+T43	Element 4910 4911	S
+T44	Element 4920 4922	Mg
+T45	Element 4927 4929	Ca
+T46	Element 4934 4936	Cl
+T47	Element 4961 4962	S
+T48	Element 4967 4969	Cl
+T49	Mineral 5009 5011	Ca
+T50	Mineral 5011 5012	-
+T51	Mineral 5012 5020	sulfates
+T52	Property 5263 5269	layers
+T53	Property 5324 5330	layers
+T54	Property 5396 5403	rounded
+T55	Property 5407 5414	angular
+T56	Element 5573 5576	Fe3
+T57	Element 5578 5580	Fe
+T58	Element 5589 5593	iron
+T59	Element 5628 5631	Fe3
+T60	Mineral 5644 5652	hematite
+T61	Element 5659 5661	Br
+T62	Element 5663 5664	S
+T63	Element 5669 5671	Cl
+T64	Mineral 5710 5718	goethite
+T65	Mineral 5732 5740	Goethite
+T66	Mineral 5795 5803	hematite
+T67	Property 5918 5926	basaltic
+T68	Element 6037 6039	Br
+T69	Element 6041 6043	Cl
+T70	Element 6045 6046	S
+T71	Property 6442 6453	sedimentary
+T72	Element 7048 7050	Si
+T73	Element 7051 7053	Ti
+T74	Element 7054 7056	Al
+T75	Element 7057 7059	Fe
+T76	Element 7060 7062	Mn
+T77	Element 7063 7065	Mg
+T78	Element 7066 7068	Ca
+T79	Element 7069 7071	Na
+T80	Element 7074 7076	Cr
+T81	Element 7077 7079	Cl
+T82	Element 7080 7081	S
+T83	Element 7082 7084	Ni
+T84	Element 7085 7087	Zn
+T85	Element 7088 7090	Br
+T87	Target 4154 4160	Clovis
+T88	Target 4248 4254	Clovis
+T89	Target 5103 5109	Uchben
+T90	Target 5723 5729	Clovis
+T91	Target 6420 6426	Uchben
+T92	Target 7466 7472	Uchben
+R0	Contains Arg1:T88 Arg2:T29
+R1	Contains Arg1:T39 Arg2:T38
+R10	Contains Arg1:T90 Arg2:T64
+R11	HasProperty Arg1:T91 Arg2:T71
+T86	Element 4532 4539	Silicon
+T93	Property 5055 5062	layered
+R15	HasProperty Arg1:T89 Arg2:T93	
+T94	Property 6368 6375	layered
+R2	HasProperty Arg1:T91 Arg2:T94	
+T95	Property 7449 7456	layered
+R3	HasProperty Arg1:T92 Arg2:T95	
+T96	Target 71 80	WEST SPUR
+T97	Property 46 63	AQUEOUS PROCESSES
+R4	HasProperty Arg1:T96 Arg2:T97	
+T98	Target 2579 2588	West Spur
+T99	Property 2554 2571	aqueous processes
+R5	HasProperty Arg1:T98 Arg2:T99	
+T100	Target 2788 2797	West Spur
+T101	Target 3094 3103	West Spur
+T102	Property 3123 3130	altered
+R6	HasProperty Arg1:T101 Arg2:T102	
+T103	Target 3995 4004	West Spur
+T104	Target 4135 4144	West Spur
+T105	Target 4181 4190	West Spur
+T106	Property 4239 4246	outcrop
+R7	HasProperty Arg1:T88 Arg2:T106	
+T107	Target 4572 4581	West Spur
+R8	Contains Arg1:T105 Arg2:T29	
+R9	Contains Arg1:T107 Arg2:T35	
+R12	Contains Arg1:T107 Arg2:T34	
+R13	Contains Arg1:T107 Arg2:T33	
+R14	Contains Arg1:T107 Arg2:T86	
+T108	Target 4778 4787	West Spur
+R16	Contains Arg1:T108 Arg2:T40	
+T109	Target 5160 5169	West Spur
+R17	HasProperty Arg1:T109 Arg2:T93	
+T110	Target 6682 6691	West Spur
+T111	Property 6624 6634	alteration
+R18	HasProperty Arg1:T110 Arg2:T111	
+T112	Target 7497 7506	West Spur
+R19	HasProperty Arg1:T112 Arg2:T95	
+T113	Target 6343 6352	West Spur
+T114	Target 6402 6411	West Spur
+R20	HasProperty Arg1:T114 Arg2:T94	
+R21	HasProperty Arg1:T114 Arg2:T71	

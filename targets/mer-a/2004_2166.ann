@@ -1,0 +1,27 @@
+T1	Property 1918 1922	dark
+T2	Property 1951 1955	flat
+T3	Property 2315 2320	bands
+T4	Property 2449 2456	spectra
+T5	Property 2663 2668	bands
+T6	Target 3302 3312	Adirondack
+T7	Property 5062 5067	bands
+T8	Property 5142 5146	rock
+T9	Property 5171 5175	rock
+T10	Property 5248 5252	rock
+T11	Property 5302 5307	mafic
+T12	Property 5308 5319	composition
+T13	Property 5346 5353	spectra
+T14	Property 5447 5451	rock
+T15	Property 5612 5616	rock
+T16	Property 7271 7278	spectra
+T17	Property 7396 7405	indurated
+T18	Property 7417 7421	rock
+T19	Property 7447 7451	rock
+T20	Property 7517 7524	Spectra
+T21	Property 7591 7598	spectra
+T22	Property 7817 7824	spectra
+T23	Target 5234 5244	Adirondack
+R0	HasProperty Arg1:T23 Arg2:T9
+R1	HasProperty Arg1:T23 Arg2:T10
+R2	HasProperty Arg1:T23 Arg2:T11
+R3	HasProperty Arg1:T23 Arg2:T13	

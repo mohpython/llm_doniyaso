@@ -1,0 +1,42 @@
+T1	Property 1894 1901	spectra
+T2	Property 2074 2081	spectra
+T3	Mineral 2251 2260	magnetite
+T4	Property 2295 2302	spectra
+T5	Property 2603 2610	spectra
+T6	Property 2711 2718	spectra
+T7	Property 2787 2794	spectra
+T8	Mineral 2972 2979	olivine
+T9	Mineral 2992 2999	olivine
+T10	Mineral 3585 3593	Römerite
+T11	Element 3604 3606	Fe
+T12	Mineral 3819 3827	Römerite
+T13	Mineral 4045 4052	Olivine
+T14	Element 4061 4063	Fe
+T15	Mineral 4889 4896	olivine
+T16	Mineral 5313 5321	Romerite
+T17	Property 5322 5329	spectra
+T18	Property 5714 5721	spectra
+T19	Mineral 5902 5911	magnetite
+T20	Property 6002 6009	spectra
+T21	Mineral 6041 6049	hematite
+T22	Mineral 6417 6424	olivine
+T23	Mineral 6429 6437	pyroxene
+T24	Property 6904 6911	spectra
+T25	Property 6974 6981	spectra
+T26	Target 6985 6994	Mimi_Shoe
+T27	Property 7003 7007	Soil
+T28	Element 7077 7079	Fe
+T29	Property 7336 7343	spectra
+T30	Mineral 7785 7792	olivine
+T31	Property 7800 7807	spectra
+T32	Target 5993 6001	Mazatzal
+T33	Target 7013 7021	Mazatzal
+R0	Contains Arg1:T32 Arg2:T21
+R2	Contains Arg1:T33 Arg2:T28
+R3	HasProperty Arg1:T32 Arg2:T20
+R4	HasProperty Arg1:T26 Arg2:T24
+R5	HasProperty Arg1:T26 Arg2:T25
+R7	HasProperty Arg1:T33 Arg2:T24
+R8	HasProperty Arg1:T33 Arg2:T25
+T34	Target 2177 2186	Mimi_Shoe
+R1	Contains Arg1:T26 Arg2:T28	

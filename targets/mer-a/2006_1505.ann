@@ -1,0 +1,139 @@
+T1	Property 978 982	Rock
+T2	Element 1201 1203	Mg
+T3	Element 1205 1207	Cr
+T4	Element 1221 1223	Ni
+T5	Element 1262 1264	Al
+T6	Element 1266 1268	Ca
+T7	Element 1270 1272	Ti
+T8	Element 1286 1287	P
+T9	Element 1445 1448	Fe3
+T10	Element 1456 1458	Fe
+T11	Mineral 1492 1503	plagioclase
+T12	Mineral 1531 1538	olivine
+T13	Mineral 1546 1554	pyroxene
+T14	Mineral 1609 1616	olivine
+T15	Mineral 1624 1632	pyroxene
+T16	Property 1640 1644	rock
+T17	Element 1662 1664	Fe
+T18	Property 2600 2604	rock
+T19	Property 2662 2667	rinds
+T20	Element 2769 2770	C
+T21	Element 2798 2800	Ti
+T22	Element 2808 2810	Al
+T23	Element 2811 2813	Ca
+T24	Element 2814 2816	Ti
+T25	Element 2879 2881	Mg
+T26	Element 2905 2907	Cr
+T27	Element 2915 2917	Mg
+T28	Element 2918 2920	Cr
+T29	Element 2923 2924	S
+T30	Element 2960 2962	Mg
+T31	Element 2967 2969	Cr
+T32	Element 3005 3007	Al
+T33	Element 3009 3011	Ca
+T34	Element 3016 3018	Ti
+T35	Property 3431 3435	dust
+T36	Property 3436 3444	coatings
+T37	Property 3509 3513	dust
+T38	Property 3514 3522	coatings
+T39	Property 3644 3648	dust
+T40	Element 3687 3689	Na
+T41	Element 3691 3693	Al
+T42	Element 3695 3696	P
+T43	Element 3698 3699	K
+T44	Element 3701 3703	Ca
+T45	Element 3708 3710	Ti
+T46	Element 3736 3738	Mg
+T47	Element 3879 3880	S
+T48	Element 3963 3964	S
+T49	Property 3994 3998	dust
+T50	Element 4067 4068	S
+T51	Property 4115 4119	dust
+T52	Property 4120 4127	coating
+T53	Property 4142 4147	rinds
+T54	Property 4274 4278	dust
+T55	Property 4496 4500	dust
+T56	Mineral 4659 4666	olivine
+T57	Element 4803 4805	Mg
+T58	Element 4807 4809	Cr
+T59	Element 4814 4816	Ni
+T60	Element 5079 5081	Ni
+T61	Element 5094 5096	Mg
+T62	Mineral 5189 5196	olivine
+T63	Property 5202 5207	mafic
+T64	Property 5398 5403	mafic
+T65	Property 5403 5404	-
+T66	Property 5404 5414	ultramafic
+T67	Property 5415 5419	rock
+T68	Property 5434 5438	soil
+T69	Element 5630 5632	Ni
+T70	Property 5665 5669	rock
+T71	Property 5804 5815	composition
+T72	Element 5839 5841	Ni
+T73	Property 5948 5952	rock
+T74	Element 6087 6089	Mg
+T75	Element 6110 6112	Ni
+T76	Element 6262 6264	Mg
+T77	Element 6269 6271	Ni
+T78	Element 6323 6325	Mg
+T79	Element 6432 6434	Ni
+T80	Mineral 6697 6707	pyrrhotite
+T81	Element 6753 6755	Ni
+T82	Property 6851 6855	rock
+T83	Mineral 6882 6889	olivine
+T84	Element 6951 6953	Mg
+T85	Element 6960 6962	Cr
+T86	Element 7058 7060	Mg
+T87	Element 7067 7069	Ni
+T88	Element 7091 7093	Cr
+T89	Element 7098 7100	Mg
+T90	Element 7105 7107	Ni
+T91	Element 7112 7114	Mg
+T92	Mineral 7347 7354	olivine
+T93	Mineral 7397 7404	olivine
+T94	Property 7785 7789	Rock
+T95	Target 924 932	Seminole
+T96	Target 934 943	Algonquin
+T97	Target 948 956	Comanche
+T98	Target 1565 1573	Comanche
+T99	Target 1581 1589	Palomino
+T100	Target 1733 1741	Comanche
+T101	Target 3068 3076	Seminole
+T102	Target 3078 3087	Algonquin
+T103	Target 3089 3097	Comanche
+T104	Target 3594 3603	Algonquin
+T105	Target 3611 3618	Iroquet
+T106	Target 3813 3821	Comanche
+T107	Target 3829 3838	Horseback
+T108	Target 3864 3872	Palomino
+T109	Target 4389 4398	Algonquin
+T110	Target 4406 4413	Iroquet
+T111	Target 4633 4641	Comanche
+T112	Target 4945 4954	Algonquin
+T113	Target 5036 5045	Algonquin
+T114	Target 6971 6980	Algonquin
+T115	Target 7001 7011	Adirondack
+T116	Target 7133 7142	Algonquin
+T117	Target 7244 7254	Adirondack
+R3	Contains Arg1:T98 Arg2:T14
+R4	Contains Arg1:T98 Arg2:T15
+R8	Contains Arg1:T99 Arg2:T14
+R9	Contains Arg1:T99 Arg2:T15
+R10	Contains Arg1:T100 Arg2:T17
+R26	Contains Arg1:T111 Arg2:T56
+R27	Contains Arg1:T113 Arg2:T60
+R28	Contains Arg1:T113 Arg2:T61
+R45	HasProperty Arg1:T100 Arg2:T16
+T118	Target 909 922	Larry's Bench
+T119	Target 1033 1046	Larry's Bench
+T120	Mineral 1504 1514	orthoclase
+T121	Target 1709 1722	Larry's Bench
+R1	Contains Arg1:T121 Arg2:T17	
+T122	Target 3053 3066	Larry's Bench
+R2	Contains Arg1:T104 Arg2:T46	
+R5	Contains Arg1:T105 Arg2:T46	
+R6	Contains Arg1:T107 Arg2:T48	
+R7	Contains Arg1:T108 Arg2:T48	
+R11	Contains Arg1:T106 Arg2:T48	
+T123	Target 4616 4629	Larry's Bench
+R12	Contains Arg1:T123 Arg2:T56	

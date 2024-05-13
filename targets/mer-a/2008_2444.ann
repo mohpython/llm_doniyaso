@@ -1,0 +1,211 @@
+T1	Mineral 1101 1109	hematite
+T2	Target 1181 1187	Halley
+T3	Property 1741 1747	clasts
+T4	Property 1828 1834	layers
+T5	Target 1884 1890	Halley
+T6	Property 1975 1980	platy
+T7	Mineral 2102 2110	hematite
+T8	Property 2155 2162	spectra
+T9	Target 2177 2195	Enderbyland_Halley
+T10	Property 2346 2350	soil
+T11	Property 2501 2505	Rock
+T12	Element 2575 2579	iron
+T13	Mineral 2589 2597	hematite
+T14	Mineral 2607 2616	magnetite
+T15	Mineral 2657 2665	pyroxene
+T16	Mineral 2678 2685	olivine
+T17	Mineral 2892 2899	olivine
+T18	Property 2950 2958	basaltic
+T19	Property 2959 2963	soil
+T20	Property 2982 2987	sharp
+T21	Property 3016 3023	spectra
+T22	Property 3053 3057	soil
+T23	Mineral 3098 3107	Magnetite
+T24	Element 3126 3130	iron
+T25	Element 3355 3359	iron
+T26	Mineral 3363 3371	pyroxene
+T27	Property 3407 3411	soil
+T28	Element 3438 3442	iron
+T29	Mineral 3446 3454	hematite
+T30	Mineral 3468 3476	hematite
+T31	Property 3492 3496	rock
+T32	Element 3734 3735	K
+T33	Element 3751 3752	P
+T34	Element 3754 3756	Cl
+T35	Element 3758 3760	Zn
+T36	Element 3765 3767	Br
+T37	Element 3786 3788	Ca
+T38	Element 3793 3794	S
+T39	Element 3890 3891	K
+T40	Element 4019 4021	Mn
+T41	Element 4174 4176	Ca
+T42	Element 4181 4182	S
+T45	Mineral 4223 4234	Ca-sulfates
+T46	Element 4242 4244	Zn
+T47	Element 4249 4251	Cl
+T48	Mineral 4531 4539	Hematite
+T49	Mineral 4691 4699	hematite
+T50	Element 4719 4721	Fe
+T51	Element 4748 4750	Fe
+T52	Mineral 4795 4803	hematite
+T53	Element 4889 4891	Fe
+T54	Element 4924 4926	Fe
+T55	Element 5250 5252	Zn
+T56	Element 5273 5274	K
+T57	Element 5285 5287	Mn
+T58	Property 5641 5647	layers
+T59	Property 6091 6097	clasts
+T60	Target 677 687	Home Plate
+T61	Target 873 883	Home Plate
+T62	Target 1009 1019	Home Plate
+T63	Target 1148 1158	Home Plate
+T64	Target 1260 1268	Montalva
+T65	Target 1273 1281	Riquelme
+T66	Target 1289 1294	Troll
+T67	Target 1495 1503	Riquelme
+T68	Target 1548 1556	Montalva
+T69	Target 1561 1567	Halley
+T70	Target 1604 1610	Halley
+T71	Target 1617 1625	Montalva
+T72	Target 1643 1649	Halley
+T73	Target 1654 1662	Montalva
+T74	Target 1713 1721	Riquelme
+T75	Target 2240 2254	Winter Haven 2
+T76	Target 2291 2301	Home Plate
+T77	Target 2764 2778	Winter Haven 2
+T78	Target 3199 3205	Halley
+T79	Target 3288 3293	Troll
+T80	Target 3303 3311	Riquelme
+T81	Target 3413 3421	Montalva
+T82	Target 3555 3563	Montalva
+T83	Target 3594 3600	Halley
+T84	Target 3663 3671	Montalva
+T85	Target 3819 3827	Riquelme
+T86	Target 3840 3846	Halley
+T87	Target 3852 3860	Montalva
+T88	Target 3955 3961	Halley
+T89	Target 3994 4002	Riquelme
+T90	Target 4056 4062	Halley
+T91	Target 4286 4292	Halley
+T92	Target 4393 4403	Home Plate
+T93	Target 4950 4956	Halley
+T94	Target 5101 5111	Home Plate
+T95	Target 5234 5240	Halley
+T96	Target 5255 5263	Montalva
+T97	Target 5489 5495	Halley
+T98	Target 5602 5610	Montalva
+T99	Target 6065 6073	Riquelme
+T100	Target 6225 6230	Kobal
+R1	Contains Arg1:T9 Arg2:T7
+R2	Contains Arg1:T75 Arg2:T7
+R4	Contains Arg1:T78 Arg2:T24
+R5	Contains Arg1:T78 Arg2:T23
+R6	Contains Arg1:T79 Arg2:T25
+R7	Contains Arg1:T80 Arg2:T25
+R8	Contains Arg1:T79 Arg2:T26
+R9	Contains Arg1:T80 Arg2:T26
+R10	Contains Arg1:T81 Arg2:T28
+R11	Contains Arg1:T81 Arg2:T29
+R12	Contains Arg1:T81 Arg2:T30
+R13	Contains Arg1:T85 Arg2:T32
+R14	Contains Arg1:T85 Arg2:T33
+R15	Contains Arg1:T85 Arg2:T34
+R16	Contains Arg1:T85 Arg2:T35
+R17	Contains Arg1:T85 Arg2:T36
+R18	Contains Arg1:T85 Arg2:T37
+R19	Contains Arg1:T85 Arg2:T38
+R20	Contains Arg1:T86 Arg2:T32
+R21	Contains Arg1:T86 Arg2:T33
+R22	Contains Arg1:T86 Arg2:T34
+R23	Contains Arg1:T86 Arg2:T35
+R24	Contains Arg1:T86 Arg2:T36
+R25	Contains Arg1:T86 Arg2:T37
+R26	Contains Arg1:T86 Arg2:T38
+R27	Contains Arg1:T87 Arg2:T39
+R28	Contains Arg1:T87 Arg2:T40
+R30	Contains Arg1:T88 Arg2:T40
+R32	Contains Arg1:T89 Arg2:T40
+R33	Contains Arg1:T90 Arg2:T41
+R34	Contains Arg1:T90 Arg2:T42
+R37	Contains Arg1:T90 Arg2:T45
+R38	Contains Arg1:T91 Arg2:T46
+R39	Contains Arg1:T91 Arg2:T47
+R41	Contains Arg1:T93 Arg2:T54
+R43	Contains Arg1:T95 Arg2:T55
+R47	Contains Arg1:T96 Arg2:T56
+R48	Contains Arg1:T96 Arg2:T57
+R51	HasProperty Arg1:T74 Arg2:T3
+R52	HasProperty Arg1:T9 Arg2:T8
+R57	HasProperty Arg1:T81 Arg2:T31
+R60	HasProperty Arg1:T99 Arg2:T59
+T101	Target 716 727	Inner Basin
+T102	Property 1028 1051	hydrothermal alteration
+R61	HasProperty Arg1:T62 Arg2:T102	
+T103	Target 1200 1216	KingGeorgeIsland
+T104	Target 1224 1234	GrahamLand
+T105	Target 1474 1490	KingGeorgeIsland
+T106	Property 1670 1682	fine-grained
+R62	HasProperty Arg1:T73 Arg2:T106	
+R63	HasProperty Arg1:T72 Arg2:T106	
+T107	Target 1692 1708	KingGeorgeIsland
+R49	HasProperty Arg1:T107 Arg2:T3	
+T108	Property 1758 1765	lapilli
+R50	HasProperty Arg1:T107 Arg2:T108	
+R64	HasProperty Arg1:T74 Arg2:T108	
+T109	Property 1941 1949	outcrops
+R65	HasProperty Arg1:T5 Arg2:T109	
+T110	Target 2267 2276	Low Ridge
+R3	Contains Arg1:T110 Arg2:T7	
+R53	Contains Arg1:T9 Arg2:T13	
+R54	Contains Arg1:T9 Arg2:T12	
+R66	Contains Arg1:T9 Arg2:T14	
+T111	Mineral 2625 2648	nanophase ferric oxides
+R67	Contains Arg1:T9 Arg2:T111	
+R68	Contains Arg1:T9 Arg2:T15	
+R69	Contains Arg1:T9 Arg2:T16	
+T112	Target 2791 2800	Low Ridge
+T113	Mineral 3116 3136	nanophase iron oxide
+R70	Contains Arg1:T78 Arg2:T113	
+T114	Target 3229 3239	KingGeorge
+T115	Target 3247 3257	GrahamLand
+T116	Mineral 3322 3330	hematite
+R71	Contains Arg1:T114 Arg2:T116	
+R72	Contains Arg1:T80 Arg2:T116	
+R73	Contains Arg1:T79 Arg2:T116	
+R74	Contains Arg1:T115 Arg2:T116	
+R75	Contains Arg1:T114 Arg2:T25	
+R76	Contains Arg1:T114 Arg2:T26	
+R55	Contains Arg1:T115 Arg2:T25	
+R56	Contains Arg1:T115 Arg2:T26	
+T117	Target 3641 3651	KingGeorge
+T118	Element 3602 3604	Fe
+R77	Contains Arg1:T117 Arg2:T118	
+R78	Contains Arg1:T84 Arg2:T118	
+T119	Target 3798 3814	KingGeorgeIsland
+R79	Contains Arg1:T119 Arg2:T32	
+R80	Contains Arg1:T119 Arg2:T33	
+R81	Contains Arg1:T119 Arg2:T34	
+R82	Contains Arg1:T119 Arg2:T35	
+R83	Contains Arg1:T119 Arg2:T36	
+R84	Contains Arg1:T119 Arg2:T37	
+R85	Contains Arg1:T119 Arg2:T38	
+T120	Target 3973 3989	KingGeorgeIsland
+R29	Contains Arg1:T120 Arg2:T40	
+T43	Target 5294 5311	KingeGeorgeIsland
+T44	Target 5312 5320	Riquelme
+T121	Target 5615 5631	KingGoergeIsland
+T122	Target 5632 5640	Montalva
+R31	HasProperty Arg1:T121 Arg2:T58	
+R35	HasProperty Arg1:T122 Arg2:T58	
+R36	HasProperty Arg1:T98 Arg2:T58	
+T123	Target 5651 5659	LowRidge
+R40	HasProperty Arg1:T123 Arg2:T58	
+T124	Property 6108 6115	lapilli
+R42	HasProperty Arg1:T99 Arg2:T124	
+T125	Property 6217 6224	outcrop
+T126	Property 6209 6216	Nodular
+R44	HasProperty Arg1:T100 Arg2:T125	
+R45	HasProperty Arg1:T100 Arg2:T126	
+T127	Element 6246 6248	Si
+R46	Contains Arg1:T100 Arg2:T127	
+T128	Target 57 67	HOME PLATE

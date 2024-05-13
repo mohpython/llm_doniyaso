@@ -1,0 +1,191 @@
+T1	Property 808 816	basaltic
+T2	Property 817 821	rock
+T3	Property 833 844	composition
+T4	Property 957 961	rock
+T5	Target-MERB 968 984	Marquette Island
+T6	Property 1024 1029	mafic
+T7	Property 1293 1297	rock
+T8	Property 1817 1824	angular
+T9	Property 1978 1989	sedimentary
+T10	Property 2273 2279	facets
+T11	Property 2327 2331	rock
+T12	Property 2441 2447	facets
+T13	Property 2565 2569	rock
+T14	Property 2665 2672	igneous
+T15	Property 2945 2949	Dust
+T16	Element 3196 3207	ironbearing
+T17	Mineral 3221 3228	olivine
+T18	Mineral 3233 3241	pyroxene
+T19	Property 3262 3266	rock
+T20	Element 3267 3269	Fe
+T21	Mineral 3286 3293	olivine
+T22	Property 3361 3365	rock
+T23	Element 3366 3368	Fe
+T24	Mineral 3445 3454	magnetite
+T25	Mineral 3456 3465	maghemite
+T26	Mineral 3469 3477	hematite
+T27	Mineral 3576 3583	olivine
+T28	Mineral 3608 3616	pyroxene
+T29	Property 3760 3764	dust
+T30	Property 3849 3860	composition
+T31	Target-MERB 4012 4028	Marquette Island
+T32	Element 4040 4042	Mg
+T33	Element 4043 4045	Si
+T34	Element 4047 4049	Al
+T35	Element 4049 4050	/
+T36	Element 4050 4052	Si
+T37	Element 4063 4065	Ca
+T38	Element 4065 4066	/
+T39	Element 4066 4068	Si
+T40	Property 4092 4096	Rock
+T41	Property 4111 4118	cobbles
+T42	Element 4258 4260	Mg
+T43	Element 4262 4264	Cr
+T44	Element 4269 4271	Ni
+T45	Element 4287 4289	Al
+T46	Element 4294 4296	Ca
+T47	Property 4348 4355	cobbles
+T48	Property 4480 4487	cobbles
+T49	Property 4576 4580	soil
+T50	Element 4808 4810	Mg
+T51	Element 4811 4813	Si
+T52	Element 4815 4817	Al
+T54	Element 4818 4820	Si
+T55	Element 4831 4833	Ca
+T57	Element 4834 4836	Si
+T58	Property 4905 4916	composition
+T59	Element 4954 4956	Si
+T60	Element 4962 4964	Al
+T61	Element 4964 4965	/
+T62	Element 4965 4967	Si
+T63	Element 4992 4994	Ca
+T64	Element 4994 4995	/
+T65	Element 4995 4997	Si
+T66	Property 5030 5041	composition
+T67	Property 5112 5120	basaltic
+T68	Element 5186 5188	Pu
+T69	Property 5247 5255	basaltic
+T70	Element 5400 5401	H
+T71	Element 5403 5404	O
+T72	Property 5533 5537	rock
+T73	Property 5698 5705	cobbles
+T74	Target-MERB 5714 5723	Barberton
+T75	Element 5827 5829	Ni
+T76	Element 5830 5832	Si
+T77	Mineral 5845 5853	kamacite
+T78	Mineral 5857 5865	troilite
+T79	Property 5961 5966	mafic
+T80	Property 5970 5981	composition
+T81	Property 6054 6061	igneous
+T82	Property 6277 6284	spectra
+T83	Element 6299 6301	Fe
+T84	Mineral 6329 6336	olivine
+T85	Mineral 6354 6362	pyroxene
+T86	Property 6372 6379	spectra
+T87	Mineral 6517 6524	olivine
+T88	Element 6604 6606	Fe
+T89	Property 6723 6734	composition
+T90	Element 6745 6747	Ca
+T91	Element 6748 6750	Si
+T92	Target-MERB 6913 6929	Marquette Island
+T93	Property 6948 6952	rock
+T94	Property 6974 6979	mafic
+T95	Property 6980 6987	igneous
+T96	Property 7006 7010	Rock
+T97	Property 7217 7221	Rock
+T98	Property 7269 7276	igneous
+T99	Property 7300 7304	Rock
+T100	Element 7357 7359	Mg
+T101	Element 7361 7363	Mg
+T102	Element 7364 7366	Fe
+T103	Element 7369 7371	Mg
+T104	Element 7371 7372	/
+T105	Element 7372 7374	Si
+T106	Element 7376 7378	Cr
+T107	Element 7378 7379	/
+T108	Element 7379 7381	Si
+T109	Element 7386 7388	Ni
+T110	Element 7388 7389	/
+T111	Element 7389 7391	Si
+T112	Element 7404 7406	Ca
+T113	Element 7406 7407	/
+T114	Element 7407 7409	Si
+T115	Element 7512 7514	Al
+T116	Property 7594 7599	mafic
+T117	Property 7678 7682	rock
+T118	Element 7691 7693	Na
+T119	Element 7694 7696	Mg
+T120	Element 7697 7699	Al
+T121	Element 7700 7702	Si
+T122	Element 7703 7704	P
+T123	Element 7707 7709	Cl
+T124	Element 7710 7711	K
+T125	Element 7712 7714	Ca
+T126	Element 7715 7717	Ti
+T127	Element 7718 7720	Cr
+T128	Element 7721 7723	Mn
+T129	Element 7724 7726	Fe
+T130	Element 7727 7729	Ni
+T131	Element 7761 7762	S
+T132	Property 7820 7824	Rock
+T133	Property 7832 7839	cobbles
+T134	Property 7849 7856	cobbles
+T135	Element 7857 7859	Ni
+T136	Element 7866 7868	Na
+T137	Element 7869 7871	Mg
+T138	Element 7872 7874	Al
+T139	Element 7875 7877	Si
+T140	Element 7878 7879	P
+T141	Element 7882 7884	Cl
+T142	Element 7885 7886	K
+T143	Element 7887 7889	Ca
+T144	Element 7890 7892	Ti
+T145	Element 7893 7895	Cr
+T146	Element 7896 7898	Mn
+T147	Element 7899 7901	Fe
+T148	Element 7902 7904	Ni
+T149	Element 7936 7937	S
+T150	Element 8061 8063	Si
+T151	Target-MERB 8075 8091	Marquette Island
+T152	Property 8268 8279	composition
+T153	Target 2124 2132	Seminole
+T154	Target 4710 4720	Adirondack
+T155	Target 5076 5086	Adirondack
+T156	Target 6227 6237	Adirondack
+T157	Target 6650 6660	Adirondack
+T158	Target 6843 6853	Adirondack
+T159	Target 7988 7998	Adirondack
+T160	Target 8005 8015	Adirondack
+T161	Target 8024 8034	Adirondack
+T162	Target 8163 8173	Adirondack
+R0	Contains Arg1:T31 Arg2:T32
+R1	Contains Arg1:T31 Arg2:T33
+R2	Contains Arg1:T31 Arg2:T34
+R3	Contains Arg1:T31 Arg2:T35
+R4	Contains Arg1:T31 Arg2:T36
+R5	Contains Arg1:T31 Arg2:T37
+R6	Contains Arg1:T31 Arg2:T38
+R7	Contains Arg1:T31 Arg2:T39
+R8	Contains Arg1:T154 Arg2:T50
+R9	Contains Arg1:T154 Arg2:T51
+R10	Contains Arg1:T154 Arg2:T52
+R12	Contains Arg1:T154 Arg2:T54
+R13	Contains Arg1:T154 Arg2:T55
+R15	Contains Arg1:T154 Arg2:T57
+R17	Contains Arg1:T158 Arg2:T90
+R18	Contains Arg1:T158 Arg2:T91
+R108	HasProperty Arg1:T5 Arg2:T4
+R109	HasProperty Arg1:T5 Arg2:T6
+R110	HasProperty Arg1:T31 Arg2:T40
+R114	HasProperty Arg1:T74 Arg2:T73
+R116	HasProperty Arg1:T92 Arg2:T93
+R117	HasProperty Arg1:T92 Arg2:T94
+R118	HasProperty Arg1:T92 Arg2:T95
+T163	Property 4727 4734	basalts
+R19	HasProperty Arg1:T154 Arg2:T163	
+T53	Property 6244 6251	basalts
+R11	HasProperty Arg1:T156 Arg2:T53	
+T56	Property 6667 6674	basalts
+R14	HasProperty Arg1:T157 Arg2:T56	
+T164	Property 8180 8187	basalts
+R16	HasProperty Arg1:T162 Arg2:T164	

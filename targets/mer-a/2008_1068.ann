@@ -1,0 +1,254 @@
+T1	Property 1534 1545	composition
+T2	Element 1592 1598	sulfur
+T3	Element 1643 1644	P
+T4	Element 1649 1651	Ti
+T5	Property 1684 1695	composition
+T6	Element 1732 1733	S
+T7	Property 1824 1835	composition
+T8	Mineral 1983 1991	goethite
+T9	Mineral 2003 2010	sulfate
+T10	Property 2195 2203	basaltic
+T11	Property 2537 2541	rock
+T12	Property 2546 2550	soil
+T13	Property 2625 2629	rock
+T14	Property 2634 2638	soil
+T15	Element 3049 3058	Germanium
+T16	Property 3225 3229	soil
+T17	Element 3343 3345	Fe
+T18	Element 3468 3470	Fe
+T19	Element 3536 3538	Fe
+T20	Element 3543 3545	Mn
+T21	Property 3576 3583	igneous
+T22	Element 3642 3644	Zn
+T23	Element 3646 3648	Cl
+T24	Element 3654 3656	Ge
+T25	Element 3682 3684	Si
+T26	Element 3689 3691	Ti
+T27	Property 3692 3696	rock
+T28	Element 3721 3723	Si
+T29	Element 3725 3727	Ni
+T30	Element 3733 3735	Zn
+T31	Element 3815 3816	K
+T32	Property 3832 3836	rock
+T33	Element 3853 3855	Mg
+T34	Property 3872 3876	rock
+T35	Element 3899 3901	Si
+T36	Element 3907 3909	Mn
+T37	Property 3910 3914	rock
+T38	Element 3935 3936	K
+T39	Element 3938 3940	Zn
+T40	Element 3946 3948	Ni
+T41	Property 3963 3967	rock
+T42	Property 3978 3982	soil
+T43	Element 4048 4050	Si
+T44	Property 4051 4055	soil
+T45	Element 4079 4081	Mg
+T46	Property 4098 4102	soil
+T47	Element 4484 4492	Aluminum
+T48	Element 4740 4741	P
+T49	Property 4842 4846	rock
+T50	Property 4867 4871	soil
+T51	Element 4931 4933	Si
+T52	Element 4938 4940	Ti
+T53	Element 5198 5200	Cl
+T54	Element 5202 5204	Br
+T55	Element 5206 5208	Ge
+T56	Element 5210 5211	K
+T57	Element 5217 5219	Zn
+T58	Element 5541 5542	S
+T59	Property 5755 5759	soil
+T60	Element 5956 5958	Ni
+T61	Property 5969 5976	igneous
+T62	Element 6109 6111	Ni
+T63	Property 6286 6292	clasts
+T64	Element 6457 6459	Ni
+T65	Element 6477 6479	Mg
+T66	Element 6484 6486	Fe
+T67	Element 6562 6564	Ni
+T68	Element 6824 6825	K
+T69	Element 6827 6829	Zn
+T70	Element 6831 6833	Cl
+T71	Element 6839 6841	Ge
+T72	Property 6848 6857	sediments
+T73	Property 7159 7168	sediments
+T74	Element 8038 8047	germanium
+T75	Property 8115 8119	rock
+T76	Element 8147 8156	Germanium
+T77	Element 8298 8300	Ge
+T78	Element 8323 8325	Mg
+T79	Element 8325 8326	/
+T80	Element 8326 8328	Si
+T81	Element 8333 8335	Al
+T82	Element 8335 8336	/
+T83	Element 8336 8338	Si
+T84	Property 8388 8392	rock
+T85	Property 8467 8474	igneous
+T86	Element 8571 8572	P
+T87	Element 8577 8579	Ti
+T88	Element 8690 8691	P
+T89	Element 8691 8692	/
+T90	Element 8692 8694	Ti
+T91	Element 11447 11448	K
+T92	Target 1549 1559	Adirondack
+T93	Target 1602 1608	Clovis
+T94	Target 1613 1618	Peace
+T95	Target 1655 1664	Wishstone
+T96	Target 1737 1748	Paso Robles
+T97	Target 1839 1851	Independence
+T98	Target 3424 3430	Irvine
+T99	Target 3450 3462	Independence
+T100	Target 3481 3490	Descartes
+T101	Target 3511 3523	Independence
+T102	Target 3548 3557	Algonquin
+T103	Target 3595 3603	Barnhill
+T104	Target 3659 3670	Fuzzy Smith
+T105	Target 3699 3714	Elizabeth Mahon
+T106	Target 3757 3763	Halley
+T107	Target 3800 3808	Montalva
+T108	Target 3839 3846	Everett
+T109	Target 3879 3892	Good Question
+T110	Target 3921 3928	Torquas
+T111	Target 4022 4036	Kenosha Comets
+T112	Target 4061 4072	Eileen Dean
+T113	Target 4125 4135	Home Plate
+T114	Target 4507 4519	Independence
+T115	Target 4642 4654	Independence
+T116	Target 4678 4687	Wishstone
+T117	Target 4692 4702	Watchtower
+T118	Target 4847 4858	Fuzzy Smith
+T119	Target 4872 4886	Gertrude Weise
+T120	Target 5144 5154	Home Plate
+T121	Target 5463 5474	Paso Robles
+T122	Target 5488 5492	Arad
+T123	Target 5494 5508	Berkner Island
+T124	Target 5510 5522	Mount Darwin
+T125	Target 6148 6157	Descartes
+T126	Target 6323 6332	Wishstone
+T127	Target 6406 6418	Independence
+T128	Target 6490 6499	Descartes
+T129	Target 6530 6540	Adirondack
+T130	Target 6760 6770	Home Plate
+T131	Target 6879 6889	Home Plate
+T132	Target 7131 7141	Home Plate
+T133	Target 8199 8210	Fuzzy Smith
+R4	Contains Arg1:T93 Arg2:T2
+R8	Contains Arg1:T94 Arg2:T2
+R13	Contains Arg1:T95 Arg2:T3
+R14	Contains Arg1:T95 Arg2:T4
+R19	Contains Arg1:T96 Arg2:T6
+R42	Contains Arg1:T99 Arg2:T18
+R61	Contains Arg1:T100 Arg2:T19
+R62	Contains Arg1:T100 Arg2:T20
+R117	Contains Arg1:T103 Arg2:T22
+R118	Contains Arg1:T103 Arg2:T23
+R119	Contains Arg1:T103 Arg2:T24
+R138	Contains Arg1:T104 Arg2:T25
+R139	Contains Arg1:T104 Arg2:T26
+R158	Contains Arg1:T105 Arg2:T28
+R159	Contains Arg1:T105 Arg2:T29
+R160	Contains Arg1:T105 Arg2:T30
+R197	Contains Arg1:T107 Arg2:T31
+R216	Contains Arg1:T108 Arg2:T33
+R235	Contains Arg1:T109 Arg2:T35
+R236	Contains Arg1:T109 Arg2:T36
+R255	Contains Arg1:T110 Arg2:T38
+R256	Contains Arg1:T110 Arg2:T39
+R257	Contains Arg1:T110 Arg2:T40
+R258	Contains Arg1:T111 Arg2:T43
+R261	Contains Arg1:T112 Arg2:T45
+R264	Contains Arg1:T114 Arg2:T47
+R265	Contains Arg1:T115 Arg2:T48
+R266	Contains Arg1:T116 Arg2:T48
+R267	Contains Arg1:T117 Arg2:T48
+R268	Contains Arg1:T118 Arg2:T51
+R269	Contains Arg1:T118 Arg2:T52
+R270	Contains Arg1:T119 Arg2:T51
+R271	Contains Arg1:T119 Arg2:T52
+R277	Contains Arg1:T128 Arg2:T64
+R278	Contains Arg1:T128 Arg2:T65
+R279	Contains Arg1:T128 Arg2:T66
+R280	Contains Arg1:T128 Arg2:T67
+R281	Contains Arg1:T129 Arg2:T64
+R282	Contains Arg1:T129 Arg2:T65
+R283	Contains Arg1:T129 Arg2:T66
+R289	Contains Arg1:T133 Arg2:T76
+R290	HasProperty Arg1:T92 Arg2:T1
+R307	HasProperty Arg1:T97 Arg2:T7
+R332	HasProperty Arg1:T102 Arg2:T21
+R345	HasProperty Arg1:T104 Arg2:T27
+R364	HasProperty Arg1:T107 Arg2:T32
+R371	HasProperty Arg1:T108 Arg2:T34
+R378	HasProperty Arg1:T109 Arg2:T37
+R385	HasProperty Arg1:T110 Arg2:T41
+R386	HasProperty Arg1:T111 Arg2:T42
+R387	HasProperty Arg1:T111 Arg2:T44
+R389	HasProperty Arg1:T112 Arg2:T42
+R391	HasProperty Arg1:T112 Arg2:T46
+R395	HasProperty Arg1:T118 Arg2:T49
+R398	HasProperty Arg1:T119 Arg2:T50
+R399	HasProperty Arg1:T125 Arg2:T63
+T134	Target 1091 1103	Husband Hill
+T135	Target 1126 1137	Inner Basin
+T136	Mineral 1801 1809	smectite
+R1	Contains Arg1:T97 Arg2:T136	
+T137	Property 1572 1579	basalts
+R2	HasProperty Arg1:T92 Arg2:T137	
+T138	Target 2118 2130	Husband Hill
+T139	Target 2880 2892	Husband Hill
+T140	Target 2911 2922	Inner Basin
+T141	Property 3432 3440	alkaline
+R3	HasProperty Arg1:T98 Arg2:T141	
+T142	Property 3441 3447	basalt
+R5	HasProperty Arg1:T98 Arg2:T142	
+T143	Property 3471 3478	outcrop
+T144	Property 3492 3499	outcrop
+R6	HasProperty Arg1:T100 Arg2:T144	
+T145	Property 3559 3575	mafic-ultramafic
+R7	HasProperty Arg1:T102 Arg2:T145	
+T146	Property 3605 3619	volcaniclastic
+R9	HasProperty Arg1:T103 Arg2:T146	
+T147	Property 3620 3629	sediments
+R10	HasProperty Arg1:T103 Arg2:T147	
+T148	Property 3736 3744	outcrops
+T149	Property 3749 3754	rocks
+T150	Mineral 3765 3773	hematite
+R15	Contains Arg1:T106 Arg2:T150	
+T151	Mineral 3818 3826	hematite
+R11	Contains Arg1:T107 Arg2:T151	
+T152	Mineral 3857 3866	magnetite
+R12	Contains Arg1:T108 Arg2:T152	
+T153	Mineral 3949 3958	magnetite
+R16	Contains Arg1:T110 Arg2:T153	
+T154	Target 3990 4004	Gerturde Weise
+R17	HasProperty Arg1:T154 Arg2:T42	
+T155	Mineral 4083 4092	magnetite
+R18	Contains Arg1:T112 Arg2:T155	
+T156	Target 4256 4268	Husband Hill
+T157	Target 4280 4291	Inner Basin
+T158	Property 4560 4570	weathering
+R20	HasProperty Arg1:T114 Arg2:T158	
+T159	Property 5481 5486	soils
+R21	HasProperty Arg1:T121 Arg2:T159	
+R22	HasProperty Arg1:T122 Arg2:T159	
+R23	HasProperty Arg1:T123 Arg2:T159	
+R24	HasProperty Arg1:T124 Arg2:T159	
+R25	Contains Arg1:T121 Arg2:T58	
+R26	Contains Arg1:T122 Arg2:T58	
+R27	Contains Arg1:T123 Arg2:T58	
+R28	Contains Arg1:T123 Arg2:T58	
+T160	Target 6730 6741	Inner Basin
+T161	Property 8188 8193	float
+R29	HasProperty Arg1:T133 Arg2:T161	
+T162	Target 8347 8359	Husband Hill
+T163	Target 8364 8375	Inner Basin
+T164	Target 8584 8596	Husband Hill
+T165	Target 8601 8612	Inner Basin
+T166	Property 2097 2104	altered
+R30	HasProperty Arg1:T138 Arg2:T166	
+T167	Target 104 114	HOME PLATE
+T168	Target 84 100	CUMBERLAND RIDGE
+R31	Contains Arg1:T120 Arg2:T53	
+R32	Contains Arg1:T120 Arg2:T54	
+R33	Contains Arg1:T120 Arg2:T55	
+R34	Contains Arg1:T120 Arg2:T56	
+R35	Contains Arg1:T120 Arg2:T57	

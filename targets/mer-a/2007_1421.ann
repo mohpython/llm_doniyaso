@@ -1,0 +1,62 @@
+T1	Property 973 977	soil
+T2	Property 1058 1062	Soil
+T3	Property 1086 1091	rough
+T4	Property 1513 1517	soil
+T5	Property 1737 1745	cohesion
+T6	Property 1770 1774	dust
+T7	Property 1808 1812	soil
+T8	Property 2143 2147	sand
+T9	Property 2156 2160	fine
+T10	Property 2212 2216	fine
+T11	Property 2217 2221	sand
+T12	Property 2294 2298	Rock
+T13	Property 2344 2352	coatings
+T14	Property 2479 2487	coatings
+T15	Property 2635 2643	basaltic
+T16	Property 2929 2933	rock
+T17	Property 3011 3022	composition
+T18	Property 3086 3090	rock
+T19	Property 3270 3276	clasts
+T20	Property 3949 3953	soil
+T21	Property 4173 4177	Rock
+T22	Property 4214 4221	rounded
+T23	Property 4437 4445	cohesion
+T24	Property 4514 4518	soil
+T25	Property 4676 4680	fine
+T26	Property 4681 4685	sand
+T27	Property 4701 4709	cohesion
+T28	Property 4811 4815	soil
+T29	Property 4968 4973	crust
+T30	Property 4997 5002	crust
+T31	Property 5177 5184	spectra
+T32	Property 5329 5333	soil
+T33	Property 5358 5362	dust
+T34	Property 5430 5434	soil
+T35	Property 5482 5486	soil
+T36	Property 5711 5715	soil
+T37	Property 5785 5789	soil
+T38	Property 5823 5834	sedimentary
+T39	Property 6094 6101	rounded
+T40	Property 6133 6137	sand
+T41	Mineral 6202 6210	sulfates
+T42	Property 6294 6298	fine
+T43	Mineral 6526 6533	sulfate
+T44	Property 6781 6792	finegrained
+T45	Mineral 6914 6921	sulfate
+T46	Property 7084 7093	sediments
+T47	Property 7150 7154	rock
+T48	Property 7183 7187	Rock
+T49	Property 7401 7410	prismatic
+T50	Mineral 7594 7603	evaporite
+T51	Target 3501 3511	Home Plate
+T52	Target 3709 3719	Home Plate
+T53	Target 4144 4154	Home Plate
+T54	Target 2935 2946	Pot o' Gold
+R1	HasProperty Arg1:T54 Arg2:T16	
+T55	Property 2967 2974	nodules
+R2	HasProperty Arg1:T54 Arg2:T55	
+T56	Property 3518 3526	granules
+R3	HasProperty Arg1:T51 Arg2:T56	
+T57	Target 3983 3992	Low Ridge
+T58	Property 3736 3744	volcanic
+R4	HasProperty Arg1:T52 Arg2:T58	

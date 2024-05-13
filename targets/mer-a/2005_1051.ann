@@ -1,0 +1,37 @@
+T1	Property 450 454	pits
+T2	Property 465 471	trench
+T3	Property 516 522	trench
+T4	Property 523 527	pits
+T5	Property 621 627	trench
+T6	Property 1235 1239	pits
+T7	Property 1386 1390	rock
+T8	Property 1482 1486	rock
+T9	Property 1487 1498	composition
+T10	Mineral 1511 1519	jarosite
+T11	Property 1605 1611	layers
+T12	Property 1880 1885	brine
+T13	Mineral 1901 1909	jarosite
+T14	Property 3288 3293	brine
+T15	Property 3314 3319	brine
+T16	Property 3329 3333	rock
+T17	Property 3575 3581	trench
+T18	Property 3725 3736	sedimentary
+T19	Property 4276 4282	trench
+T20	Property 5462 5465	Ice
+T21	Property 8279 8285	trench
+T22	Property 8530 8536	trench
+T23	Property 8544 8550	impact
+T24	Property 8551 8557	crater
+T25	Target-MERB 502 510	Anatolia
+T26	Target-MERB 531 539	Anatolia
+T27	Target-MERB 639 647	Anatolia
+T28	Target-MERB 3863 3871	Anatolia
+T29	Target-MERB 4404 4412	Anatolia
+T30	Target-MERB 8270 8278	Anatolia
+R0	HasProperty Arg1:T26 Arg2:T3
+R1	HasProperty Arg1:T26 Arg2:T4
+R2	HasProperty Arg1:T26 Arg2:T5
+R3	HasProperty Arg1:T27 Arg2:T3
+R4	HasProperty Arg1:T27 Arg2:T4
+R5	HasProperty Arg1:T27 Arg2:T5
+R6	HasProperty Arg1:T30 Arg2:T21

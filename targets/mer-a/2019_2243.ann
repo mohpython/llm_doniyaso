@@ -1,0 +1,215 @@
+T1	Property 666 673	igneous
+T2	Property 776 780	rock
+T3	Property 825 832	igneous
+T4	Property 860 864	dust
+T5	Property 892 900	coatings
+T6	Property 1025 1029	rock
+T7	Mineral 1097 1106	mugearite
+T8	Property 1163 1174	composition
+T9	Property 1296 1307	composition
+T10	Property 1456 1465	sediments
+T11	Property 1570 1574	dust
+T12	Property 1742 1746	dust
+T13	Property 1776 1780	dust
+T14	Element 1880 1881	S
+T15	Element 1886 1888	Cl
+T16	Property 1902 1906	dust
+T17	Property 1927 1931	rock
+T18	Property 2022 2026	dust
+T19	Property 2244 2248	rock
+T20	Element 2270 2272	Cl
+T21	Property 2454 2458	soil
+T22	Property 2487 2491	dust
+T23	Property 2517 2521	rind
+T24	Property 2582 2586	dust
+T25	Element 2600 2601	S
+T26	Element 2603 2605	Cl
+T27	Element 2610 2612	Zn
+T28	Property 2708 2712	rock
+T29	Property 2773 2784	composition
+T30	Element 2805 2806	S
+T31	Element 2808 2810	Cl
+T32	Element 2898 2900	Fe
+T33	Element 2900 2901	/
+T34	Element 2901 2903	Mn
+T35	Property 2929 2933	soil
+T36	Property 2977 2982	crust
+T37	Element 3038 3040	Zn
+T38	Element 3042 3044	Ni
+T39	Element 3046 3048	Br
+T40	Element 3053 3055	Ge
+T41	Property 3145 3149	rind
+T42	Property 3187 3191	rock
+T43	Property 3220 3225	mafic
+T44	Mineral 3238 3245	olivine
+T45	Property 3330 3334	soil
+T46	Element 3365 3366	S
+T47	Element 3368 3370	Cl
+T48	Element 3372 3374	Ni
+T49	Element 3379 3381	Zn
+T50	Element 3454 3455	K
+T51	Property 3524 3531	igneous
+T52	Element 3558 3559	P
+T53	Element 3564 3566	Ti
+T54	Property 3650 3657	Igneous
+T55	Element 3681 3683	Na
+T56	Element 3684 3686	Mg
+T57	Element 3687 3689	Al
+T58	Element 3690 3692	Si
+T59	Element 3693 3694	P
+T60	Element 3697 3699	Cl
+T61	Element 3700 3701	K
+T62	Element 3702 3704	Ca
+T63	Element 3705 3707	Ti
+T64	Element 3708 3710	Cr
+T65	Element 3711 3713	Mn
+T66	Element 3714 3716	Fe
+T67	Element 3717 3719	Ni
+T68	Element 3720 3722	Zn
+T69	Element 3723 3725	Br
+T70	Element 3813 3815	Na
+T71	Element 3816 3818	Mg
+T72	Element 3819 3821	Al
+T73	Element 3822 3824	Si
+T74	Element 3825 3826	P
+T75	Element 3829 3831	Cl
+T76	Element 3832 3833	K
+T77	Element 3834 3836	Ca
+T78	Element 3837 3839	Ti
+T79	Element 3840 3842	Cr
+T80	Element 3843 3845	Mn
+T81	Element 3846 3848	Fe
+T82	Element 3849 3851	Ni
+T83	Element 3852 3854	Zn
+T84	Element 3855 3857	Br
+T85	Element 3975 3977	Na
+T86	Element 3978 3980	Mg
+T87	Element 3981 3983	Al
+T88	Element 3984 3986	Si
+T89	Element 3987 3988	P
+T90	Element 3991 3993	Cl
+T91	Element 3994 3995	K
+T92	Element 3996 3998	Ca
+T93	Element 3999 4001	Ti
+T94	Element 4002 4004	Cr
+T95	Element 4005 4007	Mn
+T96	Element 4008 4010	Fe
+T97	Element 4011 4013	Ni
+T98	Element 4014 4016	Zn
+T99	Element 4017 4019	Br
+T100	Property 4280 4287	igneous
+T101	Element 4314 4316	Fe
+T102	Element 4316 4317	/
+T103	Element 4317 4319	Mn
+T104	Property 4378 4385	Igneous
+T105	Property 4545 4552	igneous
+T106	Property 4567 4571	Rock
+T107	Property 4742 4746	soil
+T108	Element 4766 4768	Ni
+T109	Element 4773 4775	Fe
+T110	Element 4775 4776	/
+T111	Element 4776 4778	Mn
+T112	Element 5082 5084	Fe
+T113	Element 5084 5085	/
+T114	Element 5085 5087	Mn
+T115	Element 5166 5168	Ni
+T116	Property 5189 5194	mafic
+T117	Element 5233 5235	Ni
+T118	Mineral 5261 5268	Olivine
+T119	Property 5269 5280	composition
+T120	Property 5296 5305	andesitic
+T121	Property 5433 5438	Sharp
+T122	Element 5738 5740	Al
+T123	Element 5745 5747	Ca
+T124	Property 5767 5771	Rock
+T125	Element 5798 5799	K
+T126	Element 5812 5814	Ca
+T127	Element 5839 5841	Fe
+T128	Element 5850 5852	Ni
+T129	Element 5854 5856	Zn
+T130	Element 5928 5929	K
+T131	Element 5934 5936	Zn
+T132	Property 5982 5989	igneous
+T133	Element 6029 6031	Ge
+T134	Element 6156 6158	Ge
+T135	Property 6277 6284	igneous
+T136	Property 6418 6426	basaltic
+T137	Property 6573 6580	igneous
+T138	Property 6698 6702	fine
+T139	Property 6709 6720	composition
+T140	Element 6746 6747	S
+T141	Element 6752 6754	Cl
+T142	Property 6847 6851	dust
+T143	Element 6919 6921	Ni
+T144	Element 6923 6925	Zn
+T145	Element 6930 6932	Ge
+T146	Element 7108 7117	potassium
+T147	Property 7255 7264	sediments
+T148	Property 7379 7383	rock
+T149	Property 7476 7480	dust
+T150	Property 7497 7502	crust
+T151	Element 8457 8459	Na
+T152	Element 8460 8462	Mg
+T153	Element 8463 8465	Al
+T154	Element 8466 8468	Si
+T155	Element 8469 8470	P
+T156	Element 8473 8475	Cl
+T157	Element 8476 8477	K
+T158	Element 8478 8480	Ca
+T159	Element 8481 8483	Ti
+T160	Element 8484 8486	Cr
+T161	Element 8487 8489	Mn
+T162	Element 8490 8492	Fe
+T163	Element 8493 8495	Ni
+T164	Element 8496 8498	Zn
+T165	Element 8499 8501	Br
+T166	Element 8599 8601	Na
+T167	Element 8602 8604	Mg
+T168	Element 8605 8607	Al
+T169	Element 8608 8610	Si
+T170	Element 8611 8612	P
+T171	Element 8615 8617	Cl
+T172	Element 8618 8619	K
+T173	Element 8620 8622	Ca
+T174	Element 8623 8625	Ti
+T175	Element 8626 8628	Cr
+T176	Element 8629 8631	Mn
+T177	Element 8632 8634	Fe
+T178	Element 8635 8637	Ni
+T179	Element 8638 8640	Zn
+T180	Element 8641 8643	Br
+T181	Target 2233 2243	Adirondack
+T182	Target 3265 3275	Adirondack
+T183	Target 3459 3469	Adirondack
+T184	Target 3502 3511	Wishstone
+T185	Target 3594 3602	Backstay
+T186	Target 4071 4080	Wishstone
+T187	Target 4096 4104	Backstay
+T188	Target 4116 4126	Adirondack
+T189	Target 4626 4636	Adirondack
+T190	Target-MERB 8708 8727	Sgt Nathaniel Pryor
+R0	Contains Arg1:T181 Arg2:T20
+R1	Contains Arg1:T182 Arg2:T44
+R2	Contains Arg1:T183 Arg2:T46
+R3	Contains Arg1:T183 Arg2:T47
+R4	Contains Arg1:T183 Arg2:T48
+R5	Contains Arg1:T183 Arg2:T49
+R6	Contains Arg1:T183 Arg2:T50
+R7	Contains Arg1:T184 Arg2:T52
+R8	Contains Arg1:T184 Arg2:T53
+R176	HasProperty Arg1:T181 Arg2:T19
+R177	HasProperty Arg1:T182 Arg2:T42
+R178	HasProperty Arg1:T182 Arg2:T43
+R179	HasProperty Arg1:T184 Arg2:T51
+T191	Mineral 2262 2265	SO3
+R11	Contains Arg1:T181 Arg2:T191	
+R12	HasProperty Arg1:T181 Arg2:T23	
+R13	HasProperty Arg1:T181 Arg2:T22	
+T192	Property 3227 3236	primitive
+R14	HasProperty Arg1:T182 Arg2:T192	
+T193	Property 3471 3478	Alkalic
+R15	HasProperty Arg1:T184 Arg2:T193	
+T194	Property 3572 3580	alkaline
+R9	HasProperty Arg1:T185 Arg2:T194	
+T195	Property 3581 3588	basalts
+R10	HasProperty Arg1:T185 Arg2:T195	

@@ -1,0 +1,72 @@
+T1	Mineral 674 682	sulfates
+T2	Property 792 800	basaltic
+T3	Property 839 845	layers
+T4	Property 1063 1067	soil
+T5	Property 1488 1492	soil
+T6	Mineral 1631 1633	Fe
+T7	Mineral 1633 1634	-
+T8	Mineral 1634 1642	sulfates
+T9	Mineral 1962 1970	sulfates
+T10	Element 2640 2641	P
+T11	Element 3176 3178	Mg
+T12	Mineral 3179 3187	sulfates
+T13	Property 3272 3278	layers
+T14	Mineral 3304 3315	hexahydrite
+T15	Element 3334 3336	Mg
+T16	Mineral 3337 3345	sulfates
+T17	Element 3941 3942	S
+T18	Property 4205 4212	spectra
+T19	Property 4350 4354	soil
+T20	Mineral 4755 4763	sulfates
+T21	Mineral 4827 4829	Mg
+T22	Mineral 4829 4830	-
+T23	Mineral 4830 4838	sulfates
+T24	Element 4843 4845	Fe
+T25	Mineral 4849 4857	sulfates
+T26	Mineral 4952 4960	sulfates
+T27	Mineral 5134 5142	sulfates
+T28	Element 5515 5517	Fe
+T29	Mineral 5632 5646	ferricopiapite
+T30	Mineral 5866 5880	ferricopiapite
+T31	Property 5926 5932	layers
+T32	Property 6015 6021	layers
+T33	Mineral 7070 7080	Mgsulfates
+T34	Mineral 7464 7472	sulfates
+T35	Mineral 7589 7603	ferricopiapite
+T36	Property 7863 7868	crust
+T37	Property 7989 7994	crust
+T38	Target 822 828	Tyrone
+T39	Target 1050 1056	Tyrone
+T40	Target 1329 1335	Tyrone
+T41	Target 1458 1464	Tyrone
+T42	Target 3530 3536	Tyrone
+T43	Target 3983 3989	Tyrone
+T44	Target 4358 4364	Tyrone
+T45	Target 6845 6851	Tyrone
+R0	HasProperty Arg1:T38 Arg2:T2
+R1	HasProperty Arg1:T38 Arg2:T3
+R2	HasProperty Arg1:T39 Arg2:T4
+R4	HasProperty Arg1:T41 Arg2:T5
+R5	HasProperty Arg1:T44 Arg2:T19
+T46	Mineral 849 856	sulfate
+R6	Contains Arg1:T38 Arg2:T46	
+T47	Mineral 927 938	Ca-sulfates
+R7	Contains Arg1:T38 Arg2:T47	
+T48	Mineral 988 999	Fe-sulfates
+R8	Contains Arg1:T38 Arg2:T48	
+T49	Property 1057 1062	salty
+R9	HasProperty Arg1:T39 Arg2:T49	
+T50	Property 1336 1345	yellowish
+R3	HasProperty Arg1:T40 Arg2:T50	
+T51	Property 1350 1357	whitish
+R10	HasProperty Arg1:T40 Arg2:T51	
+T52	Property 1358 1363	salty
+R11	HasProperty Arg1:T40 Arg2:T52	
+T53	Property 1465 1471	yellow
+R12	HasProperty Arg1:T41 Arg2:T53	
+T54	Mineral 1472 1482	Fe-sulfate
+R13	Contains Arg1:T41 Arg2:T54	
+T55	Property 3990 3995	salty
+R14	HasProperty Arg1:T43 Arg2:T55	
+T56	Property 6863 6868	salty
+R15	HasProperty Arg1:T45 Arg2:T56	

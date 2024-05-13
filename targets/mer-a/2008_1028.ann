@@ -1,0 +1,49 @@
+T1	Property 371 378	igneous
+T2	Property 924 928	rock
+T3	Mineral 1223 1231	pyroxene
+T4	Mineral 1323 1330	olivine
+T5	Element 1406 1407	P
+T6	Element 1806 1808	Cr
+T7	Mineral 2612 2619	olivine
+T8	Property 2726 2734	basaltic
+T9	Element 2984 2986	Ni
+T10	Property 3140 3144	rock
+T11	Element 3551 3553	Ni
+T12	Mineral 3633 3640	olivine
+T13	Mineral 3982 3989	olivine
+T14	Property 4082 4086	rock
+T15	Element 4220 4222	Ni
+T16	Mineral 4480 4491	carbonatite
+T17	Property 4597 4604	igneous
+T18	Property 5450 5453	red
+T19	Property 5478 5489	composition
+T20	Element 5797 5798	P
+T21	Property 6363 6367	rock
+T22	Target 894 902	Humphrey
+T23	Target 907 917	Adirondack
+T24	Target 1203 1211	Humphrey
+T25	Target 1893 1903	Adirondack
+T26	Target 1905 1913	Backstay
+T27	Target 1915 1921	Irvine
+T28	Target 1927 1935	Barnhill
+T29	Target 2034 2043	Wishstone
+T30	Target 2096 2105	Algonquin
+T31	Target 2404 2412	Humphrey
+T32	Target 2451 2459	Backstay
+T33	Target 2461 2467	Irvine
+T34	Target 2473 2481	Barnhill
+T35	Target 4424 4433	Wishstone
+T36	Target 5313 5321	Humphrey
+T37	Target 5769 5777	Humphrey
+R2	Contains Arg1:T35 Arg2:T16
+R4	HasProperty Arg1:T22 Arg2:T2
+R5	HasProperty Arg1:T23 Arg2:T2
+T38	Mineral 2432 2438	alkali
+R1	Contains Arg1:T32 Arg2:T38	
+R8	Contains Arg1:T33 Arg2:T38	
+R9	Contains Arg1:T34 Arg2:T38	
+T39	Property 4434 4445	pyroclastic
+R10	HasProperty Arg1:T35 Arg2:T39	
+T40	Property 4492 4498	magmas
+R11	HasProperty Arg1:T35 Arg2:T40	
+T41	Target 5326 5336	Adirondack

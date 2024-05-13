@@ -1,0 +1,20 @@
+T1	Property 2218 2221	Red
+T2	Element 5183 5184	F
+T3	Element 5187 5188	H
+T4	Element 5768 5770	Ba
+T5	Property 5801 5806	fines
+T6	Element 6632 6634	Fe
+T7	Property 7461 7470	indurated
+T8	Property 7492 7501	indurated
+T9	Property 7502 7506	rock
+T10	Property 7507 7513	layers
+T11	Property 7710 7717	rounded
+T12	Element 9501 9502	C
+T13	Target 5772 5782	Adirondack
+T14	Target 7845 7855	Home Plate
+T15	Target 8152 8162	Home Plate
+T16	Property 5783 5789	basalt
+R1	HasProperty Arg1:T13 Arg2:T16	
+T17	Target 7827 7839	Haskin Ridge
+T18	Target 7865 7877	Husband Hill
+T19	Target 8124 8133	West Spur

@@ -1,0 +1,66 @@
+T1	Mineral 76 83	SULFATE
+T2	Element 517 519	Fe
+T3	Mineral 520 528	sulfates
+T4	Mineral 659 667	Jarosite
+T5	Element 670 671	K
+T6	Element 672 674	Na
+T7	Mineral 841 848	sulfate
+T8	Mineral 1019 1033	ferricopiapite
+T9	Element 1067 1076	hydronium
+T10	Mineral 1077 1085	jarosite
+T11	Mineral 1111 1123	fibroferrite
+T12	Mineral 1146 1157	rhomboclase
+T13	Mineral 1184 1198	paracoquimbite
+T14	Mineral 1342 1356	ferricopiapite
+T15	Element 1441 1443	Fe
+T16	Mineral 1444 1452	sulfates
+T17	Mineral 1551 1563	Szomolnokite
+T18	Mineral 1623 1630	sulfate
+T19	Element 1642 1644	Fe
+T20	Mineral 1730 1745	ferric sulfates
+T21	Mineral 1779 1793	ferricopiapite
+T22	Element 2050 2052	Fe
+T23	Mineral 2053 2061	sulfates
+T24	Mineral 2192 2200	sulfates
+T25	Mineral 2273 2281	sulfates
+T26	Property 2316 2323	spectra
+T27	Mineral 2373 2381	sulfates
+T28	Property 2480 2487	spectra
+T29	Mineral 2744 2752	sulfates
+T30	Mineral 2916 2925	kornelite
+T31	Mineral 2972 2979	sulfate
+T32	Mineral 4300 4308	sulfates
+T33	Mineral 4416 4424	sulfates
+T34	Mineral 4546 4554	sulfates
+T35	Mineral 4617 4619	Mg
+T36	Mineral 4619 4620	-
+T37	Mineral 4620 4627	sulfate
+T38	Mineral 4744 4752	sulfates
+T39	Mineral 4806 4814	sulfates
+T40	Mineral 5350 5358	sulfates
+T41	Mineral 5427 5434	sulfate
+T42	Element 5597 5598	K
+T43	Element 5797 5798	H
+T44	Element 5867 5868	K
+T45	Element 5937 5938	K
+T46	Element 5991 5992	H
+T47	Element 6273 6274	K
+T48	Element 7065 7066	K
+T49	Element 7252 7254	Ba
+T50	Mineral 7261 7268	sulfate
+T51	Mineral 7658 7665	sulfate
+T52	Mineral 7784 7797	aracoquimbite
+T53	Mineral 8400 8409	kornelite
+T54	Element 8888 8889	K
+T55	Element 9043 9044	K
+T56	Element 9058 9059	K
+T57	Mineral 9129 9135	iapite
+T58	Target 1385 1396	Paso Robles
+T59	Target 1929 1935	Tyrone
+R0	Contains Arg1:T58 Arg2:T14
+R1	Contains Arg1:T59 Arg2:T20
+R2	Contains Arg1:T59 Arg2:T21
+T60	Property 1397 1402	salty
+T61	Property 1403 1408	soils
+R3	HasProperty Arg1:T58 Arg2:T60	
+R4	HasProperty Arg1:T58 Arg2:T61	

@@ -1,0 +1,136 @@
+T1	Property 13 17	ROCK
+T2	Property 307 311	Rock
+T3	Property 524 528	rock
+T4	Property 664 671	grooves
+T5	Property 1581 1585	rock
+T6	Property 1765 1769	rock
+T7	Property 1888 1897	vesicular
+T8	Mineral 1920 1927	olivine
+T9	Property 2232 2236	rock
+T10	Property 2311 2319	basaltic
+T11	Property 2323 2334	composition
+T12	Property 2390 2403	poorly sorted
+T14	Property 2440 2444	Rock
+T15	Property 2480 2485	knobs
+T16	Property 2490 2494	pits
+T17	Property 2885 2898	poorly sorted
+T19	Property 2916 2924	basaltic
+T20	Property 2925 2936	composition
+T21	Property 3095 3101	knobby
+T22	Property 3240 3244	fine
+T23	Mineral 3452 3458	gypsum
+T24	Property 3585 3589	rock
+T25	Property 3823 3827	pits
+T26	Property 3829 3835	flutes
+T27	Property 3837 3842	knobs
+T28	Property 3868 3872	rock
+T29	Property 4069 4075	facets
+T30	Property 4105 4109	rock
+T31	Property 4175 4179	rock
+T32	Property 4480 4485	knobs
+T33	Property 4670 4674	rock
+T34	Property 4691 4695	pits
+T35	Property 4703 4711	vesicles
+T36	Property 4816 4824	basaltic
+T37	Property 4853 4859	fluted
+T38	Property 4920 4924	rock
+T39	Property 4983 4989	fluted
+T40	Property 5053 5057	rock
+T41	Property 5182 5186	pits
+T42	Property 5394 5398	pits
+T43	Property 5488 5495	rounded
+T44	Property 5732 5737	sharp
+T45	Property 5832 5835	pit
+T46	Property 5926 5930	rock
+T47	Property 5956 5960	Pits
+T48	Property 6043 6048	knobs
+T49	Property 6611 6615	rock
+T50	Property 6752 6756	rock
+T51	Property 6829 6833	rock
+T52	Property 6875 6879	rock
+T53	Property 7070 7074	rock
+T54	Property 7231 7235	Rock
+T55	Property 7950 7954	rock
+T56	Target 1850 1860	Adirondack
+T57	Target 2268 2277	Wishstone
+T58	Target 2627 2633	Clovis
+T59	Target 2851 2857	Clovis
+T60	Target 4214 4224	Adirondack
+T61	Target 4283 4292	Wishstone
+T62	Target 4297 4303	Clovis
+T63	Target 4440 4450	Adirondack
+T64	Target 4455 4464	Wishstone
+T65	Target 4523 4529	Clovis
+T66	Target 4591 4601	Adirondack
+T67	Target 5125 5135	Adirondack
+T68	Target 5149 5158	Wishstone
+T69	Target 5199 5208	Wishstone
+T70	Target 5756 5766	Adirondack
+T71	Target 5780 5786	Clovis
+T72	Target 5879 5885	Clovis
+R0	Contains Arg1:T56 Arg2:T8
+R1	HasProperty Arg1:T56 Arg2:T7
+R2	HasProperty Arg1:T57 Arg2:T10
+R4	HasProperty Arg1:T59 Arg2:T17
+R6	HasProperty Arg1:T59 Arg2:T19
+R10	HasProperty Arg1:T65 Arg2:T32
+R11	HasProperty Arg1:T66 Arg2:T33
+R12	HasProperty Arg1:T66 Arg2:T34
+R13	HasProperty Arg1:T66 Arg2:T35
+R14	HasProperty Arg1:T67 Arg2:T40
+R15	HasProperty Arg1:T68 Arg2:T41
+R16	HasProperty Arg1:T69 Arg2:T41
+R17	HasProperty Arg1:T70 Arg2:T44
+T73	Target 856 868	Husband Hill
+T74	Target 902 914	Husband Hill
+T75	Property 931 936	peaks
+R20	HasProperty Arg1:T74 Arg2:T75	
+T76	Property 1898 1906	picritic
+T77	Property 1907 1914	basalts
+T78	Property 1928 1938	megacrysts
+R21	HasProperty Arg1:T56 Arg2:T76	
+R22	HasProperty Arg1:T56 Arg2:T77	
+R23	HasProperty Arg1:T56 Arg2:T78	
+R3	HasProperty Arg1:T57 Arg2:T15	
+R24	HasProperty Arg1:T57 Arg2:T16	
+T79	Property 2601 2610	unaltered
+R25	HasProperty Arg1:T57 Arg2:T79	
+T80	Target 2833 2845	Husband Hill
+T81	Property 2800 2806	ejecta
+R26	HasProperty Arg1:T57 Arg2:T81	
+R27	HasProperty Arg1:T80 Arg2:T81	
+T82	Property 2899 2906	clastic
+R28	HasProperty Arg1:T59 Arg2:T82	
+R5	HasProperty Arg1:T57 Arg2:T12	
+T13	Target 2963 2972	West Spur
+T18	Target 2976 2988	Husband Hill
+R7	HasProperty Arg1:T13 Arg2:T17	
+R29	HasProperty Arg1:T13 Arg2:T82	
+R30	HasProperty Arg1:T13 Arg2:T19	
+R31	HasProperty Arg1:T18 Arg2:T17	
+R32	HasProperty Arg1:T18 Arg2:T82	
+R33	HasProperty Arg1:T18 Arg2:T19	
+R34	HasProperty Arg1:T59 Arg2:T21	
+R35	HasProperty Arg1:T13 Arg2:T21	
+T83	Property 3225 3232	layered
+R36	HasProperty Arg1:T18 Arg2:T21	
+R37	HasProperty Arg1:T59 Arg2:T83	
+R38	HasProperty Arg1:T13 Arg2:T83	
+R39	HasProperty Arg1:T18 Arg2:T83	
+T84	Property 4322 4332	weathering
+R40	HasProperty Arg1:T61 Arg2:T84	
+R41	HasProperty Arg1:T62 Arg2:T84	
+T85	Property 4256 4266	structural
+R42	HasProperty Arg1:T60 Arg2:T85	
+T86	Property 4402 4409	pitting
+R43	HasProperty Arg1:T63 Arg2:T86	
+R44	HasProperty Arg1:T64 Arg2:T86	
+T87	Property 4609 4616	Pitting
+R8	HasProperty Arg1:T66 Arg2:T87	
+R9	HasProperty Arg1:T66 Arg2:T36	
+T88	Property 5026 5031	keels
+R45	HasProperty Arg1:T67 Arg2:T88	
+R46	HasProperty Arg1:T69 Arg2:T42	
+R47	HasProperty Arg1:T69 Arg2:T43	
+T89	Property 5738 5743	keels
+R48	HasProperty Arg1:T70 Arg2:T89	

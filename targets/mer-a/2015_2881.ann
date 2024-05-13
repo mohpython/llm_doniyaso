@@ -1,0 +1,33 @@
+T1	Element 1214 1218	iron
+T2	Property 2119 2123	rock
+T3	Element 2470 2474	iron
+T4	Property 2501 2509	coatings
+T5	Element 2546 2550	iron
+T6	Target-MERB 2562 2573	Heat Shield
+T8	Property 2770 2773	ice
+T9	Element 3881 3882	C
+T10	Element 3884 3885	O
+T11	Mineral 4454 4462	limonite
+T12	Element 4769 4773	iron
+T13	Element 4837 4838	H
+T14	Property 5222 5231	weathered
+T15	Mineral 5372 5379	sulfide
+T16	Mineral 5495 5503	limonite
+T17	Mineral 5583 5591	goethite
+T18	Mineral 5596 5606	akaganéite
+T19	Property 5665 5670	bands
+T20	Mineral 5686 5699	lepidocrocite
+T21	Mineral 6179 6187	kamacite
+T22	Mineral 6192 6199	taenite
+T23	Element 6204 6206	Fe
+T24	Property 6282 6286	rock
+T25	Property 6631 6639	fracture
+T26	Property 6888 6892	rock
+T27	Mineral 7286 7294	limonite
+T28	Property 7657 7661	rock
+T29	Property 7755 7763	fracture
+T30	Property 8198 8202	Dark
+T31	Property 8866 8870	rock
+R0	Contains Arg1:T6 Arg2:T3
+R1	Contains Arg1:T6 Arg2:T5
+R3	HasProperty Arg1:T6 Arg2:T4

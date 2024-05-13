@@ -1,0 +1,61 @@
+T1	Property 1630 1634	rock
+T2	Mineral 1770 1776	halite
+T3	Property 1831 1838	spectra
+T4	Property 1886 1893	spectra
+T5	Mineral 1947 1953	halite
+T6	Property 1997 2004	spectra
+T7	Property 2320 2326	smooth
+T8	Property 2331 2335	flat
+T9	Mineral 2411 2417	halite
+T10	Property 2583 2590	spectra
+T11	Property 2745 2752	spectra
+T12	Property 2806 2813	spectra
+T13	Mineral 2838 2844	halite
+T14	Property 2872 2875	red
+T15	Element 3847 3857	silicarich
+T16	Mineral 5025 5031	halite
+T17	Target 379 389	Home Plate
+T18	Target 594 604	Home Plate
+T19	Target 1521 1531	Home Plate
+T20	Target 2008 2018	Home Plate
+T21	Target 2293 2303	Home Plate
+T22	Target 2650 2660	Home Plate
+T23	Target 2959 2969	Home Plate
+T24	Target 3184 3194	Home Plate
+T25	Target 3380 3390	Home Plate
+T26	Target 3521 3531	Home Plate
+T27	Target 3702 3712	Home Plate
+T28	Target 4889 4899	Home Plate
+T29	Target 5233 5243	Home Plate
+R2	HasProperty Arg1:T20 Arg2:T6
+T30	Mineral 318 332	opaline silica
+R1	Contains Arg1:T17 Arg2:T30	
+T31	Mineral 605 611	silica
+R3	Contains Arg1:T18 Arg2:T31	
+T32	Mineral 1503 1509	silica
+R4	Contains Arg1:T19 Arg2:T32	
+T33	Mineral 2019 2025	silica
+R5	Contains Arg1:T20 Arg2:T33	
+T34	Mineral 2661 2667	silica
+R6	Contains Arg1:T22 Arg2:T34	
+T35	Property 2921 2929	digitate
+R7	HasProperty Arg1:T23 Arg2:T35	
+T36	Mineral 2970 2976	silica
+R8	Contains Arg1:T23 Arg2:T36	
+T37	Mineral 3491 3506	Digitate silica
+R9	Contains Arg1:T26 Arg2:T37	
+T38	Mineral 3713 3728	digitate silica
+R10	Contains Arg1:T27 Arg2:T38	
+T39	Mineral 4843 4857	Opaline silica
+R11	Contains Arg1:T28 Arg2:T39	
+T40	Property 4868 4876	outcrops
+R12	HasProperty Arg1:T28 Arg2:T40	
+T41	Property 4957 4964	nodular
+R13	HasProperty Arg1:T28 Arg2:T41	
+T42	Property 4969 4977	digitate
+R14	HasProperty Arg1:T28 Arg2:T42	
+T43	Property 5032 5038	crusts
+R15	Contains Arg1:T28 Arg2:T16	
+R16	HasProperty Arg1:T28 Arg2:T43	
+T44	Mineral 5214 5220	silica
+R17	Contains Arg1:T29 Arg2:T44	

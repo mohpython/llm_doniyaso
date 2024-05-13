@@ -1,0 +1,30 @@
+T1	Property 38 42	SOIL
+T2	Property 1261 1265	soil
+T3	Property 1399 1403	soil
+T4	Property 1456 1460	soil
+T5	Property 1515 1519	soil
+T6	Property 1841 1845	soil
+T7	Property 2109 2113	soil
+T8	Property 2261 2265	soil
+T9	Property 2311 2315	soil
+T10	Property 2502 2506	soil
+T11	Property 2631 2635	soil
+T12	Property 2934 2937	ice
+T13	Property 3188 3192	soil
+T14	Target-PHX 3194 3203	Mama Bear
+T15	Property 3309 3313	dust
+T16	Property 3380 3383	Lag
+T17	Property 3420 3423	ice
+T18	Target-PHX 3425 3435	Golden Key
+T19	Property 3555 3559	dust
+T20	Target-PHX 3952 3961	Mama Bear
+T21	Target-PHX 4307 4317	Golden Key
+T22	Property 4357 4361	soil
+T23	Property 4399 4405	bright
+T24	Property 4629 4632	red
+T25	Target 2417 2426	El Dorado
+R1	HasProperty Arg1:T14 Arg2:T13
+R2	HasProperty Arg1:T18 Arg2:T16
+R3	HasProperty Arg1:T18 Arg2:T17
+T26	Property 2427 2432	dunes
+R4	HasProperty Arg1:T25 Arg2:T26	

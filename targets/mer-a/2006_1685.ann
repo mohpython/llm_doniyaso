@@ -1,0 +1,21 @@
+T1	Property 3601 3604	red
+T2	Property 3987 3991	rock
+T3	Property 4850 4854	rock
+T4	Property 4881 4885	rock
+T5	Property 5172 5181	sediments
+T6	Property 6061 6067	layers
+T7	Property 6273 6277	rock
+T8	Property 6572 6576	flat
+T9	Target 4856 4866	Watchtower
+T10	Target 4887 4894	Hillary
+T11	Target 6012 6020	Jibsheet
+T12	Target 6279 6286	Hillary
+T13	Target 6508 6517	Descartes
+T14	Target 6696 6706	Methuselah
+R0	HasProperty Arg1:T9 Arg2:T3
+R3	HasProperty Arg1:T10 Arg2:T4
+R5	HasProperty Arg1:T12 Arg2:T7
+R6	HasProperty Arg1:T13 Arg2:T8
+T15	Target 5997 6008	Mehthuselah
+T16	Target 6028 6042	Larrys Outcrop
+T17	Target 6773 6787	Larrys Outcrop

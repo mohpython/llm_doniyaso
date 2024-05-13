@@ -1,0 +1,62 @@
+T1	Property 61 69	COATINGS
+T2	Property 850 857	coating
+T3	Property 1512 1519	coating
+T4	Property 1653 1664	Composition
+T5	Property 1693 1700	coating
+T6	Property 2056 2063	coating
+T7	Property 2155 2163	coatings
+T8	Property 2213 2220	coating
+T9	Element 2475 2477	Si
+T10	Element 2479 2481	Al
+T11	Element 2487 2489	Cr
+T12	Property 2511 2518	coating
+T13	Element 2775 2777	Al
+T14	Element 2781 2783	Si
+T15	Element 2834 2836	Si
+T16	Property 2914 2918	dark
+T17	Property 2919 2927	coatings
+T18	Element 3017 3019	Si
+T19	Mineral 3358 3366	smectite
+T20	Mineral 3416 3431	montmorillonite
+T21	Element 3544 3546	Cr
+T22	Property 3618 3626	coatings
+T23	Element 3714 3716	Si
+T24	Element 3721 3723	Al
+T25	Property 3768 3771	red
+T26	Element 3823 3825	Si
+T27	Element 3830 3832	Al
+T28	Property 3926 3933	Coating
+T29	Property 3960 3967	coating
+T30	Element 4060 4064	iron
+T31	Element 4069 4075	sulfur
+T32	Element 4107 4109	Mg
+T33	Element 4114 4116	Ca
+T34	Mineral 4136 4143	Sulfate
+T35	Element 4153 4155	Mg
+T36	Element 4157 4159	Fe
+T37	Element 4165 4167	Ca
+T38	Element 4290 4291	S
+T39	Element 4359 4360	O
+T40	Element 4365 4366	C
+T41	Mineral 4407 4417	carbonates
+T42	Element 4421 4425	iron
+T43	Property 4611 4618	coating
+T44	Property 4780 4787	coating
+T45	Mineral 4807 4815	sulfates
+T46	Mineral 4850 4860	carbonates
+T47	Mineral 5056 5071	mortmorillonite
+T48	Property 5134 5141	coating
+T49	Element 5445 5447	Fe
+T50	Property 5608 5615	coating
+T51	Mineral 5738 5746	smectite
+T52	Property 5775 5783	coatings
+T53	Property 5831 5835	dust
+T54	Property 5908 5916	fracture
+T55	Property 5983 5990	coating
+T56	Mineral 6086 6093	sulfate
+T57	Target 3483 3495	Independence
+R0	Contains Arg1:T57 Arg2:T21
+R1	Contains Arg1:T57 Arg2:T20
+T58	Target 3507 3519	Husband Hill
+R3	Contains Arg1:T58 Arg2:T20	
+R4	Contains Arg1:T58 Arg2:T21	

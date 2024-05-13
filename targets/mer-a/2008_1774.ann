@@ -1,0 +1,65 @@
+T1	Property 719 725	bright
+T2	Property 1014 1018	rock
+T3	Property 1119 1123	Rock
+T4	Property 1189 1195	eolian
+T5	Property 2028 2032	dust
+T6	Property 2262 2265	red
+T7	Property 2566 2569	red
+T8	Property 2922 2925	red
+T9	Property 3044 3047	red
+T10	Property 3829 3835	bright
+T11	Property 3864 3867	red
+T12	Property 3885 3889	rock
+T13	Property 3908 3912	dust
+T14	Property 3922 3930	coatings
+T15	Property 4085 4088	red
+T16	Mineral 4409 4413	blue
+T17	Mineral 4413 4414	-
+T18	Mineral 4414 4419	white
+T19	Property 4454 4457	red
+T20	Property 4573 4577	rock
+T21	Property 4743 4749	eolian
+T22	Property 5001 5005	rock
+T23	Mineral 6182 6190	hematite
+T24	Mineral 6195 6203	goethite
+T25	Property 7388 7394	eolian
+T26	Property 7395 7399	dust
+T27	Property 7420 7427	coating
+T28	Property 7451 7455	rock
+T29	Element 11256 11257	K
+T30	Target 569 579	Home Plate
+T31	Target 605 615	Home Plate
+T32	Target 763 773	Home Plate
+T33	Target 1031 1041	Home Plate
+T34	Target 2455 2465	Home Plate
+T35	Target 2591 2601	Home Plate
+T36	Target 2772 2782	Home Plate
+T37	Target 2883 2893	Home Plate
+T38	Target 3215 3225	Home Plate
+T39	Target 3448 3458	Home Plate
+T40	Target 3690 3700	Home Plate
+T41	Target 3744 3754	Home Plate
+T42	Target 4366 4376	Home Plate
+T43	Target 4791 4801	Home Plate
+T44	Target 5244 5254	Home Plate
+T45	Target 5443 5454	Texas Chili
+T47	Target 5795 5805	Home Plate
+T48	Target 6781 6791	Home Plate
+T49	Target 7006 7017	Texas Chili
+R0	HasProperty Arg1:T31 Arg2:T1
+R1	HasProperty Arg1:T33 Arg2:T2
+R6	HasProperty Arg1:T41 Arg2:T10
+R8	HasProperty Arg1:T41 Arg2:T12
+T51	Property 726 734	circular
+R11	HasProperty Arg1:T31 Arg2:T51	
+T52	Target 811 823	Husband Hill
+T53	Target 749 761	Husband Hill
+T54	Target 2642 2654	Husband Hill
+T55	Target 3251 3263	Husband Hill
+T56	Target 5391 5403	Husband Hill
+T46	Property 5841 5850	oxidation
+R2	HasProperty Arg1:T47 Arg2:T46	
+T57	Target 6664 6676	Husband Hill
+T50	Target 75 85	HOME PLATE
+T58	Property 50 62	WIND-ABRADED
+R3	HasProperty Arg1:T50 Arg2:T58	

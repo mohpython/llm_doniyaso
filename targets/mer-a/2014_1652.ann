@@ -1,0 +1,310 @@
+T1	Property 425 429	rock
+T2	Property 687 691	rock
+T3	Element 1682 1686	iron
+T4	Element 1846 1850	iron
+T5	Element 2057 2059	Ti
+T6	Element 2066 2067	P
+T7	Element 2087 2089	Cr
+T8	Element 2091 2093	Cr
+T9	Element 2163 2165	Mg
+T10	Element 2211 2213	Al
+T11	Element 2215 2217	Ti
+T12	Element 2219 2220	K
+T13	Element 2222 2223	S
+T14	Element 2225 2227	Cl
+T15	Element 2229 2231	Br
+T16	Element 2237 2238	P
+T17	Element 2255 2257	Fe
+T18	Element 2259 2261	Mn
+T19	Element 2263 2265	Ni
+T20	Element 2271 2273	Cr
+T21	Element 2362 2366	iron
+T22	Element 2383 2385	Fe
+T23	Element 2389 2391	Fe
+T24	Mineral 2510 2518	ilmenite
+T25	Element 2556 2560	iron
+T26	Mineral 2584 2592	pyroxene
+T27	Mineral 2594 2603	magnetite
+T28	Mineral 2605 2613	goethite
+T29	Mineral 2619 2627	hematite
+T30	Property 2772 2776	dust
+T31	Property 2873 2880	spectra
+T32	Property 2924 2931	spectra
+T33	Property 3062 3070	basaltic
+T34	Property 3071 3082	composition
+T35	Mineral 3113 3120	sulfate
+T36	Mineral 3132 3145	orthopyroxene
+T37	Mineral 3147 3154	olivine
+T38	Property 3323 3329	pitted
+T39	Property 3659 3665	layers
+T40	Property 3685 3691	layers
+T41	Property 3809 3816	massive
+T42	Property 3966 3970	rock
+T43	Mineral 4147 4156	carbonate
+T44	Property 4157 4161	rock
+T45	Property 4339 4343	Rock
+T46	Property 4395 4402	spectra
+T47	Property 4463 4474	composition
+T48	Mineral 4593 4602	carbonate
+T49	Element 4636 4638	Si
+T50	Element 4640 4642	Ti
+T51	Element 4648 4650	Al
+T52	Element 4667 4669	Mg
+T53	Property 4692 4696	rock
+T54	Element 4744 4746	Ca
+T55	Element 4748 4750	Na
+T56	Element 4752 4753	K
+T57	Element 4759 4760	P
+T58	Element 4777 4778	S
+T59	Element 4783 4785	Cl
+T60	Element 4828 4830	Al
+T61	Element 4832 4834	Ca
+T62	Element 4836 4837	K
+T63	Element 4839 4840	P
+T64	Element 4846 4848	Cl
+T65	Mineral 4961 4970	carbonate
+T66	Mineral 5024 5033	carbonate
+T67	Mineral 5043 5050	olivine
+T68	Property 5078 5086	basaltic
+T69	Property 5087 5098	composition
+T70	Mineral 5111 5120	carbonate
+T71	Property 5123 5134	composition
+T72	Mineral 5195 5204	magnesite
+T73	Mineral 5211 5219	siderite
+T74	Mineral 5226 5233	calcite
+T75	Element 5239 5241	Rh
+T76	Mineral 5244 5257	rhodochrosite
+T77	Property 5408 5414	planar
+T78	Property 5434 5439	lobes
+T79	Property 5543 5564	rounded protuberances
+T80	Target 699 709	Watchtower
+T81	Target 724 732	Comanche
+T82	Target 749 758	Algonquin
+T83	Target 1108 1118	Watchtower
+T84	Target 1137 1153	Cumberland Ridge
+T85	Target 1202 1210	Comanche
+T86	Target 1272 1282	Watchtower
+T87	Target 1347 1363	Cumberland Ridge
+T88	Target 1421 1431	Watchtower
+T89	Target 1485 1494	Wishstone
+T90	Target 1553 1562	Wishstone
+T91	Target 1743 1759	Cumberland Ridge
+T92	Target 1771 1781	Methuselah
+T93	Target 1783 1791	Jibsheet
+T94	Target 2007 2017	Watchtower
+T95	Target 2178 2187	Wishstone
+T96	Target 2290 2300	Adirondack
+T97	Target 2401 2411	Watchtower
+T98	Target 2485 2495	Watchtower
+T99	Target 2966 2982	Cumberland Ridge
+T100	Target 3224 3234	Watchtower
+T101	Target 3488 3498	Methuselah
+T102	Target 3950 3958	Comanche
+T103	Target 4025 4033	Comanche
+T105	Target 4038 4051	Comanche Spur
+T107	Target 4177 4190	Comanche Spur
+T108	Target 4406 4414	Comanche
+T109	Target 4419 4427	Comanche
+T110	Target 4419 4432	Comanche Spur
+T111	Target 4521 4529	Comanche
+T112	Target 4798 4808	Adirondack
+T113	Target 4875 4893	Innocent Bystander
+T114	Target 4923 4931	Comanche
+T115	Target 5294 5302	Comanche
+T117	Target 5307 5320	Comanche Spur
+T118	Target 5732 5742	Watchtower
+T119	Target 5753 5761	Comanche
+T120	Target 5884 5894	Watchtower
+T121	Target 5916 5926	Methuselah
+T122	Target 6117 6127	Watchtower
+T124	Target 6174 6187	Comanche Spur
+T125	Target 6196 6205	Horseback
+T126	Target 6210 6218	Palomino
+T127	Target 6294 6303	Horseback
+T128	Target 6331 6339	Comanche
+T129	Target 6465 6475	Watchtower
+T130	Target 6493 6501	Comanche
+T131	Target 6560 6570	Watchtower
+T132	Target 6704 6709	Paros
+T133	Target 6731 6739	Keystone
+T134	Target 6741 6751	Methuselah
+T135	Target 6756 6764	Palomino
+T137	Target 6766 6779	Comanche Spur
+T138	Target 6788 6797	Horseback
+T140	Target 6799 6812	Comanche Spur
+R3	Contains Arg1:T94 Arg2:T5
+R4	Contains Arg1:T94 Arg2:T6
+R5	Contains Arg1:T94 Arg2:T7
+R7	Contains Arg1:T95 Arg2:T9
+R8	Contains Arg1:T94 Arg2:T10
+R9	Contains Arg1:T94 Arg2:T11
+R10	Contains Arg1:T94 Arg2:T12
+R11	Contains Arg1:T94 Arg2:T13
+R12	Contains Arg1:T94 Arg2:T14
+R13	Contains Arg1:T94 Arg2:T15
+R14	Contains Arg1:T94 Arg2:T16
+R15	Contains Arg1:T94 Arg2:T17
+R16	Contains Arg1:T94 Arg2:T18
+R17	Contains Arg1:T94 Arg2:T19
+R18	Contains Arg1:T94 Arg2:T20
+R20	Contains Arg1:T96 Arg2:T10
+R21	Contains Arg1:T96 Arg2:T11
+R22	Contains Arg1:T96 Arg2:T12
+R23	Contains Arg1:T96 Arg2:T13
+R24	Contains Arg1:T96 Arg2:T14
+R25	Contains Arg1:T96 Arg2:T15
+R26	Contains Arg1:T96 Arg2:T16
+R27	Contains Arg1:T96 Arg2:T17
+R28	Contains Arg1:T96 Arg2:T18
+R29	Contains Arg1:T96 Arg2:T19
+R30	Contains Arg1:T96 Arg2:T20
+R31	Contains Arg1:T97 Arg2:T21
+R32	Contains Arg1:T97 Arg2:T22
+R33	Contains Arg1:T97 Arg2:T23
+R34	Contains Arg1:T98 Arg2:T25
+R35	Contains Arg1:T98 Arg2:T24
+R36	Contains Arg1:T99 Arg2:T35
+R37	Contains Arg1:T99 Arg2:T36
+R38	Contains Arg1:T99 Arg2:T37
+R40	Contains Arg1:T103 Arg2:T43
+R42	Contains Arg1:T111 Arg2:T48
+R43	Contains Arg1:T112 Arg2:T54
+R44	Contains Arg1:T112 Arg2:T55
+R45	Contains Arg1:T112 Arg2:T56
+R46	Contains Arg1:T112 Arg2:T57
+R47	Contains Arg1:T112 Arg2:T58
+R48	Contains Arg1:T112 Arg2:T59
+R49	Contains Arg1:T113 Arg2:T60
+R50	Contains Arg1:T113 Arg2:T61
+R51	Contains Arg1:T113 Arg2:T62
+R52	Contains Arg1:T113 Arg2:T63
+R53	Contains Arg1:T113 Arg2:T64
+R54	Contains Arg1:T114 Arg2:T65
+R55	HasProperty Arg1:T80 Arg2:T2
+R56	HasProperty Arg1:T81 Arg2:T2
+R57	HasProperty Arg1:T82 Arg2:T2
+R59	HasProperty Arg1:T99 Arg2:T33
+R61	HasProperty Arg1:T101 Arg2:T39
+R69	HasProperty Arg1:T108 Arg2:T46
+R70	HasProperty Arg1:T108 Arg2:T47
+R71	HasProperty Arg1:T109 Arg2:T46
+R72	HasProperty Arg1:T109 Arg2:T47
+R73	HasProperty Arg1:T115 Arg2:T77
+R74	HasProperty Arg1:T115 Arg2:T78
+T141	Target 41 49	COMANCHE
+T142	Target 26 36	WATCHTOWER
+T143	Target 464 476	Husband Hill
+T144	Target 1051 1063	Husband Hill
+T145	Target 1072 1083	Inner Basin
+T146	Property 1125 1133	outcrops
+R77	HasProperty Arg1:T83 Arg2:T146	
+T147	Target 1159 1171	Husband Hill
+T148	Target 1184 1196	Haskin Ridge
+T149	Property 1220 1228	outcrops
+R78	HasProperty Arg1:T85 Arg2:T149	
+T150	Target 1257 1269	Husband Hill
+T151	Property 1335 1343	outcrops
+T152	Target 1369 1381	Husband Hill
+R79	HasProperty Arg1:T86 Arg2:T151	
+T153	Target 1394 1406	Haskin Ridge
+T154	Property 1591 1601	alteration
+R80	HasProperty Arg1:T88 Arg2:T154	
+T155	Target 1797 1812	Larry's Lookout
+T156	Property 1760 1768	outcrops
+R1	HasProperty Arg1:T92 Arg2:T156	
+R2	HasProperty Arg1:T93 Arg2:T156	
+R81	HasProperty Arg1:T155 Arg2:T156	
+R6	Contains Arg1:T94 Arg2:T9	
+T157	Mineral 2546 2566	nanophase iron oxide
+R19	Contains Arg1:T98 Arg2:T157	
+T158	Target 2939 2954	Larry's Lookout
+T159	Property 2955 2962	outcrop
+R82	HasProperty Arg1:T158 Arg2:T159	
+R58	HasProperty Arg1:T158 Arg2:T32	
+T160	Mineral 3156 3165	phosphate
+T161	Mineral 3181 3190	silicates
+T162	Mineral 3091 3105	Na-plagioclase
+R60	Contains Arg1:T158 Arg2:T162	
+R83	Contains Arg1:T99 Arg2:T162	
+R84	HasProperty Arg1:T158 Arg2:T33	
+R85	Contains Arg1:T158 Arg2:T35	
+R86	Contains Arg1:T158 Arg2:T36	
+R87	Contains Arg1:T158 Arg2:T37	
+R88	Contains Arg1:T158 Arg2:T160	
+R89	Contains Arg1:T99 Arg2:T160	
+R90	Contains Arg1:T158 Arg2:T161	
+R91	Contains Arg1:T99 Arg2:T161	
+T163	Property 3311 3318	layered
+R92	HasProperty Arg1:T100 Arg2:T163	
+R93	HasProperty Arg1:T100 Arg2:T38	
+T164	Target 3403 3418	Larry's Lookout
+T165	Property 3419 3426	outcrop
+T166	Property 3388 3395	pitting
+R94	HasProperty Arg1:T164 Arg2:T166	
+R95	HasProperty Arg1:T164 Arg2:T165	
+T167	Property 3499 3506	outcrop
+R96	HasProperty Arg1:T101 Arg2:T167	
+T168	Property 3634 3640	joints
+R97	HasProperty Arg1:T101 Arg2:T168	
+T169	Target 3753 3768	Larry's Lookout
+R98	HasProperty Arg1:T169 Arg2:T40	
+R99	HasProperty Arg1:T169 Arg2:T41	
+T170	Property 3838 3846	inclined
+R100	HasProperty Arg1:T101 Arg2:T170	
+R101	HasProperty Arg1:T169 Arg2:T170	
+T104	Property 4015 4023	outcrops
+R41	HasProperty Arg1:T103 Arg2:T104	
+R62	HasProperty Arg1:T105 Arg2:T104	
+T171	Target 4081 4093	Husband Hill
+R64	Contains Arg1:T105 Arg2:T43	
+R39	Contains Arg1:T111 Arg2:T52	
+R63	Contains Arg1:T111 Arg2:T49	
+R65	Contains Arg1:T111 Arg2:T50	
+R66	Contains Arg1:T111 Arg2:T51	
+R67	Contains Arg1:T111 Arg2:T54	
+R68	Contains Arg1:T111 Arg2:T55	
+R102	Contains Arg1:T111 Arg2:T56	
+R103	Contains Arg1:T111 Arg2:T57	
+R104	Contains Arg1:T111 Arg2:T58	
+R105	Contains Arg1:T111 Arg2:T59	
+T106	Target 4817 4825	Comanche
+R106	Contains Arg1:T106 Arg2:T60	
+R107	Contains Arg1:T106 Arg2:T61	
+R108	Contains Arg1:T106 Arg2:T62	
+R109	Contains Arg1:T106 Arg2:T63	
+R110	Contains Arg1:T106 Arg2:T64	
+T172	Element 5035 5037	Mg
+R111	Contains Arg1:T114 Arg2:T172	
+R112	Contains Arg1:T114 Arg2:T67	
+T173	Element 5018 5020	Mg
+T174	Element 5021 5023	Fe
+R113	Contains Arg1:T114 Arg2:T173	
+R114	Contains Arg1:T114 Arg2:T174	
+R115	HasProperty Arg1:T114 Arg2:T68	
+T175	Property 5456 5463	pitting
+T176	Property 5369 5386	nearly-horizontal
+T177	Property 5399 5407	inclined
+R75	HasProperty Arg1:T117 Arg2:T77	
+R76	HasProperty Arg1:T117 Arg2:T78	
+R116	HasProperty Arg1:T115 Arg2:T176	
+R117	HasProperty Arg1:T115 Arg2:T177	
+R118	HasProperty Arg1:T115 Arg2:T175	
+R119	HasProperty Arg1:T117 Arg2:T176	
+R120	HasProperty Arg1:T117 Arg2:T177	
+R121	HasProperty Arg1:T117 Arg2:T175	
+R122	HasProperty Arg1:T115 Arg2:T79	
+R123	HasProperty Arg1:T117 Arg2:T79	
+T116	Property 5787 5794	nodular
+R124	HasProperty Arg1:T119 Arg2:T116	
+R125	HasProperty Arg1:T118 Arg2:T116	
+T178	Property 5971 5982	laminations
+T179	Target 5988 6003	Larry's Lookout
+R126	HasProperty Arg1:T121 Arg2:T178	
+T180	Target 6021 6033	Husband Hill
+T181	Target 6067 6082	Larry's Lookout
+T182	Property 6107 6114	layered
+R127	HasProperty Arg1:T180 Arg2:T182	
+T123	Property 6237 6248	laminations
+R128	HasProperty Arg1:T125 Arg2:T123	
+R129	HasProperty Arg1:T126 Arg2:T123	
+T183	Target 6711 6726	Larry's Lookout

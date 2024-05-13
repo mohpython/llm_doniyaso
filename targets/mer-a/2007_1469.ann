@@ -1,0 +1,84 @@
+T1	Property 1709 1713	dust
+T2	Property 1829 1832	ice
+T3	Element 1887 1893	carbon
+T4	Element 1903 1909	carbon
+T5	Element 2331 2332	S
+T6	Property 2643 2650	spectra
+T7	Property 2718 2725	spectra
+T8	Property 2827 2834	spectra
+T9	Element 2928 2929	S
+T10	Property 3104 3111	spectra
+T11	Property 3290 3297	spectra
+T13	Property 3633 3640	spectra
+T14	Property 3781 3785	flat
+T15	Property 3969 3973	dark
+T16	Property 3992 3998	bright
+T17	Property 4052 4059	spectra
+T18	Property 4146 4150	dust
+T19	Property 4151 4158	coating
+T20	Property 4218 4222	dust
+T21	Property 4272 4279	spectra
+T22	Property 4303 4307	soil
+T23	Property 4415 4419	dust
+T24	Property 4433 4439	bright
+T25	Mineral 4487 4494	olivine
+T26	Property 4516 4520	soil
+T27	Property 4613 4620	spectra
+T28	Mineral 4640 4647	olivine
+T29	Property 4793 4797	dust
+T30	Mineral 4837 4844	olivine
+T31	Property 4951 4958	spectra
+T32	Property 5079 5086	spectra
+T33	Element 5208 5210	Al
+T34	Element 5212 5214	Si
+T35	Element 5216 5218	Mg
+T36	Element 5224 5226	Fe
+T37	Mineral 5374 5381	olivine
+T38	Mineral 5389 5397	pyroxene
+T39	Property 5444 5448	rock
+T40	Property 5450 5454	soil
+T41	Property 5460 5464	dust
+T42	Property 5637 5643	bright
+T43	Property 5691 5695	dark
+T44	Property 5793 5797	rock
+T45	Property 5799 5803	soil
+T46	Property 5809 5813	dust
+T47	Mineral 6000 6015	phyllosilicates
+T48	Element 6125 6127	Al
+T49	Element 6594 6596	Al
+T51	Target 1438 1447	El Dorado
+T52	Target 1452 1462	Home Plate
+T53	Target 3434 3441	Whymper
+T54	Target 3453 3462	El Dorado
+T55	Target 4191 4200	El Dorado
+T56	Target 4311 4320	El Dorado
+T57	Target 4463 4470	Whymper
+T58	Target 4506 4515	El Dorado
+T59	Target 4744 4753	El Dorado
+T60	Target 6618 6627	El Dorado
+T61	Target 6628 6635	Whymper
+R0	Contains Arg1:T58 Arg2:T25
+R7	HasProperty Arg1:T53 Arg2:T11
+R9	HasProperty Arg1:T54 Arg2:T11
+R13	HasProperty Arg1:T55 Arg2:T20
+R14	HasProperty Arg1:T56 Arg2:T21
+R15	HasProperty Arg1:T56 Arg2:T22
+R16	HasProperty Arg1:T56 Arg2:T23
+R21	HasProperty Arg1:T57 Arg2:T24
+R22	HasProperty Arg1:T58 Arg2:T26
+R25	HasProperty Arg1:T59 Arg2:T26
+R27	HasProperty Arg1:T59 Arg2:T29
+T12	Target 3411 3426	Bright Bear Paw
+T62	Property 3377 3382	soils
+R8	HasProperty Arg1:T12 Arg2:T62	
+R10	HasProperty Arg1:T12 Arg2:T11	
+R29	HasProperty Arg1:T53 Arg2:T62	
+R30	HasProperty Arg1:T54 Arg2:T62	
+T63	Property 4169 4179	low albedo
+R31	HasProperty Arg1:T55 Arg2:T63	
+T64	Mineral 4338 4360	nanophase ferric oxide
+R11	Contains Arg1:T56 Arg2:T64	
+T65	Property 4452 4457	soils
+R12	HasProperty Arg1:T57 Arg2:T65	
+T66	Mineral 5016 5019	H2O
+T50	Target 6636 6651	Bright Bear Paw

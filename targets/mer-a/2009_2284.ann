@@ -1,0 +1,128 @@
+T1	Mineral 8 16	SULFATES
+T2	Mineral 477 484	Sulfate
+T3	Mineral 617 625	Sulfates
+T4	Mineral 798 800	Ca
+T5	Mineral 800 801	-
+T6	Mineral 801 809	sulfates
+T7	Mineral 943 945	Fe
+T8	Mineral 945 946	-
+T9	Mineral 946 954	sulfates
+T10	Mineral 1084 1086	Fe
+T11	Mineral 1086 1087	-
+T12	Mineral 1087 1095	sulfates
+T13	Mineral 1157 1159	Mg
+T14	Mineral 1159 1160	-
+T15	Mineral 1160 1168	sulfates
+T16	Mineral 1178 1186	sulfates
+T17	Mineral 1248 1256	Jarosite
+T18	Mineral 1351 1365	ferric sulfate
+T19	Mineral 1573 1587	ferricopiapite
+T20	Property 1643 1647	soil
+T21	Property 1724 1728	soil
+T22	Element 1750 1752	Ca
+T23	Element 1787 1789	Fe
+T24	Property 1873 1877	soil
+T25	Mineral 1925 1939	ferricopiapite
+T26	Property 1989 1993	soil
+T27	Mineral 2018 2026	jarosite
+T28	Mineral 2059 2065	gypsum
+T29	Property 2180 2184	soil
+T30	Mineral 2283 2291	sulfates
+T31	Mineral 2293 2302	kornelite
+T32	Mineral 2307 2316	copiapite
+T33	Mineral 2517 2525	sulfates
+T34	Mineral 2611 2619	sulfates
+T35	Mineral 2879 2887	sulfates
+T36	Mineral 2982 2990	sulfates
+T37	Mineral 3211 3225	ferricopiapite
+T38	Mineral 3253 3262	kornelite
+T39	Mineral 3281 3292	rhomboclase
+T40	Mineral 3311 3323	pentahydrite
+T41	Mineral 3851 3859	sulfates
+T42	Mineral 3882 3896	ferricopiapite
+T43	Mineral 4009 4017	sulfates
+T44	Mineral 4167 4169	Mg
+T45	Mineral 4169 4170	-
+T46	Mineral 4170 4178	sulfates
+T47	Mineral 4416 4430	ferricopiapite
+T48	Mineral 4613 4627	ferricopiapite
+T49	Mineral 4796 4809	Fericopiapite
+T50	Mineral 5071 5084	Fericopiapite
+T51	Mineral 5320 5328	sulfates
+T52	Mineral 5389 5403	ferricopiapite
+T53	Mineral 5555 5562	sulfate
+T54	Property 5672 5676	fine
+T55	Mineral 5946 5960	ferricopiapite
+T56	Mineral 6016 6024	sulfates
+T57	Mineral 6160 6168	sulfates
+T58	Mineral 6275 6283	sulfates
+T59	Mineral 6645 6659	ferricopiapite
+T60	Mineral 7396 7410	ferricopiapite
+T61	Property 7466 7470	soil
+T62	Mineral 7679 7693	ferricopiapite
+T63	Property 7703 7710	spectra
+T64	Mineral 7738 7745	sulfate
+T65	Property 7943 7950	spectra
+T66	Mineral 8226 8241	ferric sulfates
+T67	Mineral 8243 8252	copiapite
+T68	Mineral 8257 8266	kornelite
+T69	Mineral 8290 8304	ferricopiapite
+T70	Mineral 8328 8342	ferricopiapite
+T71	Mineral 9184 9198	Ferricopiapite
+T72	Mineral 9302 9316	Ferricopiapite
+T73	Mineral 9406 9420	Ferricopiapite
+T74	Mineral 9814 9828	Ferricopiapite
+T75	Mineral 10056 10070	Ferricopiapite
+T76	Mineral 10151 10165	Ferricopiapite
+T77	Mineral 10166 10177	Rhomboclase
+T78	Mineral 10185 10199	Ferricopiapite
+T79	Mineral 10200 10211	Rhomboclase
+T80	Target 1497 1508	Paso Robles
+T81	Target 1681 1687	Tyrone
+T82	Target 1982 1988	Tyrone
+T83	Target 2173 2179	Tyrone
+T84	Target 7290 7296	Tyrone
+T85	Target 8174 8180	Tyrone
+R0	Contains Arg1:T80 Arg2:T18
+R1	Contains Arg1:T80 Arg2:T19
+R2	Contains Arg1:T82 Arg2:T25
+R3	Contains Arg1:T82 Arg2:T27
+R4	Contains Arg1:T82 Arg2:T28
+R5	Contains Arg1:T85 Arg2:T66
+R6	Contains Arg1:T85 Arg2:T67
+R7	Contains Arg1:T85 Arg2:T68
+R8	Contains Arg1:T85 Arg2:T69
+R9	Contains Arg1:T85 Arg2:T70
+R10	HasProperty Arg1:T81 Arg2:T20
+R11	HasProperty Arg1:T82 Arg2:T26
+R12	HasProperty Arg1:T83 Arg2:T29
+T86	Property 1637 1642	salty
+R13	HasProperty Arg1:T81 Arg2:T86	
+T87	Property 1627 1636	two-layer
+R14	HasProperty Arg1:T81 Arg2:T87	
+R15	Contains Arg1:T81 Arg2:T23	
+R16	Contains Arg1:T81 Arg2:T22	
+T88	Mineral 1755 1758	SO3
+R17	Contains Arg1:T81 Arg2:T88	
+T89	Mineral 2028 2040	fibroferrite
+T90	Mineral 2042 2053	rhomboclase
+R18	Contains Arg1:T82 Arg2:T89	
+R19	Contains Arg1:T82 Arg2:T90	
+T91	Property 1972 1981	yellowish
+R20	HasProperty Arg1:T82 Arg2:T91	
+T92	Property 2163 2172	yellowish
+R21	HasProperty Arg1:T83 Arg2:T92	
+T93	Property 7297 7306	yellowish
+R22	HasProperty Arg1:T84 Arg2:T93	
+T94	Property 7307 7312	salty
+T95	Property 7313 7318	soils
+R23	HasProperty Arg1:T84 Arg2:T94	
+R24	HasProperty Arg1:T84 Arg2:T95	
+T96	Property 8181 8190	yellowish
+R25	HasProperty Arg1:T85 Arg2:T96	
+T97	Property 8191 8196	salty
+T98	Property 8197 8202	soils
+R26	HasProperty Arg1:T85 Arg2:T97	
+R27	HasProperty Arg1:T85 Arg2:T98	
+T99	Mineral 8346 8357	rhomboclase
+R28	Contains Arg1:T85 Arg2:T99	

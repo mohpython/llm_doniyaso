@@ -1,0 +1,83 @@
+T1	Property 988 992	rock
+T2	Element 1121 1123	Cl
+T3	Element 1865 1866	S
+T4	Element 1871 1873	Cl
+T5	Property 2079 2083	soil
+T6	Property 2125 2129	rock
+T8	Mineral 2389 2396	sulfate
+T9	Element 2431 2433	Cl
+T10	Element 2600 2602	Cl
+T11	Mineral 2676 2684	sulfates
+T12	Property 2825 2829	rock
+T13	Property 2888 2892	rock
+T14	Element 3068 3070	Cl
+T15	Property 3119 3123	rock
+T16	Property 3301 3305	rock
+T17	Property 3608 3613	brine
+T18	Property 3908 3913	brine
+T19	Element 3953 3955	Cl
+T20	Element 3990 3992	Cl
+T21	Element 4058 4060	Cl
+T22	Element 4099 4101	Cl
+T23	Element 4340 4342	Cl
+T24	Element 4352 4354	Cl
+T25	Element 4412 4414	Cl
+T26	Element 4647 4649	Cl
+T27	Element 4670 4672	Cl
+T28	Element 4729 4731	Cl
+T29	Element 4757 4759	Cl
+T30	Element 4947 4949	Cl
+T31	Element 5147 5149	Cl
+T32	Element 5471 5472	S
+T33	Mineral 5489 5497	chloride
+T34	Mineral 5613 5620	sulfate
+T35	Mineral 5625 5633	chloride
+T36	Mineral 5791 5798	sulfate
+T37	Mineral 5803 5811	chloride
+T38	Element 6107 6109	Cl
+T39	Property 6141 6152	composition
+T40	Element 6280 6282	Cl
+T41	Element 7025 7027	Cl
+T42	Element 7130 7132	Cl
+T43	Element 8294 8296	Cl
+T44	Element 8469 8471	Cl
+T45	Element 8702 8704	Cl
+T46	Element 8725 8727	Cl
+T47	Element 8953 8955	Cl
+T48	Element 8974 8976	Cl
+T49	Element 8980 8982	Al
+T50	Element 8986 8988	Po
+T51	Element 8989 8991	Br
+T52	Element 9292 9294	Al
+T53	Element 9301 9303	Br
+T54	Element 9343 9345	Al
+T55	Element 9352 9354	Br
+T56	Target 2172 2177	Peace
+T57	Target 2203 2214	Pot of Gold
+T58	Target 2223 2232	Bread Box
+T59	Target 2242 2251	Alligator
+T60	Target 2258 2264	Clovis
+T61	Target 2271 2279	Ebenezer
+T62	Target 2286 2292	Uchben
+T63	Target 2302 2310	Lutefisk
+T64	Target 5956 5966	Adirondack
+T65	Target 5977 5985	Mazatzal
+T66	Target 5987 5996	Wishstone
+T67	Target 5998 6007	Champagne
+T68	Target 6009 6019	Watchtower
+R8	HasProperty Arg1:T56 Arg2:T6
+R9	HasProperty Arg1:T57 Arg2:T6
+R10	HasProperty Arg1:T58 Arg2:T6
+R11	HasProperty Arg1:T59 Arg2:T6
+R12	HasProperty Arg1:T60 Arg2:T6
+R13	HasProperty Arg1:T61 Arg2:T6
+R14	HasProperty Arg1:T62 Arg2:T6
+R15	HasProperty Arg1:T63 Arg2:T6
+T69	Target 925 934	West Spur
+T70	Target 1941 1950	West Spur
+T71	Target 2156 2165	West Spur
+T73	Target 2184 2194	Fools Gold
+T81	Target 5177 5186	West Spur
+T82	Target 5968 5975	Humphry
+T83	Target 6025 6036	Wooly Patch
+R1	HasProperty Arg1:T73 Arg2:T6	

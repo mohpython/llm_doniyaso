@@ -1,0 +1,104 @@
+T1	Property 387 391	dust
+T2	Property 508 512	rock
+T3	Property 539 546	spectra
+T4	Property 1156 1160	dust
+T5	Property 1318 1325	coating
+T6	Property 1336 1340	dust
+T7	Property 1719 1726	spectra
+T8	Property 1736 1740	rock
+T9	Property 1989 1993	dust
+T10	Property 2085 2089	dust
+T11	Property 2503 2510	igneous
+T12	Mineral 2711 2718	sulfate
+T13	Property 2832 2836	dust
+T14	Mineral 2839 2846	Sulfate
+T15	Mineral 2931 2938	sulfate
+T16	Property 2962 2969	spectra
+T17	Property 3103 3110	spectra
+T18	Property 3144 3153	weathered
+T19	Property 3271 3278	spectra
+T20	Mineral 3379 3386	sulfate
+T21	Mineral 3427 3435	feldspar
+T22	Mineral 3437 3445	pyroxene
+T23	Mineral 3451 3458	olivine
+T24	Property 3480 3484	dust
+T25	Property 3523 3526	red
+T26	Property 3644 3648	dust
+T27	Property 3737 3741	dust
+T28	Property 3745 3749	rock
+T29	Property 3988 3992	dust
+T30	Property 4009 4013	dust
+T31	Element 4267 4268	K
+T32	Element 4279 4280	K
+T33	Mineral 4503 4510	olivine
+T34	Mineral 4523 4531	feldspar
+T35	Mineral 4536 4544	pyroxene
+T36	Mineral 4640 4648	pyroxene
+T37	Property 4665 4670	mafic
+T38	Mineral 4696 4704	feldspar
+T39	Property 4907 4914	Spectra
+T40	Mineral 4939 4946	olivine
+T41	Mineral 4974 4982	feldspar
+T42	Mineral 4987 4995	pyroxene
+T43	Mineral 5143 5151	pyroxene
+T44	Mineral 5156 5164	feldspar
+T45	Mineral 5326 5334	feldspar
+T46	Mineral 5430 5437	olivine
+T47	Property 5454 5459	mafic
+T48	Mineral 5471 5479	pyroxene
+T49	Mineral 5498 5506	tephrite
+T50	Mineral 5571 5579	feldspar
+T51	Mineral 5644 5651	olivine
+T52	Mineral 5694 5701	olivine
+T53	Mineral 5711 5717	quartz
+T54	Mineral 6013 6021	feldspar
+T55	Mineral 6060 6067	olivine
+T56	Mineral 6072 6080	pyroxene
+T57	Property 6111 6115	rock
+T58	Mineral 6631 6640	pigeonite
+T59	Mineral 6666 6675	Pigeonite
+T60	Mineral 6808 6816	pyroxene
+T61	Mineral 6829 6836	olivine
+T62	Property 7011 7018	spectra
+T63	Target 3334 3344	Adirondack
+T64	Target 4445 4455	Adirondack
+T65	Target 4735 4741	Irvine
+T66	Target 4762 4771	Esperanza
+T67	Target 5549 5558	Wishstone
+R0	Contains Arg1:T63 Arg2:T20
+R4	Contains Arg1:T64 Arg2:T33
+R5	Contains Arg1:T64 Arg2:T34
+R6	Contains Arg1:T64 Arg2:T35
+R7	Contains Arg1:T67 Arg2:T50
+T68	Target 449 461	Husband Hill
+T69	Property 657 665	alkaline
+T70	Property 666 674	volcanic
+R8	HasProperty Arg1:T68 Arg2:T69	
+R9	HasProperty Arg1:T68 Arg2:T70	
+T71	Property 3351 3358	basalts
+R10	HasProperty Arg1:T63 Arg2:T71	
+R1	Contains Arg1:T64 Arg2:T36	
+R2	Contains Arg1:T64 Arg2:T38	
+R3	Contains Arg1:T65 Arg2:T40	
+R11	Contains Arg1:T66 Arg2:T40	
+T72	Property 4957 4962	glass
+R12	HasProperty Arg1:T65 Arg2:T72	
+R13	HasProperty Arg1:T66 Arg2:T72	
+R14	Contains Arg1:T65 Arg2:T41	
+R15	Contains Arg1:T66 Arg2:T41	
+R16	Contains Arg1:T65 Arg2:T42	
+R17	Contains Arg1:T66 Arg2:T42	
+R18	Contains Arg1:T65 Arg2:T43	
+R19	Contains Arg1:T66 Arg2:T43	
+R20	Contains Arg1:T65 Arg2:T44	
+R21	Contains Arg1:T66 Arg2:T44	
+T73	Target 5312 5320	backstay
+R22	Contains Arg1:T73 Arg2:T45	
+R23	Contains Arg1:T73 Arg2:T46	
+T74	Target 4470 4477	Liberté
+R24	Contains Arg1:T74 Arg2:T33	
+R25	Contains Arg1:T74 Arg2:T34	
+R26	Contains Arg1:T74 Arg2:T35	
+T75	Target 5609 5619	Fraternité
+R27	Contains Arg1:T75 Arg2:T51	
+R28	Contains Arg1:T67 Arg2:T51	

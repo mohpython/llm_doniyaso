@@ -1,0 +1,121 @@
+T1	Property 519 527	basaltic
+T2	Mineral 1040 1055	phyllosilicates
+T3	Element 1444 1446	Fe
+T4	Property 1591 1595	rock
+T5	Property 1649 1653	rock
+T6	Property 1835 1839	rock
+T7	Property 1950 1957	coating
+T8	Property 2028 2035	spectra
+T9	Property 2061 2068	coating
+T10	Property 2111 2119	basaltic
+T11	Property 2120 2131	composition
+T12	Property 2162 2170	basaltic
+T13	Property 2251 2258	coating
+T14	Mineral 2311 2318	olivine
+T15	Mineral 2441 2456	phyllosilicates
+T16	Property 2498 2503	rinds
+T17	Property 2518 2522	sand
+T18	Property 2759 2766	spectra
+T19	Property 2807 2815	basaltic
+T20	Property 2929 2936	spectra
+T21	Mineral 3034 3049	phyllosilicates
+T22	Property 3118 3125	spectra
+T23	Property 3296 3303	spectra
+T24	Mineral 3389 3400	maskelynite
+T25	Property 3416 3424	basaltic
+T26	Mineral 3567 3582	montmorillonite
+T27	Mineral 3647 3649	Mg
+T28	Mineral 3649 3650	-
+T29	Mineral 3650 3657	sulfate
+T30	Mineral 3659 3666	apatite
+T31	Mineral 3672 3680	ilmenite
+T32	Mineral 3742 3757	montmorillonite
+T33	Property 3778 3785	spectra
+T34	Mineral 3817 3832	montmorillonite
+T35	Property 3970 3974	dark
+T36	Property 3975 3982	coating
+T37	Property 4229 4240	composition
+T38	Property 4256 4263	spectra
+T39	Property 4281 4289	basaltic
+T40	Property 4822 4829	spectra
+T41	Mineral 4926 4932	quartz
+T42	Property 5256 5263	spectra
+T43	Property 5318 5325	spectra
+T44	Property 5533 5541	Coatings
+T45	Mineral 5770 5785	phyllosilicates
+T46	Property 5855 5863	basaltic
+T47	Property 5995 6002	spectra
+T48	Property 6535 6539	rock
+T49	Target 1846 1854	Mazatzal
+T50	Target 2689 2695	Clovis
+T51	Target 3221 3233	Independence
+T52	Target 3929 3937	Mazatzal
+T53	Target 4063 4073	Home Plate
+T54	Target 4546 4556	Home Plate
+T55	Target 5669 5677	Mazatzal
+T56	Target 5679 5685	Clovis
+T57	Target 5787 5797	Home Plate
+R0	Contains Arg1:T56 Arg2:T45
+R1	HasProperty Arg1:T49 Arg2:T6
+R2	HasProperty Arg1:T49 Arg2:T7
+R3	HasProperty Arg1:T53 Arg2:T37
+R4	HasProperty Arg1:T55 Arg2:T44
+R5	HasProperty Arg1:T57 Arg2:T46
+R6	HasProperty Arg1:T49 Arg2:T10	
+T58	Target 2610 2619	West Spur
+T59	Property 2658 2665	layered
+T60	Property 2666 2673	clastic
+R7	HasProperty Arg1:T50 Arg2:T60	
+R8	HasProperty Arg1:T50 Arg2:T59	
+T61	Property 2674 2679	rocks
+R9	HasProperty Arg1:T50 Arg2:T61	
+R10	HasProperty Arg1:T58 Arg2:T59	
+R11	HasProperty Arg1:T58 Arg2:T60	
+R12	HasProperty Arg1:T58 Arg2:T61	
+T62	Property 2730 2748	aqueous alteration
+R13	HasProperty Arg1:T50 Arg2:T62	
+R14	HasProperty Arg1:T58 Arg2:T62	
+R15	HasProperty Arg1:T50 Arg2:T19	
+T63	Property 2816 2821	glass
+R16	HasProperty Arg1:T50 Arg2:T63	
+R17	HasProperty Arg1:T58 Arg2:T19	
+R18	HasProperty Arg1:T58 Arg2:T63	
+T64	Target 2997 3006	West Spur
+T65	Element 3026 3028	Fe
+R19	Contains Arg1:T64 Arg2:T65	
+R20	Contains Arg1:T64 Arg2:T21	
+T66	Target 3267 3279	Husband Hill
+T67	Mineral 3372 3376	opal
+R21	Contains Arg1:T51 Arg2:T67	
+R22	Contains Arg1:T51 Arg2:T24	
+R23	HasProperty Arg1:T51 Arg2:T25	
+T68	Property 3425 3430	glass
+R24	HasProperty Arg1:T51 Arg2:T68	
+R25	Contains Arg1:T66 Arg2:T67	
+R26	Contains Arg1:T66 Arg2:T24	
+R27	HasProperty Arg1:T66 Arg2:T25	
+R28	HasProperty Arg1:T66 Arg2:T68	
+T69	Property 3362 3371	aluminous
+R29	HasProperty Arg1:T51 Arg2:T69	
+R30	HasProperty Arg1:T66 Arg2:T69	
+R31	Contains Arg1:T51 Arg2:T26	
+R32	Contains Arg1:T66 Arg2:T26	
+R33	Contains Arg1:T51 Arg2:T32	
+R34	Contains Arg1:T66 Arg2:T32	
+R35	HasProperty Arg1:T52 Arg2:T35	
+R36	HasProperty Arg1:T52 Arg2:T36	
+T70	Property 4150 4157	layered
+T71	Property 4139 4146	plateau
+T72	Property 4158 4169	pyroclastic
+T73	Property 4207 4214	altered
+T74	Mineral 4215 4221	alkali
+T75	Property 4222 4228	basalt
+R37	HasProperty Arg1:T53 Arg2:T71	
+R38	HasProperty Arg1:T53 Arg2:T70	
+R39	HasProperty Arg1:T53 Arg2:T72	
+R40	HasProperty Arg1:T53 Arg2:T73	
+R41	Contains Arg1:T53 Arg2:T74	
+R42	HasProperty Arg1:T53 Arg2:T75	
+R43	HasProperty Arg1:T53 Arg2:T39	
+T76	Property 4290 4295	glass
+R44	HasProperty Arg1:T53 Arg2:T76	

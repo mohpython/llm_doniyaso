@@ -1,0 +1,77 @@
+T1	Property 40 47	SPECTRA
+T2	Property 296 303	spectra
+T3	Property 572 579	spectra
+T4	Property 610 614	dust
+T5	Property 709 713	dust
+T6	Property 1044 1048	dust
+T7	Property 1124 1128	dust
+T8	Property 1183 1190	spectra
+T9	Property 1260 1267	spectra
+T10	Property 1477 1481	Dust
+T11	Property 1553 1557	dust
+T12	Property 1672 1679	spectra
+T13	Property 1806 1810	dust
+T14	Property 1884 1888	dust
+T15	Property 2096 2103	spectra
+T16	Property 2146 2153	spectra
+T17	Property 2449 2456	spectra
+T18	Property 2822 2826	dust
+T19	Property 2862 2865	red
+T20	Property 2943 2946	red
+T21	Property 2957 2961	Dust
+T22	Property 2962 2970	Coatings
+T23	Property 3007 3014	spectra
+T24	Property 3093 3097	dust
+T25	Property 3144 3148	dust
+T26	Property 3328 3332	dust
+T27	Property 3357 3361	dust
+T28	Property 3454 3458	dust
+T29	Property 3484 3488	dust
+T30	Property 3644 3648	dust
+T31	Property 3776 3780	dust
+T32	Property 3952 3956	dust
+T33	Property 3968 3972	dust
+T34	Property 4171 4175	dust
+T35	Property 4282 4289	spectra
+T36	Property 4322 4326	dust
+T37	Property 4383 4387	dust
+T38	Property 4444 4448	dust
+T39	Property 4468 4472	dust
+T40	Property 4642 4649	spectra
+T41	Property 5191 5198	spectra
+T42	Property 5323 5327	soil
+T43	Property 5332 5336	dust
+T44	Property 5716 5722	facets
+T45	Property 5798 5802	soil
+T46	Property 5917 5921	rock
+T47	Property 6157 6161	soil
+T48	Property 6174 6178	dust
+T49	Property 6188 6191	red
+T50	Property 6282 6285	red
+T51	Property 6407 6414	spectra
+T52	Property 6527 6531	rock
+T53	Target 2537 2545	Comanche
+T54	Target 4983 4997	Jibsheet Ridge
+T55	Target 5233 5243	Adirondack
+T56	Target 5489 5499	Adirondack
+T57	Target 6101 6111	Adirondack
+T58	Target 6461 6471	Adirondack
+T59	Property 2522 2527	rocks
+R8	HasProperty Arg1:T53 Arg2:T59	
+T60	Target 5002 5017	Larry's Lookout
+T61	Property 5018 5026	outcrops
+R9	HasProperty Arg1:T60 Arg2:T61	
+T62	Target 5030 5042	Husband Hill
+R10	HasProperty Arg1:T54 Arg2:T61	
+T63	Mineral 5220 5227	olivine
+R11	Contains Arg1:T55 Arg2:T63	
+T64	Property 5250 5257	basalts
+R12	HasProperty Arg1:T55 Arg2:T64	
+T65	Property 5506 5513	basalts
+R1	HasProperty Arg1:T56 Arg2:T65	
+T66	Mineral 6088 6095	olivine
+R2	Contains Arg1:T57 Arg2:T66	
+T67	Mineral 6448 6455	olivine
+R3	Contains Arg1:T58 Arg2:T67	
+T68	Property 6478 6484	basalt
+R4	HasProperty Arg1:T58 Arg2:T68	

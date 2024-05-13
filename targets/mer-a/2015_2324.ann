@@ -1,0 +1,65 @@
+T1	Property 55 59	SAND
+T2	Property 1171 1175	sand
+T3	Property 1382 1386	sand
+T4	Property 1725 1729	sand
+T5	Property 2310 2314	fine
+T6	Property 2326 2330	rock
+T7	Property 2475 2479	rock
+T8	Property 2512 2516	dust
+T9	Property 2566 2570	rock
+T10	Property 2571 2578	coating
+T11	Property 2582 2586	rind
+T12	Property 3600 3609	ventifact
+T13	Property 3693 3697	pits
+T14	Property 3709 3715	flutes
+T15	Property 3717 3724	grooves
+T16	Property 3730 3734	rock
+T17	Property 3764 3774	lineations
+T18	Property 4137 4146	ventifact
+T19	Property 4173 4177	rock
+T20	Element 4274 4281	lithium
+T21	Property 4326 4330	rock
+T22	Property 4374 4383	ventifact
+T23	Property 4999 5007	boulders
+T24	Property 5171 5177	Facets
+T25	Property 5209 5213	pits
+T26	Property 5232 5239	grooves
+T27	Property 5241 5245	rock
+T28	Property 5257 5267	lineations
+T29	Property 5303 5309	facets
+T30	Property 5314 5319	sharp
+T31	Property 5646 5654	boulders
+T32	Property 5875 5879	sand
+T33	Property 6145 6149	rock
+T34	Target-MSL 6163 6171	Sheepbed
+T35	Property 6496 6500	dune
+T36	Property 6753 6757	sand
+T37	Property 6809 6818	ventifact
+T38	Property 6853 6857	dune
+T39	Element 7044 7051	lithium
+T40	Property 7292 7296	dust
+T41	Element 7494 7496	Li
+T42	Property 7539 7544	rough
+T43	Property 7568 7572	pits
+T44	Property 7679 7685	smooth
+T45	Property 7780 7784	rock
+T46	Property 7866 7870	dark
+T47	Property 7871 7875	sand
+T48	Property 7931 7935	dune
+T49	Property 8013 8017	rock
+T50	Property 8334 8338	sand
+T51	Property 8415 8419	sand
+T52	Property 8514 8518	sand
+T53	Property 8528 8532	rock
+T54	Property 8717 8721	sand
+T55	Property 8750 8754	rock
+T56	Property 8910 8913	red
+T57	Element 8920 8927	lithium
+T58	Property 9012 9016	rock
+T59	Property 9126 9135	ventifact
+T60	Target-MSL 8997 9002	Slide
+R0	Contains Arg1:T60 Arg2:T57
+R1	HasProperty Arg1:T34 Arg2:T33
+R2	HasProperty Arg1:T60 Arg2:T56
+R3	HasProperty Arg1:T60 Arg2:T58
+R4	HasProperty Arg1:T60 Arg2:T59

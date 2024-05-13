@@ -1,0 +1,41 @@
+T1	Property 755 762	spectra
+T2	Property 1954 1962	boulders
+T3	Property 1994 1999	knobs
+T4	Property 2083 2091	boulders
+T5	Property 2568 2576	boulders
+T6	Property 2589 2594	knobs
+T7	Mineral 2644 2651	olivine
+T8	Property 2914 2922	boulders
+T9	Property 3124 3128	rock
+T10	Property 3333 3337	rock
+T11	Property 3446 3454	boulders
+T12	Property 3695 3699	rock
+T13	Property 5218 5226	boulders
+T14	Property 5744 5750	smooth
+T15	Target 2407 2417	Home Plate
+T16	Target 2821 2831	Home Plate
+T17	Target 2992 3002	Home Plate
+T18	Target 3135 3145	Scott Base
+T19	Target 3273 3281	Comanche
+T20	Target 3345 3355	Gurruchaga
+T21	Target 3394 3405	McCool Hill
+T22	Target 3511 3519	Seminole
+T23	Target 5490 5498	Comanche
+T24	Target 5503 5511	Seminole
+T25	Target 5549 5559	Home Plate
+R0	HasProperty Arg1:T17 Arg2:T8
+R1	HasProperty Arg1:T18 Arg2:T9
+R3	HasProperty Arg1:T20 Arg2:T10
+R4	HasProperty Arg1:T20 Arg2:T11
+R6	HasProperty Arg1:T21 Arg2:T11
+T26	Target 2472 2484	Haskin Ridge
+T27	Target 2804 2816	Haskin Ridge
+T28	Target 2973 2982	Low Ridge
+T29	Mineral 3064 3071	olivine
+T30	Target 3086 3098	Haskin Ridge
+R7	Contains Arg1:T30 Arg2:T29	
+T31	Target 3299 3311	Haskin Ridge
+T32	Target 3483 3495	Haskin Ridge
+R2	HasProperty Arg1:T28 Arg2:T8	
+T33	Property 3496 3503	outcrop
+R5	HasProperty Arg1:T22 Arg2:T33	

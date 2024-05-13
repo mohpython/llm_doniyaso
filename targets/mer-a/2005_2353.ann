@@ -1,0 +1,68 @@
+T1	Property 22 30	BASALTIC
+T2	Mineral 1890 1897	olivine
+T3	Element 2342 2350	nitrogen
+T4	Mineral 2401 2409	nitrates
+T5	Element 2490 2491	K
+T6	Mineral 2496 2511	phyllosilicates
+T7	Element 3193 3194	S
+T8	Property 3257 3264	organic
+T9	Property 3396 3404	basaltic
+T10	Element 3723 3724	C
+T11	Mineral 3726 3733	olivine
+T12	Mineral 3773 3780	brucite
+T13	Element 3785 3787	Mg
+T14	Element 3792 3794	Fe
+T15	Mineral 3894 3901	brucite
+T16	Mineral 3903 3912	magnetite
+T17	Property 3972 3976	rock
+T18	Property 4009 4013	rock
+T19	Mineral 4080 4087	olivine
+T20	Property 4124 4131	igneous
+T21	Mineral 4174 4181	olivine
+T22	Property 4230 4235	mafic
+T23	Mineral 4375 4382	olivine
+T24	Mineral 4475 4484	magnetite
+T25	Mineral 4557 4566	magnetite
+T26	Property 4589 4596	igneous
+T27	Mineral 4636 4643	olivine
+T28	Mineral 4676 4685	magnetite
+T29	Property 4816 4822	brines
+T30	Property 5439 5447	basaltic
+T31	Property 5520 5524	dust
+T32	Property 5572 5577	crust
+T33	Property 5627 5631	dust
+T34	Property 5949 5953	Soil
+T35	Property 5954 5959	crust
+T36	Property 6069 6075	impact
+T37	Property 6076 6082	crater
+T38	Property 6154 6160	trench
+T39	Property 6737 6741	flat
+T40	Property 6834 6838	Soil
+T41	Property 6931 6935	soil
+T42	Element 7013 7014	S
+T43	Element 7016 7018	Mg
+T44	Element 7020 7022	Cl
+T45	Element 7027 7029	Br
+T46	Property 7293 7301	fracture
+T47	Property 7532 7541	weathered
+T48	Property 7542 7546	rock
+T49	Mineral 7680 7687	olivine
+T50	Property 7875 7879	rock
+T51	Property 7959 7970	exfoliation
+T52	Property 8756 8759	ice
+T53	Property 8867 8870	ice
+T54	Property 9238 9243	mafic
+T55	Target 6704 6712	Big Hole
+T56	Target 7056 7064	Big Hole
+R0	Contains Arg1:T56 Arg2:T42
+R1	Contains Arg1:T56 Arg2:T43
+R2	Contains Arg1:T56 Arg2:T44
+R3	Contains Arg1:T56 Arg2:T45
+R4	HasProperty Arg1:T55 Arg2:T39
+T57	Target 6042 6055	Laguna Hollow
+T58	Target 6719 6731	The Boroughs
+T59	Target 7071 7083	The Boroughs
+R5	Contains Arg1:T59 Arg2:T42	
+R6	Contains Arg1:T59 Arg2:T43	
+R7	Contains Arg1:T59 Arg2:T44	
+R8	Contains Arg1:T59 Arg2:T45	

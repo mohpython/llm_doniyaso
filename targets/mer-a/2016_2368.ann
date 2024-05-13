@@ -1,0 +1,172 @@
+T1	Element 1 3	Na
+T2	Element 4 6	Mg
+T3	Element 7 9	Al
+T4	Element 10 12	Si
+T5	Element 13 14	P
+T6	Element 17 19	Cl
+T7	Element 20 21	K
+T8	Element 22 24	Ca
+T9	Element 25 27	Ti
+T10	Element 28 30	Cr
+T11	Element 31 33	Mn
+T12	Element 34 36	Fe
+T13	Element 37 39	Ni
+T14	Element 40 42	Zn
+T15	Element 43 45	Br
+T16	Element 65 66	P
+T17	Element 177 178	S
+T18	Element 248 249	S
+T19	Element 265 267	Ge
+T20	Element 268 270	Ni
+T21	Element 271 273	Zn
+T22	Element 357 358	S
+T23	Property 1355 1366	composition
+T24	Element 1413 1415	Si
+T25	Element 1417 1418	S
+T26	Element 1423 1425	Ti
+T27	Element 1447 1450	Fe3
+T28	Element 1507 1509	Ni
+T29	Element 1514 1516	Zn
+T30	Property 1620 1625	sharp
+T31	Property 1700 1711	composition
+T32	Target-MSL 1726 1731	Ronan
+T33	Property 1815 1826	composition
+T34	Property 1984 1988	soil
+T35	Property 2049 2053	soil
+T36	Property 2078 2089	composition
+T37	Element 2331 2333	Si
+T38	Element 2341 2343	Mg
+T39	Element 2348 2350	Ca
+T40	Element 2397 2398	P
+T41	Element 2440 2442	Fe
+T42	Element 2443 2445	Mn
+T43	Element 2558 2560	Mn
+T44	Element 2562 2564	Fe
+T45	Element 2566 2568	Ni
+T46	Element 2573 2575	Zn
+T47	Property 3229 3233	flat
+T48	Element 3243 3245	Na
+T49	Element 3246 3248	Mg
+T50	Element 3249 3251	Al
+T51	Element 3252 3254	Si
+T52	Element 3255 3256	P
+T53	Element 3259 3261	Cl
+T54	Element 3262 3263	K
+T55	Element 3264 3266	Ca
+T56	Element 3267 3269	Ti
+T57	Element 3270 3272	Cr
+T58	Element 3273 3275	Mn
+T59	Element 3276 3278	Fe
+T60	Element 3279 3281	Ni
+T61	Element 3282 3284	Zn
+T62	Element 3285 3287	Br
+T63	Element 3342 3343	P
+T64	Element 3396 3398	Na
+T65	Element 3399 3401	Mg
+T66	Element 3402 3404	Al
+T67	Element 3405 3407	Si
+T68	Element 3408 3409	P
+T69	Element 3412 3414	Cl
+T70	Element 3415 3416	K
+T71	Element 3417 3419	Ca
+T72	Element 3420 3422	Ti
+T73	Element 3423 3425	Cr
+T74	Element 3426 3428	Mn
+T75	Element 3429 3431	Fe
+T76	Element 3432 3434	Ni
+T77	Element 3435 3437	Zn
+T78	Element 3438 3440	Br
+T79	Element 3597 3599	Fe
+T80	Element 3683 3684	S
+T81	Element 3696 3698	Ca
+T82	Element 3703 3705	Al
+T83	Element 3734 3736	Mg
+T84	Element 3741 3743	Fe
+T85	Element 3808 3810	Ni
+T86	Element 3815 3817	Zn
+T87	Element 4002 4003	K
+T88	Element 4005 4007	Ti
+T89	Element 4023 4024	P
+T90	Element 4373 4375	Si
+T91	Element 4380 4381	P
+T92	Target-MSL 4543 4552	Greenhorn
+T93	Element 4810 4812	Cl
+T94	Element 4961 4963	Ca
+T95	Element 4968 4970	Fe
+T96	Property 5037 5044	igneous
+T97	Target-MSL 5129 5138	Greenhorn
+T98	Element 5223 5224	P
+T99	Element 5246 5248	Fe
+T100	Element 5249 5251	Mn
+T101	Element 5264 5266	Fe
+T102	Element 5285 5287	Mn
+T103	Element 5380 5382	Fe
+T104	Property 5391 5398	igneous
+T105	Element 5423 5425	Mn
+T106	Element 5525 5527	Ca
+T107	Element 5529 5531	Mn
+T108	Element 5536 5538	Ge
+T109	Element 5599 5600	S
+T110	Element 5689 5691	Ni
+T111	Element 5696 5698	Zn
+T112	Element 6103 6105	Fe
+T113	Element 6125 6126	S
+T114	Property 6337 6342	Sharp
+T115	Target-MSL 6973 6982	Greenhorn
+T116	Element 6992 6994	Fe
+T117	Element 6994 6995	/
+T118	Element 6995 6997	Mn
+T119	Target-MSL 3478 3485	Pilgrim
+T120	Target-MSL 4509 4516	Pilgrim
+T121	Target-MSL 4752 4759	Pilgrim
+T122	Target-MSL 5117 5124	Pilgrim
+T123	Target-MSL 6961 6968	Pilgrim
+R0	Contains Arg1:T119 Arg2:T48
+R1	Contains Arg1:T119 Arg2:T49
+R2	Contains Arg1:T119 Arg2:T50
+R3	Contains Arg1:T119 Arg2:T51
+R4	Contains Arg1:T119 Arg2:T52
+R5	Contains Arg1:T119 Arg2:T53
+R6	Contains Arg1:T119 Arg2:T54
+R7	Contains Arg1:T119 Arg2:T55
+R8	Contains Arg1:T119 Arg2:T56
+R9	Contains Arg1:T119 Arg2:T57
+R10	Contains Arg1:T119 Arg2:T58
+R11	Contains Arg1:T119 Arg2:T59
+R12	Contains Arg1:T119 Arg2:T60
+R13	Contains Arg1:T119 Arg2:T61
+R14	Contains Arg1:T119 Arg2:T62
+R15	Contains Arg1:T119 Arg2:T63
+R16	Contains Arg1:T119 Arg2:T64
+R17	Contains Arg1:T119 Arg2:T65
+R18	Contains Arg1:T119 Arg2:T66
+R19	Contains Arg1:T119 Arg2:T67
+R20	Contains Arg1:T119 Arg2:T68
+R21	Contains Arg1:T119 Arg2:T69
+R22	Contains Arg1:T119 Arg2:T70
+R23	Contains Arg1:T119 Arg2:T71
+R24	Contains Arg1:T119 Arg2:T72
+R25	Contains Arg1:T119 Arg2:T73
+R26	Contains Arg1:T119 Arg2:T74
+R27	Contains Arg1:T119 Arg2:T75
+R28	Contains Arg1:T119 Arg2:T76
+R29	Contains Arg1:T119 Arg2:T77
+R30	Contains Arg1:T119 Arg2:T78
+R31	Contains Arg1:T119 Arg2:T79
+R32	Contains Arg1:T119 Arg2:T80
+R33	Contains Arg1:T119 Arg2:T81
+R34	Contains Arg1:T119 Arg2:T82
+R35	Contains Arg1:T119 Arg2:T83
+R36	Contains Arg1:T119 Arg2:T84
+R37	Contains Arg1:T120 Arg2:T90
+R38	Contains Arg1:T120 Arg2:T91
+R39	Contains Arg1:T92 Arg2:T90
+R40	Contains Arg1:T92 Arg2:T91
+R41	Contains Arg1:T121 Arg2:T93
+R42	Contains Arg1:T123 Arg2:T116
+R43	Contains Arg1:T123 Arg2:T117
+R44	Contains Arg1:T123 Arg2:T118
+R45	Contains Arg1:T115 Arg2:T116
+R46	Contains Arg1:T115 Arg2:T117
+R47	Contains Arg1:T115 Arg2:T118
+R50	HasProperty Arg1:T32 Arg2:T33

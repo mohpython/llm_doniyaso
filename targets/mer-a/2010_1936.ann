@@ -1,0 +1,145 @@
+T1	Property 1 9	BASALTIC
+T2	Property 10 21	PYROCLASTIC
+T3	Property 366 374	Basaltic
+T4	Property 428 433	mafic
+T5	Property 508 516	basaltic
+T6	Property 722 730	basaltic
+T7	Property 743 747	rock
+T8	Property 956 964	basaltic
+T9	Property 1122 1130	basaltic
+T10	Mineral 1329 1339	ignimbrite
+T11	Property 1394 1403	vesicular
+T12	Property 1457 1469	conglomerate
+T13	Mineral 1475 1485	ignimbrite
+T14	Property 1489 1493	dark
+T15	Property 1503 1510	massive
+T16	Property 1530 1537	angular
+T17	Property 1553 1559	clasts
+T18	Property 1604 1608	rock
+T19	Property 1609 1617	basaltic
+T20	Property 1621 1629	basaltic
+T21	Mineral 1630 1638	andesite
+T22	Property 1888 1894	clasts
+T23	Property 2040 2047	massive
+T24	Property 2074 2080	clasts
+T25	Property 2108 2114	clasts
+T26	Mineral 2159 2170	plagioclase
+T27	Mineral 2176 2184	pyroxene
+T28	Property 2246 2254	basaltic
+T29	Property 2431 2435	dark
+T30	Property 2458 2462	fine
+T31	Property 2495 2499	rock
+T32	Mineral 2536 2547	plagioclase
+T33	Mineral 2549 2557	pyroxene
+T34	Property 2678 2686	basaltic
+T35	Mineral 2761 2768	olivine
+T36	Mineral 2773 2784	plagioclase
+T37	Property 2834 2840	clasts
+T38	Property 3140 3147	rounded
+T39	Property 3152 3159	angular
+T40	Property 3167 3173	clasts
+T41	Mineral 3238 3249	plagioclase
+T42	Mineral 3255 3263	pyroxene
+T43	Mineral 3268 3275	olivine
+T44	Property 3361 3369	basaltic
+T45	Property 3791 3799	basaltic
+T46	Mineral 3821 3832	plagioclase
+T47	Mineral 3834 3842	pyroxene
+T48	Mineral 3844 3851	olivine
+T49	Mineral 3857 3867	phosphates
+T50	Property 3925 3931	clasts
+T51	Property 3944 3951	angular
+T52	Property 3953 3959	poorly
+T53	Property 3960 3966	sorted
+T54	Property 4274 4281	angular
+T55	Property 4293 4299	clasts
+T56	Mineral 4383 4394	plagioclase
+T57	Mineral 4400 4408	pyroxene
+T58	Property 4921 4929	basaltic
+T59	Mineral 4949 4957	pyroxene
+T60	Mineral 4959 4966	olivine
+T61	Mineral 4968 4979	plagioclase
+T62	Mineral 5005 5014	magnetite
+T63	Property 5234 5242	basaltic
+T64	Property 5373 5380	angular
+T65	Property 5398 5404	clasts
+T66	Property 5493 5501	basaltic
+T67	Mineral 5513 5524	plagioclase
+T68	Mineral 5526 5534	pyroxene
+T69	Mineral 5536 5543	olivine
+T70	Mineral 6519 6529	ignimbrite
+T71	Property 6667 6675	basaltic
+T72	Property 6972 6976	rock
+T73	Property 7020 7027	massive
+T74	Property 7196 7204	basaltic
+T75	Property 7495 7501	clasts
+T76	Property 7598 7604	clasts
+T77	Property 8090 8094	rock
+T78	Property 8158 8166	basaltic
+T79	Property 8238 8246	basaltic
+T80	Property 9239 9243	rock
+T81	Property 9285 9289	rock
+T82	Target 4214 4223	Wishstone
+T83	Target 4693 4703	Home Plate
+T84	Target 4735 4745	Home Plate
+T85	Target 5282 5292	Home Plate
+T86	Target 7138 7148	Home Plate
+T87	Target 9229 9238	Wishstone
+T88	Target 9346 9356	Home Plate
+R0	Contains Arg1:T82 Arg2:T56
+R1	Contains Arg1:T82 Arg2:T57
+R2	HasProperty Arg1:T82 Arg2:T54
+R3	HasProperty Arg1:T82 Arg2:T55
+R5	HasProperty Arg1:T87 Arg2:T80
+T89	Target 4062 4071	Wishstone
+T90	Target 3706 3715	Wishstone
+T91	Target 3752 3761	Wishstone
+T92	Property 3778 3786	alkaline
+R7	HasProperty Arg1:T91 Arg2:T92	
+R8	HasProperty Arg1:T91 Arg2:T45	
+R9	Contains Arg1:T91 Arg2:T46	
+R10	Contains Arg1:T91 Arg2:T47	
+R11	Contains Arg1:T91 Arg2:T48	
+R12	Contains Arg1:T91 Arg2:T49	
+R13	HasProperty Arg1:T91 Arg2:T50	
+T93	Target 4635 4644	Wishstone
+T94	Property 4676 4687	ignimbrites
+R14	HasProperty Arg1:T93 Arg2:T94	
+T95	Property 4751 4754	low
+T96	Property 4755 4766	flat-topped
+R15	HasProperty Arg1:T84 Arg2:T95	
+R16	HasProperty Arg1:T84 Arg2:T96	
+T97	Property 4786 4793	layered
+T98	Property 4815 4822	altered
+T99	Property 4823 4830	clastic
+T100	Property 4862 4870	alkaline
+T101	Property 4871 4878	basalts
+R17	HasProperty Arg1:T84 Arg2:T97	
+R18	HasProperty Arg1:T84 Arg2:T98	
+R19	HasProperty Arg1:T84 Arg2:T99	
+R20	HasProperty Arg1:T84 Arg2:T100	
+R21	HasProperty Arg1:T84 Arg2:T101	
+R22	HasProperty Arg1:T84 Arg2:T58	
+R23	Contains Arg1:T84 Arg2:T59	
+R24	Contains Arg1:T84 Arg2:T60	
+R25	Contains Arg1:T84 Arg2:T61	
+T102	Mineral 4981 4999	nanophase Fe-oxide
+R26	Contains Arg1:T84 Arg2:T102	
+R27	Contains Arg1:T84 Arg2:T62	
+R28	HasProperty Arg1:T85 Arg2:T64	
+R29	HasProperty Arg1:T85 Arg2:T65	
+R30	HasProperty Arg1:T85 Arg2:T66	
+R31	Contains Arg1:T85 Arg2:T67	
+R32	Contains Arg1:T85 Arg2:T68	
+R33	Contains Arg1:T85 Arg2:T69	
+T103	Mineral 5549 5555	oxides
+R34	Contains Arg1:T85 Arg2:T103	
+T104	Target 5656 5665	Wishstone
+T105	Property 5672 5679	basalts
+R35	HasProperty Arg1:T104 Arg2:T105	
+T106	Property 5621 5626	tuffs
+R36	HasProperty Arg1:T85 Arg2:T106	
+T107	Property 4930 4935	glass
+R4	HasProperty Arg1:T84 Arg2:T107	
+T108	Property 5502 5507	glass
+R6	HasProperty Arg1:T85 Arg2:T108	

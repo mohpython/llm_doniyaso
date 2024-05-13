@@ -1,0 +1,111 @@
+T1	Mineral 60 68	SULFATES
+T2	Element 476 483	Calcium
+T3	Element 485 494	magnesium
+T4	Element 506 510	iron
+T5	Mineral 511 519	sulfates
+T6	Element 600 609	magnesium
+T7	Mineral 610 618	sulfates
+T8	Element 648 654	nickel
+T9	Mineral 896 904	sulfates
+T10	Mineral 1151 1159	sulfates
+T11	Element 1704 1708	iron
+T12	Mineral 2108 2116	Sulfates
+T13	Element 2118 2124	Sulfur
+T14	Element 2273 2279	sulfur
+T15	Element 2309 2315	sulfur
+T16	Element 2341 2348	calcium
+T17	Element 2362 2371	magnesium
+T18	Mineral 2381 2389	sulfates
+T19	Element 2471 2475	iron
+T20	Mineral 2476 2484	sulfates
+T21	Mineral 2506 2514	jarosite
+T22	Mineral 2517 2523	Gypsum
+T23	Mineral 2525 2534	bassanite
+T24	Mineral 2536 2545	anhydrite
+T25	Mineral 2550 2558	jarosite
+T26	Property 2726 2737	sedimentary
+T27	Element 2897 2903	sulfur
+T28	Element 2982 2984	Ca
+T29	Element 2992 2993	S
+T30	Element 3076 3083	calcium
+T31	Mineral 3084 3092	sulfates
+T32	Element 3122 3129	Calcium
+T33	Mineral 3130 3138	sulfates
+T34	Element 3215 3224	magnesium
+T35	Mineral 3225 3233	sulfates
+T36	Element 3300 3306	nickel
+T37	Element 3635 3637	Ni
+T38	Element 3678 3680	Ni
+T39	Mineral 3819 3827	sulfates
+T40	Element 3834 3836	Ni
+T41	Element 4095 4097	Mn
+T42	Mineral 4125 4133	sulfates
+T43	Element 4286 4288	Ni
+T44	Mineral 4327 4335	sulfates
+T45	Element 4627 4629	Ni
+T46	Element 4749 4751	Mg
+T47	Element 4753 4755	Ca
+T48	Mineral 4772 4780	sulfates
+T49	Element 4939 4941	Ni
+T50	Mineral 4973 4980	sulfate
+T51	Mineral 5023 5031	sulfates
+T52	Mineral 5070 5078	opposite
+T53	Mineral 5250 5258	sulfates
+T54	Element 5335 5339	iron
+T55	Mineral 5340 5348	sulfates
+T56	Mineral 5424 5432	sulfates
+T57	Mineral 5557 5565	sulfates
+T58	Element 5778 5779	S
+T59	Element 5790 5791	S
+T60	Element 5879 5885	sulfur
+T61	Property 5930 5937	igneous
+T62	Property 5985 5990	mafic
+T63	Property 5991 5995	sand
+T64	Element 6040 6042	Ni
+T65	Mineral 6180 6187	sulfate
+T66	Element 6364 6366	Ni
+T67	Element 6430 6432	Ni
+T68	Element 6477 6479	Ni
+T69	Element 6485 6487	Mg
+T70	Element 6492 6493	S
+T71	Element 6706 6708	Ni
+T72	Mineral 6725 6733	sulfates
+T73	Mineral 6874 6882	sulfates
+T74	Property 6972 6977	Sharp
+T75	Mineral 7089 7097	sulfates
+T76	Element 7159 7161	Mg
+T77	Element 7169 7170	S
+T78	Mineral 7231 7233	Mg
+T79	Mineral 7233 7234	-
+T80	Mineral 7234 7241	sulfate
+T81	Element 7260 7262	Ni
+T82	Element 7270 7272	Mg
+T83	Element 7319 7321	Ni
+T84	Element 7340 7342	Mg
+T85	Target 1101 1111	Home Plate
+T86	Target 4681 4691	Home Plate
+T87	Target 4866 4870	Hula
+T88	Target 6044 6053	El Dorado
+T89	Target 7055 7065	Home Plate
+R0	Contains Arg1:T87 Arg2:T49
+R1	Contains Arg1:T87 Arg2:T50
+R3	Contains Arg1:T88 Arg2:T64
+R6	HasProperty Arg1:T88 Arg2:T62
+R7	HasProperty Arg1:T88 Arg2:T63
+T90	Property 974 992	aqueous alteration
+R9	HasProperty Arg1:T85 Arg2:T90	
+T91	Element 1145 1147	Mg
+T92	Element 1148 1150	Ni
+R10	Contains Arg1:T85 Arg2:T91	
+R11	Contains Arg1:T85 Arg2:T92	
+R12	Contains Arg1:T85 Arg2:T10	
+T93	Mineral 4907 4910	MgO
+R13	Contains Arg1:T87 Arg2:T93	
+T94	Mineral 4921 4924	SO3
+R14	Contains Arg1:T87 Arg2:T94	
+T95	Element 4967 4969	Mg
+T96	Element 4970 4972	Ni
+R15	Contains Arg1:T87 Arg2:T96	
+R16	Contains Arg1:T87 Arg2:T95	
+T97	Mineral 6016 6019	MgO
+R2	Contains Arg1:T88 Arg2:T97	

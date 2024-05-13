@@ -1,0 +1,103 @@
+T1	Property 502 509	igneous
+T2	Property 717 725	basaltic
+T3	Property 1413 1421	basaltic
+T4	Property 1422 1433	composition
+T5	Property 1509 1517	basaltic
+T6	Mineral 1536 1544	pyroxene
+T7	Mineral 1546 1553	olivine
+T8	Mineral 1555 1566	plagioclase
+T9	Mineral 1592 1601	magnetite
+T10	Property 1943 1954	composition
+T11	Property 2027 2038	composition
+T12	Property 2074 2085	composition
+T13	Element 2116 2118	Mg
+T14	Element 2262 2264	Cl
+T15	Mineral 2545 2552	olivine
+T16	Mineral 2555 2568	orthopyroxene
+T17	Property 3041 3052	composition
+T18	Mineral 3091 3101	carbonates
+T19	Mineral 3283 3291	graphite
+T20	Property 3775 3786	composition
+T21	Mineral 3899 3906	olivine
+T22	Mineral 4062 4069	olivine
+T23	Mineral 4074 4087	orthopyroxene
+T24	Element 4144 4145	P
+T25	Element 4188 4189	K
+T26	Element 4259 4260	P
+T27	Property 4385 4396	composition
+T28	Mineral 4478 4485	olivine
+T29	Mineral 4490 4498	pyroxene
+T30	Property 4580 4591	composition
+T31	Mineral 4595 4602	olivine
+T32	Property 4723 4734	composition
+T33	Element 4747 4748	P
+T34	Property 4859 4870	composition
+T35	Property 5042 5047	crust
+T36	Property 5071 5076	crust
+T37	Element 5843 5845	Ti
+T38	Property 5939 5950	composition
+T39	Property 6045 6056	composition
+T40	Mineral 7075 7082	olivine
+T41	Target 1165 1173	Fastball
+T42	Target 1194 1204	Home Plate
+T43	Target 1279 1289	Home Plate
+T44	Target 1291 1301	Home Plate
+T45	Target 1922 1930	Fastball
+T46	Target 2065 2073	Fastball
+T47	Target 2134 2143	Homeplate
+T51	Target 4376 4384	Fastball
+T52	Target 4414 4422	Fastball
+T55	Target 5757 5767	Home Plate
+T56	Target 5780 5788	Fastball
+T59	Target 6270 6278	Fastball
+R0	Contains Arg1:T46 Arg2:T13
+R1	Contains Arg1:T46 Arg2:T14
+R2	Contains Arg1:T47 Arg2:T13
+R13	HasProperty Arg1:T45 Arg2:T10
+T61	Property 1174 1180	basalt
+R24	HasProperty Arg1:T41 Arg2:T61	
+T62	Property 1307 1314	plateau
+R25	HasProperty Arg1:T44 Arg2:T62	
+T63	Property 1367 1374	layered
+T64	Property 1387 1394	clastic
+T65	Mineral 1406 1412	alkali
+R26	HasProperty Arg1:T44 Arg2:T63	
+R27	HasProperty Arg1:T44 Arg2:T64	
+R28	Contains Arg1:T44 Arg2:T65	
+R29	HasProperty Arg1:T44 Arg2:T3	
+T66	Property 1460 1478	aqueous alteration
+R30	HasProperty Arg1:T44 Arg2:T66	
+T67	Property 1491 1498	outcrop
+T68	Property 1518 1523	glass
+R31	HasProperty Arg1:T44 Arg2:T67	
+R32	HasProperty Arg1:T44 Arg2:T5	
+R33	HasProperty Arg1:T44 Arg2:T68	
+R34	Contains Arg1:T44 Arg2:T6	
+R35	Contains Arg1:T44 Arg2:T7	
+R36	Contains Arg1:T44 Arg2:T8	
+T69	Mineral 1568 1586	nanophase Fe-oxide
+R37	Contains Arg1:T44 Arg2:T69	
+R38	Contains Arg1:T44 Arg2:T9	
+T70	Mineral 2269 2272	SO3
+R3	Contains Arg1:T46 Arg2:T70	
+T71	Target 2930 2939	Homeplate
+T72	Property 2946 2957	pyroclastic
+T73	Property 2958 2965	basalts
+R14	HasProperty Arg1:T71 Arg2:T72	
+R16	HasProperty Arg1:T71 Arg2:T73	
+T74	Mineral 3080 3086	oxides
+T75	Mineral 4614 4617	opx
+T76	Property 4905 4911	basalt
+T77	Property 5768 5775	plateau
+R6	HasProperty Arg1:T55 Arg2:T77	
+T78	Mineral 7085 7088	opx
+R4	Contains Arg1:T52 Arg2:T28	
+R7	Contains Arg1:T52 Arg2:T29	
+T48	Target 54 64	HOME PLATE
+T49	Property 65 76	PYROCLASTIC
+R5	HasProperty Arg1:T48 Arg2:T49	
+T50	Property 77 83	BASALT
+T53	Target 84 92	FASTBALL
+R8	HasProperty Arg1:T53 Arg2:T50	
+R9	HasProperty Arg1:T53 Arg2:T49	
+R10	HasProperty Arg1:T48 Arg2:T50	

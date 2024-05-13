@@ -1,0 +1,39 @@
+T1	Property 355 363	basaltic
+T2	Property 364 375	sedimentary
+T3	Property 702 711	sediments
+T4	Property 885 896	composition
+T5	Property 1766 1769	lag
+T6	Property 4261 4264	ice
+T7	Property 4535 4544	sediments
+T8	Property 4766 4775	sediments
+T9	Property 4894 4903	sediments
+T10	Property 5134 5143	sediments
+T11	Property 5312 5321	sediments
+T12	Property 5812 5823	sedimentary
+T13	Mineral 6320 6328	hematite
+T14	Mineral 6345 6353	hematite
+T15	Element 6384 6386	Ni
+T16	Property 6634 6645	composition
+T17	Property 7571 7577	poorly
+T18	Property 7578 7584	sorted
+T19	Property 7591 7599	basaltic
+T20	Property 7603 7614	composition
+T21	Property 7637 7641	soil
+T22	Mineral 7762 7770	saponite
+T23	Mineral 7798 7806	smectite
+T24	Property 7873 7880	massive
+T25	Property 8635 8646	sedimentary
+T26	Target 2106 2116	Home Plate
+T27	Target 2514 2524	Home Plate
+T28	Target 2736 2746	Home Plate
+T29	Target 5233 5243	Home Plate
+T30	Target 6685 6695	Home Plate
+T31	Target 8318 8328	Home Plate
+T32	Property 2324 2332	bomb sag
+R2	HasProperty Arg1:T26 Arg2:T32	
+T33	Property 2505 2512	Outcrop
+R3	HasProperty Arg1:T27 Arg2:T33	
+T34	Property 6609 6618	spherules
+R1	HasProperty Arg1:T30 Arg2:T34	
+T35	Property 6751 6758	lapilli
+R4	HasProperty Arg1:T30 Arg2:T35	

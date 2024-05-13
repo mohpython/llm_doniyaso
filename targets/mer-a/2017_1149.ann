@@ -1,0 +1,56 @@
+T1	Element 997 999	Al
+T2	Element 1004 1006	Si
+T3	Property 1029 1037	fracture
+T4	Mineral 1394 1402	smectite
+T5	Property 1403 1414	composition
+T6	Property 1847 1853	bright
+T7	Element 1950 1952	Ca
+T8	Element 1957 1958	S
+T9	Element 2333 2335	Mg
+T10	Property 2400 2408	fracture
+T11	Element 2474 2476	Mn
+T12	Property 2489 2496	coating
+T13	Element 2502 2504	Mg
+T14	Mineral 2520 2527	sulfate
+T15	Target-MERB 2554 2562	Pinnacle
+T16	Target-MERB 2567 2580	Stuart Island
+T17	Mineral 2610 2618	hematite
+T18	Property 2634 2642	fracture
+T19	Element 2667 2669	Mg
+T20	Element 2674 2675	S
+T21	Property 3182 3189	grooves
+T22	Property 3552 3556	soil
+T23	Property 3643 3647	Rock
+T24	Property 3903 3907	soil
+T25	Property 4531 4542	sedimentary
+T26	Property 6071 6079	fracture
+T27	Element 6160 6162	Ca
+T28	Element 6164 6165	S
+T29	Element 6205 6207	Mg
+T30	Element 6212 6213	S
+T31	Element 6314 6316	Si
+T32	Element 6318 6320	Al
+T33	Property 6365 6368	red
+T34	Property 6535 6539	soil
+T35	Property 6752 6756	sand
+T36	Property 6934 6937	red
+T37	Mineral 7105 7113	smectite
+T38	Mineral 7118 7125	sulfate
+T39	Target-MERB 3636 3642	Beacon
+R0	Contains Arg1:T15 Arg2:T9
+R1	Contains Arg1:T15 Arg2:T11
+R2	Contains Arg1:T15 Arg2:T13
+R3	Contains Arg1:T16 Arg2:T9
+R4	Contains Arg1:T16 Arg2:T11
+R5	Contains Arg1:T16 Arg2:T13
+R6	Contains Arg1:T15 Arg2:T14
+R7	Contains Arg1:T15 Arg2:T17
+R8	Contains Arg1:T16 Arg2:T14
+R9	Contains Arg1:T16 Arg2:T17
+R10	HasProperty Arg1:T15 Arg2:T10
+R11	HasProperty Arg1:T15 Arg2:T12
+R12	HasProperty Arg1:T15 Arg2:T18
+R13	HasProperty Arg1:T16 Arg2:T10
+R14	HasProperty Arg1:T16 Arg2:T12
+R15	HasProperty Arg1:T16 Arg2:T18
+R16	HasProperty Arg1:T39 Arg2:T23

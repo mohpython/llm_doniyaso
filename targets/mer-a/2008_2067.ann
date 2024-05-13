@@ -1,0 +1,70 @@
+T1	Property 447 456	sediments
+T2	Property 584 588	fine
+T3	Property 601 605	fine
+T4	Mineral 811 819	sulfates
+T5	Mineral 842 850	jarosite
+T6	Property 938 942	rock
+T7	Property 1042 1051	sediments
+T8	Property 1429 1438	sediments
+T9	Property 1610 1616	eolian
+T10	Property 1946 1955	sediments
+T11	Property 1979 1983	sand
+T12	Mineral 2556 2564	sulfates
+T13	Property 4021 4025	fine
+T14	Property 4026 4035	sediments
+T15	Property 4180 4188	basaltic
+T16	Property 4225 4236	sedimentary
+T17	Mineral 4572 4580	hematite
+T18	Mineral 4631 4639	sulfates
+T19	Mineral 4759 4767	sulfides
+T20	Mineral 4841 4850	chlorides
+T21	Property 4974 4983	sediments
+T22	Property 5055 5063	basaltic
+T23	Property 5191 5199	basaltic
+T24	Property 5803 5809	eolian
+T25	Property 5850 5854	dune
+T26	Mineral 6301 6307	quartz
+T27	Mineral 6531 6536	micas
+T28	Mineral 6564 6570	albite
+T29	Property 7197 7206	vesicular
+T30	Property 7406 7412	eolian
+T31	Mineral 7929 7937	chloride
+T32	Element 7960 7962	Br
+T33	Element 7963 7965	Cl
+T34	Mineral 8024 8032	chloride
+T35	Mineral 8101 8109	jarosite
+T36	Property 8170 8178	basaltic
+T37	Property 8312 8317	brine
+T38	Mineral 9412 9420	hematite
+T39	Property 9741 9750	sediments
+T40	Property 10040 10049	sediments
+T41	Property 10229 10238	sediments
+T42	Property 10456 10465	sediments
+T43	Target 1120 1130	Home Plate
+T44	Target 1526 1536	Home Plate
+T45	Target 4929 4939	Home Plate
+T46	Target 5626 5636	Home Plate
+T47	Target 5751 5761	Home Plate
+T48	Target 10008 10018	Home Plate
+R1	HasProperty Arg1:T44 Arg2:T9
+R4	HasProperty Arg1:T45 Arg2:T21
+R5	HasProperty Arg1:T45 Arg2:T22
+R6	HasProperty Arg1:T46 Arg2:T23
+R7	HasProperty Arg1:T47 Arg2:T24
+R9	HasProperty Arg1:T48 Arg2:T40
+T49	Property 1182 1192	impact sag
+R10	HasProperty Arg1:T43 Arg2:T49	
+T50	Property 1538 1553	phreatomagmatic
+R2	HasProperty Arg1:T44 Arg2:T50	
+T51	Property 4961 4973	Cross-bedded
+R3	HasProperty Arg1:T45 Arg2:T51	
+T52	Property 5094 5109	phreatomagmatic
+R11	HasProperty Arg1:T45 Arg2:T52	
+T53	Property 5277 5285	bomb sag
+T54	Target 5584 5597	Silica Valley
+R12	HasProperty Arg1:T46 Arg2:T53	
+T55	Mineral 5529 5535	silica
+R13	Contains Arg1:T54 Arg2:T55	
+T56	Property 5696 5719	hydrothermal alteration
+R14	HasProperty Arg1:T54 Arg2:T56	
+R15	HasProperty Arg1:T46 Arg2:T56	

@@ -1,0 +1,198 @@
+T1	Mineral 31 45	FERRIC SULFATE
+T2	Property 612 616	dark
+T3	Property 643 647	soil
+T4	Property 750 756	bright
+T5	Property 757 761	soil
+T6	Element 770 776	sulfur
+T7	Element 781 791	phosphorus
+T8	Element 808 815	silicon
+T9	Element 820 828	aluminum
+T10	Property 858 866	basaltic
+T11	Property 899 905	bright
+T12	Property 906 910	soil
+T13	Property 1029 1033	soil
+T14	Property 1079 1083	soil
+T15	Mineral 1095 1102	sulfate
+T18	Mineral 1181 1192	Ca-sulfates
+T19	Mineral 1224 1232	hematite
+T20	Mineral 1234 1240	halite
+T21	Mineral 1242 1251	allophane
+T22	Element 1267 1269	Si
+T23	Mineral 1282 1296	ferric sulfate
+T24	Mineral 1495 1502	sulfate
+T25	Mineral 1510 1518	chloride
+T26	Property 1568 1574	bright
+T27	Mineral 1612 1626	ferric sulfate
+T28	Element 1741 1745	iron
+T29	Property 1872 1879	spectra
+T30	Property 1953 1959	bright
+T31	Property 1960 1964	soil
+T32	Mineral 2012 2020	sulfates
+T33	Property 2058 2065	spectra
+T34	Property 2287 2294	spectra
+T35	Property 2409 2413	soil
+T36	Mineral 2550 2557	sulfate
+T37	Mineral 2894 2903	kornelite
+T38	Mineral 2930 2941	rhomboclase
+T39	Mineral 2972 2982	Yavapaiite
+T40	Mineral 3001 3013	fibroferrite
+T41	Property 3094 3098	Rock
+T42	Property 3180 3188	spectral
+T43	Property 3189 3200	reflectance
+T44	Property 3251 3258	spectra
+T45	Mineral 3277 3285	sulfates
+T46	Mineral 3308 3317	kornelite
+T47	Mineral 3346 3355	copiapite
+T48	Mineral 3405 3419	ferricopiapite
+T49	Element 3426 3428	Al
+T50	Element 3429 3431	Mg
+T51	Property 3487 3494	spectra
+T52	Mineral 3523 3531	sulfates
+T53	Mineral 3536 3546	phosphates
+T54	Mineral 3632 3640	sulfates
+T55	Mineral 3661 3670	kornelite
+T56	Mineral 3760 3767	sulfate
+T57	Property 3775 3779	soil
+T58	Property 3807 3814	spectra
+T59	Mineral 3963 3972	kornelite
+T60	Mineral 3999 4008	copiapite
+T61	Mineral 4010 4024	ferricopiapite
+T62	Mineral 4033 4045	fibroferrite
+T63	Property 4064 4068	soil
+T64	Property 4118 4125	spectra
+T65	Mineral 4187 4199	ferrolaueite
+T66	Mineral 4372 4379	sulfate
+T67	Property 4617 4621	soil
+T68	Mineral 4714 4722	sulfates
+T69	Mineral 4754 4762	sulfates
+T70	Mineral 4848 4857	hotsonite
+T71	Mineral 4892 4904	ferrolaueite
+T72	Property 4912 4919	spectra
+T73	Mineral 5052 5061	kornelite
+T74	Property 5187 5193	bright
+T75	Property 5194 5198	soil
+T76	Property 5235 5239	soil
+T77	Mineral 5291 5300	kornelite
+T78	Mineral 5307 5321	ferricopiapite
+T79	Mineral 5321 5322	/
+T80	Mineral 5322 5331	copiapite
+T81	Mineral 5337 5347	yavapaiite
+T82	Mineral 5353 5360	leonite
+T83	Mineral 5388 5398	starkeyite
+T84	Element 5400 5402	Mg
+T85	Property 5474 5478	soil
+T86	Mineral 5485 5499	ferricopiapite
+T87	Mineral 5515 5525	yavapaiite
+T88	Mineral 5535 5542	leonite
+T89	Mineral 5572 5579	leonite
+T90	Element 5681 5682	K
+T91	Property 5693 5699	bright
+T92	Property 5700 5704	soil
+T93	Mineral 5720 5728	sulfates
+T94	Property 5781 5787	bright
+T95	Property 5791 5795	soil
+T96	Mineral 5885 5893	bilinite
+T97	Property 6021 6027	bright
+T98	Property 6031 6035	soil
+T99	Property 6142 6146	dark
+T100	Property 6147 6151	soil
+T101	Element 6217 6219	Fe
+T102	Property 6236 6240	dark
+T103	Property 6251 6255	soil
+T104	Property 6409 6413	soil
+T105	Mineral 6503 6511	sulfates
+T106	Mineral 6665 6679	ferricopiapite
+T107	Mineral 6687 6697	yavapaiite
+T108	Mineral 6896 6904	sulfates
+T109	Mineral 7018 7030	fibroferrite
+T110	Mineral 7048 7057	Kornelite
+T111	Property 7245 7252	spectra
+T112	Mineral 7271 7281	phosphates
+T113	Mineral 7515 7524	Strunzite
+T114	Property 7574 7581	spectra
+T115	Property 7588 7594	bright
+T116	Property 7595 7599	soil
+T117	Mineral 7612 7619	sulfate
+T118	Property 7658 7665	spectra
+T119	Property 7676 7682	bright
+T120	Property 7683 7687	soil
+T121	Mineral 7736 7743	sulfate
+T122	Mineral 7786 7796	phosphates
+T123	Mineral 7805 7814	strengite
+T124	Mineral 7819 7834	phosphosiderite
+T125	Property 8015 8019	soil
+T127	Target 964 975	Paso Robles
+T128	Target 8003 8014	Paso Robles
+R0	HasProperty Arg1:T127 Arg2:T11
+R1	HasProperty Arg1:T127 Arg2:T12
+R2	HasProperty Arg1:T128 Arg2:T125
+T126	Target 940 952	Husband Hill
+R4	Contains Arg1:T127 Arg2:T6	
+R5	Contains Arg1:T127 Arg2:T7	
+R3	Contains Arg1:T127 Arg2:T8	
+R6	Contains Arg1:T127 Arg2:T9	
+T129	Target 1076 1078	PR
+R7	Contains Arg1:T129 Arg2:T15	
+R8	HasProperty Arg1:T129 Arg2:T14	
+R9	Contains Arg1:T129 Arg2:T18	
+T16	Mineral 1194 1206	Ca-phosphate
+R10	Contains Arg1:T129 Arg2:T16	
+R11	Contains Arg1:T129 Arg2:T19	
+R12	Contains Arg1:T129 Arg2:T20	
+R13	Contains Arg1:T129 Arg2:T21	
+R14	Contains Arg1:T129 Arg2:T22	
+R15	Contains Arg1:T129 Arg2:T23	
+T17	Mineral 1461 1470	phosphate
+R16	Contains Arg1:T129 Arg2:T17	
+R17	Contains Arg1:T129 Arg2:T24	
+R18	Contains Arg1:T129 Arg2:T25	
+T130	Target 1950 1952	PR
+R19	HasProperty Arg1:T130 Arg2:T30	
+R20	HasProperty Arg1:T130 Arg2:T31	
+T131	Target 2424 2426	PR
+T132	Target 2575 2577	PR
+R21	Contains Arg1:T132 Arg2:T36	
+T133	Target 3177 3179	PR
+T134	Target 3502 3504	PR
+T135	Target 3743 3745	PR
+R22	Contains Arg1:T135 Arg2:T56	
+T136	Mineral 3904 3914	coquimbite
+R23	Contains Arg1:T135 Arg2:T136	
+R24	Contains Arg1:T135 Arg2:T59	
+T137	Mineral 3974 3985	rhomboclase
+R25	Contains Arg1:T135 Arg2:T137	
+T138	Mineral 3987 3997	yavapaiite
+R26	Contains Arg1:T135 Arg2:T138	
+R27	Contains Arg1:T135 Arg2:T60	
+R28	Contains Arg1:T135 Arg2:T61	
+R29	Contains Arg1:T135 Arg2:T62	
+T139	Target 4355 4357	PR
+T140	Target 6139 6141	PR
+R30	HasProperty Arg1:T140 Arg2:T99	
+R31	HasProperty Arg1:T140 Arg2:T100	
+R32	Contains Arg1:T140 Arg2:T101	
+R33	Contains Arg1:T140 Arg2:T106	
+R34	Contains Arg1:T140 Arg2:T107	
+T141	Mineral 6797 6805	krausite
+T142	Mineral 6810 6821	metavoltine
+R35	Contains Arg1:T140 Arg2:T141	
+R36	Contains Arg1:T140 Arg2:T142	
+R37	Contains Arg1:T140 Arg2:T143
+R38	Contains Arg1:T140 Arg2:T144
+R39	Contains Arg1:T140 Arg2:T145
+R40	Contains Arg1:T140 Arg2:T109
+T143	Mineral 6934 6948	metahohmannite
+T144	Mineral 6965 6974	butlerite
+T145	Mineral 6976 6989	parabutlerite
+T146	Target 7585 7587	PR
+R41	HasProperty Arg1:T146 Arg2:T115	
+R42	HasProperty Arg1:T146 Arg2:T116	
+T147	Target 7673 7675	PR
+R43	HasProperty Arg1:T147 Arg2:T119	
+R44	HasProperty Arg1:T147 Arg2:T120	
+T148	Target 62 73	PASO ROBLES
+T149	Property 74 79	SOILS
+R45	HasProperty Arg1:T148 Arg2:T149	
+R46	Contains Arg1:T148 Arg2:T1	
+T150	Mineral 17 26	PHOSPHATE
+R47	Contains Arg1:T148 Arg2:T150	

@@ -1,0 +1,38 @@
+T1	Property 1381 1385	rock
+T2	Property 1390 1394	soil
+T3	Property 1484 1488	dark
+T4	Property 1489 1497	basaltic
+T5	Mineral 1557 1565	hematite
+T6	Property 1615 1623	basaltic
+T7	Property 1897 1901	rock
+T8	Property 1906 1910	soil
+T9	Property 2516 2520	dust
+T10	Property 2524 2528	soil
+T11	Property 2706 2714	basaltic
+T12	Property 2715 2719	sand
+T13	Property 2843 2847	dark
+T14	Property 3977 3981	dark
+T15	Property 4109 4113	dark
+T16	Property 4269 4277	basaltic
+T17	Property 4599 4603	dust
+T18	Property 4696 4700	dust
+T19	Property 6330 6335	lobes
+T20	Target 1213 1223	Home Plate
+T21	Target 2619 2626	Torquas
+T22	Target 2731 2740	El Dorado
+T23	Target 5435 5446	Cliffhanger
+T24	Target 5477 5486	El Dorado
+T25	Target 5556 5563	Torquas
+T26	Target 5597 5608	Eileen Dean
+T27	Target 6125 6132	Torquas
+R2	HasProperty Arg1:T22 Arg2:T11
+R3	HasProperty Arg1:T22 Arg2:T12
+T28	Target 1153 1165	Husband Hill
+T29	Property 2627 2632	rocks
+T30	Property 2467 2471	gray
+R1	HasProperty Arg1:T21 Arg2:T30	
+R5	HasProperty Arg1:T21 Arg2:T29	
+T31	Property 2720 2727	ripples
+R6	HasProperty Arg1:T22 Arg2:T31	
+T32	Target 5399 5407	Voltaire
+T33	Target 5518 5525	McMurdo

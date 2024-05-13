@@ -1,0 +1,132 @@
+T1	Mineral 600 607	olivine
+T2	Mineral 607 608	-
+T3	Mineral 608 612	rich
+T4	Mineral 867 876	carbonate
+T5	Mineral 876 877	-
+T6	Mineral 877 884	bearing
+T7	Mineral 945 954	carbonate
+T8	Property 1019 1026	spectra
+T9	Mineral 1087 1094	olivine
+T10	Mineral 1107 1116	carbonate
+T11	Mineral 1276 1286	carbonates
+T12	Mineral 1311 1318	olivine
+T13	Mineral 1481 1488	olivine
+T14	Mineral 1493 1502	carbonate
+T15	Property 2042 2053	Composition
+T16	Property 2079 2086	spectra
+T17	Property 2141 2152	composition
+T18	Mineral 2300 2310	carbonates
+T19	Mineral 2469 2478	carbonate
+T20	Property 2555 2562	spectra
+T21	Mineral 2718 2727	Magnesite
+T22	Mineral 2740 2750	carbonates
+T23	Mineral 2773 2782	carbonate
+T24	Property 2878 2883	knobs
+T25	Mineral 3096 3103	olivine
+T26	Mineral 3426 3433	Olivine
+T27	Mineral 3476 3486	carbonates
+T28	Mineral 3527 3534	olivine
+T29	Property 3693 3700	spectra
+T30	Mineral 3852 3859	olivine
+T31	Property 3878 3885	spectra
+T32	Mineral 3950 3957	olivine
+T33	Mineral 3985 3994	carbonate
+T34	Mineral 4011 4020	magnesite
+T35	Mineral 4022 4030	siderite
+T36	Property 4402 4410	basaltic
+T37	Property 4853 4856	red
+T38	Mineral 5114 5123	carbonate
+T39	Property 5193 5204	composition
+T40	Mineral 5595 5605	carbonates
+T41	Mineral 5626 5633	olivine
+T42	Mineral 5644 5653	carbonate
+T43	Property 6926 6931	knobs
+T44	Target 1354 1362	Comanche
+T45	Target 2195 2204	Algonquin
+T46	Target 2260 2269	Algonquin
+T47	Target 2318 2326	Comanche
+T48	Target 2764 2772	Comanche
+T49	Target 2820 2828	Comanche
+T50	Target 2833 2842	Algonquin
+T51	Target 3642 3651	Algonquin
+T52	Target 3910 3918	Comanche
+T53	Target 4864 4873	Algonquin
+R0	Contains Arg1:T44 Arg2:T11
+R1	Contains Arg1:T44 Arg2:T12
+R2	Contains Arg1:T46 Arg2:T18
+R3	Contains Arg1:T47 Arg2:T18
+R4	Contains Arg1:T48 Arg2:T21
+R5	Contains Arg1:T48 Arg2:T22
+R6	Contains Arg1:T48 Arg2:T23
+R7	Contains Arg1:T52 Arg2:T32
+R8	Contains Arg1:T52 Arg2:T33
+R9	Contains Arg1:T52 Arg2:T34
+R10	Contains Arg1:T52 Arg2:T35
+R19	HasProperty Arg1:T45 Arg2:T16
+R20	HasProperty Arg1:T45 Arg2:T17
+R21	HasProperty Arg1:T49 Arg2:T24
+R22	HasProperty Arg1:T50 Arg2:T24
+T54	Property 1334 1340	tephra
+R12	HasProperty Arg1:T44 Arg2:T54	
+T55	Property 1322 1330	outcrops
+R13	HasProperty Arg1:T44 Arg2:T55	
+T56	Element 1303 1305	Mg
+R14	Contains Arg1:T44 Arg2:T56	
+T57	Element 1265 1267	Mg
+T58	Element 1268 1270	Fe
+R15	Contains Arg1:T44 Arg2:T58	
+R16	Contains Arg1:T44 Arg2:T57	
+T59	Target 1859 1867	Comanche
+T60	Target 1868 1877	Algonquin
+T61	Property 1878 1886	outcrops
+R17	HasProperty Arg1:T59 Arg2:T61	
+R25	HasProperty Arg1:T60 Arg2:T61	
+T62	Element 2133 2135	Mg
+T63	Mineral 2160 2167	olivine
+T64	Property 2173 2176	ash
+R18	Contains Arg1:T45 Arg2:T62	
+R26	HasProperty Arg1:T45 Arg2:T64	
+R27	Contains Arg1:T45 Arg2:T63	
+T65	Element 2294 2296	Mg
+T66	Element 2297 2299	Fe
+R28	Contains Arg1:T46 Arg2:T65	
+R29	Contains Arg1:T46 Arg2:T66	
+R31	Contains Arg1:T47 Arg2:T66	
+R30	Contains Arg1:T47 Arg2:T65	
+T67	Element 2732 2734	Mg
+R32	Contains Arg1:T48 Arg2:T67	
+T68	Property 2869 2877	bouldery
+T69	Property 2843 2851	outcrops
+R33	HasProperty Arg1:T50 Arg2:T69	
+R34	HasProperty Arg1:T49 Arg2:T69	
+R35	HasProperty Arg1:T49 Arg2:T68	
+R36	HasProperty Arg1:T49 Arg2:T68	
+T70	Property 2888 2894	ridges
+R37	HasProperty Arg1:T49 Arg2:T70	
+R38	HasProperty Arg1:T50 Arg2:T70	
+T71	Mineral 3629 3636	Olivine
+T72	Property 3652 3655	ash
+T73	Property 2177 2185	deposits
+R39	HasProperty Arg1:T45 Arg2:T73	
+T74	Property 3656 3664	deposits
+R23	Contains Arg1:T51 Arg2:T71	
+R40	HasProperty Arg1:T51 Arg2:T72	
+R41	HasProperty Arg1:T51 Arg2:T74	
+T75	Mineral 4903 4907	SiO2
+T76	Mineral 4919 4923	TiO2
+T77	Mineral 4934 4939	Al2O3
+T78	Mineral 4949 4955	FeOtot
+T79	Mineral 4967 4970	MnO
+T80	Mineral 4981 4984	MgO
+T81	Mineral 4996 4999	CaO
+T82	Mineral 5009 5013	Na2O
+T83	Mineral 5023 5026	K2O
+R11	Contains Arg1:T53 Arg2:T75	
+R24	Contains Arg1:T53 Arg2:T76	
+R42	Contains Arg1:T53 Arg2:T77	
+R43	Contains Arg1:T53 Arg2:T78	
+R44	Contains Arg1:T53 Arg2:T79	
+R45	Contains Arg1:T53 Arg2:T80	
+R46	Contains Arg1:T53 Arg2:T81	
+R47	Contains Arg1:T53 Arg2:T82	
+R48	Contains Arg1:T53 Arg2:T83	

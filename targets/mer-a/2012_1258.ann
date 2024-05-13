@@ -1,0 +1,26 @@
+T1	Mineral 427 433	gypsum
+T2	Mineral 742 748	gypsum
+T3	Property 1534 1538	rock
+T4	Target-MERB 2007 2022	Shoemaker Ridge
+T5	Mineral 2268 2277	impactite
+T6	Mineral 2289 2296	suevite
+T7	Property 3038 3043	fines
+T8	Property 3287 3292	fines
+T9	Property 3372 3377	fines
+T10	Mineral 3706 3712	gypsum
+T11	Property 3877 3882	fines
+T12	Property 3920 3924	Dark
+T13	Property 3986 3990	Dark
+T14	Property 4024 4028	dark
+T15	Property 4029 4033	sand
+T16	Property 4352 4359	angular
+T17	Mineral 4413 4420	sulfate
+T18	Property 4515 4521	smooth
+T19	Element 4698 4699	S
+T20	Property 4762 4766	dark
+T21	Property 4791 4800	indurated
+T22	Mineral 5742 5748	Gypsum
+T23	Property 6156 6160	fine
+T24	Target-MERB 6675 6684	Homestake
+T25	Mineral 7502 7509	sulfate
+T26	Mineral 7677 7683	gypsum

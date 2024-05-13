@@ -1,0 +1,164 @@
+T1	Mineral 283 293	carbonates
+T2	Mineral 413 422	carbonate
+T3	Mineral 1234 1244	carbonates
+T4	Mineral 1316 1326	carbonates
+T5	Property 1401 1406	brine
+T6	Property 1483 1487	flat
+T7	Property 1581 1588	spectra
+T8	Property 1720 1727	spectra
+T9	Property 2073 2077	dust
+T10	Property 2313 2317	rock
+T11	Property 2470 2477	rounded
+T12	Property 2487 2495	boulders
+T13	Property 2747 2754	spectra
+T14	Property 2915 2919	dust
+T15	Property 2974 2981	spectra
+T16	Property 3079 3086	spectra
+T17	Mineral 3177 3184	olivine
+T18	Mineral 3422 3431	carbonate
+T19	Property 3516 3520	rock
+T20	Mineral 3563 3572	carbonate
+T21	Mineral 3854 3864	carbonates
+T22	Mineral 4060 4069	carbonate
+T23	Property 4108 4115	Spectra
+T24	Property 4166 4174	boulders
+T25	Mineral 4380 4389	carbonate
+T26	Element 4438 4447	carbonate
+T28	Element 4448 4452	rich
+T29	Property 5248 5251	red
+T30	Property 5407 5415	boulders
+T31	Property 5528 5535	spectra
+T32	Property 5612 5619	Spectra
+T33	Property 5837 5845	boulders
+T34	Property 5877 5884	spectra
+T35	Target 404 412	Comanche
+T36	Target 716 727	McCool Hill
+T37	Target 738 746	Comanche
+T38	Target 809 817	Comanche
+T39	Target 981 989	Comanche
+T40	Target 1025 1034	Algonquin
+T41	Target 1096 1104	Comanche
+T42	Target 1175 1184	Algonquin
+T43	Target 1274 1283	Algonquin
+T44	Target 1408 1416	Comanche
+T45	Target 1439 1448	Algonquin
+T46	Target 1453 1461	Comanche
+T47	Target 1697 1705	Comanche
+T48	Target 1710 1719	Algonquin
+T49	Target 1878 1887	Algonquin
+T50	Target 1892 1900	Comanche
+T51	Target 2005 2013	Comanche
+T52	Target 2022 2031	Algonquin
+T53	Target 2201 2209	Comanche
+T54	Target 2214 2223	Algonquin
+T55	Target 2405 2416	McCool Hill
+T56	Target 2630 2640	Gurruchaga
+T57	Target 2820 2828	Seminole
+T58	Target 3100 3110	Gurruchaga
+T59	Target 3196 3204	Comanche
+T60	Target 3209 3218	Algonquin
+T61	Target 3231 3239	Seminole
+T62	Target 3386 3394	Comanche
+T63	Target 3459 3468	Algonquin
+T64	Target 3500 3509	Algonquin
+T65	Target 3680 3688	Comanche
+T66	Target 3749 3758	Algonquin
+T67	Target 3779 3787	Comanche
+T68	Target 3894 3902	Comanche
+T69	Target 3986 3994	Comanche
+T70	Target 4003 4012	Algonquin
+T71	Target 4180 4191	McCool Hill
+T72	Target 4255 4264	Algonquin
+T73	Target 4299 4307	Comanche
+T74	Target 4506 4514	Comanche
+T75	Target 5025 5036	McCool Hill
+T76	Target 5057 5067	Gurruchaga
+T77	Target 5213 5222	Algonquin
+T78	Target 5238 5246	Comanche
+T79	Target 5421 5432	McCool Hill
+T80	Target 5569 5580	McCool Hill
+T81	Target 5691 5700	Algonquin
+T82	Target 5705 5713	Comanche
+T83	Target 5851 5862	McCool Hill
+T84	Target 5910 5920	Gurruchaga
+T85	Target 6070 6078	Comanche
+T86	Target 6083 6092	Algonquin
+R0	Contains Arg1:T35 Arg2:T2
+R1	Contains Arg1:T41 Arg2:T3
+R3	Contains Arg1:T43 Arg2:T4
+R5	Contains Arg1:T59 Arg2:T17
+R6	Contains Arg1:T60 Arg2:T17
+R8	Contains Arg1:T62 Arg2:T18
+R23	HasProperty Arg1:T45 Arg2:T6
+R24	HasProperty Arg1:T46 Arg2:T6
+R26	HasProperty Arg1:T47 Arg2:T8
+R28	HasProperty Arg1:T48 Arg2:T8
+R35	HasProperty Arg1:T58 Arg2:T16
+R39	HasProperty Arg1:T64 Arg2:T19
+R42	HasProperty Arg1:T71 Arg2:T24
+R49	HasProperty Arg1:T79 Arg2:T30
+R50	HasProperty Arg1:T80 Arg2:T31
+R53	HasProperty Arg1:T83 Arg2:T33
+R55	HasProperty Arg1:T84 Arg2:T33
+R56	HasProperty Arg1:T84 Arg2:T34
+T87	Property 423 431	outcrops
+R57	HasProperty Arg1:T35 Arg2:T87	
+T88	Target 451 463	Haskin Ridge
+T89	Target 791 803	Haskin Ridge
+T90	Mineral 887 894	olivine
+T91	Property 900 914	volcaniclastic
+R58	Contains Arg1:T38 Arg2:T90	
+R59	HasProperty Arg1:T38 Arg2:T91	
+T92	Mineral 994 1001	olivine
+R60	Contains Arg1:T40 Arg2:T92	
+T93	Element 1218 1220	Mg
+T94	Element 1226 1228	Fe
+R2	Contains Arg1:T41 Arg2:T93	
+R61	Contains Arg1:T41 Arg2:T94	
+T95	Property 1462 1470	outcrops
+R21	HasProperty Arg1:T45 Arg2:T95	
+R62	HasProperty Arg1:T46 Arg2:T95	
+T96	Target 1786 1792	Apache
+T97	Target 1942 1948	Apache
+T98	Target 2148 2160	Haskin Ridge
+T99	Target 2620 2625	Amery
+T100	Mineral 2807 2814	olivine
+R22	Contains Arg1:T57 Arg2:T100	
+T101	Property 2829 2837	outcrops
+T102	Target 2849 2861	Haskin Ridge
+R25	HasProperty Arg1:T57 Arg2:T101	
+T103	Target 3090 3095	Amery
+T104	Element 3169 3171	Mg
+R27	Contains Arg1:T59 Arg2:T104	
+R7	Contains Arg1:T60 Arg2:T104	
+R4	HasProperty Arg1:T103 Arg2:T16	
+T105	Target 3323 3335	Haskin Ridge
+T106	Mineral 3446 3453	olivine
+R9	Contains Arg1:T63 Arg2:T106	
+T107	Property 3689 3697	outcrops
+R10	HasProperty Arg1:T65 Arg2:T107	
+T108	Property 3739 3748	unaltered
+R11	HasProperty Arg1:T66 Arg2:T108	
+T109	Target 4149 4161	Haskin Ridge
+T110	Property 4135 4143	outcrops
+R12	HasProperty Arg1:T109 Arg2:T110	
+T111	Mineral 4242 4249	olivine
+R13	Contains Arg1:T72 Arg2:T111	
+T112	Mineral 4284 4293	carbonate
+R14	Contains Arg1:T73 Arg2:T112	
+T27	Target 5037 5050	Husband  Hill
+T113	Target 5051 5056	Amery
+T114	Target 5068 5074	Apache
+T115	Target 5493 5505	Haskin Ridge
+T116	Target 5552 5564	Haskin Ridge
+R15	HasProperty Arg1:T116 Arg2:T31	
+T117	Target 5886 5891	Amery
+R16	HasProperty Arg1:T117 Arg2:T34	
+R17	HasProperty Arg1:T117 Arg2:T33	
+R18	HasProperty Arg1:T99 Arg2:T12	
+R19	HasProperty Arg1:T56 Arg2:T12	
+R20	HasProperty Arg1:T99 Arg2:T11	
+R29	HasProperty Arg1:T56 Arg2:T11	
+T118	Property 2482 2486	gray
+R30	HasProperty Arg1:T99 Arg2:T118	
+R31	HasProperty Arg1:T56 Arg2:T118	

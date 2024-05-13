@@ -1,0 +1,24 @@
+T1	Property 310 314	soil
+T2	Property 589 597	basaltic
+T3	Property 1900 1907	massive
+T4	Property 3808 3812	dark
+T5	Property 4094 4098	dark
+T6	Target 359 369	Home Plate
+T7	Target 1239 1249	Home Plate
+T8	Target 1522 1532	Home Plate
+T9	Target 1662 1672	Home Plate
+T10	Target 2590 2600	Home Plate
+T11	Target 2907 2917	Home Plate
+T12	Target 3115 3125	Home Plate
+T13	Target 3183 3193	Home Plate
+T14	Target 3337 3347	Home Plate
+T15	Target 3848 3863	Elizabeth Mahon
+T16	Target 3900 3910	Home Plate
+T17	Target 4204 4214	Home Plate
+T18	Target 4289 4304	Elizabeth Mahon
+T19	Target 4621 4631	Home Plate
+T20	Target 4771 4781	Home Plate
+T21	Property 2881 2892	protrusions
+R3	HasProperty Arg1:T11 Arg2:T21	
+T22	Mineral 3865 3879	opaline silica
+R4	Contains Arg1:T15 Arg2:T22	

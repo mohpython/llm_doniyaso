@@ -1,0 +1,91 @@
+T1	Property 21 25	ROCK
+T2	Property 85 92	SPECTRA
+T3	Property 596 607	composition
+T4	Property 650 661	sedimentary
+T5	Property 662 666	rock
+T6	Mineral 671 679	hematite
+T7	Property 809 816	cobbles
+T8	Property 841 848	cobbles
+T9	Property 985 992	cobbles
+T10	Target-MERB 1166 1172	Bounce
+T11	Property 1407 1413	cobble
+T12	Property 1540 1547	cobbles
+T13	Property 1641 1647	cobble
+T14	Property 1648 1655	spectra
+T15	Property 1836 1840	dust
+T16	Property 2432 2439	cobbles
+T17	Property 2594 2601	spectra
+T18	Property 2629 2640	composition
+T19	Property 2648 2655	cobbles
+T20	Property 2678 2685	spectra
+T21	Property 2740 2746	cobble
+T22	Property 2747 2754	spectra
+T23	Property 2780 2787	spectra
+T24	Property 2918 2925	cobbles
+T25	Property 2967 2971	dust
+T26	Property 3122 3129	spectra
+T27	Property 3478 3482	dust
+T28	Property 3529 3536	spectra
+T29	Property 3687 3690	red
+T30	Property 3962 3969	cobbles
+T31	Property 4120 4126	cobble
+T32	Property 4212 4218	cobble
+T33	Property 4453 4460	spectra
+T34	Property 4589 4596	spectra
+T35	Property 4656 4662	cobble
+T36	Property 4714 4720	cobble
+T37	Property 5216 5220	dust
+T38	Property 5282 5286	rock
+T39	Property 5323 5330	cobbles
+T40	Mineral 5524 5532	hematite
+T41	Mineral 5545 5553	hematite
+T42	Property 5588 5595	cobbles
+T43	Property 5633 5640	cobbles
+T44	Property 5762 5766	dust
+T45	Property 5774 5781	coating
+T46	Property 5868 5872	dust
+T47	Property 5877 5885	coatings
+T48	Property 6034 6041	cobbles
+T49	Property 6077 6084	cobbles
+T50	Property 6114 6118	flat
+T51	Property 6282 6289	cobbles
+T52	Property 6365 6372	cobbles
+T53	Property 6538 6541	red
+T54	Property 6580 6585	bands
+T55	Property 6611 6618	cobbles
+T56	Property 6657 6661	rock
+T57	Property 6705 6711	cobble
+T58	Element 6776 6780	iron
+T59	Element 6808 6812	iron
+T60	Property 7079 7083	dust
+T61	Property 7091 7099	coatings
+T62	Property 7105 7111	cobble
+T63	Property 7273 7280	cobbles
+T64	Property 7389 7396	cobbles
+T65	Property 7447 7454	cobbles
+T66	Property 7550 7557	spectra
+T67	Property 7589 7596	cobbles
+T68	Property 7634 7641	spectra
+T69	Property 7660 7664	dust
+T70	Property 7666 7674	coatings
+T71	Property 7753 7757	rock
+T72	Property 7758 7765	spectra
+T73	Property 7842 7849	cobbles
+T74	Property 7985 7991	cobble
+T75	Property 7998 8004	cobble
+T76	Property 8146 8153	cobbles
+T77	Property 8208 8212	rock
+T78	Property 8640 8647	cobbles
+T79	Property 8711 8715	dust
+T80	Property 8721 8728	coating
+T81	Property 8794 8800	cobble
+T82	Element 8896 8900	iron
+T83	Property 9050 9057	cobbles
+T84	Target 6902 6912	Zhong Shan
+T86	Target 8962 8972	Zhong Shan
+R0	Contains Arg1:T84 Arg2:T59
+R1	Contains Arg1:T86 Arg2:T82
+T85	Target 6886 6897	Allan Hills
+R2	Contains Arg1:T85 Arg2:T59	
+T87	Target 8945 8956	Allan Hills
+R3	Contains Arg1:T87 Arg2:T82	

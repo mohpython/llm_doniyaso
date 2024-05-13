@@ -1,0 +1,35 @@
+T1	Property 51 55	ROCK
+T2	Property 509 514	mafic
+T3	Property 564 569	mafic
+T4	Property 863 870	spectra
+T5	Property 943 947	soil
+T6	Element 1048 1050	Ti
+T7	Property 1110 1117	spectra
+T8	Mineral 1289 1296	olivine
+T9	Property 1569 1580	composition
+T10	Mineral 1600 1607	olivine
+T11	Property 2785 2789	rock
+T12	Mineral 3199 3206	olivine
+T13	Property 3635 3639	rock
+T14	Mineral 3778 3786	goethite
+T15	Mineral 3788 3798	carbonates
+T16	Mineral 3804 3810	gypsum
+T17	Mineral 3984 3991	olivine
+T18	Property 4114 4118	rock
+T19	Mineral 4777 4784	olivine
+T20	Mineral 5294 5301	olivine
+T21	Mineral 5550 5557	olivine
+T22	Element 6316 6320	iron
+T23	Mineral 6343 6351	goethite
+T24	Mineral 6353 6361	hematite
+T25	Mineral 6364 6372	sulfates
+T26	Mineral 6374 6380	gypsum
+T27	Mineral 6382 6391	anhydrite
+T28	Mineral 6412 6422	carbonates
+T29	Mineral 6427 6433	albite
+T31	Target 7148 7158	Home Plate
+T32	Target 7980 7990	Home Plate
+T30	Mineral 7099 7105	Silica
+R1	Contains Arg1:T31 Arg2:T30	
+T33	Property 7991 8001	depression
+R2	HasProperty Arg1:T32 Arg2:T33	

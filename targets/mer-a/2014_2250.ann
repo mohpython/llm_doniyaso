@@ -1,0 +1,53 @@
+T1	Element 476 486	Phosphorus
+T2	Mineral 1182 1194	fluorapatite
+T3	Mineral 1228 1240	fluorapatite
+T4	Property 1244 1251	igneous
+T5	Mineral 1440 1447	apatite
+T6	Mineral 1495 1505	merrillite
+T7	Element 1511 1513	Na
+T8	Element 1514 1516	Fe
+T9	Element 1517 1519	Mg
+T10	Mineral 1820 1832	chlorapatite
+T11	Mineral 1837 1847	merrillite
+T12	Target 2304 2313	Wishstone
+T13	Property 3035 3039	rock
+T14	Property 3115 3119	rock
+T15	Property 3145 3149	Rock
+T16	Mineral 3365 3375	merrillite
+T17	Mineral 3383 3395	chlorapatite
+T18	Property 3414 3418	rock
+T19	Mineral 3474 3486	fluorapatite
+T20	Property 3508 3512	rock
+T21	Mineral 4257 4269	chlorapatite
+T22	Mineral 4423 4433	merrillite
+T23	Mineral 4737 4749	fluorapatite
+T24	Mineral 4751 4761	merrillite
+T25	Mineral 4767 4779	chlorapatite
+T26	Mineral 5184 5196	chlorapatite
+T27	Mineral 5370 5382	fluorapatite
+T28	Mineral 5384 5396	Chlorapatite
+T29	Mineral 5401 5411	merrillite
+T30	Property 5481 5485	rock
+T31	Element 5572 5579	calcium
+T32	Mineral 5989 5997	Brushite
+T33	Property 6250 6254	rock
+T34	Mineral 6317 6325	brushite
+T35	Property 6374 6378	rock
+T36	Mineral 6406 6416	merrillite
+T37	Mineral 6420 6432	chlorapatite
+T38	Target 3019 3028	Wishstone
+T39	Target 3302 3311	Wishstone
+T42	Target 5607 5616	Wishstone
+T43	Target 5819 5828	Wishstone
+T44	Target 6059 6068	Wishstone
+R5	Contains Arg1:T42 Arg2:T31
+R8	Contains Arg1:T44 Arg2:T32
+R12	HasProperty Arg1:T38 Arg2:T13
+T46	Mineral 2269 2278	phosphate
+R20	Contains Arg1:T12 Arg2:T46	
+T40	Mineral 5584 5593	phosphate
+R1	Contains Arg1:T42 Arg2:T40	
+T41	Mineral 5778 5787	phosphate
+R2	Contains Arg1:T43 Arg2:T41	
+T47	Mineral 6003 6015	Ca-phosphate
+R3	Contains Arg1:T44 Arg2:T47	

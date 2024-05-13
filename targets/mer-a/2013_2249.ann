@@ -1,0 +1,61 @@
+T1	Property 80 88	BASALTIC
+T2	Property 957 965	basaltic
+T3	Property 1075 1083	basaltic
+T4	Property 1228 1236	basaltic
+T5	Property 1367 1375	basaltic
+T6	Mineral 1537 1546	smectites
+T7	Mineral 1548 1556	zeolites
+T8	Mineral 1558 1568	carbonates
+T9	Property 1686 1694	basaltic
+T10	Property 2839 2846	spectra
+T11	Property 2919 2926	spectra
+T12	Property 3435 3442	spectra
+T13	Element 3773 3777	iron
+T14	Element 3850 3852	Fe
+T15	Element 3911 3913	Fe
+T16	Element 4002 4004	Fe
+T17	Element 4042 4044	Fe
+T18	Mineral 4051 4061	palagonite
+T19	Property 4094 4101	spectra
+T20	Mineral 4461 4476	phyllosilicates
+T21	Property 4634 4641	spectra
+T22	Mineral 4697 4712	phyllosilicates
+T23	Mineral 5025 5034	smectites
+T24	Mineral 5044 5054	carbonates
+T25	Mineral 5059 5067	zeolites
+T26	Property 5154 5161	spectra
+T27	Mineral 5183 5193	palagonite
+T28	Property 5194 5199	rinds
+T29	Mineral 5219 5228	smectites
+T30	Property 5259 5266	spectra
+T31	Property 5486 5493	spectra
+T32	Property 5537 5544	spectra
+T33	Property 5639 5646	spectra
+T34	Mineral 6669 6679	palagonite
+T35	Property 6680 6684	rind
+T36	Property 6781 6784	red
+T37	Mineral 6794 6804	palagonite
+T38	Property 6805 6809	rind
+T39	Property 6825 6832	spectra
+T40	Mineral 6891 6901	palagonite
+T41	Property 6902 6909	spectra
+T42	Property 6935 6942	Spectra
+T43	Target 799 809	Home Plate
+T44	Target 851 861	Home Plate
+T45	Target 873 879	Clovis
+R0	HasProperty Arg1:T44 Arg2:T2
+R1	HasProperty Arg1:T45 Arg2:T2
+T46	Target 765 777	Husband Hill
+T47	Property 748 755	clastic
+R2	HasProperty Arg1:T46 Arg2:T47	
+T48	Property 782 789	layered
+R3	HasProperty Arg1:T43 Arg2:T48	
+T49	Target 893 902	West Spur
+T50	Target 906 918	Husband Hill
+T51	Property 966 971	glass
+R4	HasProperty Arg1:T49 Arg2:T2	
+R5	HasProperty Arg1:T50 Arg2:T2	
+R6	HasProperty Arg1:T44 Arg2:T51	
+R7	HasProperty Arg1:T45 Arg2:T51	
+R8	HasProperty Arg1:T49 Arg2:T51	
+R9	HasProperty Arg1:T50 Arg2:T51	

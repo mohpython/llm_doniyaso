@@ -1,0 +1,51 @@
+T1	Property 1013 1019	eolian
+T2	Property 1027 1031	sand
+T3	Property 2176 2179	ice
+T4	Mineral 2218 2226	sulfides
+T5	Property 2297 2308	Sedimentary
+T6	Property 2494 2498	rock
+T7	Property 3082 3093	sedimentary
+T8	Property 3118 3122	rock
+T9	Property 3406 3417	sedimentary
+T10	Property 3735 3741	brines
+T11	Property 4097 4102	brine
+T12	Mineral 4449 4458	carbonate
+T13	Property 4907 4918	sedimentary
+T14	Property 5125 5136	Composition
+T15	Property 5160 5171	sedimentary
+T16	Mineral 5252 5259	calcite
+T17	Mineral 5347 5353	quartz
+T18	Mineral 5366 5374	hematite
+T19	Mineral 5378 5386	goethite
+T20	Mineral 5427 5437	carbonates
+T21	Element 5439 5443	iron
+T22	Mineral 5444 5452	sulfides
+T23	Mineral 5464 5472	sulfates
+T24	Element 5626 5628	Ni
+T25	Mineral 5864 5872	sulfates
+T26	Mineral 5938 5946	hematite
+T27	Property 6178 6184	eolian
+T28	Mineral 6185 6191	quartz
+T29	Property 6390 6394	rock
+T30	Mineral 6914 6922	hematite
+T31	Mineral 6937 6943	quartz
+T32	Property 7683 7687	rock
+T33	Element 7706 7712	oxygen
+T34	Element 7811 7815	iron
+T35	Property 7961 7964	ice
+T36	Mineral 8011 8019	hematite
+T37	Property 8154 8160	brines
+T38	Property 8253 8258	brine
+T39	Element 9389 9391	Ni
+T40	Property 9737 9748	sedimentary
+T41	Property 9883 9894	sedimentary
+T42	Mineral 9999 10007	hematite
+T43	Element 10037 10041	iron
+T44	Mineral 10208 10216	hematite
+T45	Mineral 10300 10308	hematite
+T46	Mineral 10437 10445	hematite
+T47	Target 10597 10607	Home Plate
+T48	Target 10567 10578	King George
+T49	Property 10502 10521	hematitic spherules
+R1	HasProperty Arg1:T48 Arg2:T49	
+R2	HasProperty Arg1:T47 Arg2:T49	

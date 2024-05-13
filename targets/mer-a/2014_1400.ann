@@ -1,0 +1,49 @@
+T1	Property 820 824	dune
+T2	Mineral 2798 2806	smectite
+T3	Mineral 2815 2830	montmorillonite
+T4	Property 2940 2946	bright
+T5	Property 3078 3088	hemisphere
+T6	Property 3181 3186	bumps
+T7	Element 3437 3439	Fe
+T8	Mineral 3443 3452	smectites
+T9	Property 3524 3528	dark
+T10	Element 3659 3661	Fe
+T11	Mineral 3665 3674	smectites
+T12	Property 4635 4640	rough
+T13	Property 4683 4687	rock
+T14	Property 4706 4710	Rock
+T15	Property 4787 4791	dust
+T16	Property 4793 4797	sand
+T17	Property 4803 4811	coatings
+T18	Property 4862 4866	rock
+T19	Target-MERB 5009 5023	Moreton Island
+T20	Element 5451 5453	Fe
+T21	Element 5453 5454	/
+T22	Element 5454 5456	Si
+T23	Element 5458 5460	Mn
+T24	Element 5460 5461	/
+T25	Element 5461 5463	Si
+T26	Element 5469 5471	Ca
+T27	Element 5471 5472	/
+T28	Element 5472 5474	Si
+T29	Mineral 5544 5552	smectite
+T30	Target-MERB 5557 5571	Moreton Island
+T31	Mineral 5613 5621	smectite
+T32	Property 5786 5792	bright
+T33	Mineral 6145 6153	smectite
+T34	Property 6978 6982	dark
+T35	Property 7072 7080	fracture
+T36	Element 7200 7204	iron
+T37	Property 7548 7552	rock
+T38	Target-MERB 5380 5392	Winter Haven
+R0	Contains Arg1:T38 Arg2:T20
+R1	Contains Arg1:T38 Arg2:T21
+R2	Contains Arg1:T38 Arg2:T22
+R3	Contains Arg1:T38 Arg2:T23
+R4	Contains Arg1:T38 Arg2:T24
+R5	Contains Arg1:T38 Arg2:T25
+R6	Contains Arg1:T38 Arg2:T26
+R7	Contains Arg1:T38 Arg2:T27
+R8	Contains Arg1:T38 Arg2:T28
+R9	Contains Arg1:T30 Arg2:T29
+R10	Contains Arg1:T30 Arg2:T31

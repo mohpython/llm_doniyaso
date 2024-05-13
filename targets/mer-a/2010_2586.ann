@@ -1,0 +1,48 @@
+T1	Property 625 628	ice
+T2	Property 755 758	ice
+T3	Property 895 898	ice
+T4	Mineral 1304 1312	sulfates
+T5	Property 2261 2269	basaltic
+T6	Property 2270 2274	sand
+T7	Property 2406 2410	sand
+T8	Property 2931 2939	Basaltic
+T9	Property 2940 2944	sand
+T10	Property 3005 3016	composition
+T11	Property 3256 3264	basaltic
+T12	Property 3265 3269	sand
+T13	Property 3406 3414	basaltic
+T14	Property 3415 3419	sand
+T15	Property 3569 3577	basaltic
+T16	Property 3578 3582	sand
+T17	Mineral 4240 4248	sulfates
+T18	Property 5270 5278	basaltic
+T19	Property 5279 5283	sand
+T20	Property 6217 6221	sand
+T21	Property 7085 7093	basaltic
+T22	Property 7094 7098	sand
+T23	Mineral 8055 8057	Ca
+T24	Mineral 8057 8058	-
+T25	Mineral 8058 8066	sulfates
+T26	Property 8097 8105	basaltic
+T27	Property 8106 8110	sand
+T28	Mineral 8162 8171	Anhydrite
+T29	Mineral 8276 8282	gypsum
+T30	Mineral 8300 8309	bassanite
+T31	Property 8418 8422	sand
+T32	Target 1173 1183	Home Plate
+T33	Target 1440 1447	Ulysses
+T34	Target 1484 1490	Tyrone
+T35	Target 4311 4317	Tyrone
+T36	Target 4339 4349	Kit Carson
+T37	Target 4399 4410	Thunderbolt
+T38	Target 1199 1211	Husband Hill
+T39	Target 1495 1508	GertrudeWeise
+T40	Mineral 1272 1288	amorphous silica
+R3	Contains Arg1:T33 Arg2:T40	
+R4	Contains Arg1:T33 Arg2:T4	
+T41	Target 4318 4331	GertrudeWeise
+T42	Target 4331 4338	Ulysess
+T43	Target 4350 4357	B.Hardy
+T44	Target 4363 4370	SanJuan
+T45	Target 4371 4381	E.Hamilton
+T46	Target 4387 4393	P.Dick

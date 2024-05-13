@@ -1,0 +1,223 @@
+T1	Property 56 60	ROCK
+T2	Property 594 598	rock
+T3	Property 631 639	basaltic
+T4	Mineral 804 819	phyllosilicates
+T5	Mineral 842 856	phyllosilicate
+T6	Mineral 936 951	phyllosilicates
+T7	Mineral 1075 1090	phyllosilicates
+T8	Mineral 1094 1103	kaolinite
+T9	Mineral 1105 1115	serpentine
+T10	Mineral 1121 1129	chlorite
+T11	Mineral 1147 1155	feldspar
+T12	Mineral 1160 1168	pyroxene
+T13	Property 1501 1505	flat
+T14	Property 1737 1741	rock
+T15	Property 1976 1980	Rock
+T16	Target 2058 2065	Mammoth
+T17	Property 2337 2341	dust
+T18	Property 2563 2567	rock
+T19	Property 3094 3098	rock
+T20	Property 3306 3310	dark
+T21	Property 3511 3515	dark
+T22	Property 3527 3535	fracture
+T23	Property 3724 3730	smooth
+T24	Property 3933 3937	rock
+T25	Element 4246 4248	Ca
+T26	Element 4251 4252	K
+T27	Element 4285 4287	Al
+T28	Element 4308 4309	P
+T29	Element 4381 4383	Ti
+T30	Element 4389 4391	Cr
+T31	Element 4394 4396	Mn
+T32	Mineral 6367 6375	sulfates
+T33	Mineral 6796 6803	olivine
+T34	Mineral 6820 6827	olivine
+T35	Mineral 6993 7001	goethite
+T36	Property 7114 7119	rough
+T37	Property 7266 7277	composition
+T38	Property 7498 7506	basaltic
+T39	Mineral 7527 7534	olivine
+T40	Mineral 7608 7616	smectite
+T41	Property 7660 7668	basaltic
+T42	Mineral 7684 7692	pyroxene
+T43	Mineral 7695 7703	feldspar
+T44	Property 7774 7782	basaltic
+T45	Mineral 7813 7822	kaolinite
+T46	Property 7866 7874	basaltic
+T47	Mineral 7921 7929	smectite
+T48	Mineral 7934 7943	kaolinite
+T49	Property 7979 7987	basaltic
+T50	Mineral 8293 8302	kaolinite
+T51	Mineral 8323 8333	antigorite
+T52	Mineral 8358 8368	greenalite
+T53	Mineral 8406 8412	albite
+T54	Mineral 8417 8423	albite
+T55	Mineral 8428 8437	anorthite
+T56	Mineral 8472 8487	phyllosilicates
+T57	Mineral 8584 8599	phyllosilicates
+T58	Mineral 8670 8676	albite
+T59	Mineral 8681 8690	enstatite
+T60	Mineral 8724 8739	phyllosilicates
+T61	Property 8789 8797	fracture
+T62	Property 8979 8990	composition
+T63	Property 9004 9012	basaltic
+T64	Mineral 9033 9041	smectite
+T65	Property 9144 9155	composition
+T66	Mineral 9341 9350	kaolinite
+T68	Mineral 9351 9361	antigorite
+T70	Mineral 9362 9372	greenalite
+T71	Property 9383 9391	basaltic
+T72	Mineral 9440 9455	phyllosilicates
+T73	Element 9647 9649	Fe
+T74	Element 9651 9653	Al
+T75	Element 9655 9657	Ca
+T76	Element 9683 9685	Si
+T77	Element 9687 9689	Al
+T78	Mineral 9724 9734	greenalite
+T79	Mineral 9811 9820	kaolinite
+T80	Mineral 9851 9860	chlorites
+T81	Element 9968 9971	Fe3
+T82	Mineral 10045 10060	phyllosilicates
+T83	Mineral 10080 10089	smectites
+T84	Mineral 10110 10118	chlorite
+T85	Mineral 10124 10133	kaolinite
+T86	Mineral 10194 10203	Kaolinite
+T87	Property 10250 10261	sedimentary
+T88	Target 2145 2150	Sabre
+T89	Target 2196 2204	Mastodon
+T90	Target 2809 2814	Sabre
+T91	Target 2834 2842	Mastodon
+T92	Target 2921 2927	Clovis
+T93	Target 3371 3379	Humphrey
+T94	Target 3574 3579	Sabre
+T95	Target 4297 4302	Sabre
+T96	Target 4606 4612	Clovis
+T97	Target 4767 4775	Mastodon
+T98	Target 4844 4849	Sabre
+T99	Target 4874 4882	Mastodon
+T100	Target 4952 4957	Sabre
+T101	Target 4982 4990	Mastodon
+T102	Target 5169 5175	Clovis
+T103	Target 5188 5196	Ebenezer
+T104	Target 5197 5203	Uchben
+T105	Target 5204 5215	Pot of Gold
+T106	Target 5273 5283	Adirondack
+T107	Target 5284 5292	Humphrey
+T108	Target 5293 5301	Mazatzal
+T109	Target 5302 5313	Pot of Gold
+T110	Target 5326 5332	Clovis
+T111	Target 5333 5341	Ebenezer
+T112	Target 5468 5474	Clovis
+T113	Target 5487 5495	Ebenezer
+T114	Target 5496 5502	Uchben
+T115	Target 5503 5514	Pot of Gold
+T116	Target 5572 5582	Adirondack
+T117	Target 5583 5591	Humphrey
+T118	Target 5592 5600	Mazatzal
+T119	Target 5601 5612	Pot of Gold
+T120	Target 5625 5631	Clovis
+T121	Target 5632 5640	Ebenezer
+T122	Target 5721 5726	Sabre
+T123	Target 6078 6083	Sabre
+T124	Target 6585 6593	Ebenezer
+T125	Target 6961 6967	Clovis
+T126	Target 7463 7468	Sabre
+T127	Target 7473 7481	Mastodon
+T128	Target 8160 8165	Sabre
+T129	Target 8531 8539	Mastodon
+T130	Target 8743 8748	Sabre
+T131	Target 9296 9301	Sabre
+T132	Target 9306 9314	Mastodon
+R0	Contains Arg1:T95 Arg2:T25
+R1	Contains Arg1:T95 Arg2:T26
+R2	Contains Arg1:T95 Arg2:T27
+R3	Contains Arg1:T95 Arg2:T28
+R4	Contains Arg1:T125 Arg2:T35
+R8	Contains Arg1:T130 Arg2:T60
+R24	HasProperty Arg1:T93 Arg2:T20
+R25	HasProperty Arg1:T94 Arg2:T22
+R26	HasProperty Arg1:T130 Arg2:T61
+T133	Target 606 617	Wooly Patch
+R29	HasProperty Arg1:T133 Arg2:T2	
+R30	Contains Arg1:T133 Arg2:T4	
+T134	Target 1028 1039	Wooly Patch
+R31	Contains Arg1:T134 Arg2:T7	
+R32	Contains Arg1:T134 Arg2:T8	
+R33	Contains Arg1:T134 Arg2:T9	
+R34	Contains Arg1:T134 Arg2:T10	
+R35	Contains Arg1:T134 Arg2:T12	
+R36	Contains Arg1:T134 Arg2:T11	
+T135	Target 1204 1215	Wooly Patch
+T136	Target 1245 1256	Wooly Patch
+T137	Target 1218 1229	Wooly Patch
+T138	Target 1387 1398	Wooly Patch
+T139	Target 1624 1635	Wooly Patch
+T140	Property 2084 2093	fractures
+T141	Property 2097 2102	veins
+R21	HasProperty Arg1:T16 Arg2:T140	
+R22	HasProperty Arg1:T16 Arg2:T141	
+T142	Target 2298 2309	Wooly Patch
+R23	HasProperty Arg1:T142 Arg2:T17	
+T143	Target 2437 2448	Wooly Patch
+T144	Property 2473 2482	fractures
+R37	HasProperty Arg1:T143 Arg2:T144	
+T145	Target 2990 3001	Wooly Patch
+T146	Target 3170 3181	Wooly Patch
+T147	Target 3131 3142	Wooly Patch
+T148	Target 3271 3282	Wooly Patch
+T149	Property 3357 3364	basalts
+R38	HasProperty Arg1:T93 Arg2:T149	
+T150	Target 3393 3404	Wooly Patch
+T151	Property 3417 3423	porous
+T152	Property 3428 3440	fine-grained
+R39	HasProperty Arg1:T150 Arg2:T151	
+R40	HasProperty Arg1:T150 Arg2:T152	
+T153	Property 3473 3484	light-toned
+R41	HasProperty Arg1:T150 Arg2:T153	
+T154	Target 4091 4102	Wooly Patch
+T155	Target 4219 4230	Wooly Patch
+R42	Contains Arg1:T155 Arg2:T27	
+R43	Contains Arg1:T155 Arg2:T28	
+R44	Contains Arg1:T155 Arg2:T29	
+R45	Contains Arg1:T155 Arg2:T30	
+R46	Contains Arg1:T155 Arg2:T25	
+R47	Contains Arg1:T155 Arg2:T26	
+R48	Contains Arg1:T155 Arg2:T31	
+T156	Target 4591 4602	Wooly Patch
+T157	Target 4746 4757	Wooly Patch
+T158	Target 5176 5187	Wooly Patch
+T159	Target 5314 5325	Wooly Patch
+T160	Target 5475 5486	Wooly Patch
+T161	Target 5613 5624	Wooly Patch
+T162	Mineral 4784 4792	silicate
+R49	Contains Arg1:T97 Arg2:T162	
+R50	Contains Arg1:T157 Arg2:T162	
+T163	Target 6567 6578	Wooly Patch
+T164	Target 6685 6696	Wooly Patch
+T165	Mineral 6662 6670	silicate
+R51	Contains Arg1:T164 Arg2:T165	
+T166	Target 6748 6759	Wooly Patch
+T167	Target 6844 6855	Wooly Patch
+T168	Target 7099 7110	Wooly Patch
+T169	Mineral 7076 7084	silicate
+R52	Contains Arg1:T168 Arg2:T169	
+T170	Target 9067 9078	Wooly Patch
+T67	Target 9770 9781	Wooly Patch
+T69	Target 9496 9507	Wooly Patch
+T171	Mineral 9712 9722	antigorite
+T172	Mineral 9702 9711	kaolinite
+T173	Mineral 9568 9576	silicate
+R10	Contains Arg1:T67 Arg2:T173	
+T174	Mineral 9828 9839	serpentines
+R5	Contains Arg1:T67 Arg2:T80	
+R6	Contains Arg1:T67 Arg2:T174	
+R7	Contains Arg1:T67 Arg2:T79	
+T175	Target 9889 9900	Wooly Patch
+T176	Element 9913 9915	Fe
+R9	Contains Arg1:T175 Arg2:T176	
+T177	Target 31 42	WOOLY PATCH
+T178	Property 48 55	ALTERED
+T179	Mineral 13 27	PHYLLOSILICATE
+R11	Contains Arg1:T177 Arg2:T179	
+R12	HasProperty Arg1:T177 Arg2:T178	
+R13	HasProperty Arg1:T177 Arg2:T1	

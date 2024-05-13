@@ -1,0 +1,92 @@
+T1	Property 47 58	COMPOSITION
+T2	Property 341 348	igneous
+T3	Property 786 790	dark
+T4	Property 805 814	vesicular
+T5	Mineral 831 838	olivine
+T6	Property 1139 1143	rock
+T7	Property 1283 1294	composition
+T8	Property 1656 1667	composition
+T9	Property 1829 1840	composition
+T10	Mineral 2064 2072	graphite
+T11	Property 3489 3500	composition
+T12	Mineral 3539 3546	olivine
+T13	Mineral 3587 3596	pigeonite
+T14	Mineral 3660 3667	olivine
+T15	Mineral 3730 3739	pigeonite
+T16	Mineral 3875 3884	pigeonite
+T17	Mineral 4014 4023	pigeonite
+T18	Mineral 4712 4719	olivine
+T19	Mineral 4743 4750	olivine
+T20	Mineral 4752 4761	pigeonite
+T21	Property 4779 4782	red
+T22	Mineral 4787 4796	pigeonite
+T23	Mineral 4907 4914	olivine
+T24	Mineral 4966 4979	orthopyroxene
+T25	Mineral 4985 4994	pigeonite
+T26	Property 5216 5227	composition
+T27	Property 5417 5424	igneous
+T28	Property 5425 5429	rock
+T29	Property 5603 5607	rock
+T30	Property 5649 5653	rock
+T31	Property 5672 5683	composition
+T32	Mineral 5742 5749	olivine
+T33	Mineral 5754 5763	pigeonite
+T34	Property 5864 5875	composition
+T35	Mineral 5927 5935	pyroxene
+T36	Mineral 5979 5988	pigeonite
+T37	Mineral 6000 6013	orthopyroxene
+T38	Mineral 6110 6116	augite
+T39	Mineral 6118 6131	orthopyroxene
+T40	Mineral 6133 6140	olivine
+T41	Mineral 6186 6195	pigeonite
+T42	Mineral 6257 6266	pigeonite
+T43	Mineral 6280 6286	augite
+T44	Mineral 6317 6330	orthopyroxene
+T45	Mineral 6335 6342	olivine
+T46	Element 6600 6601	P
+T47	Mineral 6837 6844	olivine
+T48	Property 6880 6891	composition
+T49	Mineral 6899 6906	olivine
+T50	Property 7037 7048	composition
+T51	Mineral 7274 7281	olivine
+T52	Target 1400 1410	Adirondack
+T53	Target 1631 1639	Humphrey
+T54	Target 1647 1655	Humphrey
+T55	Target 1727 1737	Adirondack
+T56	Target 1820 1828	Humphrey
+T57	Target 3480 3488	Humphrey
+T58	Target 4628 4636	Humphrey
+T59	Target 5338 5346	Humphrey
+T60	Target 5663 5671	Humphrey
+T61	Target 5835 5843	Humphrey
+T62	Target 5955 5963	Humphrey
+T63	Target 6019 6027	Humphrey
+T64	Target 6400 6408	Humphrey
+T65	Target 6513 6521	Humphrey
+T66	Target 6703 6711	Humphrey
+T67	Target 7028 7036	Humphrey
+T68	Target 7247 7255	Humphrey
+R0	Contains Arg1:T62 Arg2:T35
+R1	Contains Arg1:T62 Arg2:T36
+R6	Contains Arg1:T63 Arg2:T41
+R8	Contains Arg1:T66 Arg2:T47
+R9	Contains Arg1:T66 Arg2:T49
+R15	HasProperty Arg1:T54 Arg2:T8
+R16	HasProperty Arg1:T55 Arg2:T8
+R17	HasProperty Arg1:T56 Arg2:T9
+R18	HasProperty Arg1:T57 Arg2:T11
+R20	HasProperty Arg1:T60 Arg2:T30
+R21	HasProperty Arg1:T60 Arg2:T31
+R22	HasProperty Arg1:T61 Arg2:T34
+R23	HasProperty Arg1:T66 Arg2:T48
+R24	HasProperty Arg1:T67 Arg2:T50
+T69	Target 724 734	Adirondack
+T70	Target 1593 1603	Adirondack
+R11	Contains Arg1:T57 Arg2:T12	
+R12	Contains Arg1:T57 Arg2:T13	
+R13	Contains Arg1:T60 Arg2:T32	
+R14	Contains Arg1:T60 Arg2:T33	
+T71	Property 5858 5863	magma
+R19	HasProperty Arg1:T61 Arg2:T71	
+T72	Property 7131 7136	magma
+R2	HasProperty Arg1:T67 Arg2:T72	

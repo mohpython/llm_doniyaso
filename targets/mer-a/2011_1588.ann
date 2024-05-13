@@ -1,0 +1,33 @@
+T1	Element 127 128	P
+T2	Element 2255 2256	P
+T3	Element 2453 2459	carbon
+T4	Element 2461 2462	S
+T5	Mineral 2926 2935	carbonate
+T6	Mineral 3025 3034	carbonate
+T7	Property 3378 3382	Rock
+T8	Mineral 3456 3466	carbonates
+T9	Property 3685 3692	organic
+T10	Property 4032 4040	Basaltic
+T11	Mineral 4274 4283	carbonate
+T12	Mineral 4303 4311	dolomite
+T13	Mineral 4311 4312	-
+T14	Mineral 4312 4321	magnesite
+T15	Mineral 4342 4352	carbonates
+T16	Mineral 4454 4463	carbonate
+T17	Property 4481 4488	organic
+T18	Mineral 4661 4670	carbonate
+T19	Mineral 4925 4934	carbonate
+T20	Mineral 5009 5018	carbonate
+T21	Mineral 5124 5131	calcite
+T22	Mineral 5199 5209	carbonates
+T23	Mineral 5296 5305	carbonate
+T24	Property 5422 5429	massive
+T25	Mineral 5444 5453	carbonate
+T26	Property 6037 6044	organic
+T27	Property 6260 6267	organic
+T28	Property 6500 6507	organic
+T29	Property 6617 6624	organic
+T31	Target 3499 3512	Comanche spur
+R2	Contains Arg1:T31 Arg2:T8
+T30	Target 3487 3497	home plate
+R1	Contains Arg1:T30 Arg2:T8	

@@ -1,0 +1,76 @@
+T1	Property 1492 1496	soil
+T2	Property 1578 1582	Soil
+T3	Property 1606 1611	rough
+T4	Property 2034 2038	soil
+T5	Property 2259 2267	cohesion
+T6	Property 2292 2296	dust
+T7	Property 2332 2336	soil
+T8	Property 2669 2673	sand
+T9	Property 2682 2686	fine
+T10	Property 2738 2742	fine
+T11	Property 2743 2747	sand
+T12	Property 2822 2826	Rock
+T13	Property 2872 2880	coatings
+T14	Property 3008 3016	coatings
+T15	Property 3180 3184	rock
+T16	Property 3334 3338	rock
+T17	Property 3375 3381	poorly
+T18	Property 3382 3388	sorted
+T19	Property 3403 3410	angular
+T20	Property 3425 3431	clasts
+T21	Property 3511 3515	rock
+T22	Property 3545 3551	Clasts
+T23	Property 3571 3578	rounded
+T24	Property 3692 3696	rock
+T25	Property 3774 3785	composition
+T26	Property 3850 3854	rock
+T27	Property 4035 4041	clasts
+T28	Property 4541 4549	cohesion
+T29	Property 4618 4622	soil
+T30	Property 4781 4785	fine
+T31	Property 4786 4790	sand
+T32	Property 4806 4814	cohesion
+T33	Property 4916 4920	soil
+T34	Property 5074 5079	crust
+T35	Property 5104 5109	crust
+T36	Property 5285 5292	spectra
+T37	Property 5437 5441	soil
+T38	Property 5467 5471	dust
+T39	Property 5539 5543	soil
+T40	Property 5591 5595	soil
+T41	Property 5822 5826	soil
+T42	Property 5896 5900	soil
+T43	Property 5936 5947	sedimentary
+T44	Property 6209 6216	rounded
+T45	Property 6248 6252	sand
+T46	Mineral 6317 6325	sulfates
+T47	Property 6409 6413	fine
+T48	Mineral 6641 6648	sulfate
+T49	Mineral 7032 7039	sulfate
+T50	Property 7203 7212	sediments
+T51	Property 7270 7274	rock
+T52	Property 7303 7307	Rock
+T53	Property 7523 7532	prismatic
+T54	Mineral 7717 7726	evaporite
+T55	Property 8265 8269	rock
+T56	Property 8428 8432	rock
+T57	Target 3340 3348	Ebenezer
+T58	Target 3499 3506	Koolik2
+T59	Target 3517 3523	Uchben
+T60	Target 3588 3596	Ebenezer
+R0	HasProperty Arg1:T57 Arg2:T16
+R1	HasProperty Arg1:T58 Arg2:T21
+R2	HasProperty Arg1:T59 Arg2:T21
+T61	Target 3321 3329	Ratchit2
+R5	HasProperty Arg1:T57 Arg2:T20	
+R6	HasProperty Arg1:T61 Arg2:T20	
+T62	Property 3375 3396	poorly sorted texture
+R7	HasProperty Arg1:T61 Arg2:T62	
+R8	HasProperty Arg1:T57 Arg2:T62	
+R9	HasProperty Arg1:T61 Arg2:T16	
+R10	HasProperty Arg1:T58 Arg2:T22	
+R11	HasProperty Arg1:T59 Arg2:T22	
+T63	Target 3698 3709	Pot o' Gold
+T64	Property 3730 3737	nodules
+R3	HasProperty Arg1:T63 Arg2:T64	
+R4	HasProperty Arg1:T63 Arg2:T24	

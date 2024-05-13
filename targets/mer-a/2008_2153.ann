@@ -1,0 +1,149 @@
+T1	Property 80 87	SPECTRA
+T2	Element 1127 1129	Fe
+T3	Element 1216 1218	Fe
+T4	Property 1276 1283	spectra
+T5	Property 1663 1670	spectra
+T6	Property 1713 1719	layers
+T7	Target 1811 1823	Barnhill Ace
+T8	Property 2089 2096	spectra
+T9	Property 2191 2198	spectra
+T10	Property 2264 2271	spectra
+T11	Property 2318 2325	spectra
+T12	Mineral 2421 2429	Pyroxene
+T13	Mineral 2439 2448	magnetite
+T14	Property 2487 2494	spectra
+T15	Mineral 2581 2588	olivine
+T16	Mineral 2674 2681	olivine
+T17	Property 3218 3229	composition
+T18	Element 3295 3297	Zn
+T19	Element 3299 3301	Ni
+T20	Element 3307 3308	K
+T21	Element 3338 3340	Cl
+T22	Element 3345 3347	Br
+T23	Property 3660 3667	spectra
+T24	Property 3869 3878	Vesicular
+T25	Property 3942 3946	rock
+T26	Element 3971 3973	Fe
+T27	Element 4031 4033	Px
+T28	Element 4038 4040	Mt
+T29	Element 4045 4047	Ol
+T30	Property 4107 4118	composition
+T31	Property 4156 4163	igneous
+T32	Mineral 4397 4407	palagonite
+T33	Property 5753 5760	spectra
+T34	Target 408 418	Home Plate
+T35	Target 905 915	Home Plate
+T36	Target 1019 1031	Winter Haven
+T37	Target 1063 1073	Home Plate
+T38	Target 1287 1297	Home Plate
+T39	Target 1386 1398	Barnhill Ace
+T40	Target 1400 1413	Posey Manager
+T41	Target 1419 1442	JamesCoolPapaBell Stars
+T42	Target 1468 1478	Home Plate
+T43	Target 1480 1489	Pesapallo
+T44	Target 1602 1609	Chanute
+T45	Target 1868 1878	Home Plate
+T46	Target 1899 1912	Posey Manager
+T47	Target 1917 1940	JamesCoolPapaBell Stars
+T48	Target 2036 2044	Barnhill
+T49	Target 2498 2508	Home Plate
+T50	Target 2752 2762	Home Plate
+T51	Target 2963 2973	Home Plate
+T52	Target 3265 3275	Home Plate
+T53	Target 3377 3387	Home Plate
+T54	Target 3919 3929	Home Plate
+T55	Target 3947 3956	Esperanza
+T56	Target 4011 4021	Home Plate
+T57	Target 4130 4140	Home Plate
+T58	Target 4265 4275	Home Plate
+T59	Target 4602 4612	Home Plate
+T60	Target 4847 4857	Home Plate
+T61	Target 5335 5347	Barnhill Ace
+T62	Target 5348 5361	Posey Manager
+T63	Target 5362 5385	JamesCoolPapaBell Stars
+T64	Target 5386 5393	Chanute
+T65	Target 5394 5403	Pesapallo
+T66	Target 5450 5462	Barnhill Ace
+T67	Target 5463 5476	Posey Manager
+T68	Target 5477 5500	JamesCoolPapaBell Stars
+T69	Target 5501 5508	Chanute
+T70	Target 5509 5518	Pesapallo
+T71	Target 5618 5628	Home Plate
+R0	Contains Arg1:T49 Arg2:T12
+R1	Contains Arg1:T49 Arg2:T13
+R7	Contains Arg1:T50 Arg2:T16
+R8	Contains Arg1:T52 Arg2:T18
+R9	Contains Arg1:T52 Arg2:T19
+R10	Contains Arg1:T52 Arg2:T20
+R11	Contains Arg1:T52 Arg2:T21
+R12	Contains Arg1:T52 Arg2:T22
+R17	Contains Arg1:T55 Arg2:T26
+R18	Contains Arg1:T55 Arg2:T27
+R19	Contains Arg1:T55 Arg2:T28
+R21	Contains Arg1:T56 Arg2:T26
+R22	Contains Arg1:T56 Arg2:T27
+R23	Contains Arg1:T56 Arg2:T28
+R25	Contains Arg1:T58 Arg2:T32
+R27	HasProperty Arg1:T38 Arg2:T4
+R28	HasProperty Arg1:T39 Arg2:T4
+R29	HasProperty Arg1:T40 Arg2:T4
+R30	HasProperty Arg1:T41 Arg2:T4
+R32	HasProperty Arg1:T43 Arg2:T4
+R33	HasProperty Arg1:T44 Arg2:T4
+R34	HasProperty Arg1:T48 Arg2:T8
+R35	HasProperty Arg1:T49 Arg2:T14
+R37	HasProperty Arg1:T52 Arg2:T17
+R40	HasProperty Arg1:T55 Arg2:T24
+R41	HasProperty Arg1:T55 Arg2:T25
+R44	HasProperty Arg1:T57 Arg2:T30
+R45	HasProperty Arg1:T57 Arg2:T31
+T72	Property 436 443	plateau
+T73	Property 424 435	light-toned
+R46	HasProperty Arg1:T34 Arg2:T73	
+R47	HasProperty Arg1:T34 Arg2:T72	
+T74	Property 569 575	layerd
+T75	Property 576 583	bedrock
+T76	Property 637 644	clastic
+T77	Mineral 673 679	alkali
+T78	Property 680 686	basalt
+R48	HasProperty Arg1:T34 Arg2:T74	
+R49	HasProperty Arg1:T34 Arg2:T75	
+R50	HasProperty Arg1:T34 Arg2:T76	
+R51	Contains Arg1:T34 Arg2:T77	
+R52	HasProperty Arg1:T34 Arg2:T78	
+T79	Target 1491 1502	JuneEmerson
+T80	Target 1508 1522	ElizabethEmery
+T81	Target 1541 1551	TexasChili
+T82	Target 1571 1579	PecanPie
+R31	HasProperty Arg1:T79 Arg2:T4	
+R53	HasProperty Arg1:T80 Arg2:T4	
+R54	HasProperty Arg1:T81 Arg2:T4	
+R55	HasProperty Arg1:T82 Arg2:T4	
+T83	Target 2049 2066	JamesCoolPapaBell
+R56	HasProperty Arg1:T83 Arg2:T8	
+T84	Mineral 2712 2728	nanophase oxides
+R2	Contains Arg1:T50 Arg2:T84	
+T85	Property 3424 3430	slopes
+R3	HasProperty Arg1:T53 Arg2:T85	
+T86	Property 3879 3886	basalts
+R4	HasProperty Arg1:T55 Arg2:T86	
+T87	Mineral 4289 4291	Ol
+R5	Contains Arg1:T58 Arg2:T87	
+T88	Mineral 4307 4309	Px
+R6	Contains Arg1:T58 Arg2:T88	
+T89	Mineral 4439 4443	npOx
+R13	Contains Arg1:T58 Arg2:T89	
+T90	Mineral 4455 4457	Px
+T91	Mineral 4459 4461	Ol
+T92	Mineral 4467 4469	Mt
+R14	Contains Arg1:T58 Arg2:T90	
+R15	Contains Arg1:T58 Arg2:T91	
+R16	Contains Arg1:T58 Arg2:T92	
+T93	Target 5404 5415	JuneEmerson
+T94	Target 5416 5430	ElizabethEmery
+T95	Target 5430 5440	TexasChili
+T96	Target 5441 5449	PecanPie
+T97	Target 5519 5530	JuneEmerson
+T98	Target 5531 5545	ElizabethEmery
+T99	Target 5545 5555	TexasChili
+T100	Target 5556 5564	PecanPie

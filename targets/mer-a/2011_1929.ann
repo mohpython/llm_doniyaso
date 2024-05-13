@@ -1,0 +1,39 @@
+T1	Property 30 37	Spectra
+T2	Property 895 899	Rock
+T3	Property 1160 1164	dust
+T4	Property 1204 1212	coatings
+T5	Property 1245 1252	spectra
+T6	Property 1447 1451	rock
+T7	Property 1749 1753	rock
+T8	Element 1955 1957	Ni
+T9	Property 2012 2019	spectra
+T10	Property 2050 2058	coatings
+T11	Property 2084 2088	dust
+T12	Property 2193 2199	smooth
+T13	Property 2764 2771	spectra
+T14	Target-MERB 2802 2815	Oileán Ruaidh
+T15	Target-MERB 3032 3045	Oileán Ruaidh
+T16	Property 3204 3208	Rock
+T17	Target-MERB 3226 3239	Oileán Ruaidh
+T18	Property 3448 3452	Rock
+T19	Property 3604 3612	coatings
+T20	Property 3648 3655	spectra
+T21	Mineral 3829 3837	hematite
+T22	Mineral 3981 3989	hematite
+T23	Mineral 4088 4090	np
+T24	Mineral 4090 4091	-
+T25	Mineral 4091 4099	hematite
+T26	Mineral 4115 4123	kamacite
+T27	Property 4143 4151	coatings
+T28	Target-MERB 4155 4168	Oileán Ruaidh
+T29	Property 4319 4326	coating
+T30	Property 4478 4483	crust
+T31	Property 4536 4540	sand
+T32	Property 4662 4666	rock
+T33	Element 5357 5361	Iron
+T34	Property 6113 6120	Spectra
+T35	Target-MERB 6592 6604	Oileán Block
+T36	Target-MERB 6605 6611	Island
+R1	HasProperty Arg1:T14 Arg2:T13
+R2	HasProperty Arg1:T28 Arg2:T27
+R3	HasProperty Arg1:T28 Arg2:T29

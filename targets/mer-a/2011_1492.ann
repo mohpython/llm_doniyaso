@@ -1,0 +1,37 @@
+T1	Element 716 718	Ar
+T2	Element 887 889	Ar
+T3	Element 963 965	Ar
+T4	Element 1159 1161	Ar
+T5	Property 1409 1414	sharp
+T6	Property 2048 2054	layers
+T7	Property 2094 2100	layers
+T8	Property 2207 2211	sand
+T9	Property 2298 2304	layers
+T10	Property 2713 2720	Cobbles
+T11	Property 2725 2733	Boulders
+T12	Property 2755 2759	rock
+T13	Property 2867 2878	sedimentary
+T14	Property 2916 2924	Basaltic
+T15	Target-MERB 2982 2993	Bounce Rock
+T16	Mineral 3029 3036	sulfate
+T17	Property 3041 3049	basaltic
+T18	Target-MERB 3195 3207	Block Island
+T19	Property 3317 3328	Sedimentary
+T20	Property 3661 3665	sand
+T21	Element 4071 4073	Cl
+T22	Element 4090 4092	Mg
+T23	Element 4097 4098	S
+T24	Property 4198 4209	sedimentary
+T25	Property 4250 4256	impact
+T26	Property 4257 4263	crater
+T27	Property 5191 5202	sedimentary
+T28	Mineral 5266 5274	smectite
+T29	Property 6119 6126	spectra
+T30	Property 6203 6210	spectra
+R0	Contains Arg1:T18 Arg2:T16
+R1	HasProperty Arg1:T15 Arg2:T10
+R2	HasProperty Arg1:T15 Arg2:T11
+R3	HasProperty Arg1:T15 Arg2:T12
+R4	HasProperty Arg1:T15 Arg2:T13
+R5	HasProperty Arg1:T15 Arg2:T14
+R6	HasProperty Arg1:T18 Arg2:T17

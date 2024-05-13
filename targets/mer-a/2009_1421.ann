@@ -1,0 +1,82 @@
+T1	Property 303 308	crust
+T2	Property 441 446	crust
+T3	Property 1340 1345	crust
+T4	Property 1604 1612	basaltic
+T5	Property 1613 1618	crust
+T6	Property 1701 1707	brines
+T7	Mineral 1765 1775	serpentine
+T8	Mineral 1777 1785	chlorite
+T9	Mineral 1787 1797	nontronite
+T10	Mineral 1803 1812	kaolinite
+T11	Mineral 1850 1859	magnetite
+T12	Mineral 1861 1869	hematite
+T13	Mineral 2191 2200	smectites
+T14	Mineral 2221 2230	kaolinite
+T15	Element 2232 2234	Fe
+T16	Mineral 2247 2255	saponite
+T17	Mineral 2257 2263	illite
+T18	Mineral 2279 2287	chlorite
+T19	Mineral 2315 2322	zeolite
+T20	Mineral 2328 2337	carbonate
+T21	Property 2914 2918	rock
+T22	Mineral 3109 3117	chlorite
+T23	Mineral 3119 3129	nontronite
+T24	Mineral 3131 3140	kaolinite
+T25	Mineral 3183 3191	Chlorite
+T26	Mineral 3301 3311	nontronite
+T27	Mineral 3316 3325	kaolinite
+T28	Mineral 3387 3397	nontronite
+T29	Property 3631 3635	rock
+T30	Property 3924 3935	composition
+T31	Property 4071 4075	rock
+T32	Property 4076 4087	composition
+T33	Property 4260 4264	rock
+T34	Property 4292 4296	Rock
+T35	Element 4706 4707	S
+T36	Mineral 4739 4749	pyrrhotite
+T37	Element 4833 4839	oxygen
+T38	Element 4935 4937	Cr
+T39	Element 5069 5075	Sulfur
+T40	Element 5088 5089	S
+T41	Property 5330 5338	basaltic
+T42	Property 5533 5544	composition
+T43	Property 5560 5564	rock
+T44	Mineral 5889 5898	magnetite
+T45	Mineral 5935 5943	feldspar
+T46	Mineral 5949 5956	zeolite
+T47	Mineral 6059 6067	hematite
+T48	Mineral 6144 6154	nontronite
+T49	Mineral 6160 6168	hematite
+T50	Mineral 6282 6290	hematite
+T51	Property 6761 6765	rock
+T52	Mineral 6808 6816	smectite
+T53	Mineral 6828 6837	notronite
+T54	Mineral 6844 6852	hematite
+T55	Mineral 6902 6912	Nontronite
+T56	Mineral 6922 6930	chlorite
+T57	Mineral 7055 7065	serpentine
+T58	Mineral 7067 7074	zeolite
+T59	Property 7348 7355	spectra
+T60	Property 7399 7406	spectra
+T61	Property 9542 9553	Composition
+T62	Property 10136 10140	rock
+T63	Mineral 10282 10286	tite
+T64	Mineral 10404 10409	atite
+T65	Mineral 10495 10503	hematite
+T66	Mineral 10504 10510	pyrite
+T67	Element 13772 13773	K
+T68	Target 5121 5129	Humphrey
+T69	Target 5548 5556	Humphrey
+T70	Target 5815 5823	Humphrey
+T71	Target 5961 5969	Humphrey
+T72	Target 6120 6128	Humphrey
+T73	Target 10597 10605	Humphrey
+R3	Contains Arg1:T70 Arg2:T45
+R7	Contains Arg1:T71 Arg2:T46
+R8	Contains Arg1:T72 Arg2:T48
+R9	Contains Arg1:T72 Arg2:T49
+R15	HasProperty Arg1:T69 Arg2:T42
+R16	HasProperty Arg1:T69 Arg2:T43
+T74	Mineral 5113 5116	SO3
+R1	Contains Arg1:T68 Arg2:T74	
+R10	Contains Arg1:T68 Arg2:T39	

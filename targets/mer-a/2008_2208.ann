@@ -1,0 +1,147 @@
+T1	Element 952 954	Fe
+T2	Property 1100 1104	soil
+T3	Property 1643 1651	basaltic
+T4	Property 1697 1700	ice
+T5	Mineral 1745 1752	sulfate
+T6	Property 1758 1762	soil
+T7	Property 2146 2154	basaltic
+T8	Mineral 2181 2188	sulfate
+T9	Mineral 2229 2236	sulfate
+T10	Property 2429 2437	basaltic
+T11	Property 2449 2453	rock
+T12	Mineral 2499 2506	sulfate
+T13	Mineral 2601 2608	sulfate
+T14	Mineral 2795 2802	sulfate
+T15	Property 2862 2865	red
+T16	Property 2892 2900	basaltic
+T17	Property 2901 2905	rock
+T18	Mineral 3125 3132	sulfate
+T19	Element 3206 3208	Ti
+T20	Property 3302 3306	Rock
+T21	Property 3595 3603	basaltic
+T22	Mineral 3805 3812	sulfate
+T23	Property 4012 4016	Soil
+T24	Element 4017 4019	Ti
+T25	Property 4045 4053	Basaltic
+T26	Property 4054 4058	soil
+T27	Property 4279 4283	Soil
+T28	Mineral 4445 4452	sulfate
+T29	Property 4758 4762	soil
+T30	Mineral 4895 4902	sulfate
+T31	Property 5078 5082	rock
+T32	Property 5401 5408	spectra
+T33	Property 5605 5612	spectra
+T34	Property 5796 5800	fine
+T35	Property 5955 5966	composition
+T36	Property 6104 6108	fine
+T37	Property 6492 6499	spectra
+T38	Mineral 6523 6530	sulfate
+T39	Mineral 6556 6562	quartz
+T40	Property 6586 6591	bands
+T41	Property 6656 6667	sedimentary
+T42	Property 6893 6900	spectra
+T43	Property 7043 7050	spectra
+T44	Property 7317 7321	Fine
+T45	Property 7351 7362	Sedimentary
+T46	Mineral 7385 7392	sulfate
+T47	Property 7401 7409	basaltic
+T48	Property 7410 7414	rock
+T49	Mineral 7476 7483	sulfate
+T50	Property 7507 7515	basaltic
+T51	Property 7781 7788	spectra
+T52	Target 811 821	Home Plate
+T53	Target 1040 1054	Kenosha Comets
+T54	Target 1059 1071	Lefty Ganote
+T55	Target 1106 1120	Gertrude Weise
+T56	Target 1198 1209	Fuzzy Smith
+T57	Target 1211 1225	Kenosha Comets
+T58	Target 1475 1489	Gertrude Weise
+T59	Target 1552 1563	Fuzzy Smith
+T60	Target 1565 1575	Home Plate
+T61	Target 1730 1740	Home Plate
+T62	Target 1773 1784	Paso Robles
+T63	Target 2105 2115	Home Plate
+T64	Target 3437 3447	Home Plate
+T65	Target 3537 3547	Home Plate
+T66	Target 3991 4001	Home Plate
+T67	Target 4068 4077	Esperanza
+T68	Target 4083 4092	Pesapallo
+T69	Target 4098 4105	Everett
+T70	Target 4111 4116	Slide
+T71	Target 4121 4134	Good Question
+T72	Target 4140 4151	Eileen Dean
+T73	Target 4157 4168	Fuzzy Smith
+T74	Target 4190 4202	Lefty Ganote
+T75	Target 4208 4222	Kenosha Comets
+T76	Target 4228 4239	Norma Luker
+T77	Target 4246 4264	Innocent Bystander
+T78	Target 5144 5151	Everett
+T79	Target 5158 5176	Innocent Bystander
+T80	Target 5188 5202	Kenosha Comets
+T81	Target 5590 5604	Gertrude Weise
+T82	Target 7682 7692	Home Plate
+R0	Contains Arg1:T52 Arg2:T1
+R2	Contains Arg1:T62 Arg2:T5
+R31	HasProperty Arg1:T53 Arg2:T2
+R32	HasProperty Arg1:T54 Arg2:T2
+R33	HasProperty Arg1:T55 Arg2:T2
+R38	HasProperty Arg1:T62 Arg2:T6
+R89	HasProperty Arg1:T81 Arg2:T33
+R99	HasProperty Arg1:T82 Arg2:T51
+T83	Mineral 863 867	SiO2
+R29	Contains Arg1:T52 Arg2:T83	
+T84	Property 1088 1099	high albedo
+R30	HasProperty Arg1:T53 Arg2:T84	
+R90	HasProperty Arg1:T54 Arg2:T84	
+R91	HasProperty Arg1:T55 Arg2:T84	
+T85	Property 1180 1185	float
+R34	HasProperty Arg1:T56 Arg2:T85	
+T86	Mineral 1242 1246	SiO2
+R92	Contains Arg1:T57 Arg2:T86	
+T87	Mineral 1467 1471	SiO2
+R93	Contains Arg1:T58 Arg2:T87	
+T88	Property 1611 1619	volcanic
+R94	HasProperty Arg1:T60 Arg2:T88	
+T89	Mineral 3513 3517	SiO2
+R1	Contains Arg1:T65 Arg2:T89	
+T90	Property 3568 3591	acid-sulfate alteration
+R36	HasProperty Arg1:T65 Arg2:T90	
+T91	Target 4033 4043	BearIsland
+R3	HasProperty Arg1:T91 Arg2:T25	
+R4	HasProperty Arg1:T91 Arg2:T26	
+T92	Target 4172 4184	Nancy Warren
+T93	Target 5331 5333	Ev
+T94	Target 5338 5341	IBy
+T95	Mineral 5356 5359	MgO
+R5	Contains Arg1:T93 Arg2:T95	
+R6	Contains Arg1:T94 Arg2:T95	
+T96	Target 5153 5155	Ev
+T97	Target 5178 5181	IBy
+T98	Target 5204 5206	KC
+T99	Target 5282 5284	Ev
+T100	Property 5272 5281	unaltered
+R7	HasProperty Arg1:T99 Arg2:T100	
+T101	Target 5303 5306	IBy
+T102	Target 5326 5328	KC
+T103	Property 5310 5325	heavily altered
+R8	HasProperty Arg1:T102 Arg2:T103	
+T104	Property 5288 5302	mildly altered
+R9	HasProperty Arg1:T101 Arg2:T104	
+T105	Mineral 7665 7669	SiO2
+R10	Contains Arg1:T82 Arg2:T105	
+T106	Target 28 38	HOME PLATE
+T107	Property 5 17	HYDROTHERMAL
+R11	HasProperty Arg1:T106 Arg2:T107	
+T108	Mineral 911 914	FeO
+R12	Contains Arg1:T52 Arg2:T108	
+T109	Mineral 1269 1272	FeO
+R13	Contains Arg1:T57 Arg2:T109	
+T110	Mineral 1300 1304	TiO2
+R14	Contains Arg1:T57 Arg2:T110	
+T111	Mineral 983 987	TiO2
+R15	Contains Arg1:T52 Arg2:T111	
+R16	Contains Arg1:T61 Arg2:T5	
+T112	Property 1791 1796	soils
+T113	Mineral 1809 1812	SO3
+R17	HasProperty Arg1:T62 Arg2:T112	
+R18	Contains Arg1:T62 Arg2:T113	

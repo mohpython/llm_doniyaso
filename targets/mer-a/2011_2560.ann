@@ -1,0 +1,22 @@
+T1	Mineral 608 615	olivine
+T2	Property 676 680	soil
+T3	Property 1342 1350	sediment
+T4	Mineral 1545 1552	olivine
+T5	Property 2161 2172	composition
+T6	Property 2952 2963	composition
+T7	Mineral 2967 2974	olivine
+T8	Mineral 3488 3495	olivine
+T9	Property 3741 3744	red
+T10	Property 3978 3983	bands
+T11	Mineral 4002 4009	olivine
+T12	Property 4123 4126	red
+T13	Mineral 4275 4282	olivine
+T14	Property 4291 4297	layers
+T15	Mineral 4524 4531	olivine
+T16	Mineral 4577 4584	olivine
+T17	Property 4585 4596	composition
+T18	Property 6052 6063	composition
+T19	Mineral 8694 8701	olivine
+T20	Property 8827 8833	pitted
+T21	Target 550 560	Adirondack
+R0	Contains Arg1:T21 Arg2:T1

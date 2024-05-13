@@ -1,0 +1,43 @@
+T1	Property 908 912	rock
+T2	Mineral 985 995	merrillite
+T3	Mineral 1352 1364	fluorapatite
+T4	Mineral 1471 1483	fluorapatite
+T5	Mineral 1494 1506	Fluorapatite
+T6	Mineral 1593 1605	chlorapatite
+T7	Mineral 1610 1620	merrillite
+T8	Mineral 1655 1666	whitlockite
+T9	Mineral 1891 1902	Whitlockite
+T10	Mineral 1907 1917	merrillite
+T11	Element 2039 2047	hydrogen
+T12	Mineral 2051 2062	whitlockite
+T13	Mineral 2374 2386	fluorapatite
+T14	Mineral 2428 2440	fluorapatite
+T15	Mineral 2562 2573	Whitlockite
+T16	Mineral 2674 2686	fluorapatite
+T17	Mineral 2947 2958	whitlockite
+T18	Mineral 2963 2975	fluorapatite
+T19	Mineral 3584 3595	whitlockite
+T20	Mineral 3837 3848	whitlockite
+T21	Mineral 3852 3864	fluorapatite
+T22	Element 4071 4073	Ca
+T23	Mineral 4282 4293	Whitlockite
+T24	Mineral 4513 4525	fluorapatite
+T25	Mineral 4585 4597	fluorapatite
+T26	Mineral 4641 4653	fluorapatite
+T27	Mineral 4886 4897	whitlockite
+T28	Mineral 4918 4930	fluorapatite
+T29	Property 4944 4947	red
+T30	Mineral 5041 5052	whitlockite
+T31	Mineral 5090 5101	whitlockite
+T32	Mineral 5145 5157	fluorapatite
+T33	Mineral 5305 5313	jarosite
+T34	Mineral 5416 5426	merrillite
+T35	Mineral 5454 5465	whitlockite
+T36	Mineral 5918 5930	chlorapatite
+T37	Mineral 5935 5945	merrillite
+T38	Target 1002 1011	Wishstone
+T39	Target 1016 1026	Watchtower
+R0	Contains Arg1:T38 Arg2:T2
+R1	Contains Arg1:T39 Arg2:T2
+R2	HasProperty Arg1:T38 Arg2:T1
+R3	HasProperty Arg1:T39 Arg2:T1

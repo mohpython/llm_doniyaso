@@ -1,0 +1,78 @@
+T1	Property 406 413	igneous
+T2	Property 485 496	sedimentary
+T3	Property 913 917	rock
+T4	Property 1736 1740	rock
+T5	Property 1764 1768	soil
+T6	Property 1781 1785	rock
+T7	Property 1860 1864	rock
+T8	Property 1949 1953	Rock
+T9	Property 3754 3758	rock
+T10	Property 3830 3834	rock
+T11	Property 3894 3898	rock
+T12	Element 4623 4625	Mg
+T14	Mineral 4626 4633	sulfate
+T15	Mineral 4762 4771	kieserite
+T16	Mineral 4918 4920	Mg
+T17	Mineral 4920 4921	-
+T18	Mineral 4921 4928	sulfate
+T19	Mineral 5552 5561	Kieserite
+T20	Property 5746 5750	rock
+T21	Property 5846 5850	soil
+T22	Property 5854 5858	rock
+T23	Property 6095 6099	soil
+T24	Property 6100 6107	coating
+T25	Property 6175 6179	rock
+T26	Property 6358 6362	soil
+T27	Property 6453 6457	Soil
+T28	Property 6640 6644	rock
+T29	Property 6655 6659	soil
+T30	Property 7025 7032	igneous
+T31	Property 7738 7745	Igneous
+T32	Property 7747 7758	Sedimentary
+T33	Target 3124 3133	Wishstone
+T34	Target 3158 3167	Descartes
+T35	Target 3248 3258	Watchtower
+T36	Target 3470 3479	Wishstone
+T37	Target 3481 3491	Watchtower
+T38	Target 3497 3506	Descartes
+T39	Target 4117 4127	Adirondack
+T40	Target 4135 4141	Clovis
+T41	Target 4149 4154	Peace
+T42	Target 4162 4170	Backstay
+T43	Target 4312 4322	Watchtower
+T44	Target 4328 4337	Descartes
+T45	Target 4426 4435	Wishstone
+T46	Target 4480 4489	Descartes
+T47	Target 4947 4956	Wishstone
+T48	Target 5067 5076	Wishstone
+T49	Target 5098 5107	Descartes
+T50	Target 5440 5449	Champagne
+T51	Target 5460 5469	Descartes
+T52	Target 5581 5590	Champagne
+T53	Target 6261 6270	Champagne
+T54	Target 6281 6290	Descartes
+T55	Target 6390 6399	Champagne
+T56	Target 4302 4310	Wishtone
+T57	Mineral 4516 4519	MgO
+R8	Contains Arg1:T46 Arg2:T57	
+T58	Mineral 4524 4527	SO3
+R9	Contains Arg1:T46 Arg2:T58	
+T59	Mineral 4410 4414	TiO2
+R10	Contains Arg1:T45 Arg2:T59	
+T60	Target 4637 4645	Wishtone
+R11	Contains Arg1:T60 Arg2:T14	
+R12	Contains Arg1:T60 Arg2:T12	
+T13	Element 5150 5152	Mg
+T61	Mineral 5153 5161	sulfates
+T62	Element 5166 5168	Mg
+T63	Mineral 5169 5178	silicates
+R1	Contains Arg1:T49 Arg2:T63	
+R2	Contains Arg1:T49 Arg2:T62	
+R3	Contains Arg1:T49 Arg2:T61	
+R13	Contains Arg1:T49 Arg2:T13	
+T64	Target 65 77	HUSBAND HILL
+T65	Target 787 799	Husband Hill
+T66	Target 1143 1155	Husband Hill
+T67	Target 1426 1438	Husband Hill
+T68	Target 4047 4059	Husband Hill
+T69	Target 7187 7199	Husband Hill

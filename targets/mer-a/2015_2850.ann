@@ -1,0 +1,111 @@
+T1	Element 14 25	PHOSPHOROUS
+T2	Element 685 686	P
+T3	Element 768 776	Pbearing
+T4	Mineral 798 813	orthophosphates
+T5	Mineral 846 853	apatite
+T6	Element 868 870	Cl
+T7	Mineral 965 975	merrillite
+T8	Element 1009 1010	P
+T9	Element 1228 1229	P
+T10	Property 1304 1308	rock
+T11	Element 1400 1401	P
+T12	Property 1470 1474	soil
+T13	Element 1894 1895	P
+T14	Element 2050 2051	P
+T15	Element 2124 2125	P
+T16	Element 3180 3181	P
+T17	Element 3229 3230	P
+T18	Element 3411 3412	P
+T19	Element 3509 3510	P
+T20	Target-MSL 3664 3673	Epworth_5
+T21	Target-MSL 3695 3706	Blackhead_7
+T22	Property 3723 3727	rock
+T23	Element 3785 3786	P
+T24	Element 3927 3928	P
+T25	Element 3977 3978	P
+T26	Element 4152 4153	P
+T27	Element 4305 4306	P
+T28	Element 4482 4483	P
+T29	Mineral 4533 4541	dolomite
+T30	Mineral 4550 4556	gypsum
+T31	Mineral 4567 4573	Norite
+T32	Element 4678 4679	P
+T33	Element 4705 4706	P
+T34	Element 4740 4741	P
+T35	Element 4752 4753	P
+T36	Element 4764 4765	P
+T37	Target-MSL 4826 4835	Epworth_5
+T38	Target-MSL 4837 4848	Blackhead_7
+T39	Element 4849 4850	P
+T40	Element 4852 4854	Fe
+T41	Target-MSL 4855 4862	Epworth
+T42	Element 4962 4964	Fe
+T43	Target-MSL 4971 4980	Epworth_5
+T44	Element 4994 4996	Fe
+T45	Mineral 5125 5132	apatite
+T46	Target-MSL 5420 5429	Epworth_5
+T47	Target-MSL 5441 5452	Blackhead_7
+T48	Property 5467 5471	rock
+T49	Element 5553 5554	P
+T50	Element 5750 5751	P
+T51	Mineral 5837 5844	apatite
+T52	Element 5866 5867	P
+T53	Mineral 5959 5966	apatite
+T54	Element 6015 6016	P
+T55	Element 6054 6056	Fe
+T56	Element 6080 6081	P
+T57	Element 6139 6140	P
+T58	Target-MSL 6280 6289	Epworth_5
+T59	Target-MSL 6294 6305	Blackhead_7
+T60	Element 6374 6375	P
+T61	Element 6533 6534	P
+T62	Target 1566 1575	Wishstone
+R0	Contains Arg1:T62 Arg2:T11
+R1	Contains Arg1:T20 Arg2:T19
+R2	Contains Arg1:T21 Arg2:T19
+R3	Contains Arg1:T37 Arg2:T33
+R4	Contains Arg1:T37 Arg2:T34
+R5	Contains Arg1:T37 Arg2:T35
+R6	Contains Arg1:T37 Arg2:T36
+R7	Contains Arg1:T37 Arg2:T39
+R8	Contains Arg1:T37 Arg2:T40
+R9	Contains Arg1:T37 Arg2:T42
+R10	Contains Arg1:T37 Arg2:T44
+R11	Contains Arg1:T38 Arg2:T33
+R12	Contains Arg1:T38 Arg2:T34
+R13	Contains Arg1:T38 Arg2:T35
+R14	Contains Arg1:T38 Arg2:T36
+R15	Contains Arg1:T38 Arg2:T39
+R16	Contains Arg1:T38 Arg2:T40
+R17	Contains Arg1:T38 Arg2:T42
+R18	Contains Arg1:T38 Arg2:T44
+R19	Contains Arg1:T41 Arg2:T33
+R20	Contains Arg1:T41 Arg2:T34
+R21	Contains Arg1:T41 Arg2:T35
+R22	Contains Arg1:T41 Arg2:T36
+R23	Contains Arg1:T41 Arg2:T39
+R24	Contains Arg1:T41 Arg2:T40
+R25	Contains Arg1:T41 Arg2:T42
+R26	Contains Arg1:T41 Arg2:T44
+R27	Contains Arg1:T43 Arg2:T33
+R28	Contains Arg1:T43 Arg2:T34
+R29	Contains Arg1:T43 Arg2:T35
+R30	Contains Arg1:T43 Arg2:T36
+R31	Contains Arg1:T43 Arg2:T39
+R32	Contains Arg1:T43 Arg2:T40
+R33	Contains Arg1:T43 Arg2:T42
+R34	Contains Arg1:T43 Arg2:T44
+R35	Contains Arg1:T58 Arg2:T60
+R36	Contains Arg1:T59 Arg2:T60
+R38	HasProperty Arg1:T20 Arg2:T22
+R39	HasProperty Arg1:T21 Arg2:T22
+R40	HasProperty Arg1:T46 Arg2:T48
+R41	HasProperty Arg1:T47 Arg2:T48
+T63	Mineral 1542 1546	P2O5
+T64	Element 1554 1564	phosphorus
+R37	Contains Arg1:T62 Arg2:T63	
+R42	Contains Arg1:T62 Arg2:T64	
+T65	Property 1583 1591	alkaline
+T66	Property 1592 1600	volcanic
+R43	HasProperty Arg1:T62 Arg2:T65	
+R44	HasProperty Arg1:T62 Arg2:T66	

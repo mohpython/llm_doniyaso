@@ -1,0 +1,183 @@
+T1	Property 946 953	spectra
+T2	Element 2331 2333	Si
+T3	Property 2500 2504	soil
+T4	Mineral 2630 2636	silica
+T5	Property 2637 2644	content
+T6	Property 2957 2964	spectra
+T7	Property 3112 3119	spectra
+T8	Property 3131 3135	dust
+T9	Property 3155 3164	vesicular
+T10	Property 4352 4361	Vesicular
+T11	Property 4391 4395	dust
+T12	Property 4528 4535	spectra
+T13	Property 4647 4656	Vesicular
+T14	Property 4686 4690	dust
+T15	Property 4902 4909	spectra
+T16	Property 5076 5079	red
+T17	Property 5169 5173	dust
+T18	Property 5220 5224	dust
+T19	Property 5573 5584	composition
+T20	Property 6526 6533	spectra
+T21	Property 7490 7497	spectra
+T22	Property 7615 7622	spectra
+T23	Property 7852 7859	spectra
+T24	Property 7954 7958	rock
+T25	Property 8022 8029	spectra
+T26	Property 8248 8255	spectra
+T27	Property 8291 8295	flat
+T28	Property 8380 8387	spectra
+T29	Property 8561 8568	spectra
+T30	Property 8595 8599	soil
+T31	Target 10054 10056	BB
+T32	Target 880 891	Paso Robles
+T33	Target 1439 1445	Tyrone
+T34	Target 1490 1496	Tyrone
+T35	Target 1644 1650	Tyrone
+T36	Target 1879 1890	Paso Robles
+T37	Target 2038 2048	Home Plate
+T38	Target 2053 2070	Mitcheltree Ridge
+T39	Target 2114 2120	Tyrone
+T40	Target 2512 2526	Gertrude Weise
+T41	Target 2897 2903	Tyrone
+T42	Target 3305 3316	Paso Robles
+T43	Target 3896 3902	Tyrone
+T44	Target 3929 3940	McCool Hill
+T45	Target 3961 3966	Kobal
+T46	Target 4039 4045	Tyrone
+T47	Target 4051 4068	Mitcheltree Ridge
+T48	Target 4069 4075	Tyrone
+T49	Target 4102 4113	McCool Hill
+T50	Target 4134 4139	Kobal
+T51	Target 4212 4218	Tyrone
+T52	Target 4224 4241	Mitcheltree Ridge
+T53	Target 4404 4419	Elizabeth Mahon
+T54	Target 4453 4467	Gertrude Weise
+T55	Target 4699 4714	Elizabeth Mahon
+T56	Target 4748 4762	Gertrude Weise
+T57	Target 4778 4793	Elizabeth Mahon
+T58	Target 4827 4841	Gertrude Weise
+T59	Target 5419 5434	Elizabeth Mahon
+T60	Target 5802 5813	Paso Robles
+T61	Target 5818 5824	Tyrone
+T62	Target 6703 6714	Pot of Gold
+T63	Target 7671 7682	Paso Robles
+T64	Target 7692 7698	Tyrone
+T65	Target 8406 8417	Paso Robles
+T66	Target 9731 9742	Pot of Gold
+T67	Target 9934 9945	Pot of Gold
+R0	HasProperty Arg1:T40 Arg2:T3
+R1	HasProperty Arg1:T40 Arg2:T4
+T68	Target 864 874	Ben's Clod
+T69	Element 906 908	Si
+R65	Contains Arg1:T68 Arg2:T69	
+R66	Contains Arg1:T32 Arg2:T69	
+T70	Target 828 840	Husband Hill
+R67	Contains Arg1:T70 Arg2:T69	
+T71	Target 1450 1464	Eastern Valley
+T72	Element 1498 1499	S
+R68	Contains Arg1:T34 Arg2:T72	
+T73	Property 1505 1510	soils
+R69	HasProperty Arg1:T34 Arg2:T73	
+T74	Element 1651 1652	S
+R70	Contains Arg1:T35 Arg2:T74	
+T75	Property 1658 1663	soils
+R83	HasProperty Arg1:T35 Arg2:T75	
+T76	Target 1666 1680	Tyrone-nodules
+T77	Property 1627 1634	nodules
+R84	HasProperty Arg1:T76 Arg2:T77	
+T78	Element 1716 1718	Si
+R85	Contains Arg1:T76 Arg2:T78	
+T79	Target 1852 1862	Ben's Clod
+T80	Element 1844 1846	Si
+T81	Property 1868 1875	nodules
+R88	HasProperty Arg1:T36 Arg2:T81	
+R120	Contains Arg1:T36 Arg2:T80	
+T82	Target 2005 2019	Eastern Valley
+T83	Property 1968 1983	nodular patches
+R121	HasProperty Arg1:T82 Arg2:T83	
+T84	Target 3278 3288	Ben's Clod
+T85	Element 3270 3272	Si
+T86	Property 3294 3301	nodules
+R2	HasProperty Arg1:T42 Arg2:T86	
+R86	Contains Arg1:T42 Arg2:T85	
+T87	Target 3903 3911	M-Darwin
+T88	Target 3912 3920	B-Island
+T89	Target 3921 3928	E-Mahon
+T90	Target 3941 3948	G-Weise
+T91	Target 3949 3960	I-Bystander
+T92	Target 3967 3976	T-Nodules
+T93	Target 4076 4084	M-Darwin
+T94	Target 4085 4093	B-Island
+T95	Target 4094 4101	E-Mahon
+T96	Target 4114 4121	G-Weise
+T97	Target 4122 4133	I-Bystander
+T98	Target 4140 4149	T-Nodules
+T99	Target 4297 4304	G-Weise
+T100	Target 4305 4314	T-nodules
+T101	Target 4315 4326	I-Bystander
+T102	Target 4327 4335	A_Blaski
+T103	Target 4336 4343	C-Zaphe
+T104	Target 4344 4351	E-Mahon
+T105	Target 4691 4698	V- Bell
+T106	Target 4715 4733	Innocent Bystander
+T107	Target 4733 4747	Tyrone nodules
+T108	Target 4794 4812	Innocent Bystander
+T109	Target 4812 4826	Tyrone nodules
+T110	Property 6030 6037	nodular
+R3	HasProperty Arg1:T60 Arg2:T110	
+R4	HasProperty Arg1:T61 Arg2:T110	
+T111	Target 6562 6571	West Spur
+T112	Target 6672 6685	Hank's Hollow
+T113	Target 6724 6732	Breadbox
+T114	Target 6739 6755	String of Pearls
+T115	Target 6717 6720	POG
+T116	Target 6912 6915	POG
+T117	Target 6863 6871	BreadBox
+T118	Property 6834 6845	rectangular
+R5	HasProperty Arg1:T117 Arg2:T118	
+T119	Target 7219 7222	POG
+T120	Target 7227 7235	BreadBox
+T121	Target 7555 7563	Breadbox
+T122	Target 7568 7571	POG
+T123	Element 7652 7654	Si
+T124	Property 7660 7667	nodules
+R6	Contains Arg1:T63 Arg2:T123	
+R7	HasProperty Arg1:T63 Arg2:T124	
+R8	HasProperty Arg1:T121 Arg2:T21	
+T125	Property 7518 7529	rectangular
+R9	HasProperty Arg1:T121 Arg2:T125	
+R10	HasProperty Arg1:T122 Arg2:T21	
+R11	HasProperty Arg1:T122 Arg2:T125	
+T126	Element 7892 7894	Si
+R12	Contains Arg1:T121 Arg2:T126	
+R13	Contains Arg1:T122 Arg2:T126	
+T127	Target 8423 8431	Dead Sea
+T128	Property 8397 8402	soils
+T129	Property 8391 8396	salty
+R14	HasProperty Arg1:T65 Arg2:T129	
+R15	HasProperty Arg1:T65 Arg2:T128	
+R16	HasProperty Arg1:T127 Arg2:T129	
+R17	HasProperty Arg1:T127 Arg2:T128	
+T130	Target 8586 8594	Dead Sea
+R18	HasProperty Arg1:T130 Arg2:T30	
+T131	Target 8623 8629	Samara
+T132	Mineral 8655 8659	SiO2
+R19	Contains Arg1:T131 Arg2:T132	
+R20	Contains Arg1:T130 Arg2:T132	
+T133	Target 9691 9694	POG
+T134	Target 9697 9699	BB
+T135	Target 9721 9730	West Spur
+T136	Target 9743 9751	Breadbox
+T137	Target 9752 9768	String of Pearls
+T138	Target 9814 9820	Pearls
+T139	Target 9845 9848	POG
+T140	Target 9851 9853	BB
+T141	Target 9894 9897	POG
+T142	Target 9900 9902	BB
+T143	Target 9924 9933	West Spur
+T144	Target 9946 9954	Breadbox
+T145	Target 9955 9971	String of Pearls
+T146	Target 10017 10023	Pearls
+T147	Target 10048 10051	POG
+T148	Target 4420 4438	Innocent Bystander
+T149	Target 4438 4444	Tyrone

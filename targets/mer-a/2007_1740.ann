@@ -1,0 +1,47 @@
+T1	Mineral 647 654	sulfate
+T2	Mineral 768 775	sulfate
+T3	Mineral 906 914	sulfates
+T4	Property 1153 1161	sediment
+T5	Mineral 1253 1260	sulfate
+T6	Property 1565 1574	weathered
+T7	Property 1575 1579	rock
+T8	Property 1951 1955	flat
+T9	Mineral 2242 2249	sulfate
+T10	Mineral 2953 2961	sulfates
+T11	Mineral 3067 3076	copiapite
+T12	Mineral 3288 3294	gypsum
+T13	Mineral 3326 3334	Jarosite
+T14	Property 3410 3417	coating
+T15	Mineral 3432 3439	sulfate
+T16	Property 3616 3623	cobbles
+T17	Property 3708 3715	cobbles
+T18	Mineral 3772 3780	sulfates
+T19	Mineral 3784 3792	goethite
+T20	Mineral 3905 3912	sulfate
+T21	Mineral 3941 3949	goethite
+T22	Mineral 4174 4181	sulfate
+T23	Mineral 4236 4244	goethite
+T24	Mineral 4369 4377	sulfates
+T25	Mineral 4381 4389	goethite
+T26	Mineral 4834 4841	sulfate
+T27	Mineral 4896 4904	goethite
+T28	Mineral 5125 5133	sulfates
+T29	Property 5161 5172	composition
+T30	Element 5585 5591	sulfur
+T31	Mineral 5808 5816	sulfates
+T32	Mineral 6563 6572	Copiapite
+T33	Property 6702 6709	spectra
+T34	Mineral 6725 6734	copiapite
+T35	Mineral 6798 6807	copiapite
+T36	Mineral 6948 6956	goethite
+T37	Property 7033 7040	spectra
+T38	Target 5677 5688	Paso Robles
+T39	Target 5690 5694	Arad
+T40	Target 5696 5702	Tyrone
+R0	Contains Arg1:T38 Arg2:T30
+R1	Contains Arg1:T39 Arg2:T30
+R2	Contains Arg1:T40 Arg2:T30
+T41	Property 5639 5644	soils
+R3	HasProperty Arg1:T38 Arg2:T41	
+R4	HasProperty Arg1:T39 Arg2:T41	
+R5	HasProperty Arg1:T40 Arg2:T41	

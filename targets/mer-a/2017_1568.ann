@@ -1,0 +1,35 @@
+T1	Property 473 478	Mafic
+T2	Property 669 674	mafic
+T3	Element 777 783	sulfur
+T4	Element 869 875	sulfur
+T5	Property 892 896	soil
+T6	Property 1120 1129	sediments
+T7	Property 1180 1185	mafic
+T8	Property 1212 1221	sediments
+T9	Element 1256 1262	sulfur
+T10	Property 1510 1515	mafic
+T11	Property 1546 1557	sedimentary
+T12	Property 1755 1760	mafic
+T13	Property 1789 1798	sediments
+T14	Property 1848 1853	mafic
+T15	Property 2288 2293	mafic
+T16	Property 3218 3227	sediments
+T17	Mineral 3229 3235	gypsum
+T18	Mineral 3236 3245	anhydrite
+T19	Property 3757 3762	mafic
+T20	Property 3942 3947	mafic
+T21	Property 4244 4252	basaltic
+T22	Property 4253 4264	composition
+T23	Property 4435 4440	mafic
+T24	Element 4773 4779	sulfur
+T25	Target 4112 4122	Home Plate
+R0	HasProperty Arg1:T25 Arg2:T21
+T26	Property 4190 4212	hydrothermally altered
+T27	Property 4213 4224	pyroclastic
+T28	Property 4225 4232	deposit
+T29	Property 4236 4243	alkalai
+R1	HasProperty Arg1:T25 Arg2:T26	
+R2	HasProperty Arg1:T25 Arg2:T27	
+R3	HasProperty Arg1:T25 Arg2:T28	
+R4	HasProperty Arg1:T25 Arg2:T29	
+R5	HasProperty Arg1:T25 Arg2:T22	

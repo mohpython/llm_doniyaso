@@ -1,0 +1,81 @@
+T1	Property 67 71	RIND
+T2	Property 1119 1124	rinds
+T3	Property 1135 1143	coatings
+T4	Property 1206 1210	rock
+T5	Property 1285 1290	rinds
+T6	Property 1295 1303	coatings
+T7	Property 1582 1586	Rock
+T8	Property 1689 1694	rinds
+T9	Property 1794 1798	rind
+T10	Property 2343 2348	rinds
+T11	Property 2404 2409	rinds
+T12	Property 2495 2499	rock
+T13	Property 2584 2589	rinds
+T14	Property 2613 2621	coatings
+T15	Property 2845 2850	rinds
+T16	Element 2959 2961	Fe
+T17	Element 3085 3087	Fe
+T18	Property 3272 3277	rinds
+T19	Property 3322 3326	rind
+T20	Property 3395 3399	rock
+T21	Element 3571 3573	Fe
+T22	Property 3662 3667	mafic
+T23	Mineral 3678 3689	plagioclase
+T24	Mineral 3691 3699	pyroxene
+T25	Mineral 3817 3833	aluminosilicates
+T26	Element 4589 4591	Ca
+T27	Element 4597 4599	Mg
+T28	Element 4605 4606	K
+T29	Element 4610 4612	Na
+T30	Element 4816 4818	Fe
+T31	Element 4825 4827	Fe
+T32	Element 5191 5193	Fe
+T33	Element 5321 5323	Fe
+T34	Property 5355 5359	rock
+T35	Element 6167 6171	iron
+T36	Property 6201 6209	basaltic
+T37	Property 6688 6693	rinds
+T38	Property 6889 6893	rind
+T39	Property 6943 6947	rind
+T40	Property 7006 7010	rind
+T41	Property 7087 7095	coatings
+T42	Property 7397 7403	layers
+T43	Property 7556 7560	rind
+T44	Property 7568 7575	spectra
+T45	Element 7621 7625	iron
+T46	Property 7874 7883	weathered
+T47	Property 8724 8729	rinds
+T48	Property 8763 8767	rock
+T49	Property 9385 9396	composition
+T50	Element 10422 10424	Fe
+T51	Property 10447 10451	rock
+T52	Element 10533 10535	Fe
+T53	Property 10730 10736	layers
+T58	Target 6747 6755	Humphrey
+T59	Target 6760 6768	Mazatzal
+T60	Target 6897 6905	Mazatzal
+T61	Target 7014 7022	Humphrey
+T62	Target 7284 7292	Mazatzal
+T63	Target 7447 7455	Humphrey
+R1	HasProperty Arg1:T58 Arg2:T37
+R2	HasProperty Arg1:T59 Arg2:T37
+R3	HasProperty Arg1:T60 Arg2:T38
+R4	HasProperty Arg1:T60 Arg2:T39
+R9	HasProperty Arg1:T61 Arg2:T40
+R11	HasProperty Arg1:T62 Arg2:T42
+R12	HasProperty Arg1:T63 Arg2:T43
+T54	Property 6774 6782	picritic
+T55	Property 6783 6790	basalts
+R13	HasProperty Arg1:T58 Arg2:T54	
+R14	HasProperty Arg1:T58 Arg2:T55	
+R15	HasProperty Arg1:T59 Arg2:T54	
+R16	HasProperty Arg1:T59 Arg2:T55	
+T56	Property 7245 7255	alteration
+R5	HasProperty Arg1:T61 Arg2:T56	
+R6	HasProperty Arg1:T60 Arg2:T56	
+T57	Property 7262 7273	ventifacted
+R7	HasProperty Arg1:T62 Arg2:T57	
+T64	Property 7429 7436	upright
+R8	HasProperty Arg1:T63 Arg2:T64	
+R10	Contains Arg1:T63 Arg2:T45	
+R17	Contains Arg1:T62 Arg2:T45	

@@ -1,0 +1,58 @@
+T1	Property 36 44	ORGANICS
+T2	Property 581 588	organic
+T3	Property 627 638	composition
+T4	Property 698 705	organic
+T5	Property 971 978	organic
+T6	Property 1054 1058	dust
+T7	Property 1222 1229	organic
+T8	Element 1903 1907	Iron
+T9	Mineral 2396 2403	eucrite
+T10	Mineral 2409 2418	diogenite
+T11	Property 2478 2485	cobbles
+T12	Property 2923 2928	rough
+T13	Element 3436 3440	iron
+T14	Element 3617 3618	S
+T15	Element 3672 3673	C
+T16	Element 3675 3676	P
+T17	Element 3769 3773	iron
+T18	Property 3970 3977	cobbles
+T19	Property 4552 4559	organic
+T20	Property 5081 5088	organic
+T21	Property 5218 5225	organic
+T22	Property 5435 5442	organic
+T23	Property 5493 5500	organic
+T24	Property 5831 5838	organic
+T25	Property 6033 6041	organics
+T26	Property 6218 6229	composition
+T27	Property 6302 6310	organics
+T28	Property 6355 6363	organics
+T29	Property 6408 6415	organic
+T30	Property 6593 6601	organics
+T31	Property 6674 6682	organics
+T32	Property 6781 6788	organic
+T33	Element 6897 6899	Ni
+T34	Property 7000 7004	soil
+T35	Element 7076 7078	Ni
+T36	Element 7203 7209	carbon
+T37	Property 7314 7322	organics
+T38	Element 7327 7329	Ni
+T39	Property 7454 7461	organic
+T40	Element 7515 7517	Ni
+T41	Property 7624 7631	organic
+T42	Element 7714 7716	Ni
+T43	Element 7926 7928	Ni
+T44	Property 8038 8046	organics
+T45	Property 8278 8286	organics
+T46	Property 8334 8342	organics
+T47	Property 8372 8379	organic
+T48	Element 8423 8425	Ni
+T49	Property 8495 8503	organics
+T50	Element 9405 9411	Carbon
+T52	Target 2054 2064	Zhong Shan
+T51	Target 2069 2079	Alan Hills
+T53	Element 2047 2051	iron
+R1	Contains Arg1:T52 Arg2:T53	
+R2	Contains Arg1:T51 Arg2:T53	
+T54	Property 2168 2178	meteorites
+R3	HasProperty Arg1:T52 Arg2:T54	
+R4	HasProperty Arg1:T51 Arg2:T54	

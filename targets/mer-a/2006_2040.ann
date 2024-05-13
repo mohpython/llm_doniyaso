@@ -1,0 +1,105 @@
+T1	Property 9 17	COATINGS
+T2	Mineral 1057 1065	sulfates
+T3	Property 1333 1342	sediments
+T4	Property 1372 1383	sedimentary
+T5	Property 1791 1795	rock
+T6	Property 1804 1812	coatings
+T7	Property 1998 2006	coatings
+T8	Property 2069 2076	coating
+T9	Property 2314 2322	coatings
+T10	Property 2388 2392	Rock
+T11	Property 2728 2736	coatings
+T12	Property 2848 2856	coatings
+T13	Target-MERB 2923 2934	Shark Tooth
+T14	Property 3037 3041	dust
+T15	Property 3046 3050	soil
+T16	Property 3178 3182	rock
+T17	Property 3434 3438	dust
+T18	Property 3443 3447	soil
+T19	Property 3565 3569	rock
+T20	Property 3610 3614	rock
+T21	Property 3787 3791	rock
+T22	Property 3878 3882	rock
+T23	Property 4151 4159	coatings
+T24	Property 4202 4210	coatings
+T25	Property 4561 4568	spectra
+T26	Property 4622 4629	spectra
+T27	Property 4708 4719	composition
+T28	Element 4733 4735	Na
+T29	Element 4740 4742	Cl
+T30	Element 4757 4759	S.
+T31	Property 4905 4909	rock
+T32	Property 4910 4918	coatings
+T33	Property 5196 5207	composition
+T34	Element 5224 5226	Na
+T35	Element 5231 5233	Cl
+T36	Element 5247 5248	S
+T37	Element 5349 5351	Ca
+T38	Element 5353 5355	Mg
+T39	Element 5357 5359	Mn
+T40	Element 5396 5398	Br
+T41	Property 5483 5487	rock
+T42	Property 5491 5495	rock
+T43	Element 5598 5600	Cl
+T44	Element 5601 5603	Br
+T45	Element 5618 5619	C
+T46	Element 5639 5640	S
+T47	Property 5747 5758	composition
+T48	Property 5762 5766	rock
+T49	Property 5836 5843	spectra
+T50	Property 5977 5981	rock
+T51	Property 6005 6012	coating
+T52	Target-MERB 6049 6060	Shark Tooth
+T53	Property 6082 6090	coatings
+T54	Element 6170 6172	Na
+T55	Element 6177 6179	Cl
+T56	Property 6313 6317	dust
+T57	Property 6321 6325	soil
+T58	Element 6421 6423	Cl
+T59	Property 6509 6513	dust
+T60	Property 6518 6522	soil
+T61	Element 6536 6538	Cl
+T62	Property 6573 6577	soil
+T63	Target-MERB 6641 6652	Shark Tooth
+T64	Element 6660 6662	Cl
+T65	Property 6701 6705	rock
+T66	Element 6992 6994	Na
+T67	Element 6999 7001	Cl
+T68	Element 7015 7016	S
+T69	Element 7212 7214	Na
+T70	Element 7219 7221	Cl
+T71	Element 7233 7234	S
+T72	Property 7346 7354	coatings
+T73	Property 7459 7463	rock
+T74	Property 7498 7502	rind
+T75	Property 7554 7562	coatings
+T76	Property 7635 7643	coatings
+T77	Property 7725 7729	rock
+T78	Property 7960 7967	coating
+T79	Property 7998 8005	coating
+T80	Element 8154 8156	Cl
+T81	Element 8158 8159	S
+T82	Element 8165 8167	Br
+T83	Property 8233 8237	soil
+T84	Property 8245 8249	dust
+T85	Property 8284 8292	coatings
+T86	Property 8403 8407	soil
+T87	Property 8488 8496	coatings
+T88	Target-MERB 8601 8612	Shark Tooth
+T89	Property 8643 8651	coatings
+T90	Property 8685 8689	rock
+T91	Property 8729 8733	soil
+T92	Property 8809 8813	rock
+T93	Property 9127 9134	coating
+T94	Property 9193 9201	coatings
+T95	Property 9514 9519	rinds
+R0	Contains Arg1:T63 Arg2:T64
+R1	HasProperty Arg1:T13 Arg2:T14
+R2	HasProperty Arg1:T13 Arg2:T15
+R3	HasProperty Arg1:T52 Arg2:T50
+R4	HasProperty Arg1:T52 Arg2:T51
+R5	HasProperty Arg1:T52 Arg2:T53
+R6	HasProperty Arg1:T63 Arg2:T65
+R7	HasProperty Arg1:T88 Arg2:T89
+R8	HasProperty Arg1:T88 Arg2:T90
+R9	HasProperty Arg1:T88 Arg2:T91

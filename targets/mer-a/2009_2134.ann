@@ -1,0 +1,112 @@
+T1	Property 919 923	soil
+T2	Property 1013 1024	composition
+T3	Property 1061 1065	dust
+T4	Property 1702 1706	soil
+T5	Property 2070 2077	spectra
+T6	Property 2234 2239	bands
+T7	Property 2299 2303	soil
+T8	Property 2514 2521	spectra
+T9	Property 2599 2603	dust
+T10	Property 3147 3151	soil
+T11	Element 3329 3331	Si
+T12	Property 3385 3392	spectra
+T13	Element 3485 3487	Ti
+T14	Property 3741 3748	spectra
+T15	Property 3779 3786	spectra
+T16	Property 3886 3893	spectra
+T17	Mineral 3916 3923	sulfate
+T18	Property 4017 4024	spectra
+T19	Property 4084 4091	spectra
+T20	Mineral 4215 4226	anarcticite
+T21	Mineral 4264 4273	sanderite
+T22	Mineral 4288 4295	kainite
+T23	Mineral 4318 4326	datolite
+T24	Mineral 4342 4349	alunite
+T25	Element 4373 4379	sodium
+T26	Property 5078 5085	spectra
+T27	Property 5634 5641	angular
+T28	Property 5836 5843	massive
+T29	Property 5894 5898	soil
+T30	Property 5942 5946	soil
+T31	Property 6005 6009	soil
+T32	Property 6011 6016	platy
+T33	Property 6716 6720	soil
+T34	Property 6917 6921	fine
+T35	Property 6921 6922	-
+T36	Property 6922 6929	grained
+T37	Property 6930 6935	water
+T38	Property 6936 6941	frost
+T39	Property 7148 7151	ice
+T40	Property 7393 7397	soil
+T41	Property 7679 7683	soil
+T42	Property 7760 7767	spectra
+T43	Mineral 7812 7820	sulfates
+T44	Mineral 7831 7840	chlorides
+T45	Element 7842 7848	sodium
+T46	Mineral 7849 7858	silicates
+T47	Mineral 7860 7870	carbonates
+T48	Property 9547 9550	red
+T49	Target 904 918	Gertrude Weise
+T50	Target 5439 5449	Home Plate
+T51	Target 5669 5675	Clovis
+T52	Target 5706 5715	Assemblee
+T53	Target 5959 5970	Paso Robles
+T54	Target 5990 5996	Tyrone
+T55	Target 6059 6069	Home Plate
+T56	Target 6099 6109	Home Plate
+T57	Target 6182 6191	Bonestell
+T58	Target 6485 6494	Von Braun
+T59	Target 6512 6522	Home Plate
+T60	Target 6701 6715	Gertrude Weise
+T61	Target 7378 7392	Gertrude Weise
+T62	Target 7664 7678	Gertrude Weise
+T63	Target 9556 9565	Bonestell
+R0	HasProperty Arg1:T49 Arg2:T1
+R1	HasProperty Arg1:T49 Arg2:T2
+R17	HasProperty Arg1:T53 Arg2:T30
+R24	HasProperty Arg1:T54 Arg2:T31
+R38	HasProperty Arg1:T60 Arg2:T33
+R39	HasProperty Arg1:T61 Arg2:T40
+R40	HasProperty Arg1:T62 Arg2:T41
+T64	Mineral 1037 1041	SiO2
+R43	Contains Arg1:T49 Arg2:T64	
+T65	Mineral 1203 1217	opaline silica
+R44	Contains Arg1:T49 Arg2:T65	
+T66	Target 5426 5435	West Spur
+T67	Target 5654 5667	Hank's Hollow
+T68	Property 5642 5650	outcrops
+R45	HasProperty Arg1:T67 Arg2:T68	
+T69	Target 5695 5704	West Spur
+T70	Target 5735 5743	Voltaire
+T71	Target 5765 5777	Husband Hill
+T72	Target 5800 5812	Husband Hill
+T73	Property 5744 5751	outcrop
+R2	HasProperty Arg1:T70 Arg2:T73	
+T74	Element 5935 5936	S
+T75	Property 5947 5955	deposits
+R3	HasProperty Arg1:T53 Arg2:T75	
+R4	Contains Arg1:T53 Arg2:T74	
+T76	Target 5972 5980	Dead Sea
+R5	Contains Arg1:T76 Arg2:T74	
+R6	HasProperty Arg1:T76 Arg2:T30	
+R7	HasProperty Arg1:T76 Arg2:T75	
+T77	Property 5998 6003	white
+R8	HasProperty Arg1:T54 Arg2:T77	
+T78	Property 6091 6098	layered
+T79	Property 6110 6117	outcrop
+R9	HasProperty Arg1:T56 Arg2:T78	
+R10	HasProperty Arg1:T56 Arg2:T79	
+R11	Contains Arg1:T54 Arg2:T74	
+T80	Target 6170 6177	McMurdo
+T81	Mineral 6736 6750	opaline silica
+R12	Contains Arg1:T60 Arg2:T81	
+T82	Target 9538 9545	McMurdo
+T83	Property 5779 5786	altered
+R13	HasProperty Arg1:T72 Arg2:T83	
+T84	Property 6018 6031	thinly-bedded
+T85	Property 6033 6044	light-toned
+T86	Property 6045 6053	outcrops
+R14	HasProperty Arg1:T55 Arg2:T32	
+R15	HasProperty Arg1:T55 Arg2:T84	
+R16	HasProperty Arg1:T55 Arg2:T85	
+R18	HasProperty Arg1:T55 Arg2:T86	

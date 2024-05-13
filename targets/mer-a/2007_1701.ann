@@ -1,0 +1,75 @@
+T1	Property 96 103	SPECTRA
+T2	Property 558 565	spectra
+T3	Property 633 637	rind
+T4	Property 937 943	layers
+T5	Property 955 966	composition
+T6	Property 994 1001	spectra
+T7	Property 1337 1348	composition
+T8	Property 1381 1388	spectra
+T9	Property 1430 1441	composition
+T10	Property 1480 1486	layers
+T11	Property 1629 1635	layers
+T12	Property 2159 2166	spectra
+T13	Property 2358 2365	spectra
+T14	Mineral 2414 2421	olivine
+T15	Element 2436 2440	iron
+T16	Mineral 2452 2458	pyrite
+T17	Property 2560 2567	spectra
+T18	Mineral 2677 2683	pyrite
+T19	Property 2822 2829	spectra
+T20	Property 2865 2872	spectra
+T21	Property 2923 2927	rock
+T22	Property 2954 2961	coating
+T23	Property 2995 2999	rind
+T24	Property 3102 3106	rind
+T25	Property 3120 3127	spectra
+T26	Property 3254 3261	spectra
+T27	Property 3453 3464	composition
+T28	Property 3488 3492	rock
+T29	Property 3501 3508	coating
+T30	Property 3558 3565	coating
+T31	Mineral 3686 3694	hematite
+T32	Mineral 3696 3705	magnetite
+T33	Property 3843 3854	composition
+T34	Property 3869 3880	composition
+T35	Property 3922 3933	composition
+T36	Property 4047 4058	composition
+T37	Property 4068 4075	Coating
+T38	Mineral 4076 4083	Olivine
+T39	Mineral 4232 4241	Magnetite
+T40	Mineral 4268 4276	Hematite
+T41	Property 4422 4429	spectra
+T42	Property 4497 4504	spectra
+T43	Mineral 4576 4583	olivine
+T44	Mineral 5222 5229	olivine
+T45	Property 5293 5300	spectra
+T46	Property 5324 5335	composition
+T47	Property 5369 5374	rinds
+T48	Property 5435 5442	spectra
+T49	Property 5892 5899	Spectra
+T50	Mineral 5936 5943	olivine
+T51	Mineral 5967 5973	pyrite
+T52	Property 6019 6026	Spectra
+T53	Property 6156 6163	spectra
+T54	Target 2929 2937	Mazatzal
+T55	Target 3029 3037	Mazatzal
+T56	Target 3213 3221	Mazatzal
+T57	Target 3884 3892	Mazatzal
+T58	Target 4466 4474	Humphrey
+T59	Target 5196 5204	Humphrey
+T60	Target 6062 6070	Mazatzal
+T61	Target 6199 6207	Humphrey
+R0	Contains Arg1:T59 Arg2:T44
+R1	HasProperty Arg1:T54 Arg2:T20
+R2	HasProperty Arg1:T54 Arg2:T21
+R3	HasProperty Arg1:T54 Arg2:T22
+R4	HasProperty Arg1:T54 Arg2:T23
+R5	HasProperty Arg1:T55 Arg2:T24
+R6	HasProperty Arg1:T55 Arg2:T25
+R7	HasProperty Arg1:T56 Arg2:T26
+R8	HasProperty Arg1:T57 Arg2:T34
+R9	HasProperty Arg1:T58 Arg2:T41
+R10	HasProperty Arg1:T58 Arg2:T42
+R11	HasProperty Arg1:T60 Arg2:T52
+R12	HasProperty Arg1:T61 Arg2:T53
+T62	Target 2906 2916	Adirondack

@@ -1,0 +1,57 @@
+T1	Element 1594 1598	iron
+T2	Element 2266 2270	iron
+T3	Element 2270 2271	-
+T4	Element 2271 2277	nickel
+T5	Property 2278 2282	rock
+T6	Property 2320 2327	rounded
+T7	Property 2499 2503	sand
+T8	Mineral 2535 2542	sulfate
+T9	Property 2728 2734	pitted
+T10	Property 2883 2886	pit
+T11	Property 3345 3352	coating
+T12	Mineral 3436 3444	kamacite
+T13	Property 3509 3518	weathered
+T14	Property 3559 3567	Coatings
+T15	Property 3722 3729	coating
+T16	Property 3748 3753	crust
+T17	Property 3780 3784	rind
+T18	Element 4103 4107	iron
+T19	Mineral 4156 4164	hematite
+T20	Property 4331 4338	rounded
+T21	Property 4344 4350	smooth
+T22	Property 4367 4371	pits
+T23	Property 4379 4386	rounded
+T24	Property 4397 4403	pitted
+T25	Property 4543 4549	eolian
+T26	Property 4796 4803	granule
+T27	Property 4963 4968	rough
+T28	Property 4973 4980	angular
+T29	Property 5067 5074	rounded
+T30	Property 5137 5144	angular
+T31	Target-MERB 5204 5216	Block Island
+T32	Property 5254 5257	pit
+T33	Property 5378 5381	pit
+T34	Property 5809 5816	coating
+T35	Property 5882 5889	coating
+T36	Target-MERB 5959 5970	Heat Shield
+T38	Property 6442 6452	hemisphere
+T39	Property 6538 6542	rock
+T40	Property 6858 6867	weathered
+T41	Property 7006 7010	rock
+T42	Property 7046 7052	smooth
+T43	Property 7484 7491	coating
+T44	Property 7498 7505	coating
+T45	Property 7767 7771	rock
+T46	Property 8212 8218	smooth
+T47	Property 8224 8231	rounded
+T48	Mineral 8751 8759	Troilite
+T49	Property 9283 9286	pit
+T50	Property 9681 9689	coatings
+T51	Property 9854 9857	pit
+T52	Property 9865 9868	ice
+T53	Property 9889 9896	coating
+T54	Property 10616 10623	granule
+T55	Property 10820 10829	weathered
+T56	Property 10852 10856	fine
+R0	HasProperty Arg1:T31 Arg2:T32
+R1	HasProperty Arg1:T36 Arg2:T35

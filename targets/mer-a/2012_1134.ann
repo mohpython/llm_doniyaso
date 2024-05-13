@@ -1,0 +1,42 @@
+T1	Property 4739 4742	red
+T2	Property 5336 5339	red
+T3	Target 3508 3513	Peace
+T4	Target 3530 3535	Peace
+T5	Target 3540 3549	Alligator
+T6	Target 3589 3605	Cumberland Ridge
+T7	Target 3616 3626	Methuselah
+T8	Target 3656 3662	Kansas
+T9	Target 4255 4261	Uchben
+T10	Target 4291 4297	Uchben
+T11	Target 4353 4358	Peace
+T12	Target 4376 4385	Alligator
+T13	Target 4402 4412	Methuselah
+T14	Target 4462 4474	Independence
+T15	Target 4526 4532	Kansas
+T16	Target 4533 4542	Algonquin
+T17	Target 4860 4876	Cumberland Ridge
+T18	Target 4878 4888	Methuselah
+T19	Target 14 26	HUSBAND HILL
+T20	Target 35 44	WEST SPUR
+T21	Target 1330 1339	West Spur
+T22	Target 1344 1356	Husband Hill
+T23	Property 1314 1322	outcrops
+R1	HasProperty Arg1:T21 Arg2:T23	
+R2	HasProperty Arg1:T22 Arg2:T23	
+T24	Target 3631 3646	Larry's Lookout
+T25	Target 3700 3706	Summit
+T26	Target 3939 3951	Husband Hill
+T27	Target 3998 4007	West Spur
+T28	Target 4012 4024	Husband Hill
+T29	Property 4025 4033	outcrops
+R3	HasProperty Arg1:T27 Arg2:T29	
+R4	HasProperty Arg1:T28 Arg2:T29	
+T30	Target 4311 4315	Coba
+T31	Target 4429 4444	Larry's Lookout
+T32	Target 4657 4666	West Spur
+T33	Target 4671 4683	Husband Hill
+T34	Target 4893 4908	Larry's Lookout
+T35	Target 4914 4920	Summit
+T36	Target 5147 5159	Husband Hill
+T37	Target 5303 5312	West Spur
+T38	Target 5317 5329	Husband Hill

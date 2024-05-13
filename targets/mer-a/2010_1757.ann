@@ -1,0 +1,37 @@
+T1	Property 307 313	impact
+T2	Property 314 320	crater
+T3	Property 497 503	eolian
+T4	Property 1102 1111	sediments
+T5	Mineral 1161 1175	phyllosilicate
+T6	Property 1428 1434	eolian
+T7	Property 1780 1787	cobbles
+T8	Property 1888 1894	cobble
+T9	Property 1900 1907	cobbles
+T10	Property 2082 2086	Rock
+T11	Property 2189 2193	Rock
+T12	Mineral 2438 2445	sulfate
+T13	Property 2559 2566	cobbles
+T14	Property 3030 3037	cobbles
+T15	Element 3051 3055	iron
+T16	Element 3376 3380	iron
+T17	Property 3412 3416	Rock
+T18	Target-MERB 3699 3710	Heat Shield
+T20	Property 4110 4119	weathered
+T21	Property 4463 4472	weathered
+T22	Property 4777 4781	rock
+T23	Property 5097 5101	rock
+T24	Property 5105 5110	mafic
+T25	Property 5133 5144	composition
+T26	Property 5195 5199	rock
+T27	Element 5237 5243	nickel
+T28	Mineral 5536 5543	olivine
+T29	Property 5551 5555	rock
+T30	Mineral 5573 5581	pyroxene
+T31	Mineral 5647 5658	plagioclase
+T32	Property 5816 5820	dust
+T33	Property 5924 5935	sedimentary
+T34	Property 6228 6234	eolian
+T35	Property 6650 6656	eolian
+T36	Target 5373 5383	Adirondack
+T19	Property 5390 5397	basalts
+R1	HasProperty Arg1:T36 Arg2:T19	

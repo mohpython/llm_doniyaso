@@ -1,0 +1,94 @@
+T1	Mineral 426 434	Sulfates
+T2	Mineral 581 583	Ca
+T3	Mineral 583 584	-
+T4	Mineral 584 592	sulfates
+T5	Mineral 759 767	Jarosite
+T6	Element 769 770	K
+T7	Element 771 773	Na
+T8	Mineral 1126 1140	ferric sulfate
+T9	Mineral 1205 1219	ferricopiapite
+T10	Element 1221 1230	hydronium
+T11	Mineral 1231 1239	jarosite
+T12	Mineral 1418 1432	ferricopiapite
+T13	Mineral 1599 1608	Copiapite
+T14	Mineral 1737 1746	copiapite
+T15	Mineral 1780 1789	copiapite
+T16	Mineral 1872 1880	sulfates
+T17	Property 1932 1939	igneous
+T18	Mineral 2316 2325	copiapite
+T19	Mineral 2353 2362	copiapite
+T20	Mineral 2404 2408	pite
+T21	Mineral 2483 2499	aluminocopiapite
+T22	Mineral 2678 2687	copiapite
+T23	Mineral 3644 3653	Copiapite
+T24	Mineral 3714 3723	copiapite
+T25	Element 3775 3776	S
+T26	Element 3959 3960	S
+T27	Element 4018 4019	C
+T28	Element 4105 4106	C
+T29	Element 4177 4183	oxygen
+T30	Element 4246 4254	Hydrogen
+T31	Element 4280 4281	S
+T32	Mineral 4375 4384	copiapite
+T33	Element 4556 4558	Au
+T34	Mineral 4626 4635	copiapite
+T35	Property 4714 4721	spectra
+T36	Property 4851 4858	spectra
+T37	Property 4874 4881	spectra
+T38	Mineral 5282 5291	copiapite
+T39	Property 5399 5406	spectra
+T40	Property 5471 5478	spectra
+T41	Property 5551 5558	spectra
+T42	Property 5612 5619	spectra
+T43	Property 5645 5652	spectra
+T44	Property 5770 5777	spectra
+T45	Property 6152 6159	spectra
+T46	Element 6272 6273	S
+T47	Property 6515 6522	spectra
+T48	Property 6618 6625	spectra
+T49	Element 6696 6697	S
+T50	Property 6803 6810	spectra
+T51	Property 7033 7040	spectra
+T52	Mineral 7049 7058	copiapite
+T53	Property 7080 7087	spectra
+T54	Property 7145 7150	Sharp
+T55	Property 7752 7759	spectra
+T56	Target 982 993	Paso Robles
+T57	Target 1009 1015	Tyrone
+T58	Target 1461 1472	Paso Robles
+R0	Contains Arg1:T56 Arg2:T8
+R1	Contains Arg1:T57 Arg2:T8
+R2	Contains Arg1:T58 Arg2:T12
+T59	Target 995 1003	Dead Sea
+R3	Contains Arg1:T59 Arg2:T8	
+T60	Property 1295 1300	soils
+T61	Property 924 929	soils
+T62	Property 907 917	lighttoned
+T63	Property 918 923	salty
+R4	HasProperty Arg1:T56 Arg2:T62	
+R5	HasProperty Arg1:T56 Arg2:T63	
+R6	HasProperty Arg1:T56 Arg2:T61	
+R7	HasProperty Arg1:T59 Arg2:T62	
+R8	HasProperty Arg1:T59 Arg2:T63	
+R9	HasProperty Arg1:T59 Arg2:T61	
+R10	HasProperty Arg1:T57 Arg2:T62	
+R11	HasProperty Arg1:T57 Arg2:T63	
+R12	HasProperty Arg1:T57 Arg2:T61	
+T64	Mineral 1241 1253	fibroferrite
+T65	Mineral 1255 1266	rhomboclase
+T66	Mineral 1271 1285	paracoquimbite
+R13	Contains Arg1:T56 Arg2:T9	
+R14	Contains Arg1:T56 Arg2:T11	
+R15	Contains Arg1:T56 Arg2:T64	
+R16	Contains Arg1:T56 Arg2:T65	
+R17	Contains Arg1:T56 Arg2:T66	
+R18	Contains Arg1:T59 Arg2:T9	
+R19	Contains Arg1:T59 Arg2:T11	
+R20	Contains Arg1:T59 Arg2:T64	
+R21	Contains Arg1:T59 Arg2:T65	
+R22	Contains Arg1:T59 Arg2:T66	
+R23	Contains Arg1:T57 Arg2:T9	
+R24	Contains Arg1:T57 Arg2:T11	
+R25	Contains Arg1:T57 Arg2:T64	
+R26	Contains Arg1:T57 Arg2:T65	
+R27	Contains Arg1:T57 Arg2:T66	

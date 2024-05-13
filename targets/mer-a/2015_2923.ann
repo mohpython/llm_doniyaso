@@ -1,0 +1,39 @@
+T1	Mineral 924 932	smectite
+T2	Element 1753 1755	Na
+T3	Property 1830 1841	composition
+T4	Property 1856 1865	sediments
+T5	Property 1995 2004	weathered
+T6	Property 2323 2329	layers
+T7	Property 2378 2382	soil
+T8	Element 2451 2453	Fe
+T9	Mineral 2856 2865	allophane
+T10	Property 3504 3512	sediment
+T11	Property 3542 3547	mafic
+T12	Property 3758 3765	spectra
+T13	Element 3844 3848	iron
+T14	Element 3911 3915	iron
+T15	Mineral 3927 3939	ferrihydrite
+T16	Property 3948 3953	bands
+T17	Property 4076 4081	bands
+T18	Mineral 4135 4144	allophane
+T19	Property 4193 4198	bands
+T20	Mineral 4353 4364	plagioclase
+T21	Mineral 4375 4383	pyroxene
+T22	Mineral 4785 4796	plagioclase
+T23	Mineral 4808 4816	pyroxene
+T24	Mineral 4821 4828	olivine
+T25	Mineral 4985 4999	phyllosilicate
+T26	Mineral 5087 5096	allophane
+T27	Property 5149 5156	spectra
+T28	Property 5710 5717	spectra
+T29	Property 6015 6026	composition
+T30	Property 8170 8177	spectra
+T31	Property 8283 8290	spectra
+T32	Property 8453 8458	sharp
+T33	Target 5729 5735	Clovis
+T34	Target 5740 5750	Watchtower
+R0	HasProperty Arg1:T33 Arg2:T28
+R1	HasProperty Arg1:T34 Arg2:T28
+T35	Property 5721 5728	altered
+R2	HasProperty Arg1:T33 Arg2:T35	
+R3	HasProperty Arg1:T34 Arg2:T35	

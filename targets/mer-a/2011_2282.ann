@@ -1,0 +1,98 @@
+T1	Property 881 885	Soil
+T2	Property 965 969	Soil
+T3	Property 993 998	rough
+T4	Property 1425 1429	dust
+T5	Property 1578 1582	sand
+T6	Property 1620 1624	dust
+T7	Property 1671 1675	dune
+T8	Property 1711 1715	dust
+T9	Property 1870 1874	dust
+T10	Property 1906 1910	Soil
+T11	Property 2087 2091	fine
+T12	Property 2092 2096	sand
+T13	Property 2130 2134	dust
+T14	Property 2218 2224	eolian
+T15	Property 2290 2294	sand
+T16	Property 2400 2406	Bright
+T17	Property 2476 2482	bright
+T18	Property 2746 2765	sedimentary laminae
+T19	Property 2967 2971	dust
+T20	Property 2977 2981	Rock
+T21	Property 3076 3080	dark
+T22	Property 3104 3111	rounded
+T23	Property 3407 3411	rock
+T24	Property 3784 3788	dark
+T25	Property 3790 3797	rounded
+T26	Property 4130 4135	crust
+T27	Property 4705 4709	rock
+T28	Property 4749 4753	rock
+T29	Mineral 5081 5089	hematite
+T30	Property 5235 5246	composition
+T31	Mineral 5612 5619	taenite
+T32	Mineral 5633 5641	kamacite
+T33	Property 5938 5945	cobbles
+T34	Property 5960 5967	cobbles
+T35	Element 6363 6367	iron
+T36	Element 6367 6368	-
+T37	Element 6368 6374	nickel
+T38	Target-MERB 6478 6490	Block Island
+T39	Property 6575 6581	Smooth
+T40	Property 6667 6672	rinds
+T41	Property 6676 6684	coatings
+T42	Property 6732 6738	cobble
+T43	Property 6758 6766	basaltic
+T44	Property 6789 6793	Rock
+T45	Property 6808 6815	cobbles
+T46	Mineral 6885 6892	sulfate
+T47	Property 6907 6915	basaltic
+T48	Property 6978 6984	weakly
+T49	Property 6985 6993	cohesive
+T50	Property 7084 7088	fine
+T51	Property 7089 7097	basaltic
+T52	Property 7098 7102	sand
+T53	Property 7154 7158	dark
+T54	Property 7486 7492	eolian
+T55	Property 7890 7901	Composition
+T57	Target 2575 2585	Home Plate
+T58	Target 2933 2943	Home Plate
+T59	Target 3128 3137	Pecan Pie
+T60	Target 3172 3182	Home Plate
+T61	Target 3286 3296	Home Plate
+T62	Target 3413 3422	Stapledon
+T63	Target 3438 3448	Home Plate
+T64	Target 3466 3475	Stapledon
+T65	Target 3569 3579	Home Plate
+T66	Target 3710 3719	Pecan Pie
+T67	Target 3898 3902	Troy
+R0	HasProperty Arg1:T58 Arg2:T19
+R6	HasProperty Arg1:T59 Arg2:T21
+R7	HasProperty Arg1:T59 Arg2:T22
+R10	HasProperty Arg1:T60 Arg2:T21
+R11	HasProperty Arg1:T60 Arg2:T22
+R12	HasProperty Arg1:T62 Arg2:T23
+T56	Property 2609 2623	volcaniclastic
+R14	HasProperty Arg1:T57 Arg2:T56	
+T68	Target 2693 2704	Inner Basin
+T69	Property 2633 2638	Clast
+R15	HasProperty Arg1:T68 Arg2:T69	
+T70	Property 3093 3099	sorted
+R1	HasProperty Arg1:T59 Arg2:T70	
+R2	HasProperty Arg1:T60 Arg2:T70	
+T71	Mineral 3395 3401	silica
+R3	Contains Arg1:T62 Arg2:T71	
+R4	HasProperty Arg1:T66 Arg2:T24	
+R5	HasProperty Arg1:T66 Arg2:T25	
+T72	Property 3836 3843	lapilli
+R8	HasProperty Arg1:T66 Arg2:T72	
+T73	Property 4055 4061	sorted
+T74	Property 4063 4068	salty
+R9	HasProperty Arg1:T67 Arg2:T73	
+R13	HasProperty Arg1:T67 Arg2:T74	
+R16	HasProperty Arg1:T67 Arg2:T26	
+T75	Mineral 4117 4124	sulfate
+R17	Contains Arg1:T67 Arg2:T75	
+R18	HasProperty Arg1:T68 Arg2:T18	
+T76	Property 2835 2855	accretionary lapilli
+R19	HasProperty Arg1:T68 Arg2:T76	
+T77	Property 3888 3893	sands
+R20	HasProperty Arg1:T67 Arg2:T77	

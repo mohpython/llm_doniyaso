@@ -1,0 +1,35 @@
+T1	Mineral 2121 2129	hematite
+T2	Property 3342 3348	smooth
+T3	Property 3462 3469	banding
+T4	Property 3543 3548	fines
+T5	Property 3991 3995	fine
+T6	Property 4414 4420	eolian
+T7	Property 4668 4672	pits
+T8	Property 4680 4684	dark
+T9	Property 4685 4689	sand
+T10	Property 5128 5134	bright
+T11	Property 5354 5360	eolian
+T12	Property 5505 5509	pits
+T13	Property 5778 5782	sand
+T14	Property 5849 5853	pits
+T15	Property 5931 5936	crack
+T16	Property 5948 5952	sand
+T17	Property 6237 6240	lag
+T18	Property 6447 6454	cobbles
+T19	Property 6602 6608	eolian
+T20	Property 7761 7765	sand
+T21	Property 7766 7770	pits
+T22	Property 7789 7793	sand
+T23	Property 7973 7977	pits
+T24	Property 7982 7985	pit
+T25	Target-MERB 843 851	Anatolia
+T26	Target-MERB 1967 1975	Anatolia
+T28	Target-MERB 5707 5715	Anatolia
+T29	Target-MERB 5813 5821	Anatolia
+T30	Target-MERB 7051 7059	Anatolia
+T31	Target-MERB 7608 7616	Anatolia
+R1	HasProperty Arg1:T28 Arg2:T13
+R2	HasProperty Arg1:T29 Arg2:T13
+R3	HasProperty Arg1:T31 Arg2:T20
+R4	HasProperty Arg1:T31 Arg2:T21
+R5	HasProperty Arg1:T31 Arg2:T22

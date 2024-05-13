@@ -1,0 +1,52 @@
+T1	Property 306 314	BASALTIC
+T2	Property 926 930	rock
+T3	Target-MERB 1971 1987	Marquette Island
+T4	Property 2103 2107	rock
+T5	Property 2108 2114	clasts
+T6	Property 2437 2441	rock
+T7	Property 2519 2523	Rock
+T8	Property 2738 2742	rock
+T9	Property 3105 3108	lag
+T10	Property 3648 3652	rock
+T11	Property 3954 3958	rock
+T12	Property 4004 4015	composition
+T13	Property 4046 4054	basaltic
+T14	Element 4252 4254	Mg
+T15	Property 4303 4307	rock
+T16	Property 4530 4534	rock
+T17	Element 4574 4576	Mg
+T18	Property 4791 4799	basaltic
+T19	Property 4925 4936	sedimentary
+T20	Property 5060 5063	lag
+T21	Property 5347 5351	rock
+T22	Property 5364 5367	red
+T23	Property 5852 5856	Flat
+T24	Target-MERB 5864 5873	Shoemaker
+T25	Property 6255 6266	composition
+T26	Property 6567 6579	vesicularity
+T27	Property 6597 6608	sedimentary
+T28	Property 6669 6680	sedimentary
+T29	Property 6847 6854	spectra
+T30	Property 6870 6877	spectra
+T31	Target-MERB 6882 6891	Marquette
+T32	Property 6906 6914	basaltic
+T33	Mineral 6958 6965	olivine
+T34	Mineral 7013 7021	pyroxene
+T35	Element 7045 7047	Mg
+T36	Property 7228 7239	composition
+T37	Property 7545 7556	composition
+T38	Property 7980 7988	boulders
+T39	Property 8121 8125	rock
+T40	Property 8126 8132	clasts
+T41	Target-MERB 8136 8145	Shoemaker
+T42	Property 8494 8501	igneous
+T43	Property 8538 8546	basaltic
+T44	Target 5893 5901	Humphrey
+T45	Target 5954 5962	Mazatzal
+R0	HasProperty Arg1:T24 Arg2:T23
+R3	HasProperty Arg1:T31 Arg2:T29
+R4	HasProperty Arg1:T31 Arg2:T30
+R5	HasProperty Arg1:T31 Arg2:T32
+R6	HasProperty Arg1:T41 Arg2:T38
+R7	HasProperty Arg1:T41 Arg2:T39
+R8	HasProperty Arg1:T41 Arg2:T40

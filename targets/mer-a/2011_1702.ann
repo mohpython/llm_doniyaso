@@ -1,0 +1,152 @@
+T1	Property 964 975	composition
+T2	Element 1041 1045	iron
+T3	Element 1429 1431	Mg
+T4	Element 1431 1432	/
+T5	Element 1432 1434	Si
+T6	Element 1442 1444	Al
+T7	Element 1444 1445	/
+T8	Element 1445 1447	Si
+T9	Property 1470 1474	soil
+T10	Element 1918 1920	Mg
+T11	Element 1922 1924	Si
+T12	Element 1926 1927	P
+T13	Element 1929 1930	S
+T14	Element 1935 1937	Cl
+T15	Element 1993 1995	Fe
+T16	Property 2176 2180	dust
+T17	Property 2195 2199	sand
+T18	Property 2234 2238	dust
+T19	Property 2385 2389	sand
+T20	Property 2420 2424	soil
+T21	Property 2425 2436	composition
+T22	Property 2530 2534	soil
+T23	Element 2738 2740	Mn
+T24	Element 2803 2805	Fe
+T25	Element 2837 2839	Fe
+T26	Mineral 2868 2876	hematite
+T27	Element 3052 3054	Fe
+T28	Element 3055 3057	Mn
+T29	Element 3166 3168	Fe
+T30	Element 3194 3196	Fe
+T31	Mineral 3213 3221	hematite
+T32	Element 3274 3276	Fe
+T33	Mineral 3340 3348	hematite
+T34	Mineral 3461 3469	hematite
+T35	Element 3527 3529	Fe
+T36	Element 3534 3536	Mn
+T37	Element 3588 3590	Fe
+T38	Mineral 3605 3615	A-Hematite
+T39	Element 3637 3639	Fe
+T40	Mineral 3655 3663	hematite
+T41	Element 3811 3813	Fe
+T42	Element 3817 3819	Fe
+T43	Element 3823 3825	Fe
+T44	Mineral 3829 3839	A-Hematite
+T45	Element 3844 3846	Fe
+T46	Property 3934 3938	Soil
+T47	Property 3990 3994	Soil
+T48	Element 4079 4081	Mg
+T49	Element 4081 4082	/
+T50	Element 4082 4084	Si
+T51	Element 4085 4087	Mg
+T52	Element 4087 4088	/
+T53	Element 4088 4090	Si
+T54	Element 4091 4093	Mg
+T55	Element 4093 4094	/
+T56	Element 4094 4096	Si
+T57	Element 4097 4099	Mg
+T58	Element 4099 4100	/
+T59	Element 4100 4102	Si
+T60	Element 4107 4109	Si
+T61	Element 4114 4116	Al
+T62	Element 4117 4119	Si
+T63	Property 4379 4383	soil
+T64	Element 4527 4529	Fe
+T65	Property 4786 4795	sediments
+T66	Element 4928 4930	Fe
+T67	Element 4983 4984	S
+T68	Element 5085 5086	S
+T69	Element 5164 5166	Fe
+T70	Element 5234 5236	Fe
+T71	Element 5241 5243	Si
+T72	Element 5280 5282	Si
+T73	Element 5286 5288	Fe
+T74	Element 5340 5342	Mg
+T75	Element 5344 5346	Al
+T76	Element 5352 5354	Ca
+T77	Mineral 5403 5411	hematite
+T78	Element 5524 5530	sulfur
+T79	Element 5535 5543	chlorine
+T80	Element 6038 6039	S
+T81	Element 6044 6046	Cl
+T82	Element 6172 6173	S
+T83	Element 6178 6180	Cl
+T84	Property 6216 6220	fine
+T85	Property 6280 6284	dust
+T86	Element 6327 6331	iron
+T87	Property 6372 6379	spectra
+T88	Element 6429 6430	S
+T89	Element 6435 6437	Cl
+T90	Element 6501 6502	S
+T91	Element 6507 6509	Cl
+T92	Element 6539 6540	S
+T93	Element 6545 6547	Cl
+T94	Property 6591 6595	dust
+T95	Property 6634 6638	fine
+T96	Element 6810 6812	Cl
+T97	Element 6817 6818	S
+T98	Property 6888 6899	composition
+T99	Element 7046 7048	Cl
+T100	Element 7053 7054	S
+T101	Property 7073 7081	basaltic
+T102	Property 7085 7090	mafic
+T103	Property 7091 7102	composition
+T104	Property 7153 7164	composition
+T105	Element 7307 7315	chlorine
+T106	Element 7320 7326	sulfur
+T107	Property 7390 7394	dust
+T108	Element 8028 8030	Si
+T109	Element 8035 8037	Fe
+T110	Property 8066 8070	soil
+T111	Element 8149 8151	Si
+T112	Element 8155 8157	Fe
+T113	Element 8169 8177	Chlorine
+T114	Element 8182 8188	sulfur
+T115	Property 8202 8206	soil
+T116	Element 8402 8404	Si
+T117	Element 8405 8407	Si
+T118	Element 8408 8410	Si
+T119	Element 8411 8413	Si
+T120	Element 8439 8441	Si
+T121	Element 8450 8452	Fe
+T122	Element 8570 8572	Cl
+T123	Element 8573 8575	Cl
+T124	Element 8576 8578	Cl
+T125	Element 8579 8581	Cl
+T126	Element 8691 8692	C
+T127	Element 8703 8704	S
+T128	Target 3976 3981	Crest
+T129	Target 4178 4185	Everett
+T130	Target 4186 4197	Paso Robles
+T131	Target 4213 4218	Samra
+T132	Target 4219 4231	Lefty Ganote
+T133	Target 4232 4246	Kenosha Comets
+T134	Target 4247 4258	Eileen Dean
+T135	Target 4259 4271	Mount Darwin
+T136	Target 4282 4291	El Dorado
+T137	Target 4298 4316	John Wesley Powell
+T138	Target 4317 4325	Hang Two
+T139	Target 4326 4340	Berkner Island
+R65	HasProperty Arg1:T131 Arg2:T63
+R66	HasProperty Arg1:T136 Arg2:T63
+R67	HasProperty Arg1:T137 Arg2:T63
+T140	Target 4204 4212	Dead Sea
+T141	Target 4272 4281	Stapleton
+R1	HasProperty Arg1:T140 Arg2:T63	
+R2	HasProperty Arg1:T132 Arg2:T63	
+R3	HasProperty Arg1:T133 Arg2:T63	
+R4	HasProperty Arg1:T134 Arg2:T63	
+R5	HasProperty Arg1:T135 Arg2:T63	
+R6	HasProperty Arg1:T141 Arg2:T63	
+R7	HasProperty Arg1:T138 Arg2:T63	
+R8	HasProperty Arg1:T139 Arg2:T63	

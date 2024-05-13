@@ -1,0 +1,152 @@
+T1	Mineral 237 246	carbonate
+T2	Mineral 429 438	carbonate
+T3	Mineral 506 515	carbonate
+T4	Mineral 598 607	carbonate
+T5	Mineral 720 729	carbonate
+T6	Mineral 783 792	carbonate
+T7	Mineral 872 881	carbonate
+T8	Property 923 928	brine
+T9	Property 1029 1033	rock
+T10	Mineral 1088 1098	carbonates
+T11	Mineral 1216 1225	carbonate
+T12	Property 1267 1274	spectra
+T13	Mineral 1367 1376	carbonate
+T14	Mineral 1599 1608	carbonate
+T15	Element 1939 1941	Mg
+T16	Mineral 1954 1964	carbonates
+T17	Mineral 2069 2083	phyllosilicate
+T18	Mineral 2185 2195	carbonates
+T19	Property 2285 2292	spectra
+T20	Mineral 2328 2343	phyllosilicates
+T21	Mineral 2422 2431	carbonate
+T22	Mineral 2471 2480	carbonate
+T23	Mineral 2565 2574	carbonate
+T24	Mineral 2640 2650	carbonates
+T25	Mineral 2711 2720	carbonate
+T26	Element 2923 2925	Mg
+T27	Mineral 2938 2947	carbonate
+T28	Property 3187 3194	massive
+T29	Property 3291 3298	angular
+T30	Property 3338 3345	rounded
+T31	Mineral 3491 3500	carbonate
+T32	Property 3658 3663	knobs
+T33	Property 3692 3699	rounded
+T34	Property 3700 3708	boulders
+T35	Property 3765 3776	exfoliation
+T36	Mineral 3810 3824	phyllosilicate
+T37	Mineral 3900 3909	carbonate
+T38	Property 3944 3949	brine
+T39	Mineral 4251 4261	carbonates
+T40	Property 4322 4327	brine
+T41	Mineral 4435 4444	carbonate
+T42	Property 4461 4466	brine
+T43	Element 4597 4599	Mg
+T44	Mineral 4612 4622	carbonates
+T45	Mineral 4737 4746	carbonate
+T46	Property 5470 5477	spectra
+T47	Mineral 5507 5516	carbonate
+T48	Property 5599 5603	dust
+T49	Property 5674 5681	spectra
+T50	Mineral 5755 5762	olivine
+T51	Property 5861 5865	dust
+T52	Property 6115 6122	angular
+T53	Property 6123 6129	clasts
+T54	Target 462 470	Comanche
+T55	Target 743 751	Comanche
+T56	Target 1207 1215	Comanche
+T57	Target 1384 1392	Comanche
+T58	Target 1590 1598	Comanche
+T59	Target 1645 1654	Algonquin
+T60	Target 1745 1753	Comanche
+T61	Target 1838 1847	Algonquin
+T62	Target 1897 1905	Comanche
+T63	Target 1968 1977	Algonquin
+T64	Target 2201 2210	Algonquin
+T65	Target 2248 2256	Comanche
+T66	Target 2388 2396	Comanche
+T67	Target 2771 2780	Algonquin
+T68	Target 2840 2848	Comanche
+T69	Target 2970 2978	Comanche
+T70	Target 3050 3058	Comanche
+T71	Target 3063 3072	Algonquin
+T72	Target 3410 3418	Comanche
+T73	Target 3544 3552	Comanche
+T74	Target 3613 3622	Algonquin
+T75	Target 4181 4189	Comanche
+T76	Target 4361 4369	Comanche
+T77	Target 4426 4434	Comanche
+T78	Target 4548 4558	Adirondack
+T79	Target 4666 4674	Comanche
+T80	Target 5368 5376	Comanche
+T81	Target 5481 5489	Comanche
+T82	Target 5665 5673	Comanche
+T83	Target 5694 5703	Algonquin
+T84	Target 5803 5811	Comanche
+T85	Target 5955 5964	Algonquin
+T86	Target 6133 6142	Algonquin
+T87	Target 6159 6167	Comanche
+R0	Contains Arg1:T54 Arg2:T2
+R4	Contains Arg1:T55 Arg2:T6
+R5	Contains Arg1:T56 Arg2:T11
+R6	Contains Arg1:T57 Arg2:T13
+R7	Contains Arg1:T58 Arg2:T14
+R9	Contains Arg1:T62 Arg2:T15
+R11	Contains Arg1:T62 Arg2:T16
+R16	Contains Arg1:T65 Arg2:T18
+R17	Contains Arg1:T66 Arg2:T21
+R22	Contains Arg1:T69 Arg2:T26
+R23	Contains Arg1:T69 Arg2:T27
+R24	Contains Arg1:T72 Arg2:T31
+R25	Contains Arg1:T76 Arg2:T39
+R26	Contains Arg1:T77 Arg2:T43
+R28	Contains Arg1:T77 Arg2:T41
+R29	Contains Arg1:T77 Arg2:T44
+R32	Contains Arg1:T79 Arg2:T45
+R33	Contains Arg1:T81 Arg2:T47
+R35	HasProperty Arg1:T57 Arg2:T12
+R36	HasProperty Arg1:T74 Arg2:T32
+R37	HasProperty Arg1:T74 Arg2:T33
+R38	HasProperty Arg1:T74 Arg2:T34
+R42	HasProperty Arg1:T81 Arg2:T46
+R43	HasProperty Arg1:T81 Arg2:T48
+R44	HasProperty Arg1:T82 Arg2:T49
+R45	HasProperty Arg1:T83 Arg2:T49
+R46	HasProperty Arg1:T86 Arg2:T52
+R47	HasProperty Arg1:T86 Arg2:T53
+R48	HasProperty Arg1:T87 Arg2:T52
+R49	HasProperty Arg1:T87 Arg2:T53
+T88	Property 446 454	outcrops
+R34	HasProperty Arg1:T54 Arg2:T88	
+T89	Property 1609 1616	outcrop
+R1	HasProperty Arg1:T58 Arg2:T89	
+T90	Property 1655 1663	outcrops
+R2	HasProperty Arg1:T59 Arg2:T90	
+T91	Element 1946 1948	Fe
+R3	Contains Arg1:T62 Arg2:T91	
+T92	Element 2930 2932	Fe
+R8	Contains Arg1:T69 Arg2:T92	
+T93	Property 3172 3180	granular
+R10	HasProperty Arg1:T70 Arg2:T93	
+R12	HasProperty Arg1:T71 Arg2:T28	
+T94	Property 3256 3263	clastic
+R13	HasProperty Arg1:T70 Arg2:T94	
+R14	HasProperty Arg1:T71 Arg2:T94	
+T95	Property 3382 3390	granular
+R15	HasProperty Arg1:T72 Arg2:T95	
+T96	Property 3581 3590	knob-like
+R18	HasProperty Arg1:T73 Arg2:T96	
+R19	HasProperty Arg1:T74 Arg2:T35	
+R20	HasProperty Arg1:T73 Arg2:T35	
+T97	Element 4604 4606	Fe
+R21	Contains Arg1:T77 Arg2:T97	
+T98	Property 5377 5385	outcrops
+R27	HasProperty Arg1:T80 Arg2:T98	
+R30	Contains Arg1:T82 Arg2:T50	
+T99	Element 5747 5749	Mg
+R31	Contains Arg1:T82 Arg2:T99	
+R39	Contains Arg1:T83 Arg2:T99	
+R40	Contains Arg1:T83 Arg2:T50	
+R41	HasProperty Arg1:T84 Arg2:T51	
+T100	Target 4 12	COMANCHE
+T101	Mineral 13 22	CARBONATE
+R50	Contains Arg1:T100 Arg2:T101	

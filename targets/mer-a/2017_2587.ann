@@ -1,0 +1,24 @@
+T1	Property 606 612	trench
+T2	Property 964 970	trench
+T3	Property 1103 1107	dust
+T4	Property 1206 1210	dust
+T5	Property 1547 1551	dust
+T6	Property 1572 1583	composition
+T7	Property 1708 1719	composition
+T8	Property 1779 1783	dust
+T9	Property 1791 1795	soil
+T10	Element 2238 2240	Si
+T11	Property 3450 3454	soil
+T12	Element 3713 3722	Beryllium
+T13	Mineral 3795 3803	graphite
+T14	Property 4455 4459	sand
+T15	Property 4490 4496	layers
+T16	Element 4832 4834	Si
+T17	Property 4851 4855	sand
+T18	Element 5206 5208	Si
+T27	Target 414 424	Home Plate
+T28	Target 790 800	Home Plate
+T29	Target 3350 3360	Home Plate
+T19	Mineral 717 731	opaline silica
+T20	Mineral 3385 3391	silica
+R1	Contains Arg1:T29 Arg2:T20	

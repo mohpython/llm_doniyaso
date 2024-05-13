@@ -1,0 +1,213 @@
+T1	Mineral 24 31	Sulfate
+T2	Element 330 332	Ca
+T3	Element 337 339	Mg
+T4	Mineral 340 348	sulfates
+T5	Mineral 460 468	sulfates
+T6	Property 681 689	basaltic
+T7	Property 690 695	crust
+T8	Property 906 914	basaltic
+T9	Property 915 920	crust
+T10	Mineral 1180 1191	plagioclase
+T11	Mineral 1193 1200	olivine
+T12	Mineral 1205 1213	pyroxene
+T13	Property 1246 1250	rock
+T14	Property 1299 1307	basaltic
+T15	Property 1492 1500	basaltic
+T16	Property 1501 1506	crust
+T17	Property 1687 1691	rock
+T18	Element 1749 1751	Si
+T19	Element 1754 1756	Al
+T20	Element 1772 1774	Mg
+T21	Element 1777 1779	Ca
+T22	Element 1782 1784	Fe
+T23	Element 1841 1843	Si
+T24	Element 1844 1846	Al
+T25	Element 1851 1853	Mg
+T26	Element 1854 1856	Ca
+T27	Element 1857 1859	Fe
+T28	Property 1899 1910	composition
+T29	Property 1914 1922	basaltic
+T30	Property 2123 2134	sedimentary
+T31	Mineral 2216 2223	sulfate
+T32	Mineral 2244 2252	hematite
+T33	Property 2379 2387	basaltic
+T34	Mineral 2436 2444	sulfates
+T35	Mineral 2487 2494	sulfate
+T36	Property 2689 2693	rock
+T37	Property 2731 2735	Rock
+T38	Property 2748 2759	composition
+T39	Element 2809 2811	Si
+T40	Element 2812 2814	Al
+T41	Element 2843 2845	Mg
+T42	Element 2846 2848	Ca
+T43	Element 2849 2851	Fe
+T44	Element 2885 2887	Mg
+T45	Element 2888 2890	Ca
+T46	Element 2891 2893	Fe
+T47	Mineral 2900 2908	sulfates
+T48	Mineral 2913 2921	hematite
+T49	Mineral 2927 2935	sulfates
+T50	Mineral 2947 2956	kieserite
+T51	Mineral 2970 2976	gypsum
+T52	Mineral 2994 3002	jarosite
+T53	Element 3044 3050	sulfur
+T54	Mineral 3115 3123	sulfates
+T55	Element 3171 3177	sulfur
+T56	Mineral 3191 3199	sulfates
+T57	Element 3216 3222	sulfur
+T58	Element 3242 3244	Mg
+T59	Element 3246 3248	Ca
+T60	Element 3253 3255	Fe
+T61	Mineral 3292 3300	sulfates
+T62	Mineral 3313 3322	kieserite
+T63	Element 3351 3353	Ca
+T64	Mineral 3354 3362	sulfates
+T65	Mineral 3385 3393	jarosite
+T66	Property 3402 3413	sedimentary
+T67	Property 3414 3418	rock
+T68	Mineral 3420 3428	Hematite
+T69	Element 3455 3459	iron
+T70	Property 3467 3478	sedimentary
+T71	Element 3533 3535	Mg
+T72	Element 3536 3538	Ca
+T73	Element 3539 3541	Fe
+T74	Mineral 3568 3576	sulfates
+T75	Mineral 3581 3589	hematite
+T76	Element 3616 3618	Mg
+T77	Element 3619 3621	Ca
+T78	Element 3622 3624	Fe
+T79	Element 3637 3639	Si
+T80	Element 3640 3642	Al
+T81	Element 3658 3660	Mg
+T82	Element 3661 3663	Al
+T83	Element 3664 3666	Fe
+T84	Element 3754 3756	Si
+T85	Element 3757 3759	Al
+T86	Element 3764 3766	Mg
+T87	Element 3767 3769	Ca
+T88	Element 3770 3772	Fe
+T89	Property 3849 3860	composition
+T90	Mineral 3864 3879	phyllosilicates
+T91	Mineral 3888 3903	montmorillonite
+T92	Property 3973 3978	crust
+T93	Property 4017 4025	basaltic
+T94	Mineral 4026 4034	andesite
+T95	Mineral 4165 4172	olivine
+T96	Mineral 4177 4185	pyroxene
+T97	Mineral 4288 4303	phyllosilicates
+T98	Property 4405 4416	sedimentary
+T99	Property 4578 4586	basaltic
+T100	Element 4638 4640	Si
+T101	Element 4641 4643	Al
+T102	Element 4646 4648	Mg
+T103	Element 4649 4651	Ca
+T104	Element 4652 4654	Fe
+T105	Mineral 4707 4715	sulfates
+T106	Mineral 4720 4728	hematite
+T107	Property 4802 4810	basaltic
+T108	Property 4811 4816	crust
+T109	Element 4996 4998	Si
+T110	Element 4999 5001	Al
+T111	Element 5003 5005	Mg
+T112	Element 5006 5008	Ca
+T113	Element 5009 5011	Fe
+T114	Property 5057 5065	basaltic
+T115	Property 5066 5071	crust
+T116	Mineral 5091 5105	phyllosilicate
+T117	Element 5168 5170	Mg
+T118	Element 5171 5173	Ca
+T119	Element 5174 5176	Fe
+T120	Property 5184 5192	basaltic
+T121	Element 5278 5287	magnesium
+T122	Element 5292 5299	calcium
+T123	Element 5301 5307	sodium
+T124	Element 5312 5321	potassium
+T125	Element 5394 5398	iron
+T126	Element 5413 5415	Mg
+T127	Element 5420 5422	Ca
+T128	Mineral 6088 6095	sulfate
+T129	Element 6204 6210	sulfur
+T130	Property 6718 6729	composition
+T131	Element 7131 7133	Cl
+T132	Element 7463 7465	Si
+T133	Element 7466 7468	Al
+T134	Element 7512 7514	Mg
+T135	Element 7515 7517	Ca
+T136	Element 7518 7520	Fe
+T137	Property 7584 7595	composition
+T138	Property 7688 7692	Flat
+T139	Property 7693 7697	rock
+T140	Element 7940 7942	Cl
+T141	Element 8225 8227	Si
+T142	Element 8228 8230	Al
+T143	Element 8267 8269	Mg
+T144	Element 8270 8272	Ca
+T145	Element 8273 8275	Fe
+T146	Target 6777 6785	Humphrey
+T147	Target 6786 6794	Mazatzal
+T148	Target 6815 6825	Adirondack
+R1	Contains Arg1:T146 Arg2:T132
+R2	Contains Arg1:T146 Arg2:T133
+R3	Contains Arg1:T146 Arg2:T134
+R4	Contains Arg1:T146 Arg2:T135
+R5	Contains Arg1:T146 Arg2:T136
+R35	HasProperty Arg1:T146 Arg2:T130
+R42	HasProperty Arg1:T148 Arg2:T130
+R6	HasProperty Arg1:T147 Arg2:T130	
+R8	Contains Arg1:T147 Arg2:T131	
+R9	Contains Arg1:T147 Arg2:T133	
+R7	Contains Arg1:T146 Arg2:T131	
+R10	Contains Arg1:T147 Arg2:T132	
+R11	Contains Arg1:T147 Arg2:T134	
+R12	Contains Arg1:T147 Arg2:T135	
+R13	Contains Arg1:T147 Arg2:T136	
+R14	Contains Arg1:T148 Arg2:T131	
+R15	Contains Arg1:T148 Arg2:T132	
+R16	Contains Arg1:T148 Arg2:T133	
+R17	Contains Arg1:T148 Arg2:T134	
+R18	Contains Arg1:T148 Arg2:T135	
+R19	Contains Arg1:T148 Arg2:T136	
+T149	Mineral 6914 6917	MgO
+T150	Mineral 6874 6878	Na2O
+T151	Mineral 6958 6963	Al2O3
+T152	Mineral 7005 7009	SiO2
+T153	Mineral 7052 7056	P2O5
+T154	Mineral 7092 7095	SO3
+T155	Mineral 7169 7172	K2O
+T156	Mineral 7208 7211	CaO
+T157	Mineral 7287 7292	Cr2O3
+T158	Mineral 7328 7331	MnO
+T159	Mineral 7367 7370	FeO
+R20	Contains Arg1:T146 Arg2:T149	
+R21	Contains Arg1:T147 Arg2:T149	
+R22	Contains Arg1:T148 Arg2:T149	
+R23	Contains Arg1:T146 Arg2:T150	
+R24	Contains Arg1:T147 Arg2:T150	
+R25	Contains Arg1:T148 Arg2:T150	
+R26	Contains Arg1:T146 Arg2:T151	
+R27	Contains Arg1:T147 Arg2:T151	
+R28	Contains Arg1:T148 Arg2:T151	
+R29	Contains Arg1:T146 Arg2:T152	
+R30	Contains Arg1:T147 Arg2:T152	
+R31	Contains Arg1:T148 Arg2:T152	
+R32	Contains Arg1:T146 Arg2:T153	
+R33	Contains Arg1:T147 Arg2:T153	
+R34	Contains Arg1:T148 Arg2:T153	
+R53	Contains Arg1:T146 Arg2:T154	
+R36	Contains Arg1:T147 Arg2:T154	
+R37	Contains Arg1:T148 Arg2:T154	
+R38	Contains Arg1:T146 Arg2:T155	
+R39	Contains Arg1:T147 Arg2:T155	
+R40	Contains Arg1:T148 Arg2:T155	
+R41	Contains Arg1:T146 Arg2:T156	
+R54	Contains Arg1:T147 Arg2:T156	
+R43	Contains Arg1:T148 Arg2:T156	
+R44	Contains Arg1:T146 Arg2:T157	
+R45	Contains Arg1:T147 Arg2:T157	
+R46	Contains Arg1:T148 Arg2:T157	
+R47	Contains Arg1:T146 Arg2:T158	
+R48	Contains Arg1:T147 Arg2:T158	
+R49	Contains Arg1:T148 Arg2:T158	
+R50	Contains Arg1:T146 Arg2:T159	
+R51	Contains Arg1:T147 Arg2:T159	
+R52	Contains Arg1:T148 Arg2:T159	

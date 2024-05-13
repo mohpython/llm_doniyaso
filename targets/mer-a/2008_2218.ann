@@ -1,0 +1,18 @@
+T1	Property 52 56	SAND
+T2	Property 603 607	dust
+T3	Property 1515 1519	Dust
+T4	Property 2295 2299	fine
+T5	Property 2300 2304	sand
+T6	Property 2881 2887	smooth
+T7	Element 3171 3172	K
+T8	Property 3485 3490	rough
+T9	Property 4743 4748	rough
+T10	Property 5271 5275	Sand
+T11	Property 6163 6167	flat
+T12	Property 6221 6228	cobbles
+T13	Property 6239 6247	boulders
+T15	Target 1487 1497	Home Plate
+T16	Target 4194 4204	Home Plate
+T17	Target 4415 4425	Home Plate
+T14	Property 1456 1465	polygonal
+R1	HasProperty Arg1:T15 Arg2:T14	

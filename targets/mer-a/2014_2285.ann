@@ -1,0 +1,141 @@
+T1	Element 991 993	Br
+T2	Element 995 997	Na
+T3	Element 999 1000	K
+T4	Element 1002 1004	Zn
+T5	Target-MSL 1170 1184	Bathurst_Inlet
+T6	Element 1587 1589	Fe
+T7	Element 1712 1714	Cl
+T8	Element 1716 1718	Br
+T9	Element 1720 1721	K
+T10	Element 1723 1725	Zn
+T11	Element 1731 1733	Ge
+T12	Property 1810 1818	basaltic
+T13	Property 2277 2281	soil
+T14	Property 2282 2293	composition
+T15	Property 2340 2344	sand
+T16	Target-MSL 2359 2366	Portage
+T17	Property 2473 2477	Soil
+T18	Property 2565 2573	basaltic
+T19	Property 2608 2612	dust
+T20	Property 2762 2766	Dust
+T21	Element 2797 2799	Cl
+T22	Element 2816 2818	Cl
+T23	Property 2853 2857	soil
+T24	Property 2920 2925	fines
+T25	Target-MSL 2933 2943	Cumberland
+T26	Element 2985 2987	Cl
+T27	Property 3018 3023	fines
+T28	Property 3067 3071	soil
+T29	Element 3284 3286	Br
+T30	Element 3328 3330	Ba
+T31	Element 3418 3420	Mo
+T32	Element 3476 3477	S
+T33	Element 3484 3486	Cl
+T34	Element 3509 3511	Cl
+T35	Element 3628 3630	Cl
+T36	Element 3699 3701	Cl
+T37	Element 3735 3737	Br
+T38	Element 3831 3833	Cl
+T39	Element 3835 3837	Br
+T40	Property 3846 3850	soil
+T41	Element 3853 3855	Br
+T42	Element 3913 3915	Br
+T43	Element 3964 3966	Br
+T44	Element 4092 4094	Cl
+T45	Element 4099 4101	Br
+T46	Element 4184 4185	K
+T47	Property 4242 4246	soil
+T48	Property 4267 4274	igneous
+T49	Mineral 4275 4281	alkali
+T50	Mineral 4282 4290	feldspar
+T51	Element 4659 4660	K
+T52	Element 4671 4673	Zn
+T53	Element 4678 4680	Ge
+T54	Property 4719 4723	soil
+T55	Element 4725 4727	Zn
+T56	Element 4738 4740	Ge
+T57	Property 4752 4756	soil
+T58	Element 4795 4797	Zn
+T59	Element 4844 4846	Zn
+T60	Element 4851 4853	Ge
+T61	Element 4927 4929	Ge
+T62	Element 4976 4978	Zn
+T63	Element 5090 5092	Zn
+T64	Element 5096 5098	Ge
+T65	Element 5109 5111	Ge
+T66	Mineral 5190 5199	silicates
+T67	Element 5211 5213	Ge
+T68	Element 5293 5294	S
+T69	Property 5318 5322	soil
+T70	Property 5414 5418	dust
+T71	Element 5423 5424	S
+T72	Property 5442 5446	dust
+T73	Element 5483 5484	S
+T74	Property 5564 5572	basaltic
+T75	Element 5627 5629	Zn
+T76	Element 5643 5645	Ge
+T77	Element 5779 5781	Cl
+T78	Element 5783 5785	Br
+T79	Element 5787 5788	K
+T80	Element 5789 5791	Zn
+T81	Element 5797 5799	Ge
+T82	Mineral 5870 5877	sulfate
+T83	Property 6638 6645	igneous
+T84	Property 6656 6667	composition
+T85	Element 7475 7476	K
+T86	Element 7476 7477	/
+T87	Element 7477 7479	Al
+T88	Element 7487 7489	Na
+T89	Element 7498 7500	Zn
+T90	Element 7521 7523	Zn
+T91	Element 7688 7690	Al
+T92	Mineral 7698 7704	alkali
+T93	Mineral 7705 7713	feldspar
+T94	Element 7765 7766	K
+T95	Element 7766 7767	/
+T96	Element 7768 7770	Al
+T97	Element 7860 7862	Zn
+T98	Element 7968 7970	Ge
+T99	Element 7977 7979	Zn
+T100	Property 8102 8106	soil
+T101	Target 1766 1776	Home Plate
+T102	Target 1924 1932	Barnhill
+T103	Target 1937 1946	Pesapallo
+T104	Target 1957 1965	Montalva
+T105	Target 2048 2054	Irvine
+T106	Target 5591 5597	Irvine
+T107	Target 7878 7886	Montalva
+T108	Target 7887 7898	Fuzzy Smith
+T109	Target 8004 8015	Fuzzy Smith
+T110	Target 8107 8113	Irvine
+R0	Contains Arg1:T25 Arg2:T26
+R2	Contains Arg1:T106 Arg2:T76
+R33	HasProperty Arg1:T101 Arg2:T12
+R34	HasProperty Arg1:T16 Arg2:T13
+R35	HasProperty Arg1:T16 Arg2:T14
+R36	HasProperty Arg1:T16 Arg2:T15
+R37	HasProperty Arg1:T25 Arg2:T24
+R38	HasProperty Arg1:T25 Arg2:T27
+R39	HasProperty Arg1:T25 Arg2:T28
+R40	HasProperty Arg1:T106 Arg2:T74
+T111	Property 1791 1798	outcrop
+T112	Property 1802 1809	altered
+T113	Property 1819 1825	tephra
+R27	HasProperty Arg1:T101 Arg2:T111	
+R28	HasProperty Arg1:T101 Arg2:T112	
+R29	HasProperty Arg1:T101 Arg2:T113	
+T114	Target 1835 1844	Low Ridge
+T115	Property 1845 1852	outcrop
+R30	HasProperty Arg1:T114 Arg2:T115	
+T116	Target 1970 1980	Grahamland
+T117	Target 1986 1996	FuzzySmith
+T118	Mineral 2000 2004	SiO2
+R31	Contains Arg1:T117 Arg2:T118	
+T119	Property 2019 2024	float
+R32	HasProperty Arg1:T117 Arg2:T119	
+T120	Property 2067 2076	protolith
+R44	HasProperty Arg1:T105 Arg2:T120	
+T121	Property 5573 5582	protolith
+R45	HasProperty Arg1:T106 Arg2:T121	
+T122	Target 7799 7810	Fuzzy Smith
+T123	Target 7810 7818	Montalva

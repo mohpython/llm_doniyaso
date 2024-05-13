@@ -1,0 +1,167 @@
+T1	Property 785 796	sedimentary
+T2	Property 1113 1119	smooth
+T3	Property 1242 1246	dark
+T4	Property 1257 1261	dust
+T5	Property 1457 1461	flat
+T6	Property 1621 1628	angular
+T7	Property 1630 1641	finegrained
+T8	Property 1642 1646	dark
+T9	Property 1673 1677	pits
+T10	Property 1689 1697	vesicles
+T11	Property 1750 1755	mafic
+T12	Property 1794 1801	angular
+T13	Property 1909 1916	rounded
+T14	Property 1917 1925	boulders
+T15	Property 1985 1992	spectra
+T16	Property 2000 2004	dark
+T17	Mineral 2176 2183	olivine
+T18	Mineral 2294 2302	pyroxene
+T19	Property 2350 2354	rock
+T20	Property 2355 2362	spectra
+T21	Property 2543 2550	spectra
+T22	Property 2940 2944	rock
+T23	Property 2945 2952	spectra
+T24	Property 2978 2985	spectra
+T25	Mineral 2989 2996	olivine
+T26	Mineral 2996 2997	-
+T27	Mineral 2997 3004	bearing
+T28	Property 3317 3321	dark
+T29	Property 3353 3357	dust
+T30	Property 3376 3383	coating
+T31	Property 3398 3402	rind
+T32	Property 3422 3426	dark
+T33	Property 3427 3431	rock
+T34	Property 3489 3498	ventifact
+T35	Property 3501 3505	rock
+T36	Property 3585 3592	coating
+T37	Property 3634 3638	rock
+T38	Property 3661 3668	spectra
+T39	Property 3760 3764	fine
+T40	Property 3786 3793	coating
+T41	Property 3828 3832	rind
+T42	Property 3847 3854	coating
+T43	Property 3919 3923	dust
+T44	Property 3999 4003	rock
+T45	Property 4049 4056	coating
+T46	Element 4269 4275	sulfur
+T47	Element 4280 4288	chlorine
+T48	Property 4329 4333	soil
+T49	Property 4453 4464	composition
+T50	Element 4504 4510	sulfur
+T51	Element 4515 4522	chorine
+T52	Property 4560 4567	coating
+T53	Property 4571 4575	dust
+T54	Property 4603 4607	rind
+T55	Element 4636 4642	sulfur
+T56	Element 4647 4655	chlorine
+T57	Property 4709 4720	composition
+T58	Property 4729 4733	rock
+T59	Property 4745 4753	basaltic
+T60	Property 4766 4773	spectra
+T61	Property 4822 4829	spectra
+T62	Mineral 4974 4981	olivine
+T63	Mineral 4986 4995	magnetite
+T64	Element 5014 5018	iron
+T65	Mineral 5040 5048	pyroxene
+T66	Property 5080 5091	composition
+T67	Property 5099 5103	rock
+T68	Property 5120 5127	coating
+T69	Property 5217 5221	rock
+T70	Property 5229 5236	coating
+T71	Element 5270 5274	iron
+T72	Property 5448 5452	rock
+T73	Property 5583 5587	dust
+T74	Property 5766 5773	coating
+T75	Property 5865 5874	weathered
+T76	Property 5914 5918	dust
+T77	Property 5920 5924	Soil
+T78	Property 6082 6091	sediments
+T79	Property 6215 6219	soil
+T80	Property 6252 6261	weathered
+T81	Property 6299 6306	spectra
+T82	Property 6431 6435	soil
+T83	Property 6436 6443	spectra
+T84	Property 6544 6548	soil
+T85	Property 6632 6636	dust
+T86	Mineral 6658 6669	plagioclase
+T87	Mineral 6681 6688	zeolite
+T88	Property 6782 6786	soil
+T89	Property 6787 6794	spectra
+T90	Mineral 6867 6876	carbonate
+T91	Property 6936 6940	soil
+T92	Property 6941 6948	spectra
+T93	Property 7044 7048	soil
+T94	Property 7113 7117	soil
+T95	Property 7211 7215	soil
+T96	Property 7261 7265	soil
+T97	Property 7424 7428	soil
+T98	Element 7583 7587	iron
+T99	Element 7671 7680	magnesium
+T100	Mineral 7681 7688	sulfate
+T101	Mineral 7735 7742	olivine
+T102	Element 7799 7803	iron
+T103	Element 7808 7816	titanium
+T104	Element 7934 7943	potassium
+T105	Property 7959 7963	soil
+T106	Element 8040 8049	potassium
+T107	Mineral 8138 8145	sulfate
+T108	Mineral 8151 8159	chloride
+T109	Property 8167 8171	soil
+T110	Element 8282 8290	chromium
+T111	Element 8295 8301	nickel
+T112	Property 8309 8313	soil
+T113	Property 8366 8370	soil
+T114	Property 8472 8476	soil
+T115	Element 8578 8582	iron
+T116	Mineral 8723 8730	olivine
+T117	Mineral 8813 8820	olivine
+T118	Property 8828 8832	soil
+T119	Property 8862 8866	rock
+T120	Property 8951 8955	soil
+T121	Property 9015 9019	rock
+T122	Mineral 9106 9113	olivine
+T123	Mineral 9113 9114	-
+T124	Mineral 9114 9121	bearing
+T125	Property 9185 9189	dust
+T126	Property 9191 9198	spectra
+T127	Property 9278 9282	dust
+T128	Property 9292 9299	spectra
+T129	Property 9408 9415	spectra
+T130	Property 9724 9731	spectra
+T131	Property 9737 9741	soil
+T132	Property 9742 9753	composition
+T133	Property 9868 9876	basaltic
+T134	Property 9877 9881	rock
+T135	Property 9968 9972	dust
+T136	Property 9973 9984	composition
+T137	Property 10253 10262	sediments
+T138	Property 10342 10351	sediments
+T139	Target 3457 3467	Adirondack
+T140	Target 3641 3651	Adirondack
+T141	Target 4110 4120	Adirondack
+T142	Target 4871 4881	Adirondack
+T143	Target 5300 5310	Adirondack
+T144	Target 8960 8970	Adirondack
+R0	Contains Arg1:T142 Arg2:T62
+R1	Contains Arg1:T142 Arg2:T63
+R2	Contains Arg1:T143 Arg2:T71
+R3	HasProperty Arg1:T139 Arg2:T32
+R4	HasProperty Arg1:T139 Arg2:T33
+R5	HasProperty Arg1:T139 Arg2:T34
+R6	HasProperty Arg1:T140 Arg2:T38
+R8	HasProperty Arg1:T140 Arg2:T40
+R9	HasProperty Arg1:T140 Arg2:T41
+R10	HasProperty Arg1:T140 Arg2:T42
+R11	HasProperty Arg1:T140 Arg2:T43
+T145	Property 3480 3487	faceted
+R13	HasProperty Arg1:T139 Arg2:T145	
+R14	HasProperty Arg1:T139 Arg2:T36	
+R7	Contains Arg1:T141 Arg2:T46	
+R15	Contains Arg1:T141 Arg2:T47	
+R16	HasProperty Arg1:T142 Arg2:T59	
+R17	Contains Arg1:T142 Arg2:T64	
+R18	Contains Arg1:T142 Arg2:T65	
+T146	Property 3521 3527	coated
+R12	HasProperty Arg1:T139 Arg2:T146	
+T147	Property 4844 4852	spectrum
+R19	HasProperty Arg1:T142 Arg2:T147	

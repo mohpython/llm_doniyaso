@@ -1,0 +1,60 @@
+T1	Property 533 540	igneous
+T2	Property 553 561	basaltic
+T3	Property 618 622	fine
+T4	Property 649 658	sediments
+T5	Property 726 733	igneous
+T6	Property 759 768	sediments
+T7	Property 905 912	igneous
+T8	Property 962 971	sediments
+T9	Property 1051 1058	igneous
+T10	Property 1407 1412	crust
+T11	Property 1998 2002	rock
+T12	Element 2649 2651	Al
+T13	Element 2652 2654	Na
+T14	Element 2655 2656	K
+T15	Element 3300 3302	Al
+T16	Element 3307 3309	Mg
+T17	Property 3350 3357	Igneous
+T18	Property 3358 3364	Clasts
+T19	Property 3419 3425	clasts
+T20	Property 3539 3546	igneous
+T21	Mineral 3895 3903	sanidine
+T22	Property 4241 4248	Igneous
+T23	Property 4641 4652	sedimentary
+T24	Property 4750 4761	composition
+T25	Element 5020 5022	Mg
+T26	Property 5040 5051	composition
+T27	Element 5087 5089	Al
+T28	Mineral 5229 5237	jarosite
+T29	Property 5345 5354	sediments
+T30	Mineral 5652 5661	tridymite
+T31	Property 5747 5754	igneous
+T32	Property 5882 5889	igneous
+T33	Element 5943 5945	Ca
+T34	Mineral 5946 5954	pyroxene
+T35	Mineral 5956 5967	plagioclase
+T36	Mineral 5972 5979	olivine
+T37	Mineral 6153 6162	tridymite
+T38	Property 6164 6171	igneous
+T39	Property 6251 6259	basaltic
+T40	Property 6493 6500	igneous
+T41	Element 6600 6602	Si
+T42	Element 6603 6605	Al
+T43	Element 6613 6615	Mg
+T44	Property 6678 6687	sediments
+T45	Property 7486 7495	sediments
+T46	Property 7559 7566	igneous
+T47	Property 8823 8831	basaltic
+T48	Target 2551 2561	Adirondack
+T49	Target 2686 2696	Adirondack
+R0	Contains Arg1:T49 Arg2:T12
+R1	Contains Arg1:T49 Arg2:T13
+R2	Contains Arg1:T49 Arg2:T14
+T50	Property 2574 2582	picritic
+T51	Property 2583 2590	basalts
+R3	HasProperty Arg1:T48 Arg2:T50	
+T52	Mineral 2540 2543	MgO
+R4	Contains Arg1:T48 Arg2:T52	
+R5	HasProperty Arg1:T48 Arg2:T51	
+T53	Mineral 2612 2616	SiO2
+R6	Contains Arg1:T49 Arg2:T53	

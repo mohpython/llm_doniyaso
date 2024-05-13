@@ -1,0 +1,33 @@
+T1	Target-MSL 1713 1720	Sayunei
+T2	Target-MSL 1722 1729	Stephen
+T3	Target-MSL 1734 1742	Morrison
+T4	Target-MSL 1828 1835	Stephen
+T5	Property 2054 2065	composition
+T6	Property 3222 3229	spectra
+T7	Target-MSL 3584 3591	Stephen
+T8	Property 3602 3610	fracture
+T9	Property 3948 3952	dust
+T10	Property 3954 3958	rock
+T11	Element 4309 4311	Ni
+T12	Element 4337 4339	Cl
+T13	Element 4344 4346	Br
+T14	Target-MSL 4526 4533	Stephen
+T15	Target-MSL 4585 4593	Morrison
+T16	Property 4626 4630	dust
+T17	Property 4637 4641	rock
+T18	Property 5089 5093	Dust
+T19	Target-MSL 5188 5197	Maturango
+T20	Target-MSL 5603 5610	Stephen
+T21	Target-MSL 5813 5820	Stephen
+T22	Property 6876 6880	dust
+T23	Target-MSL 6948 6955	Stephen
+T24	Property 7121 7125	dark
+T25	Property 7126 7129	red
+R0	HasProperty Arg1:T7 Arg2:T8
+R1	HasProperty Arg1:T14 Arg2:T16
+R2	HasProperty Arg1:T14 Arg2:T17
+R3	HasProperty Arg1:T15 Arg2:T16
+R4	HasProperty Arg1:T15 Arg2:T17
+R5	HasProperty Arg1:T19 Arg2:T18
+R6	HasProperty Arg1:T23 Arg2:T24
+R7	HasProperty Arg1:T23 Arg2:T25

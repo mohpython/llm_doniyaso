@@ -1,0 +1,37 @@
+T1	Property 766 774	basaltic
+T2	Property 1326 1334	basaltic
+T3	Property 1392 1398	clasts
+T4	Property 1540 1545	rinds
+T5	Property 1553 1561	basaltic
+T6	Property 1717 1726	weathered
+T7	Property 2049 2055	clasts
+T8	Property 2087 2095	basaltic
+T9	Property 2963 2972	weathered
+T10	Property 3479 3488	weathered
+T11	Property 3746 3755	weathered
+T12	Property 4710 4716	clasts
+T13	Property 4909 4916	igneous
+T14	Element 5024 5025	P
+T15	Element 5062 5064	Cl
+T16	Property 6161 6165	rock
+T17	Property 6212 6221	weathered
+T18	Property 6393 6401	basaltic
+T19	Property 6532 6535	red
+T20	Target 1163 1172	Wishstone
+T21	Target 4349 4358	Wishstone
+T22	Target 4363 4373	Watchtower
+T23	Target 5043 5052	Wishstone
+T24	Target 6152 6160	Mazatzal
+R0	Contains Arg1:T23 Arg2:T14
+R4	HasProperty Arg1:T24 Arg2:T16
+T25	Mineral 4305 4308	FeO
+T26	Mineral 4310 4314	TiO2
+T27	Mineral 4320 4324	P2O5
+R2	Contains Arg1:T21 Arg2:T25	
+R7	Contains Arg1:T21 Arg2:T26	
+R8	Contains Arg1:T21 Arg2:T27	
+R9	Contains Arg1:T22 Arg2:T25	
+R10	Contains Arg1:T22 Arg2:T26	
+R11	Contains Arg1:T22 Arg2:T27	
+T28	Property 6128 6135	altered
+R1	HasProperty Arg1:T24 Arg2:T28	

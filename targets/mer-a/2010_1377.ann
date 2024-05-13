@@ -1,0 +1,73 @@
+T1	Property 46 53	SPECTRA
+T2	Property 54 62	RETURNED
+T3	Mineral 587 595	hematite
+T4	Mineral 710 718	hematite
+T5	Property 757 764	cobbles
+T6	Property 825 832	cobbles
+T7	Target-MERB 858 867	Barberton
+T8	Target-MERB 869 880	Heat Shield
+T10	Property 911 915	rock
+T11	Property 936 947	composition
+T12	Property 1062 1069	cobbles
+T13	Property 1198 1202	rock
+T14	Property 1256 1260	dust
+T15	Property 1780 1787	cobbles
+T16	Property 1840 1847	spectra
+T17	Property 1929 1933	rock
+T18	Property 1934 1941	spectra
+T19	Property 2142 2146	rock
+T20	Property 2481 2488	spectra
+T21	Property 2502 2509	cobbles
+T22	Property 2577 2584	spectra
+T23	Property 2619 2626	cobbles
+T24	Target-MERB 2669 2678	Barberton
+T25	Target-MERB 2680 2691	Heat Shield
+T27	Property 2726 2730	Rock
+T28	Property 2777 2784	spectra
+T29	Mineral 2849 2862	orthopyroxene
+T30	Mineral 2864 2874	forsterite
+T31	Mineral 2876 2884	fayalite
+T32	Mineral 2886 2894	hematite
+T33	Mineral 2896 2905	magnetite
+T34	Mineral 2911 2919	goethite
+T35	Property 2935 2942	spectra
+T36	Property 3059 3063	rock
+T37	Property 3237 3241	rock
+T38	Property 3298 3309	composition
+T39	Property 4000 4004	rock
+T40	Property 4102 4109	spectra
+T41	Property 4121 4128	cobbles
+T42	Property 4543 4550	cobbles
+T43	Property 4657 4661	dust
+T44	Property 4662 4670	coatings
+T45	Mineral 4697 4705	hematite
+T46	Property 4762 4769	spectra
+T47	Property 5201 5205	dust
+T48	Property 6199 6206	cobbles
+T49	Property 6493 6500	cobbles
+T50	Property 6655 6662	cobbles
+T51	Property 7278 7285	spectra
+T52	Property 7291 7298	cobbles
+T53	Property 7398 7402	rock
+T54	Property 7559 7563	rock
+T55	Property 7952 7959	spectra
+T56	Property 7973 7980	cobbles
+T57	Property 8095 8099	rock
+T58	Property 8409 8416	cobbles
+T59	Property 8622 8626	rock
+T60	Property 8827 8831	rock
+T61	Property 9719 9726	Cobbles
+T62	Property 10041 10048	Cobbles
+T63	Property 10210 10214	rock
+R0	HasProperty Arg1:T7 Arg2:T6
+R1	HasProperty Arg1:T7 Arg2:T10
+R2	HasProperty Arg1:T7 Arg2:T11
+R3	HasProperty Arg1:T8 Arg2:T6
+R4	HasProperty Arg1:T8 Arg2:T10
+R5	HasProperty Arg1:T8 Arg2:T11
+R8	HasProperty Arg1:T24 Arg2:T22
+R9	HasProperty Arg1:T24 Arg2:T23
+R10	HasProperty Arg1:T24 Arg2:T27
+R11	HasProperty Arg1:T25 Arg2:T22
+R12	HasProperty Arg1:T25 Arg2:T23
+R13	HasProperty Arg1:T25 Arg2:T27

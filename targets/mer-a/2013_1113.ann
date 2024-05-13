@@ -1,0 +1,176 @@
+T1	Property 1 9	BASALTIC
+T2	Property 10 14	SOIL
+T3	Property 724 728	soil
+T4	Property 745 751	eolian
+T5	Property 981 985	soil
+T6	Mineral 994 1005	plagioclase
+T7	Mineral 1007 1014	olivine
+T8	Element 1025 1029	high
+T9	Element 1029 1030	-
+T10	Element 1030 1037	calcium
+T11	Mineral 1038 1047	pyroxenes
+T12	Mineral 1049 1058	magnetite
+T13	Mineral 1060 1068	ilmenite
+T14	Mineral 1074 1080	quartz
+T15	Mineral 1156 1164	hematite
+T16	Mineral 1169 1178	anhydrite
+T17	Property 1241 1245	soil
+T18	Property 1356 1367	composition
+T19	Property 1485 1489	soil
+T20	Property 1506 1512	eolian
+T21	Property 1623 1627	soil
+T22	Property 2040 2044	soil
+T23	Property 2154 2159	sharp
+T24	Property 2488 2492	soil
+T25	Mineral 2744 2755	plagioclase
+T26	Mineral 2757 2764	olivine
+T27	Mineral 2774 2783	pyroxenes
+T28	Mineral 2820 2827	olivine
+T29	Mineral 2832 2843	plagioclase
+T30	Mineral 2904 2911	olivine
+T31	Element 2936 2938	Mg
+T32	Mineral 2962 2970	feldspar
+T33	Mineral 2982 2990	Pyroxene
+T34	Mineral 3122 3130	hematite
+T35	Mineral 3138 3147	magnetite
+T36	Mineral 3149 3155	quartz
+T37	Mineral 3161 3170	anhydrite
+T38	Mineral 3206 3214	ilmenite
+T39	Mineral 3219 3227	sanidine
+T40	Element 3247 3256	potassium
+T41	Mineral 3257 3265	feldspar
+T42	Property 3416 3423	igneous
+T43	Mineral 3474 3481	biotite
+T44	Mineral 3483 3492	nepheline
+T45	Mineral 3498 3500	Ca
+T46	Mineral 3500 3501	-
+T47	Mineral 3501 3511	phosphates
+T48	Mineral 3617 3626	chlorites
+T49	Mineral 3628 3635	epidote
+T50	Mineral 3637 3644	zoisite
+T51	Mineral 3646 3655	scapolite
+T52	Mineral 3657 3666	muscovite
+T53	Mineral 3668 3674	illite
+T54	Mineral 3676 3685	carbonate
+T55	Mineral 3696 3704	sulfides
+T56	Property 3740 3749	pedogenic
+T57	Mineral 3787 3795	sulfates
+T58	Mineral 3807 3816	anhydrite
+T59	Mineral 3818 3827	carbonate
+T60	Mineral 4113 4124	Plagioclase
+T61	Property 4132 4136	soil
+T62	Mineral 4140 4148	andesine
+T63	Mineral 4198 4205	olivine
+T64	Mineral 4375 4386	plagioclase
+T65	Mineral 4394 4401	Olivine
+T66	Property 4418 4422	soil
+T67	Property 4442 4453	composition
+T68	Element 4460 4462	Mg
+T69	Element 4490 4492	Mg
+T70	Mineral 4513 4520	olivine
+T71	Element 4576 4578	Mg
+T72	Element 4636 4638	Mg
+T73	Mineral 4643 4651	olivines
+T74	Element 4726 4728	Mg
+T75	Property 4829 4833	soil
+T76	Element 4925 4927	Co
+T77	Mineral 5010 5020	Forsterite
+T78	Element 5021 5025	iron
+T79	Mineral 5069 5077	Hematite
+T80	Mineral 5085 5094	Pigeonite
+T81	Mineral 5103 5111	Ilmenite
+T82	Mineral 5119 5125	Quartz
+T83	Mineral 5133 5142	Anhydrite
+T84	Mineral 5150 5159	Magnetite
+T85	Mineral 5167 5173	Augite
+T86	Mineral 5185 5193	Sanidine
+T87	Property 5286 5290	soil
+T88	Element 5421 5423	Al
+T89	Mineral 5506 5513	olivine
+T90	Property 5671 5679	basaltic
+T91	Property 5736 5740	Rock
+T92	Mineral 5763 5774	plagioclase
+T93	Property 5856 5860	soil
+T94	Mineral 5882 5893	plagioclase
+T95	Property 6056 6060	soil
+T96	Mineral 6258 6264	quartz
+T97	Mineral 6343 6349	Quartz
+T98	Mineral 6354 6361	olivine
+T99	Mineral 6525 6531	quartz
+T100	Property 6556 6560	rock
+T101	Property 6680 6684	soil
+T102	Target-MSL 6798 6812	Jake_Matijevic
+T103	Target-MSL 6814 6828	Bathurst_Inlet
+T104	Element 6876 6885	potassium
+T105	Property 6919 6923	soil
+T106	Mineral 6951 6959	sulfates
+T107	Property 7097 7101	soil
+T108	Property 7458 7462	sand
+T109	Property 7595 7601	eolian
+T110	Property 7712 7716	soil
+T111	Property 8754 8758	Soil
+T112	Property 8802 8810	Basaltic
+T113	Property 8960 8964	Soil
+T114	Mineral 9034 9040	Quartz
+T115	Mineral 9059 9070	Plagioclase
+T116	Mineral 9190 9197	Olivine
+T117	Mineral 9249 9257	Ilmenite
+T118	Mineral 9298 9307	Anhydrite
+T119	Element 9326 9328	Mg
+T120	Property 9394 9398	Soil
+T121	Property 9557 9565	basaltic
+T122	Element 9621 9622	S
+T123	Element 9625 9627	Cl
+T124	Property 9912 9916	soil
+T125	Mineral 9971 9980	pigeonite
+T126	Property 9989 9993	soil
+T127	Property 10065 10069	soil
+T128	Mineral 10129 10138	magnetite
+T129	Mineral 10140 10148	hematite
+T130	Mineral 10153 10161	chromite
+T131	Mineral 10214 10221	apatite
+T132	Target 5495 5505	Adirondack
+T133	Target 5896 5906	Adirondack
+T134	Target 5926 5936	Adirondack
+T135	Target 7184 7194	Adirondack
+T136	Target 7243 7253	Adirondack
+T137	Target 7649 7659	Adirondack
+T138	Target 8966 8976	Adirondack
+T139	Target 8977 8985	Backstay
+T140	Target 8986 8992	Irvine
+T141	Target 9644 9652	Backstay
+T142	Target 9657 9663	Irvine
+T143	Target 9700 9710	Adirondack
+R0	Contains Arg1:T132 Arg2:T89
+R1	Contains Arg1:T102 Arg2:T104
+R2	Contains Arg1:T103 Arg2:T104
+R3	Contains Arg1:T138 Arg2:T119
+R4	Contains Arg1:T138 Arg2:T114
+R5	Contains Arg1:T138 Arg2:T115
+R6	Contains Arg1:T138 Arg2:T116
+R7	Contains Arg1:T138 Arg2:T117
+R9	Contains Arg1:T139 Arg2:T115
+R10	Contains Arg1:T139 Arg2:T116
+R11	Contains Arg1:T139 Arg2:T117
+R13	Contains Arg1:T139 Arg2:T114
+R14	Contains Arg1:T140 Arg2:T115
+R15	Contains Arg1:T140 Arg2:T116
+R16	Contains Arg1:T140 Arg2:T117
+T144	Property 5514 5520	basalt
+R35	HasProperty Arg1:T132 Arg2:T144	
+T145	Property 5937 5943	basalt
+R36	HasProperty Arg1:T134 Arg2:T145	
+T146	Target 7300 7310	Adirondack
+T147	Property 7343 7355	fractionated
+R24	HasProperty Arg1:T146 Arg2:T147	
+T148	Mineral 9220 9232	Fe-Cr oxides
+T149	Mineral 9274 9281	Apatite
+R8	Contains Arg1:T138 Arg2:T148	
+R12	Contains Arg1:T139 Arg2:T148	
+R17	Contains Arg1:T140 Arg2:T148	
+R25	Contains Arg1:T140 Arg2:T114	
+R26	Contains Arg1:T138 Arg2:T149	
+R27	Contains Arg1:T139 Arg2:T149	
+R28	Contains Arg1:T140 Arg2:T149	
+R29	Contains Arg1:T139 Arg2:T119	
+R30	Contains Arg1:T140 Arg2:T119	

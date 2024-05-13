@@ -1,0 +1,68 @@
+T1	Property 912 915	ice
+T2	Property 1280 1284	soil
+T3	Property 1457 1461	soil
+T4	Property 1466 1470	dust
+T5	Property 1478 1485	spectra
+T6	Property 1659 1666	spectra
+T7	Property 1680 1684	soil
+T8	Property 1832 1839	spectra
+T9	Property 2017 2024	spectra
+T10	Property 2166 2173	spectra
+T11	Property 2214 2221	spectra
+T12	Property 2541 2548	spectra
+T13	Property 2631 2638	spectra
+T14	Property 3082 3089	spectra
+T15	Property 3100 3104	soil
+T16	Property 3109 3113	dust
+T17	Property 3493 3497	soil
+T18	Property 3569 3573	fine
+T19	Property 4159 4163	rock
+T20	Element 4429 4431	Ti
+T21	Property 5715 5722	spectra
+T22	Property 5773 5780	spectra
+T23	Property 5835 5842	spectra
+T24	Property 6135 6139	soil
+T25	Target 730 740	Home Plate
+T26	Target 793 803	Home Plate
+T27	Target 1185 1195	Home Plate
+T28	Target 1260 1266	Tyrone
+T29	Target 1308 1318	Home Plate
+T30	Target 1747 1761	Gertrude Weise
+T31	Target 3191 3201	Clara Zaph
+T32	Target 3351 3361	Clara Zaph
+T33	Target 3478 3492	Kenosha Comets
+T34	Target 3812 3826	Kenosha Comets
+T35	Target 4212 4222	Home Plate
+T36	Target 4361 4371	Home Plate
+T37	Target 4669 4679	Home Plate
+T38	Target 5455 5465	Home Plate
+T39	Target 6120 6134	Kenosha Comets
+T40	Target 6188 6198	Clara Zaph
+R1	HasProperty Arg1:T28 Arg2:T2
+R3	HasProperty Arg1:T30 Arg2:T7
+R4	HasProperty Arg1:T33 Arg2:T17
+R5	HasProperty Arg1:T33 Arg2:T18
+R6	HasProperty Arg1:T39 Arg2:T24
+T41	Property 713 720	plateau
+R7	HasProperty Arg1:T25 Arg2:T41	
+T42	Property 705 712	layered
+R8	HasProperty Arg1:T25 Arg2:T42	
+T43	Property 694 703	low-lying
+R9	HasProperty Arg1:T25 Arg2:T43	
+T44	Property 1268 1279	light-toned
+R10	HasProperty Arg1:T28 Arg2:T44	
+T45	Property 1285 1292	deposit
+R11	HasProperty Arg1:T28 Arg2:T45	
+T46	Property 3176 3183	outcrop
+R2	HasProperty Arg1:T31 Arg2:T46	
+T47	Property 3400 3409	siliceous
+R12	HasProperty Arg1:T32 Arg2:T47	
+T48	Property 4260 4271	pyroclastic
+T49	Property 4239 4249	depression
+R13	HasProperty Arg1:T35 Arg2:T49	
+R14	HasProperty Arg1:T35 Arg2:T48	
+T50	Property 6199 6206	outcrop
+R15	HasProperty Arg1:T40 Arg2:T50	
+T51	Target 42 52	HOME PLATE
+T52	Mineral 32 38	SILICA
+R16	Contains Arg1:T51 Arg2:T52	

@@ -1,0 +1,169 @@
+T1	Property 478 483	crust
+T2	Property 824 831	spectra
+T3	Property 945 949	rock
+T4	Property 1724 1728	dark
+T5	Property 1770 1774	pits
+T6	Property 2018 2022	dust
+T7	Property 2069 2073	rock
+T8	Property 2196 2203	spectra
+T9	Mineral 2266 2279	orthopyroxene
+T10	Mineral 2283 2292	pigeonite
+T11	Mineral 2304 2311	olivine
+T12	Property 2425 2432	spectra
+T13	Property 2550 2557	spectra
+T14	Property 2597 2601	dust
+T15	Property 2602 2609	coating
+T16	Property 2645 2652	spectra
+T17	Property 2759 2766	spectra
+T18	Property 2861 2868	spectra
+T19	Mineral 2894 2901	olivine
+T20	Mineral 2903 2911	pyroxene
+T21	Element 2917 2919	Fe
+T22	Mineral 2928 2937	magnetite
+T23	Mineral 2939 2947	hematite
+T24	Mineral 2995 3003	ilmenite
+T25	Mineral 3079 3087	feldspar
+T26	Mineral 3092 3099	apatite
+T27	Mineral 3576 3587	plagioclase
+T28	Mineral 3646 3655	pyroxenes
+T29	Mineral 3671 3678	olivine
+T30	Mineral 3714 3723	magnetite
+T31	Mineral 3725 3733	ilmenite
+T32	Mineral 3755 3762	apatite
+T33	Property 4048 4056	basaltic
+T34	Property 4187 4198	composition
+T35	Element 4359 4361	Fe
+T36	Property 4528 4539	composition
+T37	Property 5115 5123	basaltic
+T38	Property 6141 6148	spectra
+T39	Property 6600 6604	rock
+T40	Target 881 889	Backstay
+T41	Target 894 900	Irvine
+T42	Target 1147 1155	Backstay
+T43	Target 1225 1241	Cumberland Ridge
+T44	Target 1528 1536	Backstay
+T45	Target 1905 1913	Backstay
+T46	Target 1944 1950	Irvine
+T47	Target 2031 2039	Backstay
+T48	Target 2378 2386	Backstay
+T49	Target 2408 2414	Irvine
+T50	Target 2987 2993	Irvine
+T51	Target 3281 3287	Irvine
+T52	Target 3352 3360	Backstay
+T53	Target 3522 3530	Backstay
+T54	Target 3535 3541	Irvine
+T55	Target 3817 3825	Backstay
+T56	Target 3830 3836	Irvine
+T57	Target 4202 4210	Humphrey
+T58	Target 4345 4353	Humphrey
+T59	Target 4618 4624	Irvine
+T60	Target 4629 4637	Backstay
+T61	Target 4647 4655	Humphrey
+T62	Target 4715 4723	Humphrey
+T63	Target 4786 4792	Irvine
+T64	Target 4797 4805	Backstay
+T65	Target 4845 4851	Irvine
+T66	Target 6055 6063	Backstay
+T67	Target 6152 6160	Backstay
+T68	Target 6165 6171	Irvine
+T69	Target 6457 6463	Irvine
+T70	Target 6495 6503	Backstay
+T71	Target 6710 6716	Irvine
+T72	Target 6721 6729	Backstay
+T73	Target 6787 6795	Humphrey
+R0	Contains Arg1:T50 Arg2:T21
+R1	Contains Arg1:T50 Arg2:T19
+R2	Contains Arg1:T50 Arg2:T20
+R3	Contains Arg1:T50 Arg2:T22
+R4	Contains Arg1:T50 Arg2:T23
+R5	Contains Arg1:T50 Arg2:T24
+R6	Contains Arg1:T57 Arg2:T35
+R7	Contains Arg1:T58 Arg2:T35
+R8	HasProperty Arg1:T40 Arg2:T3
+R9	HasProperty Arg1:T41 Arg2:T3
+R11	HasProperty Arg1:T50 Arg2:T18
+R14	HasProperty Arg1:T67 Arg2:T38
+R15	HasProperty Arg1:T68 Arg2:T38
+T74	Property 1205 1210	float
+R16	HasProperty Arg1:T42 Arg2:T74	
+T75	Target 1285 1291	Irvine
+T76	Target 1542 1548	Irvine
+R17	HasProperty Arg1:T44 Arg2:T4	
+R18	HasProperty Arg1:T76 Arg2:T4	
+R19	HasProperty Arg1:T44 Arg2:T5	
+R20	HasProperty Arg1:T76 Arg2:T5	
+T77	Property 1829 1838	aphanitic
+R21	HasProperty Arg1:T44 Arg2:T77	
+R22	HasProperty Arg1:T76 Arg2:T77	
+T78	Property 2116 2127	unweathered
+R10	HasProperty Arg1:T47 Arg2:T78	
+R23	HasProperty Arg1:T46 Arg2:T78	
+R24	Contains Arg1:T47 Arg2:T9	
+R25	Contains Arg1:T47 Arg2:T10	
+R26	Contains Arg1:T47 Arg2:T11	
+R27	Contains Arg1:T46 Arg2:T9	
+R28	Contains Arg1:T46 Arg2:T10	
+R29	Contains Arg1:T46 Arg2:T11	
+R30	Contains Arg1:T48 Arg2:T19	
+R31	Contains Arg1:T48 Arg2:T20	
+R32	Contains Arg1:T48 Arg2:T21	
+R33	Contains Arg1:T48 Arg2:T22	
+R34	Contains Arg1:T48 Arg2:T23	
+T79	Property 3291 3297	basalt
+R35	HasProperty Arg1:T51 Arg2:T79	
+T80	Property 3364 3376	trachybasalt
+R36	HasProperty Arg1:T52 Arg2:T80	
+T81	Property 3436 3444	alkaline
+R39	Contains Arg1:T53 Arg2:T27	
+R40	Contains Arg1:T54 Arg2:T27	
+R41	Contains Arg1:T53 Arg2:T28	
+R42	Contains Arg1:T54 Arg2:T28	
+R43	Contains Arg1:T53 Arg2:T29	
+R44	Contains Arg1:T54 Arg2:T29	
+R45	Contains Arg1:T53 Arg2:T30	
+R46	Contains Arg1:T53 Arg2:T31	
+T82	Mineral 3735 3743	chromite
+R47	Contains Arg1:T53 Arg2:T82	
+R48	Contains Arg1:T54 Arg2:T30	
+R49	Contains Arg1:T54 Arg2:T31	
+R50	Contains Arg1:T54 Arg2:T82	
+R51	Contains Arg1:T53 Arg2:T32	
+R52	Contains Arg1:T54 Arg2:T32	
+T83	Target 4857 4865	Backstay
+T84	Property 6079 6091	fine-grained
+R12	HasProperty Arg1:T66 Arg2:T84	
+T85	Property 6096 6107	featureless
+R13	HasProperty Arg1:T66 Arg2:T85	
+T86	Property 1733 1744	featureless
+R53	HasProperty Arg1:T44 Arg2:T86	
+R54	HasProperty Arg1:T76 Arg2:T86	
+T87	Property 6515 6523	alkaline
+R55	HasProperty Arg1:T70 Arg2:T87	
+T88	Target 1062 1072	Adirondack
+T89	Target 1347 1359	Husband Hill
+T90	Property 1393 1397	dike
+T91	Property 1401 1405	sill
+R56	HasProperty Arg1:T75 Arg2:T90	
+R57	HasProperty Arg1:T75 Arg2:T91	
+T92	Property 1570 1576	ejecta
+R58	HasProperty Arg1:T76 Arg2:T92	
+T93	Property 1685 1693	magmatic
+R59	HasProperty Arg1:T44 Arg2:T92	
+R60	HasProperty Arg1:T44 Arg2:T93	
+T94	Mineral 3311 3317	alkali
+T95	Property 3378 3386	hawaiite
+T96	Target 4935 4945	Adirondack
+T97	Target 6208 6218	Adirondack
+T98	Target 6234 6241	Kerouac
+R61	Contains Arg1:T51 Arg2:T94	
+R37	HasProperty Arg1:T51 Arg2:T81	
+R38	HasProperty Arg1:T52 Arg2:T81	
+T99	Target 1 9	BACKSTAY
+T100	Target 14 20	IRVINE
+T101	Property 22 30	ALKALINE
+T102	Property 31 39	VOLCANIC
+R63	HasProperty Arg1:T99 Arg2:T101	
+R64	HasProperty Arg1:T99 Arg2:T102	
+R65	HasProperty Arg1:T100 Arg2:T101	
+R66	HasProperty Arg1:T100 Arg2:T102	
+R62	HasProperty Arg1:T52 Arg2:T95	

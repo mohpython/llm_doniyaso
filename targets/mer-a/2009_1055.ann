@@ -1,0 +1,116 @@
+T1	Property 732 739	igneous
+T2	Property 740 744	rock
+T3	Property 1738 1742	rock
+T4	Property 2034 2038	rock
+T5	Mineral 2169 2177	tephrite
+T6	Property 2258 2265	igneous
+T7	Property 2266 2270	rock
+T8	Property 2271 2282	composition
+T9	Mineral 2345 2355	merrillite
+T10	Mineral 2468 2475	apatite
+T11	Mineral 2851 2861	merrillite
+T12	Mineral 3040 3050	merrillite
+T13	Mineral 3119 3129	merrillite
+T14	Mineral 3302 3309	apatite
+T15	Mineral 3318 3328	merrillite
+T16	Mineral 3459 3466	apatite
+T17	Mineral 3471 3481	merrillite
+T18	Mineral 3637 3649	carbonatites
+T19	Mineral 3676 3688	anorthosites
+T20	Property 3764 3772	basaltic
+T21	Element 4019 4027	aluminum
+T22	Mineral 4237 4245	jotunite
+T23	Mineral 4253 4264	anorthosite
+T24	Mineral 4385 4393	jotunite
+T25	Mineral 4430 4441	anorthosite
+T26	Mineral 4470 4481	carbonatite
+T27	Mineral 4646 4654	jotunite
+T28	Mineral 4655 4660	suite
+T29	Mineral 4679 4685	quartz
+T30	Mineral 4739 4750	plagioclase
+T31	Mineral 4809 4818	carbonate
+T32	Mineral 4847 4856	nepheline
+T33	Mineral 5050 5061	anorthosite
+T34	Mineral 5066 5077	carbonatite
+T35	Mineral 5209 5216	olivine
+T36	Mineral 5223 5229	quartz
+T37	Mineral 5869 5880	plagioclase
+T38	Mineral 5985 5992	apatite
+T39	Mineral 6996 7005	carbonate
+T40	Element 7016 7022	carbon
+T41	Target 1450 1459	Wishstone
+T42	Target 1481 1490	Wishstone
+T43	Target 1495 1504	Champagne
+T44	Target 1968 1977	Wishstone
+T45	Target 2384 2393	Wishstone
+T46	Target 2508 2517	Wishstone
+T47	Target 2522 2531	Champagne
+T48	Target 2943 2952	Wishstone
+T49	Target 2957 2966	Champagne
+T50	Target 3411 3420	Wishstone
+T51	Target 3429 3438	Champagne
+T52	Target 4756 4765	Wishstone
+T53	Target 4770 4779	Champagne
+T54	Target 4982 4991	Wishstone
+T55	Target 4996 5005	Champagne
+T56	Target 5234 5243	Wishstone
+T57	Target 5248 5257	Champagne
+T58	Target 5442 5451	Wishstone
+T59	Target 5456 5465	Champagne
+T60	Target 6273 6282	Wishstone
+R0	Contains Arg1:T45 Arg2:T9
+R12	Contains Arg1:T52 Arg2:T30
+R18	Contains Arg1:T53 Arg2:T30
+R21	Contains Arg1:T56 Arg2:T35
+R22	Contains Arg1:T56 Arg2:T36
+R23	Contains Arg1:T57 Arg2:T35
+R24	Contains Arg1:T57 Arg2:T36
+T61	Target 911 920	Wishstone
+T62	Property 927 936	tephrites
+R25	HasProperty Arg1:T61 Arg2:T62	
+T63	Mineral 1004 1008	P2O5
+R26	Contains Arg1:T61 Arg2:T63	
+T64	Target 1183 1192	Wishstone
+T65	Target 1295 1304	Wishstone
+T66	Property 1956 1960	vugs
+R27	HasProperty Arg1:T44 Arg2:T66	
+T67	Mineral 2164 2168	P2O5
+T68	Mineral 2363 2372	phosphate
+R28	Contains Arg1:T45 Arg2:T68	
+T69	Mineral 2446 2456	merrillite
+R1	Contains Arg1:T46 Arg2:T69	
+R2	Contains Arg1:T47 Arg2:T69	
+T70	Target 2686 2695	Wishstone
+T71	Mineral 2712 2718	silica
+R29	Contains Arg1:T70 Arg2:T71	
+T72	Property 2765 2773	alkaline
+R30	HasProperty Arg1:T70 Arg2:T72	
+T73	Target 2806 2815	Wishstone
+R31	Contains Arg1:T73 Arg2:T11	
+T74	Mineral 2785 2789	P2O5
+R32	Contains Arg1:T73 Arg2:T74	
+T75	Property 3068 3079	pyroclastic
+T76	Target 3092 3101	Wishstone
+R33	HasProperty Arg1:T76 Arg2:T75	
+R34	Contains Arg1:T76 Arg2:T13	
+T77	Target 3882 3891	Wishstone
+T78	Target 4304 4313	Wishstone
+T79	Mineral 4954 4955	i
+R3	Contains Arg1:T54 Arg2:T79	
+R4	Contains Arg1:T55 Arg2:T79	
+T80	Mineral 5192 5201	nepheline
+R5	Contains Arg1:T56 Arg2:T80	
+R6	Contains Arg1:T57 Arg2:T80	
+T81	Mineral 5418 5426	diopside
+T82	Mineral 5430 5438	corundum
+T83	Mineral 6302 6308	silica
+R7	Contains Arg1:T60 Arg2:T83	
+T84	Property 6319 6327	alkaline
+R8	HasProperty Arg1:T60 Arg2:T84	
+T85	Property 6364 6375	xenocrystic
+R9	HasProperty Arg1:T60 Arg2:T85	
+T86	Mineral 6376 6387	merrillites
+R10	Contains Arg1:T60 Arg2:T86	
+T87	Target 81 90	WISHSTONE
+T88	Element 69 80	PHOSPHOROUS
+R11	Contains Arg1:T87 Arg2:T88	

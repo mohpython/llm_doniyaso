@@ -1,0 +1,57 @@
+T1	Property 833 837	rock
+T2	Property 2029 2033	fine
+T3	Property 2035 2039	sand
+T4	Property 2079 2083	sand
+T5	Property 2127 2131	sand
+T6	Property 2204 2208	sand
+T7	Property 2237 2241	sand
+T8	Property 2275 2279	sand
+T9	Property 2368 2372	sand
+T10	Property 2394 2398	sand
+T11	Property 2511 2515	sand
+T12	Property 2801 2805	sand
+T13	Property 2807 2813	layers
+T14	Property 2872 2876	sand
+T15	Property 2946 2950	sand
+T16	Property 2966 2970	sand
+T17	Property 3175 3179	sand
+T18	Property 3189 3193	sand
+T19	Property 3233 3237	sand
+T20	Property 3259 3263	sand
+T21	Property 3288 3292	sand
+T22	Property 3380 3384	sand
+T23	Property 3551 3555	sand
+T24	Property 3583 3587	sand
+T25	Property 3633 3637	sand
+T26	Property 3643 3649	layers
+T27	Property 3722 3726	sand
+T28	Property 3792 3796	sand
+T29	Property 4157 4161	sand
+T30	Property 4232 4236	fine
+T31	Element 4289 4291	Rg
+T32	Property 5301 5307	impact
+T33	Property 5308 5314	crater
+T34	Property 5459 5467	sediment
+T35	Property 5923 5926	ice
+T36	Property 6332 6338	clasts
+T37	Property 7258 7264	clasts
+T38	Target 448 458	Home Plate
+T39	Target 952 962	Home Plate
+T40	Target 2430 2440	Home Plate
+T41	Target 4616 4626	Home Plate
+T42	Target 5220 5230	Home Plate
+T43	Target 5627 5637	Home Plate
+T44	Target 5764 5774	Home Plate
+T45	Target 89 99	HOME PLATE
+T46	Property 77 85	BOMB SAG
+R4	HasProperty Arg1:T45 Arg2:T46	
+T47	Property 522 530	volcanic
+R5	HasProperty Arg1:T38 Arg2:T47	
+T48	Property 925 933	bomb sag
+R6	HasProperty Arg1:T39 Arg2:T48	
+T49	Property 4627 4635	bomb sag
+R1	HasProperty Arg1:T41 Arg2:T49	
+T50	Property 5638 5646	bomb sag
+R2	HasProperty Arg1:T43 Arg2:T50	
+T51	Property 459 467	deposits
+R3	HasProperty Arg1:T38 Arg2:T51	

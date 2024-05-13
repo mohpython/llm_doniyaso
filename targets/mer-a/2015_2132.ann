@@ -1,0 +1,52 @@
+T1	Element 43 52	MANGANESE
+T2	Element 366 375	manganese
+T3	Element 613 622	Manganese
+T4	Element 757 766	Manganese
+T5	Element 1775 1784	manganese
+T6	Property 1888 1895	spectra
+T7	Element 2408 2417	manganese
+T8	Mineral 2452 2462	Pyrolusite
+T9	Mineral 2468 2479	Psilomelane
+T10	Property 2550 2561	composition
+T11	Mineral 3041 3051	pyrolusite
+T12	Mineral 3058 3069	psilomelane
+T13	Property 3413 3417	dark
+T14	Element 3552 3561	manganese
+T15	Mineral 3657 3667	pyrolusite
+T16	Mineral 3682 3690	bixbyite
+T17	Mineral 3706 3717	hausmannite
+T18	Mineral 3737 3746	vernadite
+T19	Mineral 3805 3815	birnessite
+T20	Element 3818 3820	Na
+T21	Element 3821 3823	Ca
+T22	Element 3824 3825	K
+T23	Element 3893 3895	Mn
+T24	Property 4032 4039	spectra
+T25	Mineral 4117 4128	hausmannite
+T26	Property 4132 4136	dark
+T27	Mineral 4156 4172	phyllomanganates
+T28	Mineral 4174 4184	birnessite
+T29	Mineral 4189 4198	vernadite
+T30	Property 4327 4334	spectra
+T31	Element 4457 4459	Mn
+T32	Target-MERB 4480 4488	Pinnacle
+T33	Target-MERB 4493 4507	Stuart Islands
+T34	Element 4583 4585	Mn
+T35	Element 4998 5000	Mn
+T36	Element 5568 5577	manganese
+T37	Mineral 5711 5721	hollandite
+T38	Mineral 5751 5763	cryptomelane
+T39	Mineral 5809 5821	cryptomelane
+T40	Mineral 5854 5864	pyrolusite
+T41	Mineral 5893 5904	romanechite
+T42	Property 5960 5967	spectra
+T43	Mineral 6258 6274	phyllomanganates
+T44	Mineral 6314 6330	phyllomanganates
+T45	Element 6430 6439	manganese
+T46	Mineral 6590 6601	hausmannite
+R0	Contains Arg1:T32 Arg2:T31
+R1	Contains Arg1:T32 Arg2:T34
+R2	Contains Arg1:T33 Arg2:T31
+R3	Contains Arg1:T33 Arg2:T34
+R4	HasProperty Arg1:T32 Arg2:T30
+R5	HasProperty Arg1:T33 Arg2:T30

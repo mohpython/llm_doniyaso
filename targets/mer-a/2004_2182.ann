@@ -1,0 +1,32 @@
+T1	Property 1869 1873	dust
+T2	Property 2605 2609	soil
+T3	Property 2638 2645	cobbles
+T4	Property 2661 2665	soil
+T5	Property 2721 2725	dust
+T6	Property 2834 2838	dust
+T7	Property 3138 3142	soil
+T8	Property 3224 3228	soil
+T9	Property 3583 3587	soil
+T10	Property 3773 3777	rock
+T11	Property 3873 3882	weathered
+T12	Property 4029 4033	dust
+T13	Property 4083 4087	rock
+T14	Property 4369 4373	soil
+T15	Property 4422 4426	dust
+T16	Property 4851 4859	vesicles
+T17	Property 4872 4876	rock
+T18	Property 4938 4942	soil
+T19	Property 5316 5320	soil
+T20	Property 5369 5373	soil
+T21	Property 5584 5588	soil
+T22	Property 5605 5609	fine
+T23	Property 5610 5614	sand
+T24	Property 5745 5749	soil
+T25	Target 3786 3796	Adirondack
+T26	Target 4071 4081	Adirondack
+R0	HasProperty Arg1:T25 Arg2:T10
+R1	HasProperty Arg1:T26 Arg2:T13
+R2	HasProperty Arg1:T25 Arg2:T11	
+T27	Property 3863 3869	coated
+R3	HasProperty Arg1:T25 Arg2:T27	
+R4	HasProperty Arg1:T25 Arg2:T12	

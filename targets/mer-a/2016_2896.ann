@@ -1,0 +1,137 @@
+T1	Mineral 433 448	Mg-Fe carbonate
+T2	Mineral 584 594	carbonates
+T3	Mineral 722 731	carbonate
+T4	Mineral 969 978	carbonate
+T5	Property 1029 1035	brines
+T6	Mineral 1247 1256	carbonate
+T7	Property 1307 1314	spectra
+T8	Property 1409 1417	coatings
+T9	Mineral 1478 1488	carbonates
+T10	Mineral 1850 1860	carbonates
+T11	Mineral 1889 1898	magnesite
+T12	Mineral 1908 1916	siderite
+T13	Mineral 1936 1944	dolomite
+T14	Property 2108 2115	coating
+T15	Property 2127 2130	red
+T16	Property 2147 2153	layers
+T17	Property 2218 2227	vesicular
+T18	Property 2276 2284	basaltic
+T19	Mineral 2355 2364	carbonate
+T20	Property 2365 2372	coating
+T21	Mineral 2483 2492	magnesite
+T22	Property 2615 2618	red
+T23	Mineral 2667 2676	carbonate
+T24	Mineral 2739 2749	carbonates
+T25	Property 2772 2777	sharp
+T26	Property 2911 2918	coating
+T27	Property 2993 3000	spectra
+T28	Property 3269 3276	spectra
+T29	Property 3428 3432	rock
+T30	Mineral 3440 3449	carbonate
+T31	Property 3854 3861	spectra
+T32	Property 4101 4104	red
+T33	Mineral 4396 4406	carbonates
+T34	Mineral 4493 4503	carbonates
+T35	Mineral 4584 4593	carbonate
+T36	Property 4594 4602	coatings
+T37	Property 4677 4685	coatings
+T38	Property 4797 4804	angular
+T39	Property 4812 4818	clasts
+T40	Mineral 4880 4890	carbonates
+T41	Property 4936 4944	basaltic
+T42	Mineral 5139 5148	carbonate
+T43	Property 5270 5278	basaltic
+T44	Property 5279 5290	composition
+T45	Mineral 5399 5409	carbonates
+T46	Property 5615 5619	rock
+T47	Property 5650 5656	clasts
+T48	Mineral 5752 5761	carbonate
+T49	Property 5762 5770	coatings
+T50	Property 5774 5782	basaltic
+T51	Mineral 5857 5866	carbonate
+T52	Property 5867 5874	spectra
+T53	Property 6015 6022	spectra
+T54	Mineral 6107 6116	carbonate
+T55	Mineral 6270 6279	carbonate
+T56	Mineral 6327 6337	carbonates
+T57	Target 307 315	Comanche
+T58	Target 921 930	Algonquin
+T59	Target 1469 1477	Comanche
+T60	Target 1552 1560	Comanche
+T61	Target 3125 3133	Comanche
+T62	Target 3280 3289	Algonquin
+T63	Target 3382 3390	Comanche
+T64	Target 3470 3478	Comanche
+T65	Target 3646 3655	Algonquin
+T66	Target 3678 3686	Comanche
+T67	Target 4073 4081	Comanche
+T68	Target 4484 4492	Comanche
+T69	Target 4732 4740	Comanche
+T70	Target 5226 5234	Comanche
+T71	Target 5590 5598	Comanche
+T72	Target 5925 5933	Comanche
+T73	Target 6006 6014	Comanche
+T74	Target 6058 6066	Comanche
+T75	Target 6318 6326	Comanche
+R0	Contains Arg1:T57 Arg2:T1
+R1	Contains Arg1:T59 Arg2:T9
+R4	Contains Arg1:T68 Arg2:T34
+R5	Contains Arg1:T69 Arg2:T40
+R9	Contains Arg1:T74 Arg2:T54
+R11	Contains Arg1:T75 Arg2:T56
+R12	HasProperty Arg1:T59 Arg2:T8
+R14	HasProperty Arg1:T62 Arg2:T28
+R18	HasProperty Arg1:T69 Arg2:T38
+R19	HasProperty Arg1:T69 Arg2:T39
+R20	HasProperty Arg1:T70 Arg2:T43
+R22	HasProperty Arg1:T71 Arg2:T46
+R26	HasProperty Arg1:T73 Arg2:T53
+T76	Element 433 435	Mg
+T77	Element 436 438	Fe
+T78	Property 485 493	volcanic
+T79	Property 494 506	hydrothermal
+T80	Property 317 325	outcrops
+R28	HasProperty Arg1:T57 Arg2:T80	
+R29	Contains Arg1:T57 Arg2:T76	
+R30	Contains Arg1:T57 Arg2:T77	
+R31	HasProperty Arg1:T57 Arg2:T78	
+R32	HasProperty Arg1:T57 Arg2:T79	
+R33	Contains Arg1:T57 Arg2:T2	
+T81	Element 568 570	Mg
+T82	Element 576 578	Fe
+R34	Contains Arg1:T57 Arg2:T81	
+R35	Contains Arg1:T57 Arg2:T82	
+T83	Property 905 913	outcrops
+R36	HasProperty Arg1:T58 Arg2:T83	
+T84	Property 1561 1568	outcrop
+R37	HasProperty Arg1:T60 Arg2:T84	
+T85	Target 3161 3169	Saupitty
+T86	Property 3143 3151	spectrum
+R13	HasProperty Arg1:T61 Arg2:T86	
+R38	HasProperty Arg1:T85 Arg2:T86	
+T87	Property 3296 3304	outcrops
+R39	HasProperty Arg1:T62 Arg2:T87	
+T88	Mineral 3325 3332	olivine
+T89	Property 3338 3344	tephra
+R40	Contains Arg1:T62 Arg2:T88	
+R41	HasProperty Arg1:T62 Arg2:T89	
+T90	Property 3391 3399	outcrops
+R42	HasProperty Arg1:T63 Arg2:T90	
+T91	Property 3479 3487	spectrum
+R2	HasProperty Arg1:T64 Arg2:T91	
+T92	Property 4741 4749	outcrops
+R3	HasProperty Arg1:T69 Arg2:T92	
+T93	Property 4805 4811	tephra
+R15	HasProperty Arg1:T69 Arg2:T93	
+T94	Mineral 5904 5919	Mg-Fe carbonate
+R6	Contains Arg1:T72 Arg2:T94	
+T95	Property 5934 5942	outcrops
+R7	HasProperty Arg1:T72 Arg2:T95	
+T96	Property 6067 6075	outcrops
+R8	HasProperty Arg1:T74 Arg2:T96	
+T97	Element 6091 6093	Mg
+T98	Element 6099 6101	Fe
+R16	Contains Arg1:T74 Arg2:T97	
+R17	Contains Arg1:T74 Arg2:T98	
+T99	Mineral 439 448	carbonate
+R10	Contains Arg1:T57 Arg2:T99	
